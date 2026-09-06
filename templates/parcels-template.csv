@@ -1,0 +1,4 @@
+address,parcel id,town,county,state,deal type,source,url,acres,building value,minimum bid,assessed value,assessment ratio,market value,sale date,back taxes,lat,lng,notes
+Lot 7 Route 44,22-07,Pomfret,Windham,CT,tax sale,Town of Pomfret tax collector,https://www.cttaxsales.com,12.4,0,18500,61600,,,2026-10-15,18500,41.8973,-71.9627,Wooded; check right-of-way
+0 Kenyon Rd,14-2-31,Sterling,Windham,CT,short sale,MLS,https://www.realtor.com,6.8,0,54900,58800,,,,0,41.7079,-71.8225,Lender approval pending
+Bear Hill Rd rear,5-12,Union,Tolland,CT,foreclosure,CT Judicial committee sale,https://www.jud.ct.gov/foreclosure/,19,0,48000,77000,,,2026-11-02,0,,,No coordinates yet: use the pin lookup in the editor

@@ -1,0 +1,256 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ashford Land Finder</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Crect width=%2732%27 height=%2732%27 rx=%277%27 fill=%27%232f6b3f%27/%3E%3Cpath d=%27M16 7l9 16H7z%27 fill=%27white%27/%3E%3C/svg%3E">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" crossorigin="">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <span class="brand-mark">▲</span>
+    <div>
+      <h1>Ashford Land Finder</h1>
+      <p class="tagline">Raw land within <span id="hdrRadius">100</span> miles of <span id="hdrBase">Ashford</span>, priced at least <span id="hdrDiscount">15</span>% under adjusted market value</p>
+    </div>
+  </div>
+  <div class="topbar-actions">
+    <button class="btn" id="btnAdd">+ Add parcel</button>
+    <button class="btn" id="btnImport">Import</button>
+    <button class="btn ghost" id="btnExportCsv" title="Export the currently filtered rows as CSV">Export CSV</button>
+    <button class="btn ghost" id="btnBackup" title="Download a JSON backup of every parcel and setting">Backup</button>
+  </div>
+</header>
+
+<div class="layout">
+  <aside class="sidebar">
+    <section class="panel">
+      <h2>Home base</h2>
+      <label class="field">
+        <span>Ashford</span>
+        <select id="baseSelect"></select>
+      </label>
+      <div id="customBaseFields" class="grid2" hidden>
+        <label class="field"><span>Latitude</span><input type="number" step="0.0001" id="customLat" placeholder="41.8734"></label>
+        <label class="field"><span>Longitude</span><input type="number" step="0.0001" id="customLng" placeholder="-72.1215"></label>
+      </div>
+      <label class="field">
+        <span>Search radius <output id="radiusOut">100</output> mi</span>
+        <input type="range" id="radius" min="10" max="250" step="5" value="100">
+      </label>
+    </section>
+
+    <section class="panel">
+      <h2>Land criteria</h2>
+      <label class="field">
+        <span>Minimum acres</span>
+        <input type="number" id="minAcres" min="0" step="0.5" value="5">
+      </label>
+      <label class="check">
+        <input type="checkbox" id="landOnly" checked>
+        <span>Land only (no house or structure)</span>
+      </label>
+    </section>
+
+    <section class="panel">
+      <h2>Opportunity test</h2>
+      <label class="field">
+        <span>Asking price at or below <output id="ratioOut">85</output>% of adjusted market value</span>
+        <input type="range" id="maxRatio" min="30" max="100" step="1" value="85">
+        <small class="hint">85% means a discount of 15% or more.</small>
+      </label>
+      <label class="field">
+        <span>Market adjustment factor</span>
+        <input type="number" id="marketAdj" min="0.2" max="3" step="0.01" value="1.00">
+        <small class="hint">Multiplies the value derived from the assessment. Use it to correct for stale revaluations, for example 1.10 if local land has risen 10% since the last revaluation.</small>
+      </label>
+      <label class="field">
+        <span>Default assessment ratio</span>
+        <input type="number" id="assessRatio" min="0.01" max="1" step="0.01" value="0.70">
+        <small class="hint">Assessed value divided by this ratio gives market value. Connecticut assesses at 70%, Rhode Island and Massachusetts at 100%. A parcel can override this.</small>
+      </label>
+    </section>
+
+    <section class="panel">
+      <h2>Deal types</h2>
+      <div id="dealTypeFilters" class="chips"></div>
+    </section>
+
+    <section class="panel">
+      <h2>Status</h2>
+      <div id="statusFilters" class="chips"></div>
+    </section>
+
+    <section class="panel">
+      <h2>Data</h2>
+      <button class="btn small" id="btnLoadSample">Load sample parcels</button>
+      <button class="btn small danger" id="btnClearAll">Clear all parcels</button>
+      <label class="btn small ghost file-btn">Restore backup<input type="file" id="restoreFile" accept="application/json,.json" hidden></label>
+      <small class="hint">Everything is stored in this browser only (localStorage). Back up before clearing browser data.</small>
+    </section>
+  </aside>
+
+  <main class="content">
+    <section class="stats" id="stats"></section>
+
+    <nav class="tabs" role="tablist">
+      <button class="tab active" data-view="deals" role="tab">Opportunities</button>
+      <button class="tab" data-view="all" role="tab">All parcels</button>
+      <button class="tab" data-view="map" role="tab">Map</button>
+      <button class="tab" data-view="sources" role="tab">Sources &amp; searches</button>
+      <button class="tab" data-view="help" role="tab">How it works</button>
+    </nav>
+
+    <section class="view" id="view-deals">
+      <div class="toolbar">
+        <input type="search" id="searchDeals" placeholder="Filter by town, address, county, notes…">
+        <label class="field inline"><span>Sort</span>
+          <select id="sortDeals">
+            <option value="discount">Biggest discount</option>
+            <option value="score">Best overall score</option>
+            <option value="distance">Closest</option>
+            <option value="price">Lowest price</option>
+            <option value="ppa">Lowest price per acre</option>
+            <option value="acres">Most acres</option>
+            <option value="saleDate">Soonest sale date</option>
+          </select>
+        </label>
+      </div>
+      <div class="table-wrap"><table class="grid" id="dealsTable"></table></div>
+      <p class="empty" id="dealsEmpty" hidden>No parcels meet every criterion yet. Loosen the filters, import a tax-sale list, or add parcels by hand.</p>
+    </section>
+
+    <section class="view" id="view-all" hidden>
+      <div class="toolbar">
+        <input type="search" id="searchAll" placeholder="Search every parcel…">
+        <span class="hint">Shows every stored parcel with the reasons it passes or fails your criteria.</span>
+      </div>
+      <div class="table-wrap"><table class="grid" id="allTable"></table></div>
+      <p class="empty" id="allEmpty" hidden>No parcels stored. Add one, import a list, or load the sample data.</p>
+    </section>
+
+    <section class="view" id="view-map" hidden>
+      <div id="map" class="map"></div>
+      <p class="hint">Circle marks the search radius. Green pins pass every test, amber pins are within the radius but fail a criterion, grey pins are outside the radius. Parcels without coordinates are not shown; use the pin lookup in the parcel editor.</p>
+    </section>
+
+    <section class="view" id="view-sources" hidden>
+      <div id="sources"></div>
+    </section>
+
+    <section class="view" id="view-help" hidden>
+      <article class="prose">
+        <h2>What this tool does</h2>
+        <p>It is a deal screener. You feed it parcels from tax-sale lists, auction calendars, listing sites and county assessor exports. It computes distance from your Ashford, checks acreage and whether a structure exists, estimates an adjusted market value from the assessment, and flags anything priced at or below your threshold (default 85% of value, meaning a 15% or larger discount).</p>
+
+        <h2>Why it does not pull listings automatically</h2>
+        <p>A page that runs only in the browser cannot read tax-collector sites, MLS feeds or auction platforms directly. Those sites block cross-origin requests and most have no public API. So the browser version works from data you import or enter, and the <strong>Sources &amp; searches</strong> tab gives you one-click searches that are pre-filtered to land near your base. The README describes the server component that would automate the collection step later.</p>
+
+        <h2>Adjusted market value</h2>
+        <pre>market value   = assessed value ÷ assessment ratio
+adjusted value = market value × market adjustment factor
+                 (or the comp-based value you enter, which wins if present)
+discount       = 1 − asking price ÷ adjusted value</pre>
+        <p>Connecticut assesses at 70% of fair market value, so a parcel assessed at $70,000 has a derived market value of $100,000. If it is offered at $80,000 the discount is 20% and it passes the 15% test. Rhode Island and Massachusetts assess at 100%. New York equalization rates vary by town, so set the parcel's own ratio when you know it.</p>
+
+        <h2>Deal types</h2>
+        <ul>
+          <li><strong>Tax sale / tax deed</strong>: municipality auctions the parcel for unpaid taxes. Asking price is usually the opening bid (taxes, interest and costs). Connecticut has a six-month redemption period after the sale.</li>
+          <li><strong>Tax lien</strong>: you buy the lien, not the land, and earn interest or foreclose later. Watch the redemption rules.</li>
+          <li><strong>Short sale</strong>: lender accepts less than the mortgage balance. Slow, but land short sales often have little competition.</li>
+          <li><strong>Foreclosure / REO / bank-owned</strong>: court-ordered sale or a lender selling after taking it back.</li>
+          <li><strong>Auction</strong>: estate, probate or absolute auctions run by private auctioneers.</li>
+          <li><strong>Government surplus</strong>: town, state, USDA, GSA and Treasury dispositions.</li>
+          <li><strong>FSBO / MLS</strong>: ordinary listings; still useful when the asking price is far below assessed value.</li>
+        </ul>
+
+        <h2>Working the list</h2>
+        <ol>
+          <li>Import or add parcels. The CSV importer recognises common column names (address, town, acres, assessed value, minimum bid, latitude, longitude, and so on). A template lives in <code>templates/parcels-template.csv</code>.</li>
+          <li>Fill in coordinates so distance can be computed. The parcel editor has a lookup button that uses OpenStreetMap geocoding.</li>
+          <li>Check the assessor card for land vs. building value. If building value is zero, mark it land only.</li>
+          <li>Move parcels through statuses: New → Watching → Contacted → Bidding → Passed or Won.</li>
+          <li>Export the shortlist as CSV to share.</li>
+        </ol>
+      </article>
+    </section>
+  </main>
+</div>
+
+<dialog id="parcelDialog" class="dialog">
+  <form method="dialog" id="parcelForm">
+    <header class="dialog-head">
+      <h2 id="dialogTitle">Add parcel</h2>
+      <button type="button" class="icon-btn" id="dialogClose" aria-label="Close">×</button>
+    </header>
+    <div class="dialog-body">
+      <div class="grid2">
+        <label class="field"><span>Address / description</span><input name="address" required placeholder="Lot 4 Westford Rd"></label>
+        <label class="field"><span>Parcel ID / map-lot</span><input name="parcelId" placeholder="12-34-56"></label>
+        <label class="field"><span>Town</span><input name="town" placeholder="Eastford"></label>
+        <label class="field"><span>County</span><input name="county" placeholder="Windham"></label>
+        <label class="field"><span>State</span><input name="state" placeholder="CT" maxlength="2"></label>
+        <label class="field"><span>Zoning / use</span><input name="zoning" placeholder="RA-2, wooded"></label>
+        <label class="field"><span>Deal type</span><select name="dealType" id="dealTypeSelect"></select></label>
+        <label class="field"><span>Status</span><select name="status" id="statusSelect"></select></label>
+        <label class="field"><span>Source (site or office)</span><input name="source" placeholder="Town of Eastford tax collector"></label>
+        <label class="field"><span>Listing / notice URL</span><input name="url" type="url" placeholder="https://"></label>
+        <label class="field"><span>Acres</span><input name="acres" type="number" step="0.01" min="0" required></label>
+        <label class="check tall"><input name="hasStructure" type="checkbox"><span>Has a house or other structure</span></label>
+        <label class="field"><span>Asking price / opening bid ($)</span><input name="askingPrice" type="number" step="1" min="0" required></label>
+        <label class="field"><span>Assessed value ($)</span><input name="assessedValue" type="number" step="1" min="0"></label>
+        <label class="field"><span>Assessment ratio (blank = default)</span><input name="assessmentRatio" type="number" step="0.01" min="0.01" max="1" placeholder="0.70"></label>
+        <label class="field"><span>Comp-based market value ($, optional, overrides)</span><input name="marketValue" type="number" step="1" min="0"></label>
+        <label class="field"><span>Sale / auction date</span><input name="saleDate" type="date"></label>
+        <label class="field"><span>Back taxes / liens owed ($)</span><input name="liens" type="number" step="1" min="0"></label>
+        <label class="field"><span>Latitude</span><input name="lat" type="number" step="0.000001"></label>
+        <label class="field"><span>Longitude</span><input name="lng" type="number" step="0.000001"></label>
+      </div>
+      <div class="row-actions">
+        <button type="button" class="btn small ghost" id="btnGeocode">Look up coordinates from address</button>
+        <span id="geocodeMsg" class="hint"></span>
+      </div>
+      <label class="field"><span>Notes</span><textarea name="notes" rows="3" placeholder="Wetlands on east side, road frontage 200 ft, redemption period ends…"></textarea></label>
+      <div class="calc" id="liveCalc"></div>
+    </div>
+    <footer class="dialog-foot">
+      <button type="button" class="btn danger ghost" id="btnDelete" hidden>Delete</button>
+      <span class="spacer"></span>
+      <button type="button" class="btn ghost" id="btnCancel">Cancel</button>
+      <button type="submit" class="btn primary">Save parcel</button>
+    </footer>
+  </form>
+</dialog>
+
+<dialog id="importDialog" class="dialog">
+  <header class="dialog-head">
+    <h2>Import parcels</h2>
+    <button type="button" class="icon-btn" id="importClose" aria-label="Close">×</button>
+  </header>
+  <div class="dialog-body">
+    <p>Paste CSV text or choose a file. The first row must be a header. Recognised columns include <code>address, town, county, state, parcel id, acres, price / minimum bid, assessed value, building value, market value, deal type, sale date, url, lat, lng, notes</code>. Unknown columns are kept in notes.</p>
+    <div class="grid2">
+      <label class="field"><span>Default deal type for rows without one</span><select id="importDealType"></select></label>
+      <label class="field"><span>Default state for rows without one</span><input id="importState" maxlength="2" placeholder="CT"></label>
+    </div>
+    <label class="btn small ghost file-btn">Choose CSV or JSON file<input type="file" id="importFile" accept=".csv,.json,text/csv,application/json" hidden></label>
+    <textarea id="importText" rows="10" placeholder="address,town,state,acres,minimum bid,assessed value,sale date,url&#10;Lot 7 Route 44,Pomfret,CT,12.4,18500,61600,2026-10-15,https://…"></textarea>
+    <p class="hint" id="importPreview"></p>
+  </div>
+  <footer class="dialog-foot">
+    <span class="spacer"></span>
+    <button type="button" class="btn ghost" id="importCancel">Cancel</button>
+    <button type="button" class="btn primary" id="importRun">Import rows</button>
+  </footer>
+</dialog>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js" crossorigin=""></script>
+<script src="data/bases.js"></script>
+<script src="data/sources.js"></script>
+<script src="data/sample-parcels.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
