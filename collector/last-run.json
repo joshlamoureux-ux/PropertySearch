@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-09-07T00:38:38.625Z",
+ "startedAt": "2026-09-07T00:44:47.645Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -15,18 +15,7 @@
    "rawParcels": 145,
    "errors": [],
    "notes": [
-    "notice cap 80 reached; remaining parcels have index data only"
-   ]
-  },
-  {
-   "id": "ct-judicial-foreclosure",
-   "name": "Connecticut Judicial Branch foreclosure sales",
-   "pagesFetched": 1,
-   "pagesSkipped": 0,
-   "rawParcels": 0,
-   "errors": [],
-   "notes": [
-    "https://www.jud.ct.gov/foreclosure_sales/Public/PendPostbyTownList.aspx: no acreage found"
+    "http://cttaxsales.com/wp-content/uploads/2012/10/10%E2%80%99-right-of-way-on-Broadview-Street-Newington-CT.pdf: notice not readable"
    ]
   },
   {
@@ -67,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 18,
+   "rawParcels": 17,
    "errors": [],
    "notes": []
   },
@@ -85,7 +74,7 @@
    "name": "Craigslist worcester land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 16,
+   "rawParcels": 17,
    "errors": [],
    "notes": []
   },
@@ -94,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 25,
+   "rawParcels": 24,
    "errors": [],
    "notes": []
   },
@@ -103,7 +92,7 @@
    "name": "Craigslist westernmass land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 43,
+   "rawParcels": 45,
    "errors": [],
    "notes": []
   },
@@ -121,45 +110,303 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 50,
+   "rawParcels": 48,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 394,
- "uniqueParcels": 302,
+ "rawParcels": 393,
+ "uniqueParcels": 301,
  "dropped": {
-  "smallAcres": 44,
+  "smallAcres": 46,
   "unknownAcres": 100,
-  "structure": 11,
+  "structure": 17,
   "noPrice": 3
  },
  "assessor": {
-  "attempted": 19,
-  "matched": 17,
-  "cards": 17,
+  "attempted": 36,
+  "matched": 33,
+  "cards": 33,
   "noTown": 0,
-  "noStreet": 1,
+  "noStreet": 2,
   "noNumber": 1
  },
- "droppedAfterAssessor": 16,
+ "droppedAfterAssessor": [
+  {
+   "address": "257 Hilliard Street",
+   "town": "Manchester",
+   "acres": 0.38,
+   "hasStructure": true,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "111 Woodland Street",
+   "town": "Manchester",
+   "acres": 0.17,
+   "hasStructure": true,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "99 Trebbe Drive",
+   "town": "Manchester",
+   "acres": 0.31,
+   "hasStructure": true,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "24 Round Hill Road",
+   "town": "Manchester",
+   "acres": 1.19,
+   "hasStructure": true,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "65 School Street",
+   "town": "Manchester",
+   "acres": 0.24,
+   "hasStructure": true,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "164 Fern Street",
+   "town": "Manchester",
+   "acres": 0.71,
+   "hasStructure": true,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "23 Lyness Street",
+   "town": "Manchester",
+   "acres": 0.29,
+   "hasStructure": true,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "361 Hillstown Road",
+   "town": "Manchester",
+   "acres": 10.2,
+   "hasStructure": true,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "117 New Bolton Road",
+   "town": "Manchester",
+   "acres": 0.79,
+   "hasStructure": true,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "47 Plantation Road",
+   "town": "East Windsor",
+   "acres": null,
+   "hasStructure": true,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "66 Scantic Road",
+   "town": "East Windsor",
+   "acres": null,
+   "hasStructure": true,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "15 Harvest Drive",
+   "town": "Broad Brook",
+   "acres": null,
+   "hasStructure": true,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "32 Prospect Hill Drive",
+   "town": "East Windsor",
+   "acres": null,
+   "hasStructure": true,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "30B Folkstone Road",
+   "town": "Broad Brook",
+   "acres": null,
+   "hasStructure": true,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "130 Depot Street",
+   "town": "Broad Brook",
+   "acres": null,
+   "hasStructure": true,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "143 Rockville Road",
+   "town": "Broad Brook",
+   "acres": null,
+   "hasStructure": true,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "18 David Drive",
+   "town": "East Windsor",
+   "acres": null,
+   "hasStructure": true,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "10I Riverview Drive",
+   "town": "East Windsor",
+   "acres": null,
+   "hasStructure": true,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "76 Griffin Road",
+   "town": "Broad Brook",
+   "acres": null,
+   "hasStructure": true,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "505 Porter Pond Road",
+   "town": "Sterling",
+   "acres": 4.92,
+   "hasStructure": true,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "874 and 876 Gibson Hill Road",
+   "town": "Sterling",
+   "acres": 3.11,
+   "hasStructure": false,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "37 Pond Street",
+   "town": "Sterling",
+   "acres": 0.89,
+   "hasStructure": true,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "1030 Plainfield Pike",
+   "town": "Sterling",
+   "acres": 1.38,
+   "hasStructure": true,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "27 Pond Street",
+   "town": "Sterling",
+   "acres": 2.1,
+   "hasStructure": true,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "0 Main Street and 0 Sterling Road",
+   "town": "Sterling",
+   "acres": null,
+   "hasStructure": true,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "70 and 72 Sterling Road",
+   "town": "Sterling",
+   "acres": 0.67,
+   "hasStructure": true,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "10 Exeter Drive",
+   "town": "Sterling",
+   "acres": 19.85,
+   "hasStructure": true,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "47 Church Street",
+   "town": "Sterling",
+   "acres": 0.3,
+   "hasStructure": true,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "130 Old Cranston Road",
+   "town": "Sterling",
+   "acres": 109,
+   "hasStructure": true,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "7 Bailey Road",
+   "town": "Andover",
+   "acres": 1.49,
+   "hasStructure": true,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "25 Center Street",
+   "town": "Andover",
+   "acres": 0.25,
+   "hasStructure": true,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "636 Sugar Hill Road",
+   "town": "Tolland",
+   "acres": 0.12,
+   "hasStructure": false,
+   "assessedValue": null,
+   "dealType": "tax-sale"
+  }
+ ],
+ "assessorMatchedKept": 1,
  "geocode": {
-  "lookups": 26,
-  "cached": 146,
-  "misses": 10
+  "lookups": 0,
+  "cached": 139,
+  "misses": 0
  },
- "insideRadius": 116,
+ "insideRadius": 91,
  "outsideRadius": 5,
  "noCoordinates": 7,
  "estimatedValues": 6,
- "finalParcels": 123,
+ "finalParcels": 98,
  "fetch": {
-  "fetched": 145,
-  "cached": 3,
+  "fetched": 257,
+  "cached": 1,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-09-07T00:42:35.623Z",
- "durationSeconds": 237
+ "finishedAt": "2026-09-07T00:51:01.451Z",
+ "durationSeconds": 374
 }
