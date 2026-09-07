@@ -105,8 +105,8 @@ export function splitAddress(address) {
 }
 
 export class VgsiLookup {
-  constructor({ fetcher, log = console, maxCards = 60 }) {
-    this.fetcher = fetcher; this.log = log; this.maxCards = maxCards;
+  constructor({ fetcher, log = console, maxCards = 60, dumpDir = null }) {
+    this.fetcher = fetcher; this.log = log; this.maxCards = maxCards; this.dumpDir = dumpDir;
     this.streetIndex = new Map(); // slug|letter -> [{name,url}]
     this.stats = { attempted: 0, matched: 0, cards: 0, noTown: 0, noStreet: 0, noNumber: 0 };
   }
@@ -155,24 +155,39 @@ export class VgsiLookup {
     const page = await this.fetcher.get(url);
     if (!page || page.status >= 400) return null;
     this.stats.cards++;
-    const lines = pageText(page).split("\n").map(l => l.replace(/^\|\s*/, "").trim()).filter(Boolean);
+    const raw = pageText(page);
+    if (this.dumpDir) { try { const fs = await import("node:fs"); const path = await import("node:path"); fs.mkdirSync(this.dumpDir, { recursive: true }); fs.writeFileSync(path.join(this.dumpDir, url.replace(/^https?:\/\//, "").replace(/[^a-z0-9]+/gi, "_").slice(0, 90) + ".txt"), raw); } catch { /* ignore */ } }
+    const lines = raw.split("\n").map(l => l.replace(/^\|\s*/, "").trim()).filter(Boolean);
     const after = (label, n = 1) => { const i = lines.findIndex(l => l.toLowerCase() === label.toLowerCase()); return i >= 0 ? lines[i + n] : null; };
     const money = v => { const m = /\$\s?([\d,]+)/.exec(v || ""); return m ? Number(m[1].replace(/,/g, "")) : null; };
-    const c = { location: after("Location"), mblu: after("Mblu"), assessment: money(after("Assessment")), appraisal: money(after("Appraisal")), style: null, useDesc: null, zone: after("Zone"), acres: null, improvementsAppraised: null, valuationYear: null };
+    // Header block: label lines followed by value lines. Labels vary a little by town.
+    const firstMoney = labels => { for (const l of labels) { const v = money(after(l)); if (v != null) return v; } return null; };
+    const c = { location: after("Location"), mblu: after("Mblu") || after("Map/Lot") || after("Map Block Lot"), assessment: firstMoney(["Assessment", "Assessed Value", "Total Assessment", "Assessed"]), appraisal: firstMoney(["Appraisal", "Appraised Value", "Total Appraisal", "Appraised"]), style: null, useDesc: null, zone: after("Zone") || after("Zoning"), acres: null, improvementsAppraised: null, valuationYear: null };
+    // Fallback: the Assessment / Appraisal tables (Valuation Year | Improvements | Land | Total, then a year row).
+    const tableTotal = heading => {
+      const idx = lines.findIndex((l, i) => l.toLowerCase() === heading && lines.slice(i + 1, i + 6).some(x => /^valuation year$/i.test(x)));
+      if (idx < 0) return null;
+      const seg = lines.slice(idx, idx + 14); const yi = seg.findIndex(l => /^\d{4}$/.test(l));
+      return yi >= 0 ? { year: seg[yi], improvements: money(seg[yi + 1]), land: money(seg[yi + 2]), total: money(seg[yi + 3]) } : null;
+    };
+    const at = tableTotal("assessment"), ap = tableTotal("appraisal");
+    if (c.assessment == null && at) c.assessment = at.total;
+    if (c.appraisal == null && ap) c.appraisal = ap.total;
     const si = lines.findIndex(l => /^Style:?$/i.test(l)); if (si >= 0) c.style = lines[si + 1];
     // Land section: Use Code / Description follow the "Land Use" heading.
     const lu = lines.findIndex(l => /^Land Use$/i.test(l));
     if (lu >= 0) { const d = lines.slice(lu, lu + 8).findIndex(l => /^Description$/i.test(l)); if (d >= 0) c.useDesc = lines[lu + d + 1]; }
     let acres = 0, any = false;
-    lines.forEach((l, i) => { if (/^Size \(Acres\)$/i.test(l) && /^[\d.]+$/.test(lines[i + 1] || "")) { acres += Number(lines[i + 1]); any = true; } });
+    lines.forEach((l, i) => {
+      const v = (lines[i + 1] || "").replace(/,/g, "");
+      if (/^(Size \(Acres\)|Acres|Land Area \(Acres\)|Size in Acres)$/i.test(l) && /^[\d.]+$/.test(v)) { acres += Number(v); any = true; }
+      else if (/^(Size \(Sq\.? ?Ft\.?\)|Land Area \(Sq\.? ?Ft\.?\)|Square Feet|Sq\.? ?Ft\.?)$/i.test(l) && /^[\d.]+$/.test(v) && Number(v) > 0) { acres += Number(v) / 43560; any = true; }
+    });
     if (any) c.acres = Math.round(acres * 100) / 100;
     // Current Value / Appraisal table: Valuation Year | Improvements | Land | Total, then a row of values.
-    const cv = lines.findIndex(l => /^Current Value$/i.test(l));
-    if (cv >= 0) {
-      const seg = lines.slice(cv, cv + 14);
-      const yi = seg.findIndex(l => /^\d{4}$/.test(l));
-      if (yi >= 0) { c.valuationYear = seg[yi]; c.improvementsAppraised = money(seg[yi + 1]); c.landAppraised = money(seg[yi + 2]); c.totalAppraised = money(seg[yi + 3]); }
-    }
+    if (ap) { c.valuationYear = ap.year; c.improvementsAppraised = ap.improvements; c.landAppraised = ap.land; c.totalAppraised = ap.total; }
+    else if (at) { c.valuationYear = at.year; c.improvementsAppraised = at.improvements; }
+    if (c.improvementsAppraised == null) { const bc = after("Building Count"); if (bc != null && /^\d+$/.test(bc)) c.improvementsAppraised = Number(bc) > 0 && !/vacant/i.test(after("Style:") || "") ? 1 : 0; }
     return c;
   }
 

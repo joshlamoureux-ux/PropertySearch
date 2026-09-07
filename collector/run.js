@@ -178,7 +178,7 @@ log.info(`${parcels.length} unique parcels; ${kept.length} meet acreage/land/pri
 
 // Assessor lookup (free): fills acreage, assessed value and the assessor's own
 // appraisal for parcels in towns whose database is on Vision.
-const vgsi = new VgsiLookup({ fetcher, log, maxCards: Number(process.env.COLLECTOR_MAX_CARDS || 150) });
+const vgsi = new VgsiLookup({ fetcher, log, maxCards: Number(process.env.COLLECTOR_MAX_CARDS || 150), dumpDir: opts.dumpDir ? path.join(opts.dumpDir, "assessor-cards") : null });
 if (!argv.includes("--no-assessor")) {
   const targets = kept.filter(p => p.assessedValue == null && vgsi.slugFor(p.town, p.state));
   log.info(`assessor lookup: ${targets.length} parcels in Vision towns`);
@@ -188,7 +188,10 @@ if (!argv.includes("--no-assessor")) {
 summary.assessor = vgsi.stats;
 // Re-apply the acreage rule now that some unknowns are filled.
 for (const p of kept) { if (p.acres != null) { delete p.acresUnknown; } }
-const kept2 = kept.filter(p => !(p.acres != null && p.acres < opts.minAcres) && !(opts.landOnly && p.hasStructure === true));
+// Drop parcels the assessor showed to be under the minimum, or improved with
+// unknown size. Improved parcels at or above the minimum are kept and tagged;
+// the app's land-only toggle hides them from Opportunities.
+const kept2 = kept.filter(p => !(p.acres != null && p.acres < opts.minAcres) && !(p.hasStructure === true && p.acres == null));
 summary.droppedAfterAssessor = kept.filter(p => !kept2.includes(p)).map(p => ({ address: p.address, town: p.town, acres: p.acres, hasStructure: p.hasStructure, assessedValue: p.assessedValue, dealType: p.dealType }));
 summary.assessorMatchedKept = kept2.filter(p => p.assessorUrl).length;
 kept.length = 0; kept.push(...kept2);
@@ -201,9 +204,12 @@ const { inside, outside, unknown } = applyRadius(kept, base, opts.radius);
 summary.geocode = geocoder.stats; summary.insideRadius = inside.length; summary.outsideRadius = outside.length; summary.noCoordinates = unknown.length;
 log.info(`${inside.length} inside ${opts.radius} mi, ${outside.length} outside, ${unknown.length} without coordinates`);
 
-// Parcels without coordinates but in a nearby state are kept so the user can place them.
+// Parcels without coordinates are kept only for distressed sales in a nearby
+// state (a notice with an odd address is still worth a look); ordinary listings
+// whose location label cannot be placed are dropped.
 const nearbyStates = new Set([base.state, ...(base.nearbyStates || [])]);
-const final = inside.concat(unknown.filter(p => nearbyStates.has(p.state)));
+const DISTRESSED = new Set(["tax-sale", "tax-lien", "foreclosure", "estate", "government", "auction", "reo", "short-sale"]);
+const final = inside.concat(unknown.filter(p => nearbyStates.has(p.state) && DISTRESSED.has(p.dealType)));
 summary.estimatedValues = estimateValues(kept);
 summary.finalParcels = final.length;
 summary.fetch = fetcher.stats;

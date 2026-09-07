@@ -22,7 +22,10 @@ export function normalizeParcel(raw, source) {
   p.priceKind = p.priceKind || "unknown";
   // Stable id: same parcel on the same source keeps the same id across runs,
   // so the app can preserve the user's status and notes.
-  p.id = "f_" + sha1([source.id, p.state, (p.town || "").toLowerCase(), p.address.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim(), p.parcelId || ""].join("|")).slice(0, 12);
+  // Listings with their own URL (Craigslist posts) are identified by it, so the
+  // same post seen from two regions or two searches is one parcel.
+  const byUrl = p.url && /craigslist\.org\/view\//i.test(p.url);
+  p.id = "f_" + sha1(byUrl ? p.url.replace(/[?#].*$/, "") : [source.id, p.state, (p.town || "").toLowerCase(), p.address.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim(), p.parcelId || ""].join("|")).slice(0, 12);
   p.isFound = true;
   return p;
 }
@@ -52,7 +55,7 @@ export function applyCriteria(parcels, { minAcres, landOnly, keepUnknownAcresFor
       if (!keepUnknownAcresFor.includes(p.dealType)) { dropped.unknownAcres++; return false; }
       p.acresUnknown = true;
     } else if (p.acres < minAcres) { dropped.smallAcres++; return false; }
-    if (landOnly && p.hasStructure === true) { dropped.structure++; return false; }
+    if (landOnly && p.hasStructure === true && p.acres == null) { dropped.structure++; return false; }
     if (p.askingPrice == null) {
       if (!keepUnknownAcresFor.includes(p.dealType)) { dropped.noPrice++; return false; }
       p.priceUnknown = true;

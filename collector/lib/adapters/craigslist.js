@@ -10,7 +10,8 @@ const LINE = /^(.*?)\s+\$([\d,]+)(?:\s+(.*?))?\s+\[(https?:\/\/(?:www\.)?craigsl
 const ACRES = /([\d.]+)\s*\+?\s*(?:[a-z]+\s+)?(?:acres?|ac\b)/i;
 const STRUCTURE = /\b(home|house|cabin|cottage|bed|bd|br\b|bath|bth|ba\b|ranch|colonial|cape|condo|apartment|duplex|mobile|manufactured|man\.\s*home|garage|barn|farmhouse)\b/i;
 const LAND = /\b(land|lot|acreage|acres|parcel|building lot|wooded|meadow|timber|farmland|buildable)\b/i;
-const RENT = /\b(rent|lease|rental|for rent)\b/i;
+const RENT = /\b(rent|lease|rental|for rent|apartment|apartments|apt|room|roommate|sublet)\b/i;
+const NEAR_ACRES = /\b(near|next to|adjacent to|overlooking|abuts?|minutes from)\b[^.]{0,40}\d+[\d.]*\s*acres?/i;
 
 export async function collect({ source, fetcher, log }) {
   const parcels = [], notes = [], errors = [];
@@ -26,7 +27,7 @@ export async function collect({ source, fetcher, log }) {
       const [, title, priceStr, location, link] = m;
       if (RENT.test(title)) continue;
       const price = Number(priceStr.replace(/,/g, ""));
-      const a = ACRES.exec(title);
+      const a = NEAR_ACRES.test(title) ? null : ACRES.exec(title);
       const loc = (location || "").trim();
       const st = /,\s*([A-Z]{2})\b/.exec(loc);
       const town = loc.replace(/,\s*[A-Z]{2}\b.*$/, "").replace(/^(near|in)\s+/i, "").trim() || null;
