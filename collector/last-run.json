@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-09-07T00:14:28.486Z",
+ "startedAt": "2026-09-07T00:17:35.588Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -88,13 +88,13 @@
   {
    "id": "bid4assets-ne",
    "name": "Bid4Assets county tax sales (New England and New York)",
-   "pagesFetched": 0,
+   "pagesFetched": 1,
    "pagesSkipped": 0,
    "rawParcels": 0,
-   "errors": [
-    "https://www.bid4assets.com/storefront/realestate: HTTP 403"
-   ],
-   "notes": []
+   "errors": [],
+   "notes": [
+    "https://www.bid4assets.com/storefront/realestate: no acreage found"
+   ]
   },
   {
    "id": "auctions-international-ny",
@@ -122,7 +122,8 @@
  "rawParcels": 11,
  "uniqueParcels": 11,
  "dropped": {
-  "smallOrUnknownAcres": 11,
+  "smallAcres": 11,
+  "unknownAcres": 0,
   "structure": 0,
   "noPrice": 0
  },
@@ -137,12 +138,12 @@
  "estimatedValues": 0,
  "finalParcels": 0,
  "fetch": {
-  "fetched": 11,
-  "cached": 0,
+  "fetched": 6,
+  "cached": 5,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-09-07T00:14:37.466Z",
- "durationSeconds": 9
+ "finishedAt": "2026-09-07T00:17:41.156Z",
+ "durationSeconds": 6
 }

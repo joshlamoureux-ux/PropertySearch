@@ -1,0 +1,472 @@
+URL: https://data.ct.gov/api/views/metadata/v1?limit=5&search=parcel
+FINAL: https://data.ct.gov/api/views/metadata/v1?limit=5&search=parcel
+STATUS: 200
+TITLE: 
+BYTES: 26136
+
+===== TEXT =====
+[ {
+"id" : "ieec-vhvv",
+"name" : "Apprentice Registrations",
+"attribution" : null,
+"attributionLink" : null,
+"category" : null,
+"createdAt" : "2026-09-01T17:36:09+0000",
+"dataUpdatedAt" : "2026-09-06T08:00:45+0000",
+"dataUri" : "https://data.ct.gov/resource/ieec-vhvv",
+"description" : null,
+"domain" : "data.ct.gov",
+"externalId" : null,
+"hideFromCatalog" : false,
+"hideFromDataJson" : false,
+"license" : null,
+"metadataUpdatedAt" : "2026-09-06T08:00:21+0000",
+"provenance" : "OFFICIAL",
+"updatedAt" : "2026-09-06T08:00:21+0000",
+"webUri" : "https://data.ct.gov/d/ieec-vhvv",
+"approvals" : [ {
+"reviewedAt" : 1788284268,
+"reviewedAutomatically" : true,
+"state" : "approved",
+"submissionId" : 7662288,
+"submissionObject" : "public_audience_request",
+"submissionOutcome" : "change_audience",
+"submittedAt" : 1788284268,
+"targetAudience" : "public",
+"workflowId" : 2184,
+"submissionDetails" : {
+"permissionType" : "READ"
+},
+"submissionOutcomeApplication" : {
+"endedAt" : 1788284268,
+"failureCount" : 0,
+"startedAt" : 1788284268,
+"status" : "success"
+},
+"submitter" : {
+"id" : "v5fn-ud69",
+"displayName" : "jasoncohen"
+}
+} ],
+"customFields" : {
+"Agency" : {
+"Agency" : "Department of Labor"
+}
+},
+"tags" : null
+}, {
+"id" : "6imr-63mc",
+"name" : "Apprenticeship Sponsors",
+"attribution" : null,
+"attributionLink" : null,
+"category" : null,
+"createdAt" : "2026-09-01T17:25:24+0000",
+"dataUpdatedAt" : "2026-09-06T08:05:51+0000",
+"dataUri" : "https://data.ct.gov/resource/6imr-63mc",
+"description" : null,
+"domain" : "data.ct.gov",
+"externalId" : null,
+"hideFromCatalog" : false,
+"hideFromDataJson" : false,
+"license" : null,
+"metadataUpdatedAt" : "2026-09-06T08:05:46+0000",
+"provenance" : "OFFICIAL",
+"updatedAt" : "2026-09-06T08:05:46+0000",
+"webUri" : "https://data.ct.gov/d/6imr-63mc",
+"approvals" : [ {
+"reviewedAt" : 1788284090,
+"reviewedAutomatically" : true,
+"state" : "approved",
+"submissionId" : 7656620,
+"submissionObject" : "public_audience_request",
+"submissionOutcome" : "change_audience",
+"submittedAt" : 1788284090,
+"targetAudience" : "public",
+"workflowId" : 2184,
+"submissionDetails" : {
+"permissionType" : "READ"
+},
+"submissionOutcomeApplication" : {
+"endedAt" : 1788284090,
+"failureCount" : 0,
+"startedAt" : 1788284090,
+"status" : "success"
+},
+"submitter" : {
+"id" : "v5fn-ud69",
+"displayName" : "jasoncohen"
+}
+} ],
+"customFields" : {
+"Agency" : {
+"Agency" : "Department of Labor"
+}
+},
+"tags" : null
+}, {
+"id" : "thmj-sfkd",
+"name" : "CT Housing Data Hub - Decennial Change in Housing Units",
+"attribution" : null,
+"attributionLink" : null,
+"category" : null,
+"createdAt" : "2026-08-21T20:08:00+0000",
+"dataUpdatedAt" : "2026-08-21T20:08:00+0000",
+"dataUri" : "https://data.ct.gov/resource/thmj-sfkd",
+"description" : "
+This feature layer represents the count of housing units in each Connecticut municipality based on the 2010 and 2020 decennial census. The data is spatialized by town for visualization and analysis in the Connecticut Town Housing Dashboard.
+
+CT Geodata Portal Housing landing page: https://geodata.ct.gov/pages/housing [https://geodata.ct.gov/pages/housing]
+
+Open Data Portal DOH dataset: https://data.ct.gov/Housing-and-Development/Affordable-Housing-by-Town-2011-2023/3udy-56vi/ [https://data.ct.gov/Housing-and-Development/Affordable-Housing-by-Town-2011-2023/3udy-56vi/]
+
+Affordable Housing Appeals Listing website: https://portal.ct.gov/doh/doh/programs/affordable-housing-appeals-listing [https://portal.ct.gov/doh/doh/programs/affordable-housing-appeals-listing]
+
+Geographic Extent
+
+Coverage: State of Connecticut
+
+Classifications
+
+Sensitivity: Public
+
+Usage: Public Use
+
+Quality: High Quality
+
+Known Quality Issues: None
+
+Currency
+
+Created: 2022
+
+Update Frequency: As new data is published (every 10 years)
+
+Last Updated: February 2025
+
+Lineage
+
+Originated: US Decennial Census
+
+Methodology: Data was pulled and processed using custom Python scripts.
+
+Product Traceability: Data is displayed in the Connecticut Town Housing Dashboard and used in housing dashboards and story maps.
+
+Credits
+
+Data Steward: Sarah Hurley (GIS Analyst, CT GIS Office)
+
+",
+"domain" : "data.ct.gov",
+"externalId" : null,
+"hideFromCatalog" : false,
+"hideFromDataJson" : false,
+"license" : null,
+"metadataUpdatedAt" : "2026-08-21T20:08:00+0000",
+"provenance" : "OFFICIAL",
+"updatedAt" : "2026-08-21T20:08:00+0000",
+"webUri" : "https://data.ct.gov/d/thmj-sfkd",
+"approvals" : [ {
+"reviewedAt" : 1787342880,
+"reviewedAutomatically" : true,
+"state" : "approved",
+"submissionId" : 7631498,
+"submissionObject" : "public_audience_request",
+"submissionOutcome" : "change_audience",
+"submittedAt" : 1787342880,
+"targetAudience" : "public",
+"workflowId" : 2184,
+"submissionDetails" : {
+"permissionType" : "READ"
+},
+"submissionOutcomeApplication" : {
+"endedAt" : 1787342880,
+"failureCount" : 0,
+"startedAt" : 1787342880,
+"status" : "success"
+},
+"submitter" : {
+"id" : "v8hh-mf47",
+"displayName" : "Augusta Irechukwu"
+}
+} ],
+"customFields" : {
+"Common Core" : {
+"Contact Email" : "mailto:opm.giso@ct.gov",
+"Homepage" : "https://geodata.ct.gov/datasets/ctmaps::ct-housing-data-hub-decennial-change-in-housing-units",
+"Contact Name" : "sarah.hurley6",
+"Issued" : "2025-04-15T18:58:50.000Z",
+"License" : "https://creativecommons.org/publicdomain/zero/1.0",
+"Last Update" : "2025-04-16T13:49:30.466Z",
+"Theme" : "geospatial",
+"Unique Identifier" : "https://www.arcgis.com/home/item.html?id=bdd40229f7ad4f3baff8b796a8be711e&sublayer=0",
+"Geographic Coverage" : "-73.7422,40.9803,-71.7813,42.0526",
+"Publisher" : "State of Connecticut",
+"Public Access Level" : "public"
+}
+},
+"tags" : [ "census", "ct", "gis office", "giso", "housing", "office of policy and management", "opm", "townhousingdashboard" ]
+}, {
+"id" : "rg5s-8wt3",
+"name" : "Programs - Tenant Assist",
+"attribution" : null,
+"attributionLink" : null,
+"category" : null,
+"createdAt" : "2026-08-21T20:08:00+0000",
+"dataUpdatedAt" : "2026-08-21T20:08:00+0000",
+"dataUri" : "https://data.ct.gov/resource/rg5s-8wt3",
+"description" : "
+This web map displays data related to tenant assisted properties by town as part of affordable housing programs in Connecticut and is used in the Housing Programs of the Connecticut Housing Data Hub. It visualizes spatial data sourced from CT DOH, curated and managed by the CT GIS Office (Office of Policy and Management).
+
+The map is intended for use in public-facing dashboards and data stories that support housing policy, planning, and transparency. Data is processed and spatialized using Python and regularly updated in alignment with the underlying datasets.
+
+Key Details
+• Page Location: Housing Programs
+• Data Sources Referenced: DOH Appeals List [https://data.ct.gov/Housing-and-Development/Affordable-Housing-by-Town-2011-2023/3udy-56vi/about_data]
+• Data Owner: CT GIS Office
+• Map Creator/ Data Steward: Sarah Hurley (GIS Office)
+• Update Frequency: Annually
+
+For more information and full access to the Housing Dashboard, visit: https://geodata.ct.gov/pages/housing [https://geodata.ct.gov/pages/housing]
+",
+"domain" : "data.ct.gov",
+"externalId" : null,
+"hideFromCatalog" : false,
+"hideFromDataJson" : false,
+"license" : null,
+"metadataUpdatedAt" : "2026-08-21T20:08:00+0000",
+"provenance" : "OFFICIAL",
+"updatedAt" : "2026-08-21T20:08:00+0000",
+"webUri" : "https://data.ct.gov/d/rg5s-8wt3",
+"approvals" : [ {
+"reviewedAt" : 1787342880,
+"reviewedAutomatically" : true,
+"state" : "approved",
+"submissionId" : 7631497,
+"submissionObject" : "public_audience_request",
+"submissionOutcome" : "change_audience",
+"submittedAt" : 1787342880,
+"targetAudience" : "public",
+"workflowId" : 2184,
+"submissionDetails" : {
+"permissionType" : "READ"
+},
+"submissionOutcomeApplication" : {
+"endedAt" : 1787342880,
+"failureCount" : 0,
+"startedAt" : 1787342880,
+"status" : "success"
+},
+"submitter" : {
+"id" : "v8hh-mf47",
+"displayName" : "Augusta Irechukwu"
+}
+} ],
+"customFields" : {
+"Common Core" : {
+"Contact Email" : "mailto:opm.giso@ct.gov",
+"Homepage" : "https://geodata.ct.gov/maps/ctmaps::programs-tenant-assist",
+"Contact Name" : "sarah.hurley6",
+"Issued" : "2024-10-28T14:54:40.000Z",
+"License" : "https://creativecommons.org/publicdomain/zero/1.0",
+"Last Update" : "2026-06-15T17:34:55.000Z",
+"Theme" : "geospatial",
+"Unique Identifier" : "https://www.arcgis.com/home/item.html?id=4be699a0fc6b406a9f8236071206e749",
+"Geographic Coverage" : "-73.8657,40.8670,-71.6493,42.1626",
+"Publisher" : "State of Connecticut",
+"Public Access Level" : "public"
+}
+},
+"tags" : [ "connecticut", "ct", "dashboard", "department of housing", "doh", "gis office", "giso", "housing", "office of policy and management", "opm", "townhousingdashboard" ]
+}, {
+"id" : "v6ix-d3gq",
+"name" : "Programs - Deed Restrict",
+"attribution" : null,
+"attributionLink" : null,
+"category" : null,
+"createdAt" : "2026-08-21T20:07:59+0000",
+"dataUpdatedAt" : "2026-08-21T20:07:59+0000",
+"dataUri" : "https://data.ct.gov/resource/v6ix-d3gq",
+"description" : "
+This web map displays data related to deed-restricted properties by town as part of affordable housing programs in Connecticut and is used in the Housing Programs of the Connecticut Housing Data Hub. It visualizes spatial data sourced from CT DOH, curated and managed by the CT GIS Office (Office of Policy and Management).
+
+The map is intended for use in public-facing dashboards and data stories that support housing policy, planning, and transparency. Data is processed and spatialized using Python and regularly updated in alignment with the underlying datasets.
+
+Key Details
+• Page Location: Housing Programs
+• Data Sources Referenced: DOH Appeals List [https://data.ct.gov/Housing-and-Development/Affordable-Housing-by-Town-2011-2023/3udy-56vi/about_data]
+• Data Owner: CT GIS Office
+• Map Creator/ Data Steward: Sarah Hurley (GIS Office)
+• Update Frequency: Annually
+
+For more information and full access to the Housing Dashboard, visit: https://geodata.ct.gov/pages/housing [https://geodata.ct.gov/pages/housing]
+
+",
+"domain" : "data.ct.gov",
+"externalId" : null,
+"hideFromCatalog" : false,
+"hideFromDataJson" : false,
+"license" : null,
+"metadataUpdatedAt" : "2026-08-21T20:07:59+0000",
+"provenance" : "OFFICIAL",
+"updatedAt" : "2026-08-21T20:07:59+0000",
+"webUri" : "https://data.ct.gov/d/v6ix-d3gq",
+"approvals" : [ {
+"reviewedAt" : 1787342879,
+"reviewedAutomatically" : true,
+"state" : "approved",
+"submissionId" : 7631496,
+"submissionObject" : "public_audience_request",
+"submissionOutcome" : "change_audience",
+"submittedAt" : 1787342879,
+"targetAudience" : "public",
+"workflowId" : 2184,
+"submissionDetails" : {
+"permissionType" : "READ"
+},
+"submissionOutcomeApplication" : {
+"endedAt" : 1787342879,
+"failureCount" : 0,
+"startedAt" : 1787342879,
+"status" : "success"
+},
+"submitter" : {
+"id" : "v8hh-mf47",
+"displayName" : "Augusta Irechukwu"
+}
+} ],
+"customFields" : {
+"Common Core" : {
+"Contact Email" : "mailto:opm.giso@ct.gov",
+"Homepage" : "https://geodata.ct.gov/maps/ctmaps::programs-deed-restrict",
+"Contact Name" : "sarah.hurley6",
+"Issued" : "2024-10-28T14:56:36.000Z",
+"License" : "https://creativecommons.org/publicdomain/zero/1.0",
+"Last Update" : "2026-06-15T17:35:38.000Z",
+"Theme" : "geospatial",
+"Unique Identifier" : "https://www.arcgis.com/home/item.html?id=56a7e1b2b5954900897fab2c9cbf52ac",
+"Geographic Coverage" : "-73.8657,40.8670,-71.6493,42.1626",
+"Publisher" : "State of Connecticut",
+"Public Access Level" : "public"
+}
+},
+"tags" : [ "connecticut", "ct", "dashboard", "department of housing", "doh", "gis office", "giso", "housing", "office of policy and management", "opm", "townhousingdashboard" ]
+} ]
+
+===== LINKS =====
+https://geodata.ct.gov/pages/housing -> https://geodata.ct.gov/pages/housing
+https://data.ct.gov/Housing-and-Development/Affordable-Housing-by-Town-2011-2023/3udy-56vi/ -> https://data.ct.gov/Housing-and-Development/Affordable-Housing-by-Town-2011-2023/3udy-56vi/
+https://portal.ct.gov/doh/doh/programs/affordable-housing-appeals-listing -> https://portal.ct.gov/doh/doh/programs/affordable-housing-appeals-listing
+DOH Appeals List -> https://data.ct.gov/Housing-and-Development/Affordable-Housing-by-Town-2011-2023/3udy-56vi/about_data
+https://geodata.ct.gov/pages/housing -> https://geodata.ct.gov/pages/housing
+DOH Appeals List -> https://data.ct.gov/Housing-and-Development/Affordable-Housing-by-Town-2011-2023/3udy-56vi/about_data
+https://geodata.ct.gov/pages/housing -> https://geodata.ct.gov/pages/housing
+
+===== RAW HEAD =====
+[ {
+  "id" : "ieec-vhvv",
+  "name" : "Apprentice Registrations",
+  "attribution" : null,
+  "attributionLink" : null,
+  "category" : null,
+  "createdAt" : "2026-09-01T17:36:09+0000",
+  "dataUpdatedAt" : "2026-09-06T08:00:45+0000",
+  "dataUri" : "https://data.ct.gov/resource/ieec-vhvv",
+  "description" : null,
+  "domain" : "data.ct.gov",
+  "externalId" : null,
+  "hideFromCatalog" : false,
+  "hideFromDataJson" : false,
+  "license" : null,
+  "metadataUpdatedAt" : "2026-09-06T08:00:21+0000",
+  "provenance" : "OFFICIAL",
+  "updatedAt" : "2026-09-06T08:00:21+0000",
+  "webUri" : "https://data.ct.gov/d/ieec-vhvv",
+  "approvals" : [ {
+    "reviewedAt" : 1788284268,
+    "reviewedAutomatically" : true,
+    "state" : "approved",
+    "submissionId" : 7662288,
+    "submissionObject" : "public_audience_request",
+    "submissionOutcome" : "change_audience",
+    "submittedAt" : 1788284268,
+    "targetAudience" : "public",
+    "workflowId" : 2184,
+    "submissionDetails" : {
+      "permissionType" : "READ"
+    },
+    "submissionOutcomeApplication" : {
+      "endedAt" : 1788284268,
+      "failureCount" : 0,
+      "startedAt" : 1788284268,
+      "status" : "success"
+    },
+    "submitter" : {
+      "id" : "v5fn-ud69",
+      "displayName" : "jasoncohen"
+    }
+  } ],
+  "customFields" : {
+    "Agency" : {
+      "Agency" : "Department of Labor"
+    }
+  },
+  "tags" : null
+}, {
+  "id" : "6imr-63mc",
+  "name" : "Apprenticeship Sponsors",
+  "attribution" : null,
+  "attributionLink" : null,
+  "category" : null,
+  "createdAt" : "2026-09-01T17:25:24+0000",
+  "dataUpdatedAt" : "2026-09-06T08:05:51+0000",
+  "dataUri" : "https://data.ct.gov/resource/6imr-63mc",
+  "description" : null,
+  "domain" : "data.ct.gov",
+  "externalId" : null,
+  "hideFromCatalog" : false,
+  "hideFromDataJson" : false,
+  "license" : null,
+  "metadataUpdatedAt" : "2026-09-06T08:05:46+0000",
+  "provenance" : "OFFICIAL",
+  "updatedAt" : "2026-09-06T08:05:46+0000",
+  "webUri" : "https://data.ct.gov/d/6imr-63mc",
+  "approvals" : [ {
+    "reviewedAt" : 1788284090,
+    "reviewedAutomatically" : true,
+    "state" : "approved",
+    "submissionId" : 7656620,
+    "submissionObject" : "public_audience_request",
+    "submissionOutcome" : "change_audience",
+    "submittedAt" : 1788284090,
+    "targetAudience" : "public",
+    "workflowId" : 2184,
+    "submissionDetails" : {
+      "permissionType" : "READ"
+    },
+    "submissionOutcomeApplication" : {
+      "endedAt" : 1788284090,
+      "failureCount" : 0,
+      "startedAt" : 1788284090,
+      "status" : "success"
+    },
+    "submitter" : {
+      "id" : "v5fn-ud69",
+      "displayName" : "jasoncohen"
+    }
+  } ],
+  "customFields" : {
+    "Agency" : {
+      "Agency" : "Department of Labor"
+    }
+  },
+  "tags" : null
+}, {
+  "id" : "thmj-sfkd",
+  "name" : "CT Housing Data Hub - Decennial Change in Housing Units",
+  "attribution" : null,
+  "attributionLink" : null,
+  "category" : null,
+  "createdAt" : "2026-08-21T20:08:00+0000",
+  "dataUpdatedAt" : "2026-08-21T20:08:00+0000",
+  "dataUri" : "https://data.ct.gov/resource/thmj-sfkd",
+  "description" : "<p style='background-color:rgb(255, 255, 255); border:0px solid currentcolor; box-sizing:border-box; color:rgb(74, 74, 74); font-family:&quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px; font-style:normal; font-variant-caps:normal; font-variant-ligatures:normal; font-weight:400; letter-spacing:normal; margin:0px 0px 1rem; text-align:start; text-decoration-color:initial; text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;'><span style='font-family:inherit;'><span style='border:0px solid currentcolor; box-sizing:border-box; line-height:1.5;'>This feature layer represents the count of housing units in each Connecticut municipality based on the 2010 and 2020 decennial census. The data is spatialized by town for visualization and analysis in the Connecticut Town Housing Dashboard.</span></span></p><p style='background-color:rgb(255, 255, 255); b

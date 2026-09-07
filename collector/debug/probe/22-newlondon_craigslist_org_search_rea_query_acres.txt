@@ -1,0 +1,83 @@
+URL: https://newlondon.craigslist.org/search/rea?query=acres
+FINAL: https://www.craigslist.org/search/area/newlondon?cat=rea&query=acres
+STATUS: 200
+TITLE: eastern CT real estate "acres" - craigslist
+BYTES: 15531
+
+===== TEXT =====
+eastern CT real estate "acres" - craigslist
+
+loading
+
+reading
+
+writing
+
+saving
+
+searching
+
+refresh the page. [#]
+
+craigslist [/]
+
+Real Estate "acres" in Eastern CT
+
+see also
+
+EAST HADDAM HOME ON 9 ACRES $3,000 DEVILS HOPYARD [https://www.craigslist.org/view/d/east-haddam-east-haddam-home-on-acres/wF8Khq774iXo9jxjZLn7hG]
+
+Private Eastern Connecticut Retreat — 3.8 Wooded Acres, Pool, 4BR Home $810,000 Salem / Oakdale [https://www.craigslist.org/view/d/oakdale-private-eastern-connecticut/dgymqfemoQ7ZhQwYpTaSPR]
+
+Country Living with Convenience on 7.29 Private Acres $265,000 Stonington, CT [https://www.craigslist.org/view/d/old-mystic-country-living-with/4SotSbRKuCY3mMW66AorDy]
+
+RARE FIND: 7 Acres Surrounded by State Forest $30,000 Scotland [https://www.craigslist.org/view/d/scotland-rare-find-acres-surrounded-by/fkCSFUP4PdYHEVsgVoRKyw]
+
+Land for Apartments - Uncasville, CT 1 mile from the Casino - ! ! ! $295,000 Uncasville, CT [https://www.craigslist.org/view/d/norwich-land-for-apartments-uncasville/hN73wzMALy2DeuFjuwQEf7]
+
+Lake House in Ashford for year round use and enjoyment $250,000 Ashford [https://www.craigslist.org/view/d/ashford-lake-house-in-ashford-for-year/7zSVhEZUhBMivvLvKCggrJ]
+
+1 acre industrial storage lot for RENT $0 PLAINFIELD [https://www.craigslist.org/view/d/north-westchester-acre-industrial/qgKeFmr1AmvUceJkeKoJDj]
+
+Commercial / Retail Site - New London, CT - I95 Visibility $219,000 $219,000 Vauxhall Street New London, CT [https://www.craigslist.org/view/d/commercial-retail-site-new-london-ct/6PHVeS9jrVJ3qDRrDbRoXX]
+
+===== LINKS =====
+craigslist -> https://www.craigslist.org/
+EAST HADDAM HOME ON 9 ACRES $3,000 DEVILS HOPYARD -> https://www.craigslist.org/view/d/east-haddam-east-haddam-home-on-acres/wF8Khq774iXo9jxjZLn7hG
+Private Eastern Connecticut Retreat — 3.8 Wooded Acres, Pool, 4BR Home $810,000 Salem / Oakdale -> https://www.craigslist.org/view/d/oakdale-private-eastern-connecticut/dgymqfemoQ7ZhQwYpTaSPR
+Country Living with Convenience on 7.29 Private Acres $265,000 Stonington, CT -> https://www.craigslist.org/view/d/old-mystic-country-living-with/4SotSbRKuCY3mMW66AorDy
+RARE FIND: 7 Acres Surrounded by State Forest $30,000 Scotland -> https://www.craigslist.org/view/d/scotland-rare-find-acres-surrounded-by/fkCSFUP4PdYHEVsgVoRKyw
+Land for Apartments - Uncasville, CT 1 mile from the Casino - ! ! ! $295,000 Uncasville, CT -> https://www.craigslist.org/view/d/norwich-land-for-apartments-uncasville/hN73wzMALy2DeuFjuwQEf7
+Lake House in Ashford for year round use and enjoyment $250,000 Ashford -> https://www.craigslist.org/view/d/ashford-lake-house-in-ashford-for-year/7zSVhEZUhBMivvLvKCggrJ
+1 acre industrial storage lot for RENT $0 PLAINFIELD -> https://www.craigslist.org/view/d/north-westchester-acre-industrial/qgKeFmr1AmvUceJkeKoJDj
+Commercial / Retail Site - New London, CT - I95 Visibility $219,000 $219,000 Vauxhall Street New London, CT -> https://www.craigslist.org/view/d/commercial-retail-site-new-london-ct/6PHVeS9jrVJ3qDRrDbRoXX
+
+===== RAW HEAD =====
+<!DOCTYPE html>
+<html>
+<head>
+    
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<meta property="og:site_name" content="craigslist">
+	<meta name="twitter:card" content="preview">
+	<meta property="og:title" content="eastern CT real estate &quot;acres&quot; - craigslist">
+	<meta name="description" content="eastern CT real estate &quot;acres&quot; - craigslist">
+	<meta property="og:description" content="eastern CT real estate &quot;acres&quot; - craigslist">
+	<meta property="og:url" content="https://www.craigslist.org/search/area/newlondon?cat=rea&amp;query=acres">
+	<title>eastern CT real estate &quot;acres&quot; - craigslist</title>
+	<link rel="canonical" href="https://www.craigslist.org/search/area/newlondon?cat=rea&amp;query=acres">
+	<link rel="alternate" href="https://www.craigslist.org/search/area/newlondon?cat=rea&amp;query=acres" hreflang="x-default">
+
+
+
+    <link rel="icon" href="/favicon.ico" id="favicon" />
+
+<script type="application/ld+json" id="ld_searchpage_data" >
+    {"@context":"https://schema.org","description":"Real Estate \"acres\" in Eastern CT","breadcrumb":{"@context":"https://schema.org","itemListElement":[{"item":"https://www.craigslist.org/area/newlondon","name":"craigslist: eastern CT","@type":"ListItem","position":1},{"position":2,"name":"housing","item":"https://www.craigslist.org/search/area/newlondon?cat=hhh","@type":"ListItem"},{"position":3,"@type":"ListItem","name":"real estate for sale","item":"https://www.craigslist.org/search/area/newlondon?cat=rea"}],"@type":"BreadcrumbList"},"@type":"SearchResultsPage"}
+</script>
+
+
+<script type="application/ld+json" id="ld_searchpage_results" >
+    {"itemListElement":[{"position":"0","@type":"ListItem","item":{"address":{"addressLocality":"East Haddam","@type":"PostalAddress","streetAddress":"","addressRegion":"CT","postalCode":"","addressCountry":""},"@context":"http://schema.org","numberOfBedrooms":3,"latitude":41.4954553207358,"longitude":-72.3475223078524,"numberOfBathroomsTotal":2,"@type":"House","name":"EAST HADDAM HOME ON 9 ACRES"}},{"item":{"@context":"http://schema.org","numberOfBedrooms":4,"address":{"addressRegion":"CT","@type":"PostalAddress","addressLocality":"Oakdale","streetAddress":"","postalCode":"","addressCountry":""},"latitude":41.4705998386265,"numberOfBathroomsTotal":3,"longitude":-72.1904000917021,"name":"Private Eastern Connecticut Retreat — 3.8 Wooded Acres, Pool, 4BR Home","@type":"House"},"@type":"ListItem","position":"1"},{"item":{"address":{"streetAddress":"","addressLocality":"Old Mystic","@type":"PostalAddress","addressRegion":"CT","postalCode":"","addressCountry":""},"longitude":-71.9207168789577,"@context":"http://schema.org","latitude":41.4099992385544,"@type":"Place","name":"Country Living with Convenience on 7.29 Private Acres"},"@type":"ListItem","position":"2"},{"position":"3","item":{"@context":"http://schema.org","latitude":41.6743992074702,"longitude":-72.0730033313173,"address":{"addressCountry":"","postalCode":"","addressRegion":"CT","@type":"PostalAddress","addressLocality":"Scotland","streetAddress":""},"name":"RARE FIND: 7 Acres Surrounded by State Forest","@type":"Place"},"@type":"ListItem"},{"item":{"@type":"Place","name":"Land for Apartments - Uncasville, CT  1 mile from the Casino -  ! ! !","address":{"addressCountry":"","postalCode":"","addressRegion":"CT","@type":"PostalAddress","addressLocality":"Norwich","streetAddress":""},"longitude":-72.0849013728904,"latitude":41.5370990391992,"@context":"http://schema.org"},"@type":"ListItem","position":"4"},{"position":"5","@type":"ListItem","item":{"address":{"addressRegion":"CT","addressLocality":"Ashford","@type":"PostalAddress","streetAddress":"","postalCode":"","addressCountry":""},"@context":"http://schema.org","latitude":41.9406945207722,"longitude":-72.1970326511382,"@type":"Apartment","name":"Lake House in Ashford for year round use and enjoyment"}},{"posit

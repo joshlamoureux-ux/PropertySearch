@@ -1,0 +1,38 @@
+URL: https://www.landsearch.com/properties/connecticut
+FINAL: https://www.landsearch.com/properties/connecticut
+STATUS: 403
+TITLE: Verification Required - LandSearch
+BYTES: 107103
+
+===== TEXT =====
+Verification Required - LandSearch
+
+Verification
+
+Complete the security check to continue.
+
+Email support@landsearch.com [mailto:support@landsearch.com?subject=Access Assistance (a37187e70a954d21)] with the details below for assistance.
+
+Ray ID a37187e70a954d21
+
+IP 52.159.243.16
+
+===== LINKS =====
+
+
+===== RAW HEAD =====
+<!doctype html>
+<html lang="en">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Verification Required - LandSearch</title>
+
+	<meta name="robots" content="noindex, follow">
+
+	<meta name="color-scheme" content="dark light">
+	<meta name="theme-color" content="#e1e9e5" media="(prefers-color-scheme: light)">
+	<meta name="theme-color" content="#131b17" media="(prefers-color-scheme: dark)">
+
+	<style>
+		html{-moz-text-size-adjust:none;-webkit-text-size-adjust:none;font-family:'"1"';text-size-adjust:none;font-size:62.5%}body{color:#29332e;margin:0;position:relative;background:#e1e9e5;font-family:Averta,Fallback,'Helvetica Neue',sans-serif;font-size:1.8rem;font-weight:300;line-height:1em}body,body *,body ::after,body ::before,body::after,body::before{box-sizing:border-box}main{display:block}img,video{max-width:100%}svg{overflow:hidden}audio,canvas,video{display:inline-block}abbr[title]{cursor:help;text-decoration-line:none}b,strong{font-weight:400}figure{margin:0;position:relative;text-align:center;margin-bottom:3rem}figure>img{margin-bottom:3rem}figure figcaption{color:#29332e;font-style:normal;line-height:1.6em;margin-top:3rem}iframe{border:0;margin-bottom:3rem}img,picture{display:inline-block}img{height:auto}picture>img{vertical-align:top}sub,sup{font-size:.8em;line-height:0;margin-left:.2em;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.2em}#global [hidden]{display:none}::selection{background:#2b6c4b;color:#f0f8f4;text-shadow:none}h1,h2,h3,h4,h5,h6{color:#151f1a;font-weight:400;margin:0;line-height:1.12em;margin-bottom:3rem}h1 small,h2 small,h3 small,h4 small,h5 small,h6 small{font-weight:400}h1{font-size:4.3rem}h2{font-size:3.5rem}h3{font-size:2.7rem}h4{font-size:2.3rem}h5{font-size:1.9rem}h6{font-size:1.9rem}p{color:#29332e;font-weight:300;margin:0;line-height:1.6em;margin-bottom:2.4rem}small{font-size:1.5rem}em,i{font-style:italic}blockquote,q{color:#29332e;margin:0;font-family:Georgia,Palatino,serif;font-size:2.7rem;font-weight:400;line-height:1.5em;font-style:normal}blockquote cite,q cite{color:#4c5651;font-size:1.6rem;font-weight:300;line-height:1.35em;font-style:normal;margin-top:2.4rem}blockquote cite::before,q cite::before{content:'\2014\00a0'}blockquote p,q p{color:#29332e}blockquote{margin-bottom:3rem}blockquote cite{display:block}a{color:#2b6c4b;text-decoration-line:none}a:focus{outline:thin dotted}.-c a:hover{color:#24553c}.-c a:active{color:#3f7a5c}a img{border:0}.hr,hr{border:0;display:block;height:1px;border-top:1px solid #c9d1cd;margin-top:4rem;margin-bottom:4rem}address{color:#29332e;font-style:normal;font-size:1.8rem;line-height:1.6em;margin-bottom:3rem}dl,ol,ul{color:#29332e;font-weight:300;list-style-position:inside;margin:0;line-height:1.6em;margin-bottom:2.4rem}ol,ul{padding:0}ol ol,ol ul,ul ol,ul ul{margin-bottom:0;margin-left:2rem}ul{list-style-type:disc}ul ul{list-style-type:circle}ul ul ul{list-style-type:square}ol{list-style-type:decimal}dl{margin:0;margin-bottom:3rem}dt{color:#29332e}dd{color:#29332e;margin:0}.button,button,input[type=button],input[type=reset],input[type=submit]{color:#f0f8f4;display:inline-block;line-height:1em;padding:0;text-align:center;text-shadow:none;background:#2b6c4b;font-family:inherit;font-size:1.7rem;font-weight:600;padding-left:2rem;padding-right:2rem;background-clip:border-box;border-radius:.7rem;border:0}.button:focus,button:focus,input[type=button]:focus,input[type=reset]:focus,input[type=submit]:focus{color:#f0f8f4;background-color:#24553c}.-c .button:hover,.-c button:hover,.-c input[type=button]:hover,.-c input[type=reset]:hover,.-c input[type=submit]:hover{color:#f0f8f4;background-color:#24553c}.-c .button:active,.-c button:active,.-c input[type=button]:active,.-c input[type=reset]:active,.-c input[type=submit]:active{color:#f0f8f4;background-color:#3f7a5c}.button.-disabled,.button:disabled,button.-disabled,button:disabled,input[type=button].-disabled,input[type=button]:disabled,input[type=reset].-disabled,in

@@ -1,0 +1,92 @@
+URL: https://hartford.craigslist.org/search/rea?query=acres
+FINAL: https://www.craigslist.org/search/area/hartford?cat=rea&query=acres
+STATUS: 200
+TITLE: hartford real estate "acres" - craigslist
+BYTES: 17635
+
+===== TEXT =====
+hartford real estate "acres" - craigslist
+
+loading
+
+reading
+
+writing
+
+saving
+
+searching
+
+refresh the page. [#]
+
+craigslist [/]
+
+Real Estate "acres" in Hartford, CT
+
+see also
+
+REAL ESTATE AUCTION | 4-BD, 2-BTH Man. Home on 21.6 Acres | SEP. 10 $0 [https://www.craigslist.org/view/d/corinth-real-estate-auction-bd-bth-man/9fWBeg3fevp7NmSp6zqFnn]
+
+Prime Land $0 [https://www.craigslist.org/view/d/wallingford-prime-land/hpUhkPWsiKARhTfcNVqR4u]
+
+Buy&Hold (Retail Strip Mall): 20,000 Sqft, Terryville, CT $0 [https://www.craigslist.org/view/d/pequabuck-buyhold-retail-strip-mall/5oMWeAy7gZdFByHFKoSS33]
+
+LAND! WILLIAMSTOWN, MA - BEAUTIFUL BUILDABLE MEADOW! $0 Williamstown, MA [https://www.craigslist.org/view/d/williamstown-land-williamstown-ma/46Tddoi2oUPLnnHjoH6JUj]
+
+Live Real Estate Auction | 3-Bed, 1-Bath Home in Vermont | Sept. 11 $0 [https://www.craigslist.org/view/d/hardwick-live-real-estate-auction-bed/3HrnWgChYZi4hfgX4pA6jH]
+
+Industrial Major Development - Concrete /Asphalt _ SITE $0 [https://www.craigslist.org/view/d/voluntown-industrial-major-development/jftw8txJjKxZ5cjHKJRfGR]
+
+1.27 Acre Building Lot Durham NH UNH $295,000 Durham New Hampshire [https://www.craigslist.org/view/d/durham-127-acre-building-lot-durham-nh/sY4B8orJETdU9AqSxA15VZ]
+
+TRANQUIL AREA BUILDING LOT 3/4 ACRE $109,900 HIGGANUM [https://www.craigslist.org/view/d/higganum-tranquil-area-building-lot-4/6u9aE6nsWL5rRXhP2DLn7y]
+
+Vacant lot $75,000 80 South Main Street, Marlborough CT [https://www.craigslist.org/view/d/marlborough-vacant-lot/dy7gp78YAj9WaLgqkXQUhA]
+
+House for Sale - New Construction - 39 Josephine Way, Tolland, CT $890,000 tolland [https://www.craigslist.org/view/d/tolland-house-for-sale-new-construction/tkGDd23r8RePrKcJZKFsJx]
+
+10 Acres Approved 14 homes/7 two family lots in East Otis. MA $0 East Otis [https://www.craigslist.org/view/d/east-otis-10-acres-approved-14-homes/7GBfWrSFUyQencEDiM4Hjy]
+
+===== LINKS =====
+craigslist -> https://www.craigslist.org/
+REAL ESTATE AUCTION | 4-BD, 2-BTH Man. Home on 21.6 Acres | SEP. 10 $0 -> https://www.craigslist.org/view/d/corinth-real-estate-auction-bd-bth-man/9fWBeg3fevp7NmSp6zqFnn
+Prime Land $0 -> https://www.craigslist.org/view/d/wallingford-prime-land/hpUhkPWsiKARhTfcNVqR4u
+Buy&amp;Hold (Retail Strip Mall): 20,000 Sqft, Terryville, CT $0 -> https://www.craigslist.org/view/d/pequabuck-buyhold-retail-strip-mall/5oMWeAy7gZdFByHFKoSS33
+LAND! WILLIAMSTOWN, MA - BEAUTIFUL BUILDABLE MEADOW! $0 Williamstown, MA -> https://www.craigslist.org/view/d/williamstown-land-williamstown-ma/46Tddoi2oUPLnnHjoH6JUj
+Live Real Estate Auction | 3-Bed, 1-Bath Home in Vermont | Sept. 11 $0 -> https://www.craigslist.org/view/d/hardwick-live-real-estate-auction-bed/3HrnWgChYZi4hfgX4pA6jH
+Industrial Major Development - Concrete /Asphalt _ SITE $0 -> https://www.craigslist.org/view/d/voluntown-industrial-major-development/jftw8txJjKxZ5cjHKJRfGR
+1.27 Acre Building Lot Durham NH UNH $295,000 Durham New Hampshire -> https://www.craigslist.org/view/d/durham-127-acre-building-lot-durham-nh/sY4B8orJETdU9AqSxA15VZ
+TRANQUIL AREA BUILDING LOT 3/4 ACRE $109,900 HIGGANUM -> https://www.craigslist.org/view/d/higganum-tranquil-area-building-lot-4/6u9aE6nsWL5rRXhP2DLn7y
+Vacant lot $75,000 80 South Main Street, Marlborough CT -> https://www.craigslist.org/view/d/marlborough-vacant-lot/dy7gp78YAj9WaLgqkXQUhA
+House for Sale - New Construction - 39 Josephine Way, Tolland, CT $890,000 tolland -> https://www.craigslist.org/view/d/tolland-house-for-sale-new-construction/tkGDd23r8RePrKcJZKFsJx
+10 Acres Approved 14 homes/7 two family lots in East Otis. MA $0 East Otis -> https://www.craigslist.org/view/d/east-otis-10-acres-approved-14-homes/7GBfWrSFUyQencEDiM4Hjy
+
+===== RAW HEAD =====
+<!DOCTYPE html>
+<html>
+<head>
+    
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<meta property="og:site_name" content="craigslist">
+	<meta name="twitter:card" content="preview">
+	<meta property="og:title" content="hartford real estate &quot;acres&quot; - craigslist">
+	<meta name="description" content="hartford real estate &quot;acres&quot; - craigslist">
+	<meta property="og:description" content="hartford real estate &quot;acres&quot; - craigslist">
+	<meta property="og:url" content="https://www.craigslist.org/search/area/hartford?cat=rea&amp;query=acres">
+	<title>hartford real estate &quot;acres&quot; - craigslist</title>
+	<link rel="canonical" href="https://www.craigslist.org/search/area/hartford?cat=rea&amp;query=acres">
+	<link rel="alternate" href="https://www.craigslist.org/search/area/hartford?cat=rea&amp;query=acres" hreflang="x-default">
+
+
+
+    <link rel="icon" href="/favicon.ico" id="favicon" />
+
+<script type="application/ld+json" id="ld_searchpage_data" >
+    {"breadcrumb":{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"item":"https://www.craigslist.org/area/hartford","name":"craigslist: hartford","@type":"ListItem","position":1},{"position":2,"@type":"ListItem","name":"housing","item":"https://www.craigslist.org/search/area/hartford?cat=hhh"},{"position":3,"item":"https://www.craigslist.org/search/area/hartford?cat=rea","@type":"ListItem","name":"real estate for sale"}]},"@type":"SearchResultsPage","description":"Real Estate \"acres\" in Hartford, CT","@context":"https://schema.org"}
+</script>
+
+
+<script type="application/ld+json" id="ld_searchpage_results" >
+    {"@context":"https://schema.org","@type":"ItemList","itemListElement":[{"position":"0","@type":"ListItem","item":{"@context":"http://schema.org","longitude":-72.2821982437174,"latitude":44.0325015512405,"address":{"postalCode":"","streetAddress":"","addressRegion":"VT","addressLocality":"Corinth","@type":"PostalAddress","addressCountry":""},"name":"REAL ESTATE AUCTION | 4-BD, 2-BTH Man. Home on 21.6 Acres | SEP. 10","@type":"House"}},{"item":{"name":"Prime Land","address":{"postalCode":"","streetAddress":"","addressRegion":"CT","addressLocality":"Wallingford","@type":"PostalAddress","addressCountry":""},"@type":"Apartment","latitude":41.4910292217686,"longitude":-72.7862252053624,"@context":"http://schema.org"},"@type":"ListItem","position":"1"},{"position":"2","@type":"ListItem","item":{"latitude":41.6761988679046,"address":{"postalCode":"","streetAddress":"","addressRegion":"CT","addressLocality":"Pequabuck","@type":"PostalAddress","addressCountry":""},"name":"Buy&Hold (Retail Strip Mall): 20,000 Sqft, Terryville, CT","@type":"Apartment","@context":"http://schema.org","longitude":-73.0091963149879}},{"@type":"ListItem","item":{"@context":"http://schema.org","longitude":-73.27159895303,"address":{"addressCountry":"","@type":"PostalAddress","addressLocality":"Williamstown","addressRegion":"MA","streetAddress":"","postalCode":""},"name":"LAND! WILLIAMSTOWN, MA - BEAUTIFUL BUILDABLE MEADOW!","@type":"Place","latitude":42.6387398887407},"position":"3"},{"item":{"longitude":-72.3637983199378,"@context":"http://schema.org","address":{"streetAddress":"","postalCode":"","addressLocality":"Hardwick","addressRegion":"VT","@type":"PostalAddress","addressCountry":""},"@type":"House","name":"Live Real Estate Auction | 3-Bed, 1-Bath Home in Vermont | Sept. 11","latitude":44.5070017058727},"@type":"ListItem","position":"4"},{"@type":"ListItem","item":{"latitude":41.5540683302167,"address":{"@type":"PostalAddress","addressCountry":"","postalCode":"","streetAddress":"","addressRegion":"CT","addressLocality":"Voluntown"},"name":"Industrial Major Development - Concrete  /Asphalt _ SITE","@type":"Place","longitude":-71.8464661323751,"@context":"http://schema.org"},"position":"5"},{"@type":"ListItem","item":{"latitude":43.1173997169653,"name":"1.2

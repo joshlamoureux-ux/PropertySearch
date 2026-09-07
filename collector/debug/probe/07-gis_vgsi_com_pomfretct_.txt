@@ -1,0 +1,80 @@
+URL: https://gis.vgsi.com/pomfretct/
+FINAL: https://gis.vgsi.com/pomfretct/
+STATUS: 200
+TITLE: Vision Government Solutions
+BYTES: 12290
+
+===== TEXT =====
+Vision Government Solutions
+
+|
+
+POMFRET,CT
+
+|
+
+Welcome
+
+Welcome to the Town of Pomfret, CT’s online assessment
+database.
+
+The Pomfret website is scheduled to update on a monthly basis with the most recent data.
+
+The associated field cards have been updated as of 1/06/2025. These are a snapshot in time and are not scheduled for update at this time.
+
+Do not apply the current mill rate to your new assessment as
+the mill rate will change annually. July 2025
+tax bills will be based a mill rate of 21.03 for Town and 0.087 for Fire.
+
+If you wish to appeal your assessment after the informal
+hearing process is complete, you must file a written appeal to the Pomfret
+Board of Assessment Appeals. The appeal application will be found in the
+Assessor’s Office, on the Assessor’s page of the Town’s website at www.pomfretct.gov [https://urldefense.proofpoint.com/v2/url?u=http-3A__www.pomfretct.gov&d=DwMFAg&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=LGIZFrXRrWBbRx5NNL3E1eWC-FmYHCsawUol-5210u0&m=4pDJK_H5bNBpqI-0TOOhsjIMKVeFfgcQsvaG1qpjz_zYGyMCgssRCIzfgm_h0Mg0&s=rQP4g9AdcazMazYHGv40bd1ovqTdea8ffDyyRA6jFC8&e=] or
+by request at assessor@pomfretct.gov [mailto:assessor@pomfretct.gov] .
+The appeal application will be made available after January 15, 2027 and must
+be received on or before February 20, 2027.
+
+You may be prompted to install Silverlight (a free product from Microsoft) after you enter. Follow all the prompts to run the plug-in installer. In some cases, you may need to refresh or restart your browser. If you have any questions please call Vision customer support at 800-628-1013 x2.
+
+(c) 2026 Vision Government Solutions, Inc. All rights reserved.
+
+===== LINKS =====
+www.pomfretct.gov -> https://urldefense.proofpoint.com/v2/url?u=http-3A__www.pomfretct.gov&d=DwMFAg&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=LGIZFrXRrWBbRx5NNL3E1eWC-FmYHCsawUol-5210u0&m=4pDJK_H5bNBpqI-0TOOhsjIMKVeFfgcQsvaG1qpjz_zYGyMCgssRCIzfgm_h0Mg0&s=rQP4g9AdcazMazYHGv40bd1ovqTdea8ffDyyRA6jFC8&e=
+
+===== RAW HEAD =====
+
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    
+     <link type="text/css" rel="stylesheet" media="all" href="/PomfretCT/Styles/base.css" />
+   <!--
+   [if IE 7]><link type="text/css" rel="stylesheet" media="all" href="/PomfretCT/Styles/ie7.css" /><![endif]
+   [if IE 8]><link type="text/css" rel="stylesheet" media="all" href="/PomfretCT/Styles/ie8.css"/><![endif]
+   -->
+   <link href="/PomfretCT/Styles/SoftGreyGridView.css" rel="stylesheet" type="text/css" />
+    <link href="/PomfretCT/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+
+    <link href="/PomfretCT/Styles/jquery-ui-1.9.2.custom.css" rel="stylesheet" type="text/css" />
+   
+    <!-- JQuery and UI-->
+    <script src="/PomfretCT/Scripts/jquery-1.8.3.js"  type="text/javascript"></script>
+    <script src="/PomfretCT/Scripts/jquery-ui-1.9.2.custom.min.js"  type="text/javascript"></script>
+   
+    <script src="/PomfretCT/Scripts/bgiframe.js" type="text/javascript"></script>
+    <link rel="shortcut icon" href="/PomfretCT/Images/VGS_Icon32x32.ico" type="image/x-icon" />
+      <style type="text/css">
+	.myoutercontainer { position:relative }
+	.myinnercontainer { position:absolute; top:50%; height:75px; margin-top:0px }
+    </style>
+
+    <title>Vision Government Solutions </title>
+</head>
+<body class="page front">
+    <form method="post" action="./" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTE2OTQ4MTU3NQ9kFgJmD2QWAmYPZBYGZg9kFgRmDw8WAh4ISW1hZ2VVcmwFF34vSW1hZ2VzL3BvbWZyZXRfY3QuanBnZGQCAQ8PFgIeBFRleHQFClBPTUZSRVQsQ1RkZAIBDw8WAh4HVmlzaWJsZWhkZAICD2QWBAIBDxYCHwEFpww8ZGl2PjxwIGNsYXNzPSJNc29Ob3JtYWwiPldlbGNvbWUgdG8gdGhlIFRvd24gb2YgUG9tZnJldCwgQ1TigJlzIG9ubGluZSBhc3Nlc3NtZW50DQpkYXRhYmFzZS48L3A+PHAgY2xhc3M9Ik1zb05vcm1hbCI+VGhlIFBvbWZyZXQgd2Vic2l0ZSBpcyBzY2hlZHVsZWQgdG8gdXBkYXRlIG9uIGEgbW9udGhseSBiYXNpcyB3aXRoIHRoZSBtb3N0IHJlY2VudCBkYXRhLjwvcD48cCBjbGFzcz0iTXNvTm9ybWFsIj5UaGUgYXNzb2NpYXRlZCBmaWVsZCBjYXJkcyBoYXZlIGJlZW4gdXBkYXRlZCBhcyBvZiAxLzA2LzIwMjUuJm5ic3A7IFRoZXNlIGFyZSBhIHNuYXBzaG90IGluIHRpbWUgYW5kIGFyZSBub3Qgc2NoZWR1bGVkIGZvciB1cGRhdGUgYXQgdGhpcyB0aW1lLjwvcD4NCg0KPHAgY2xhc3M9Ik1zb05vcm1hbCI+RG8gbm90IGFwcGx5IHRoZSBjdXJyZW50IG1pbGwgcmF0ZSB0byB5b3VyIG5ldyBhc3Nlc3NtZW50IGFzDQp0aGUgbWlsbCByYXRlIHdpbGwgY2hhbmdlIGFubnVhbGx5LiBKdWx5IDIwMjUNCnRheCBiaWxscyB3aWxsIGJlIGJhc2VkIGEgbWlsbCByYXRlIG9mIDIxLjAzIGZvciBUb3duIGFuZCAwLjA4NyBmb3IgRmlyZS48bzpwPjwvbzpwPjwvcD4NCg0KPHAgY2xhc3M9Ik1zb05vcm1hbCI+SWYgeW91IHdpc2ggdG8gYXBwZWFsIHlvdXIgYXNzZXNzbWVudCBhZnRlciB0aGUgaW5mb3JtYWwNCmhlYXJpbmcgcHJvY2VzcyBpcyBjb21wbGV0ZSwgeW91IG11c3QgZmlsZSBhIHdyaXR0ZW4gYXBwZWFsIHRvIHRoZSBQb21mcmV0DQpCb2FyZCBvZiBBc3Nlc3NtZW50IEFwcGVhbHMuIFRoZSBhcHBlYWwgYXBwbGljYXRpb24gd2lsbCBiZSBmb3VuZCBpbiB0aGUNCkFzc2Vzc29y4oCZcyBPZmZpY2UsIG9uIHRoZSBBc3Nlc3NvcuKAmXMgcGFnZSBvZiB0aGUgVG93buKAmXMgd2Vic2l0ZSBhdCZuYnNwOzxhIGhyZWY9Imh0dHBzOi8vdXJsZGVmZW5zZS5wcm9vZnBvaW50LmNvbS92Mi91cmw/dT1odHRwLTNBX193d3cucG9tZnJldGN0LmdvdiZhbXA7ZD1Ed01GQWcmYW1wO2M9ZXVHWnN0Y2FURGxsdmltRU44YjdqWHJ3cU9mLXY1QV9DZHBnblZmaWlNTSZhbXA7cj1MR0laRnJYUnJXQmJSeDVOTkwzRTFlV0MtRm1ZSENzYXdVb2wtNTIxMHUwJmFtcDttPTRwREpLX0g1Yk5CcHFJLTBUT09oc2pJTUtWZUZmZ2NRc3ZhRzFxcGp6X3pZR3lNQ2dzc1JDSXpmZ21faDBNZzAmYW1wO3M9clFQNGc5QWRjYXpNYXpZSEd2NDBiZDFvdnFUZGVhOGZmRHl5UkE2akZDOCZhbXA7ZT0iPnd3dy5wb21mcmV0Y3QuZ292PC9hPiZuYnNwO29yDQpieSByZXF1ZXN0IGF0Jm5ic3A7PGEgaHJlZj0ibWFpbHRvOmFzc2Vzc29yQHBvbWZyZXRjdC5nb3YiPmFzc2Vzc29yQHBvbWZyZXRjdC5nb3Y8L2E+Jm5ic3A7Lg0KVGhlIGFwcGVhbCBhcHBsaWNhdGlvbiB3aWxsIGJlIG1hZGUgYXZhaWxhYmxlIGFmdGVyIEphbnVhcnkgMTUsIDIwMjcgYW5kIG11c3QNCmJlIHJlY2VpdmVkIG9uIG9yIGJlZm9yZSBGZWJydWFyeSAyMCwgMjAyNy48bzpwPjwvbzpwPjwvcD48L2Rpdj48ZGl2Pjxicj48ZGl2Pjxicj48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2Pjxicj48L2Rpdj48L2Rpdj5kAgMPZBYGAgEPFgIfAmhkAgMPDxYCHwJnZGQCBQ8WAh8BBaICWW91IG1heSBiZSBwcm9tcHRlZCB0byBpbnN0YWxsIFNpbHZlcmxpZ2h0IChhIGZyZWUgcHJvZHVjdCBmcm9

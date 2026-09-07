@@ -1,0 +1,92 @@
+URL: https://worcester.craigslist.org/search/rea?query=acres
+FINAL: https://www.craigslist.org/search/area/worcester?cat=rea&query=acres
+STATUS: 200
+TITLE: worcester real estate "acres" - craigslist
+BYTES: 18302
+
+===== TEXT =====
+worcester real estate "acres" - craigslist
+
+loading
+
+reading
+
+writing
+
+saving
+
+searching
+
+refresh the page. [#]
+
+craigslist [/]
+
+Real Estate "acres" in Worcester / Central MA
+
+see also
+
+EXECUTIVE STYLE RANCH ON 18 ACRES $599,900 [https://www.craigslist.org/view/d/westminster-executive-style-ranch-on-18/4LYgSi3h2YanvVBK5prAaN]
+
+Move-In Ready 3BR/2BA Cape in Townsend – 1.19 Acres $549,900 Townsend [https://www.craigslist.org/view/d/west-townsend-move-in-ready-3br-2ba/s2h2AXAbfpFmJP4zxi21dq]
+
+Gardner MA - 3.5 Acres and Flexible First-Floor Living! $519,900 Gardner [https://www.craigslist.org/view/d/westminster-gardner-ma-35-acres-and/1Z1XMF3TJiH8GY54p3r6Av]
+
+4 year round cabins, 1 house, a pavilion and 2 garages on 24 acres!! $709,000 Lee [https://www.craigslist.org/view/d/lee-year-round-cabins-house-pavilion/tu2cJBd6FHHFFsjxXd4WU6]
+
+4 lots in North Brookfield $79,900 North Brookfield [https://www.craigslist.org/view/d/north-brookfield-lots-in-north/7HmhLkmtmw1pgVnNTm19Nf]
+
+Garage For Sale - 30 X 45 on .3 Acre Lot $225,000 Littleton [https://www.craigslist.org/view/d/littleton-garage-for-sale-30-45-on-acre/pCitQhL1SA2516Pg9MstX7]
+
+Great Yard! Open House Sat from 11-1 $509,900 Westminster [https://www.craigslist.org/view/d/westminster-great-yard-open-house-sat/idwxzbcz4z61sA1u7U1gSy]
+
+LAND/LOT #3 commGB zone ROUTE 20 - 97’ RT 20 RD frontage- $0 695,000 [https://www.craigslist.org/view/d/north-oxford-land-lot-commgb-zone-route/vtgiMk7Vp3dW3nvYVfeExb]
+
+2 LOTS: LAND/LOT #3 commGB zone ROUTE 20 - 97’ RT 20 RD frontage- $695,000 Auburn/oxford line [https://www.craigslist.org/view/d/north-oxford-lots-land-lot-commgb-zone/n99BmVHsv3KS23U2Ec99zP]
+
+FSBO LAND/LOT #3 commGB zone ROUTE 20 - 97’ RT 20 RD frontage- $695,000 [https://www.craigslist.org/view/d/north-oxford-fsbo-land-lot-commgb-zone/bkWxQj1EdVMiKeGFLfyYXR]
+
+Beautiful 47 acre Building Lot w/ potential views $169,900 North Brookfield, MA [https://www.craigslist.org/view/d/north-brookfield-beautiful-47-acre/ueBFeNG5KW9ewFFszvSuWk]
+
+===== LINKS =====
+craigslist -> https://www.craigslist.org/
+EXECUTIVE STYLE RANCH ON 18 ACRES $599,900 -> https://www.craigslist.org/view/d/westminster-executive-style-ranch-on-18/4LYgSi3h2YanvVBK5prAaN
+Move-In Ready 3BR/2BA Cape in Townsend – 1.19 Acres $549,900 Townsend -> https://www.craigslist.org/view/d/west-townsend-move-in-ready-3br-2ba/s2h2AXAbfpFmJP4zxi21dq
+Gardner MA - 3.5 Acres and Flexible First-Floor Living! $519,900 Gardner -> https://www.craigslist.org/view/d/westminster-gardner-ma-35-acres-and/1Z1XMF3TJiH8GY54p3r6Av
+4 year round cabins, 1 house, a pavilion and 2 garages on 24 acres!! $709,000 Lee -> https://www.craigslist.org/view/d/lee-year-round-cabins-house-pavilion/tu2cJBd6FHHFFsjxXd4WU6
+4 lots in North Brookfield $79,900 North Brookfield -> https://www.craigslist.org/view/d/north-brookfield-lots-in-north/7HmhLkmtmw1pgVnNTm19Nf
+Garage For Sale - 30 X 45 on .3 Acre Lot $225,000 Littleton -> https://www.craigslist.org/view/d/littleton-garage-for-sale-30-45-on-acre/pCitQhL1SA2516Pg9MstX7
+Great Yard! Open House Sat from 11-1 $509,900 Westminster -> https://www.craigslist.org/view/d/westminster-great-yard-open-house-sat/idwxzbcz4z61sA1u7U1gSy
+LAND/LOT #3 commGB zone ROUTE 20 - 97’ RT 20 RD frontage- $0 695,000 -> https://www.craigslist.org/view/d/north-oxford-land-lot-commgb-zone-route/vtgiMk7Vp3dW3nvYVfeExb
+2 LOTS: LAND/LOT #3 commGB zone ROUTE 20 - 97’ RT 20 RD frontage- $695,000 Auburn/oxford line -> https://www.craigslist.org/view/d/north-oxford-lots-land-lot-commgb-zone/n99BmVHsv3KS23U2Ec99zP
+FSBO LAND/LOT #3 commGB zone ROUTE 20 - 97’ RT 20 RD frontage- $695,000 -> https://www.craigslist.org/view/d/north-oxford-fsbo-land-lot-commgb-zone/bkWxQj1EdVMiKeGFLfyYXR
+Beautiful 47 acre Building Lot w/ potential views $169,900 North Brookfield, MA -> https://www.craigslist.org/view/d/north-brookfield-beautiful-47-acre/ueBFeNG5KW9ewFFszvSuWk
+
+===== RAW HEAD =====
+<!DOCTYPE html>
+<html>
+<head>
+    
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<meta property="og:site_name" content="craigslist">
+	<meta name="twitter:card" content="preview">
+	<meta property="og:title" content="worcester real estate &quot;acres&quot; - craigslist">
+	<meta name="description" content="worcester real estate &quot;acres&quot; - craigslist">
+	<meta property="og:description" content="worcester real estate &quot;acres&quot; - craigslist">
+	<meta property="og:url" content="https://www.craigslist.org/search/area/worcester?cat=rea&amp;query=acres">
+	<title>worcester real estate &quot;acres&quot; - craigslist</title>
+	<link rel="canonical" href="https://www.craigslist.org/search/area/worcester?cat=rea&amp;query=acres">
+	<link rel="alternate" href="https://www.craigslist.org/search/area/worcester?cat=rea&amp;query=acres" hreflang="x-default">
+
+
+
+    <link rel="icon" href="/favicon.ico" id="favicon" />
+
+<script type="application/ld+json" id="ld_searchpage_data" >
+    {"breadcrumb":{"itemListElement":[{"position":1,"name":"craigslist: worcester","item":"https://www.craigslist.org/area/worcester","@type":"ListItem"},{"@type":"ListItem","name":"housing","item":"https://www.craigslist.org/search/area/worcester?cat=hhh","position":2},{"@type":"ListItem","item":"https://www.craigslist.org/search/area/worcester?cat=rea","name":"real estate for sale","position":3}],"@context":"https://schema.org","@type":"BreadcrumbList"},"@type":"SearchResultsPage","description":"Real Estate \"acres\" in Worcester / Central MA","@context":"https://schema.org"}
+</script>
+
+
+<script type="application/ld+json" id="ld_searchpage_results" >
+    {"itemListElement":[{"position":"0","item":{"numberOfBathroomsTotal":3,"numberOfBedrooms":3,"@context":"http://schema.org","name":"EXECUTIVE STYLE RANCH ON 18 ACRES","@type":"House","latitude":29.7870152223703,"address":{"streetAddress":"","postalCode":"","addressCountry":"","addressLocality":"Westminster","@type":"PostalAddress","addressRegion":"MA"},"longitude":-65.2148440552503},"@type":"ListItem"},{"@type":"ListItem","position":"1","item":{"numberOfBedrooms":3,"@context":"http://schema.org","name":"Move-In Ready 3BR/2BA Cape in Townsend – 1.19 Acres","numberOfBathroomsTotal":2,"@type":"House","latitude":42.6721295772079,"address":{"addressCountry":"","addressLocality":"West Townsend","@type":"PostalAddress","addressRegion":"MA","postalCode":"","streetAddress":""},"longitude":-71.7228808548454}},{"position":"2","item":{"@type":"House","address":{"addressCountry":"","addressLocality":"Westminster","@type":"PostalAddress","addressRegion":"MA","postalCode":"","streetAddress":""},"latitude":42.5650116796672,"longitude":-71.9667391408913,"numberOfBathroomsTotal":2,"name":"Gardner MA - 3.5 Acres and Flexible First-Floor Living!","numberOfBedrooms":3,"@context":"http://schema.org"},"@type":"ListItem"},{"@type":"ListItem","item":{"@context":"http://schema.org","numberOfBedrooms":3,"name":"4 year round cabins, 1 house, a pavilion and 2 garages on 24 acres!!","numberOfBathroomsTotal":1,"longitude":-68.2909020503687,"latitude":45.3635002709494,"address":{"@type":"PostalAddress","addressCountry":"","addressLocality":"Lee","addressRegion":"ME","streetAddress":"","postalCode":""},"@type":"House"},"position":"3"},{"@type":"ListItem","item":{"@context":"http://schema.org","name":"4 lots in North Brookfield","longitude":-72.1066623099483,"address":{"@type":"PostalAddress","addressCountry":"","addressLocality":"North Brookfield","addressRegion":"MA","streetAddress":"","postalCode":""},"latitude":42.2569528997226,"@type":"Place"},"position":"4"},{"@type":"ListItem","position":"5","item":{"name":"Garage For Sale - 30 X 45 on .3 Acre Lot","@context":"http://schema.org","longitude":-71.4876965768595,"latitude":42.5400983288207,"address":{"streetAddress":"","postalCode":"","@type":"PostalAddress","addressCountry":"","addressLo

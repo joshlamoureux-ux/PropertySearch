@@ -1,0 +1,2 @@
+URL: https://ctmaps.ct.gov/
+FAILED: blocked/failed

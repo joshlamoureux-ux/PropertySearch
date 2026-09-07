@@ -1,0 +1,15 @@
+URL: https://cteco.uconn.edu/
+FINAL: https://cteco.uconn.edu/
+STATUS: 200
+TITLE: 
+BYTES: 79
+
+===== TEXT =====
+
+
+===== LINKS =====
+
+
+===== RAW HEAD =====
+<meta http-equiv="Refresh" content="0; url='https://maps.cteco.uconn.edu'" />
+
