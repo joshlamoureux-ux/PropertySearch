@@ -27,9 +27,13 @@ A parcel passes when discount ≥ 15% (asking ≤ 85% of adjusted value), it is 
 
 Default assessment ratios: Connecticut 0.70, Rhode Island and Massachusetts 1.00, Washington 1.00, Alabama 0.20 (0.10 for current-use farm or timber land), West Virginia 0.60. New York equalization rates vary by town; enter them per parcel.
 
-## Getting parcels into it
+## Automatic search
 
-The browser cannot scrape tax-collector sites, MLS feeds or auction platforms directly, so the page works from data you import or enter:
+The `collector/` folder holds the program that searches on its own. It runs daily in GitHub Actions (or by hand with `node collector/run.js`), reads the configured tax-sale, foreclosure, auction and land-listing sources, keeps parcels that meet the rules, geocodes them, filters to the radius, and writes `data/found-parcels.js`. The page loads that file and merges the parcels in, tagged **found**. See `collector/README.md` for setup, including the `ANTHROPIC_API_KEY` secret the extractor uses to read pages with no fixed layout.
+
+## Other ways to get parcels in
+
+The browser itself cannot read tax-collector sites, MLS feeds or auction platforms, so alongside the collector the page supports:
 
 1. **Sources & searches tab**. Curated links to tax-sale calendars (for Connecticut, `cttaxsales.com` lists every municipal tax sale), court foreclosure lists, county tax-foreclosure auctioneers, USDA/GSA/Treasury dispositions, land marketplaces, and one-click searches pre-filled for land in your base state.
 2. **Import**. Paste or upload CSV (or JSON). Common column names are recognised automatically, for example `address, town, state, acres, minimum bid, assessed value, building value, sale date, url, lat, lng`. A template is in `templates/parcels-template.csv`. Tax-sale notices and assessor exports usually paste straight in.
@@ -47,16 +51,15 @@ Everything is saved in the browser's localStorage. Use **Backup** to download a 
 | `data/bases.js` | Ashford locations, default assessment ratios |
 | `data/sources.js` | Source directory and search-link templates |
 | `data/sample-parcels.js` | Illustrative sample parcels (made-up numbers, real town centres) |
+| `data/found-parcels.js` | Output of the collector, loaded by the page |
 | `templates/parcels-template.csv` | Import template |
+| `collector/` | Scheduled search program (see its README) |
+| `.github/workflows/collect.yml` | Daily collector run |
 
-## Roadmap: automating the search
+## Roadmap
 
-The next step is a small server (Node or Python, on a schedule) that collects candidates and writes a JSON file this page can import or fetch:
-
-- **Tax sales**: scrape `cttaxsales.com` and the town treasurer pages for RI and MA; poll Bid4Assets, Auctions International and NYS Auctions for county auctions inside the radius.
-- **Foreclosures**: CT Judicial foreclosure sales list; RI and MA court dockets.
-- **Listings**: Zillow, Realtor.com and LandWatch searches filtered to Lots/Land, 5+ acres, sorted by price per acre; flag "short sale", "bank owned", "estate" and "motivated" in remarks.
-- **Assessor join**: pull land and building assessed values from Vision (VGSI) assessor cards or MassGIS/CT parcel exports so the adjusted value is computed automatically and structures are detected from a non-zero building value.
+- **Assessor join**: pull land and building assessed values from Vision (VGSI) assessor cards or MassGIS/CT parcel exports so every found parcel gets a real assessed value and structures are detected from a non-zero building value.
+- **More sources**: town-by-town tax-collector pages (placeholders exist in `collector/config/sources.json`), RI municipal tax sales, NYS Auctions, court dockets.
 - **Alerts**: email or text when a new parcel passes every test or when a sale date is within 14 days.
 
 ## Due-diligence reminders

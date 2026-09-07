@@ -1,0 +1,149 @@
+{
+  "_comment": "Each source has seed URLs to fetch and rules for which links to follow. follow.include/exclude are regexes tested against the absolute URL; maxPages caps pages per source per run. Set enabled=false to skip a source. bases lists which home bases the source is relevant to. Add town tax-collector pages to the ct-town-notices source as you find them.",
+  "sources": [
+    {
+      "id": "ct-tax-sales",
+      "name": "Connecticut municipal tax sales (cttaxsales.com)",
+      "dealType": "tax-sale",
+      "state": "CT",
+      "bases": ["ashford-ct"],
+      "seeds": ["https://www.cttaxsales.com/"],
+      "follow": { "include": ["cttaxsales\\.com/.*(sale|auction|propert|town|upcoming|listing)"], "exclude": ["\\.(pdf|jpg|png)$", "(faq|about|contact|terms|privacy)"], "depth": 2, "maxPages": 60 },
+      "enabled": true
+    },
+    {
+      "id": "ct-judicial-foreclosure",
+      "name": "Connecticut Judicial Branch foreclosure sales",
+      "dealType": "foreclosure",
+      "state": "CT",
+      "bases": ["ashford-ct"],
+      "seeds": ["https://www.jud.ct.gov/foreclosure/"],
+      "follow": { "include": ["jud\\.ct\\.gov/foreclosure/.*(Public|Sale|List|Town|Search)"], "exclude": ["\\.pdf$"], "depth": 2, "maxPages": 40 },
+      "enabled": true,
+      "note": "The public sales list is a search form; if the crawler cannot reach town results, paste the town result pages into the seeds."
+    },
+    {
+      "id": "ct-town-notices",
+      "name": "Town tax collector notices (Windham and Tolland counties)",
+      "dealType": "tax-sale",
+      "state": "CT",
+      "bases": ["ashford-ct"],
+      "seeds": [],
+      "follow": { "include": ["(tax|sale|auction|notice)"], "exclude": ["\\.(jpg|png)$"], "depth": 1, "maxPages": 30 },
+      "enabled": true,
+      "note": "Add the tax-collector or legal-notice page of each town you care about, e.g. Ashford, Eastford, Woodstock, Pomfret, Union, Willington, Mansfield, Chaplin, Hampton, Stafford."
+    },
+    {
+      "id": "landwatch-ct",
+      "name": "LandWatch Connecticut land listings",
+      "dealType": "mls",
+      "state": "CT",
+      "bases": ["ashford-ct"],
+      "seeds": ["https://www.landwatch.com/connecticut-land-for-sale/acres-5-999"],
+      "follow": { "include": ["landwatch\\.com/connecticut-land-for-sale/acres-5-999/pg-[2-6]$"], "exclude": [], "depth": 1, "maxPages": 8 },
+      "enabled": true
+    },
+    {
+      "id": "landwatch-ri",
+      "name": "LandWatch Rhode Island land listings",
+      "dealType": "mls",
+      "state": "RI",
+      "bases": ["ashford-ct"],
+      "seeds": ["https://www.landwatch.com/rhode-island-land-for-sale/acres-5-999"],
+      "follow": { "include": ["landwatch\\.com/rhode-island-land-for-sale/acres-5-999/pg-[2-4]$"], "exclude": [], "depth": 1, "maxPages": 5 },
+      "enabled": true
+    },
+    {
+      "id": "landwatch-ma",
+      "name": "LandWatch Massachusetts land listings",
+      "dealType": "mls",
+      "state": "MA",
+      "bases": ["ashford-ct"],
+      "seeds": ["https://www.landwatch.com/massachusetts-land-for-sale/acres-5-999"],
+      "follow": { "include": ["landwatch\\.com/massachusetts-land-for-sale/acres-5-999/pg-[2-6]$"], "exclude": [], "depth": 1, "maxPages": 8 },
+      "enabled": true
+    },
+    {
+      "id": "landsearch-ct",
+      "name": "LandSearch Connecticut",
+      "dealType": "mls",
+      "state": "CT",
+      "bases": ["ashford-ct"],
+      "seeds": ["https://www.landsearch.com/properties/connecticut"],
+      "follow": { "include": ["landsearch\\.com/properties/connecticut/p[2-5]$"], "exclude": [], "depth": 1, "maxPages": 6 },
+      "enabled": true
+    },
+    {
+      "id": "bid4assets-ne",
+      "name": "Bid4Assets county tax sales (New England and New York)",
+      "dealType": "tax-sale",
+      "state": "CT",
+      "bases": ["ashford-ct"],
+      "seeds": ["https://www.bid4assets.com/storefront/realestate"],
+      "follow": { "include": ["bid4assets\\.com/.*(connecticut|rhode|massachusetts|new-york|auction/index/\\d+)"], "exclude": [], "depth": 2, "maxPages": 40 },
+      "enabled": true
+    },
+    {
+      "id": "auctions-international-ny",
+      "name": "Auctions International county tax foreclosures (NY)",
+      "dealType": "tax-sale",
+      "state": "NY",
+      "bases": ["ashford-ct"],
+      "seeds": ["https://www.auctionsinternational.com/liveauctions"],
+      "follow": { "include": ["auctionsinternational\\.com/.*(tax|foreclos|county|real-estate|liveauction/\\d+)"], "exclude": ["\\.pdf$"], "depth": 2, "maxPages": 30 },
+      "enabled": true
+    },
+    {
+      "id": "ma-land-court-tax-title",
+      "name": "Massachusetts town tax-title auctions",
+      "dealType": "tax-sale",
+      "state": "MA",
+      "bases": ["ashford-ct"],
+      "seeds": [],
+      "follow": { "include": ["(tax|title|auction|treasurer)"], "exclude": ["\\.pdf$"], "depth": 1, "maxPages": 20 },
+      "enabled": true,
+      "note": "Add treasurer auction pages for towns inside the radius (Brimfield, Monson, Wales, Holland, Sturbridge, Charlton, Dudley, Southbridge, Petersham...)."
+    },
+
+    {
+      "id": "landwatch-wa",
+      "name": "LandWatch Washington land listings",
+      "dealType": "mls",
+      "state": "WA",
+      "bases": ["ashford-wa"],
+      "seeds": ["https://www.landwatch.com/washington-land-for-sale/acres-5-999"],
+      "follow": { "include": ["landwatch\\.com/washington-land-for-sale/acres-5-999/pg-[2-8]$"], "exclude": [], "depth": 1, "maxPages": 10 },
+      "enabled": true
+    },
+    {
+      "id": "bid4assets-wa",
+      "name": "Bid4Assets Washington county tax foreclosures",
+      "dealType": "tax-sale",
+      "state": "WA",
+      "bases": ["ashford-wa"],
+      "seeds": ["https://www.bid4assets.com/storefront/realestate"],
+      "follow": { "include": ["bid4assets\\.com/.*(washington|auction/index/\\d+)"], "exclude": [], "depth": 2, "maxPages": 40 },
+      "enabled": true
+    },
+    {
+      "id": "landwatch-al",
+      "name": "LandWatch Alabama land listings",
+      "dealType": "mls",
+      "state": "AL",
+      "bases": ["ashford-al"],
+      "seeds": ["https://www.landwatch.com/alabama-land-for-sale/acres-5-999"],
+      "follow": { "include": ["landwatch\\.com/alabama-land-for-sale/acres-5-999/pg-[2-8]$"], "exclude": [], "depth": 1, "maxPages": 10 },
+      "enabled": true
+    },
+    {
+      "id": "landwatch-ny-west",
+      "name": "LandWatch New York land listings",
+      "dealType": "mls",
+      "state": "NY",
+      "bases": ["ashford-ny"],
+      "seeds": ["https://www.landwatch.com/new-york-land-for-sale/acres-5-999"],
+      "follow": { "include": ["landwatch\\.com/new-york-land-for-sale/acres-5-999/pg-[2-8]$"], "exclude": [], "depth": 1, "maxPages": 10 },
+      "enabled": true
+    }
+  ]
+}

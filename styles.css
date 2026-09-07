@@ -144,3 +144,8 @@ td select.status { padding: .25rem .4rem; font-size: .78rem; width: auto; }
 textarea { resize: vertical; }
 .toast { position: fixed; bottom: 1.25rem; left: 50%; transform: translateX(-50%); background: var(--ink); color: var(--bg); padding: .6rem 1rem; border-radius: 999px; font-size: .85rem; box-shadow: var(--shadow); z-index: 50; opacity: 0; transition: opacity .2s; pointer-events: none; }
 .toast.show { opacity: 1; }
+
+.collector-status { display: flex; flex-wrap: wrap; gap: .4rem 1rem; align-items: center; font-size: .82rem; color: var(--muted); margin-bottom: .75rem; }
+.collector-status strong { color: var(--ink); }
+.collector-status .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--good); margin-right: .35rem; }
+.collector-status .dot.off { background: var(--warn); }

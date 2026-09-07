@@ -190,13 +190,13 @@
     const badge = `<span class="badge ${m.tier}">${m.tierLabel}</span>`;
     const reasons = showReasons ? `<td><div class="reasons">${m.passes ? '<span class="badge good">Passes all tests</span>' : m.reasons.map(([c, t]) => `<span class="badge ${c}">${esc(t)}</span>`).join("")}</div></td>` : "";
     return `<tr>
-      <td>${badge}${p.isSample ? '<br><span class="badge neutral">sample</span>' : ""}</td>
+      <td>${badge}${p.isSample ? '<br><span class="badge neutral">sample</span>' : ""}${p.isFound ? `<br><span class="badge neutral" title="Found by the automatic search${p.firstSeen ? " on " + p.firstSeen : ""}">found</span>` : ""}${p.stale ? '<br><span class="badge warn" title="Not seen at the source on the latest run">not seen lately</span>' : ""}</td>
       <td><span class="title">${esc(p.address || "(no address)")}</span><span class="sub">${esc(loc)}${p.parcelId ? " · #" + esc(p.parcelId) : ""}</span>${p.notes ? `<span class="sub">${esc(p.notes)}</span>` : ""}</td>
       <td>${esc(dealTypeLabel(p.dealType))}<span class="sub">${esc(p.source || "")} ${link}</span></td>
       <td class="num">${p.acres != null ? p.acres.toFixed(1) : "—"}${p.hasStructure ? '<span class="sub">structure</span>' : ""}</td>
       <td class="num">${m.distance != null ? m.distance.toFixed(0) : "—"}</td>
       <td class="num">${money(p.askingPrice)}<span class="sub">${m.ppa ? money(m.ppa) + "/ac" : ""}</span></td>
-      <td class="num">${money(m.amv)}<span class="sub">${p.marketValue != null ? "comp-based" : p.assessedValue != null ? "from " + money(p.assessedValue) + " assessed" : ""}</span></td>
+      <td class="num">${money(m.amv)}<span class="sub">${p.marketValue != null ? (p.valueSource ? esc(p.valueSource) : "comp-based") : p.assessedValue != null ? "from " + money(p.assessedValue) + " assessed" : ""}</span></td>
       <td class="num"><strong>${pct(m.discount)}</strong></td>
       <td>${p.saleDate ? esc(p.saleDate) : "—"}</td>
       ${reasons}
@@ -406,7 +406,7 @@
     if (!o.address || o.acres == null || o.askingPrice == null) { toast("Address, acres and asking price are required"); return; }
     if (state.editingId) {
       const i = state.parcels.findIndex(p => p.id === state.editingId);
-      state.parcels[i] = Object.assign({}, state.parcels[i], o, { isSample: false, updatedAt: new Date().toISOString() });
+      state.parcels[i] = Object.assign({}, state.parcels[i], o, { isSample: false, userEdited: true, updatedAt: new Date().toISOString() });
     } else {
       state.parcels.push(Object.assign({ id: uid(), addedAt: new Date().toISOString() }, o));
     }
@@ -658,8 +658,44 @@
     });
   }
 
+  // ---------- collector output ----------
+  // data/found-parcels.js is written by collector/run.js. Merge it in, keeping
+  // anything the user has changed on a parcel they have already looked at.
+  function mergeFound() {
+    const found = Array.isArray(window.FOUND_PARCELS) ? window.FOUND_PARCELS : [];
+    const meta = window.FOUND_META || null;
+    if (!found.length) return { added: 0, updated: 0, meta };
+    const byId = new Map(state.parcels.map(p => [p.id, p]));
+    let added = 0, updated = 0;
+    const seen = new Set();
+    for (const f of found) {
+      seen.add(f.id);
+      const ex = byId.get(f.id);
+      if (!ex) { state.parcels.push(Object.assign({ status: "new", addedAt: new Date().toISOString() }, f, { lastSeen: meta ? meta.ranAt : null })); added++; continue; }
+      if (ex.userEdited) { ex.lastSeen = meta ? meta.ranAt : ex.lastSeen; continue; }
+      const keep = { status: ex.status, notes: ex.notes && ex.notes !== f.notes && !String(ex.notes).startsWith(String(f.notes || "")) ? ex.notes : f.notes, addedAt: ex.addedAt };
+      Object.assign(ex, f, keep, { lastSeen: meta ? meta.ranAt : null }); updated++;
+    }
+    // Found parcels that no longer appear at the source are kept but marked.
+    for (const p of state.parcels) if (p.isFound && !seen.has(p.id) && meta && (!p.lastSeen || p.lastSeen < meta.ranAt)) p.stale = true;
+    return { added, updated, meta };
+  }
+
+  function renderCollectorStatus() {
+    const el = $("#collectorStatus"); if (!el) return;
+    const meta = window.FOUND_META;
+    if (!meta) { el.innerHTML = '<span class="dot off"></span>Automatic search has not run yet. Run <code>collector/run.js</code> or enable the GitHub Actions schedule; results appear here.'; return; }
+    const found = state.parcels.filter(p => p.isFound).length;
+    const errs = meta.sources.reduce((a, s) => a + (s.errors || 0), 0);
+    const when = new Date(meta.ranAt);
+    el.innerHTML = `<span class="dot"></span><span>Automatic search last ran <strong>${esc(when.toLocaleString())}</strong></span><span>${esc(meta.baseLabel)} · ${meta.radiusMiles} mi · ${meta.minAcres}+ acres</span><span><strong>${found}</strong> found parcels in your list</span><span>${meta.sources.filter(s => s.pages).length} of ${meta.sources.length} sources returned pages${errs ? ` · ${errs} errors` : ""}</span><span>extractor: ${esc(meta.extractor)}</span>`;
+  }
+
   // ---------- boot ----------
   const hadSaved = load();
-  if (!hadSaved) state.parcels = window.SAMPLE_PARCELS.map(p => JSON.parse(JSON.stringify(p)));
-  syncControls(); bind(); renderAllViews(); showView(state.settings.view || "deals");
+  if (!hadSaved && !(window.FOUND_PARCELS || []).length) state.parcels = window.SAMPLE_PARCELS.map(p => JSON.parse(JSON.stringify(p)));
+  const merged = mergeFound();
+  if (merged.added || merged.updated) save();
+  syncControls(); bind(); renderAllViews(); renderCollectorStatus(); showView(state.settings.view || "deals");
+  if (merged.added) toast(`${merged.added} new parcel${merged.added === 1 ? "" : "s"} from the automatic search`);
 })();

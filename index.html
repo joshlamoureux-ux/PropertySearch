@@ -94,6 +94,7 @@
   </aside>
 
   <main class="content">
+    <div class="collector-status" id="collectorStatus"></div>
     <section class="stats" id="stats"></section>
 
     <nav class="tabs" role="tablist">
@@ -146,8 +147,9 @@
         <h2>What this tool does</h2>
         <p>It is a deal screener. You feed it parcels from tax-sale lists, auction calendars, listing sites and county assessor exports. It computes distance from your Ashford, checks acreage and whether a structure exists, estimates an adjusted market value from the assessment, and flags anything priced at or below your threshold (default 85% of value, meaning a 15% or larger discount).</p>
 
-        <h2>Why it does not pull listings automatically</h2>
-        <p>A page that runs only in the browser cannot read tax-collector sites, MLS feeds or auction platforms directly. Those sites block cross-origin requests and most have no public API. So the browser version works from data you import or enter, and the <strong>Sources &amp; searches</strong> tab gives you one-click searches that are pre-filtered to land near your base. The README describes the server component that would automate the collection step later.</p>
+        <h2>How the automatic search works</h2>
+        <p>A page running in the browser cannot read tax-collector sites or listing platforms directly, so the searching is done by the <strong>collector</strong> in the repository's <code>collector/</code> folder. It runs on a schedule (GitHub Actions, daily) or by hand, fetches each configured source, reads the notices and listings, keeps parcels that meet the acreage and land-only rules, geocodes them, drops anything outside the radius, and writes <code>data/found-parcels.js</code>. This page loads that file on open and merges the parcels in, keeping any status or notes you have added. Parcels it found carry a <span class="badge neutral">found</span> tag and a "first seen" date. The <strong>Sources &amp; searches</strong> tab remains for manual digging.</p>
+        <p>Where a source gives no assessed value, the collector estimates a market value from the median price per acre of ordinary land listings in the same county or state, and labels it as an estimate. Treat those as a screen, then confirm with the assessor card before bidding.</p>
 
         <h2>Adjusted market value</h2>
         <pre>market value   = assessed value ÷ assessment ratio
@@ -251,6 +253,7 @@ discount       = 1 − asking price ÷ adjusted value</pre>
 <script src="data/bases.js"></script>
 <script src="data/sources.js"></script>
 <script src="data/sample-parcels.js"></script>
+<script src="data/found-parcels.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

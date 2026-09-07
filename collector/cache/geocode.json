@@ -1,0 +1,9 @@
+{
+ "pomfret, ct, usa": {"lat": 41.8973, "lng": -71.9627, "name": "Pomfret, CT", "precision": "town"},
+ "woodstock, ct, usa": {"lat": 41.9484, "lng": -71.9748, "name": "Woodstock, CT", "precision": "town"},
+ "sterling, ct, usa": {"lat": 41.7079, "lng": -71.8225, "name": "Sterling, CT", "precision": "town"},
+ "hopkinton, ri, usa": {"lat": 41.4562, "lng": -71.7770, "name": "Hopkinton, RI", "precision": "town"},
+ "thompson, ct, usa": {"lat": 41.9584, "lng": -71.8634, "name": "Thompson, CT", "precision": "town"},
+ "chaplin, ct, usa": {"lat": 41.7948, "lng": -72.1273, "name": "Chaplin, CT", "precision": "town"},
+ "burlington, vt, usa": {"lat": 44.4759, "lng": -73.2121, "name": "Burlington, VT", "precision": "town"}
+}

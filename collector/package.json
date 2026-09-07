@@ -1,0 +1,17 @@
+{
+  "name": "ashford-land-collector",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Scheduled collector that searches tax-sale, foreclosure, auction and land-listing sources for raw land near Ashford and writes data/found-parcels.js for the Ashford Land Finder app.",
+  "scripts": {
+    "collect": "node run.js",
+    "collect:dry": "node run.js --dry-run",
+    "collect:heuristic": "node run.js --no-llm"
+  },
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.80.0",
+    "zod": "^3.24.0"
+  }
+}
