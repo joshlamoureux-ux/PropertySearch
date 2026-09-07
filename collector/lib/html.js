@@ -15,14 +15,15 @@ export function decodeEntities(s) {
 
 const BLOCK_TAGS = "p|div|br|li|ul|ol|tr|td|th|table|thead|tbody|h1|h2|h3|h4|h5|h6|section|article|header|footer|nav|aside|blockquote|pre|hr|dt|dd|dl|form|fieldset|address|figure|figcaption|main";
 
-export function htmlToText(html) {
+export function htmlToText(html, baseUrl) {
   let s = String(html || "");
+  const abs = href => { if (!baseUrl) return href; try { return new URL(href, baseUrl).toString(); } catch { return href; } };
   s = s.replace(/<!--[\s\S]*?-->/g, " ");
   s = s.replace(/<(script|style|noscript|svg|iframe|template)\b[\s\S]*?<\/\1>/gi, " ");
   // Keep link targets visible so the extractor can attach a URL to a listing.
   s = s.replace(/<a\b[^>]*href\s*=\s*["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi, (m, href, inner) => {
     const text = inner.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
-    return text ? ` ${text} [${href}] ` : " ";
+    return text ? ` ${text} [${abs(decodeEntities(href))}] ` : " ";
   });
   s = s.replace(/<(td|th)\b[^>]*>/gi, " | ");
   s = s.replace(new RegExp(`</?(${BLOCK_TAGS})\\b[^>]*>`, "gi"), "\n");
@@ -69,3 +70,6 @@ export function chunkText(text, maxChars = 30000, overlap = 1500) {
   }
   return chunks;
 }
+
+/** Text of a fetched page: extracted PDF text, or HTML converted to text. */
+export function pageText(page) { return page.isPdf ? (page.text || "") : htmlToText(page.html, page.finalUrl || page.url); }

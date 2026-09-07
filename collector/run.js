@@ -15,7 +15,8 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { Fetcher } from "./lib/fetch.js";
-import { htmlToText, extractLinks, pageTitle } from "./lib/html.js";
+import { htmlToText, extractLinks, pageTitle, pageText } from "./lib/html.js";
+import { ADAPTERS } from "./lib/adapters/index.js";
 import { ClaudeExtractor, heuristicExtract } from "./lib/extract.js";
 import { Geocoder } from "./lib/geo.js";
 import { normalizeParcel, dedupe, applyCriteria, applyRadius, estimateValues } from "./lib/normalize.js";
@@ -86,6 +87,24 @@ const allParcels = [];
 
 for (const source of sources) {
   const srcSummary = { id: source.id, name: source.name, pagesFetched: 0, pagesSkipped: 0, rawParcels: 0, errors: [], notes: [] };
+  if (source.adapter) {
+    const adapter = ADAPTERS[source.adapter];
+    if (!adapter) { srcSummary.errors.push(`unknown adapter ${source.adapter}`); summary.sources.push(srcSummary); continue; }
+    log.info(`Source ${source.id}: adapter ${source.adapter}`);
+    try {
+      const r = await adapter.collect({ source, fetcher, log });
+      srcSummary.pagesFetched = r.pagesFetched; srcSummary.rawParcels = r.parcels.length;
+      srcSummary.notes.push(...r.notes); srcSummary.errors.push(...r.errors);
+      for (const raw of r.parcels) {
+        const p = normalizeParcel(raw, source);
+        p.foundOn = raw.url || source.seeds?.[0] || null; p.firstSeen = startedAt.toISOString().slice(0, 10);
+        allParcels.push(p);
+      }
+      if (opts.dumpDir) fs.writeFileSync(path.join(opts.dumpDir, `${String(++dumpN).padStart(3, "0")}-${source.id}-adapter.json`), JSON.stringify(r.parcels, null, 1));
+    } catch (e) { srcSummary.errors.push(`adapter failed: ${e.message}`); }
+    log.info(`  ${source.id}: ${srcSummary.pagesFetched} pages, ${srcSummary.rawParcels} raw parcels${srcSummary.errors.length ? ", " + srcSummary.errors.length + " errors" : ""}`);
+    summary.sources.push(srcSummary); continue;
+  }
   if (!source.seeds || !source.seeds.length) { srcSummary.notes.push("no seed URLs configured"); summary.sources.push(srcSummary); continue; }
   log.info(`Source ${source.id}: ${source.seeds.length} seed(s)`);
   const include = (source.follow?.include || []).map(r => new RegExp(r, "i"));
@@ -101,7 +120,7 @@ for (const source of sources) {
     if (!page) { srcSummary.pagesSkipped++; continue; }
     if (page.status >= 400) { srcSummary.errors.push(`${url}: HTTP ${page.status}`); continue; }
     srcSummary.pagesFetched++;
-    const text = htmlToText(page.html);
+    const text = pageText(page);
     if (opts.dumpDir) {
       const links = extractLinks(page.html, page.finalUrl).map(l => `${l.text} -> ${l.href}`).join("\n");
       fs.writeFileSync(path.join(opts.dumpDir, `${String(++dumpN).padStart(3, "0")}-${source.id}.txt`), `URL: ${page.finalUrl}\nSTATUS: ${page.status}\nTITLE: ${pageTitle(page.html)}\n\n===== TEXT =====\n${text.slice(0, 40000)}\n\n===== LINKS =====\n${links.slice(0, 30000)}\n`);
@@ -131,7 +150,7 @@ for (const source of sources) {
       srcSummary.rawParcels += result.parcels.length;
       if (!result.parcels.length && result.skipReason) srcSummary.notes.push(`${url}: ${result.skipReason}`);
     }
-    if (depth < maxDepth) {
+    if (depth < maxDepth && !page.isPdf) {
       for (const l of extractLinks(page.html, page.finalUrl)) {
         if (seen.has(l.href)) continue;
         if (!include.some(r => r.test(l.href))) continue;

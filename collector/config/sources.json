@@ -6,30 +6,60 @@
       "name": "Connecticut municipal tax sales (cttaxsales.com)",
       "dealType": "tax-sale",
       "state": "CT",
-      "bases": ["ashford-ct"],
-      "seeds": ["https://www.cttaxsales.com/"],
-      "follow": { "include": ["cttaxsales\\.com/.*(sale|auction|propert|town|upcoming|listing)"], "exclude": ["\\.(pdf|jpg|png)$", "(faq|about|contact|terms|privacy)"], "depth": 2, "maxPages": 60 },
-      "enabled": true
+      "bases": [
+        "ashford-ct"
+      ],
+      "seeds": [
+        "https://cttaxsales.com/upcoming-tax-sales/",
+        "https://cttaxsales.com/postponed-tax-sales/"
+      ],
+      "enabled": true,
+      "adapter": "cttaxsales",
+      "note": "Parsed by lib/adapters/cttaxsales.js; each parcel's PDF notice is read for assessed value, acreage and amount due."
     },
     {
       "id": "ct-judicial-foreclosure",
       "name": "Connecticut Judicial Branch foreclosure sales",
       "dealType": "foreclosure",
       "state": "CT",
-      "bases": ["ashford-ct"],
-      "seeds": ["https://www.jud.ct.gov/foreclosure/"],
-      "follow": { "include": ["jud\\.ct\\.gov/foreclosure/.*(Public|Sale|List|Town|Search)"], "exclude": ["\\.pdf$"], "depth": 2, "maxPages": 40 },
+      "bases": [
+        "ashford-ct"
+      ],
+      "seeds": [
+        "https://www.jud.ct.gov/foreclosure_sales/Public/PendPostbyTownList.aspx"
+      ],
+      "follow": {
+        "include": [
+          "jud\\.ct\\.gov/foreclosure_sales/Public/PendPostbyTownDetails\\.aspx\\?town=(Ashford|Eastford|Woodstock|Pomfret|Thompson|Union|Willington|Mansfield|Chaplin|Hampton|Stafford|Tolland|Coventry|Brooklyn|Killingly|Plainfield|Canterbury|Scotland|Windham|Lebanon|Columbia|Hebron|Andover|Bolton|Putnam|Sterling|Voluntown|Griswold|Lisbon|Sprague|Franklin|Norwich|Colchester|Marlborough|Glastonbury|Manchester|Vernon|Ellington|Somers|Enfield|East Windsor|South Windsor|Suffield)"
+        ],
+        "exclude": [
+          "\\.pdf$"
+        ],
+        "depth": 1,
+        "maxPages": 50
+      },
       "enabled": true,
-      "note": "The public sales list is a search form; if the crawler cannot reach town results, paste the town result pages into the seeds."
+      "note": "Pending foreclosure sale postings by town. Town list limited to the eastern half of the state; extend as needed."
     },
     {
       "id": "ct-town-notices",
       "name": "Town tax collector notices (Windham and Tolland counties)",
       "dealType": "tax-sale",
       "state": "CT",
-      "bases": ["ashford-ct"],
+      "bases": [
+        "ashford-ct"
+      ],
       "seeds": [],
-      "follow": { "include": ["(tax|sale|auction|notice)"], "exclude": ["\\.(jpg|png)$"], "depth": 1, "maxPages": 30 },
+      "follow": {
+        "include": [
+          "(tax|sale|auction|notice)"
+        ],
+        "exclude": [
+          "\\.(jpg|png)$"
+        ],
+        "depth": 1,
+        "maxPages": 30
+      },
       "enabled": true,
       "note": "Add the tax-collector or legal-notice page of each town you care about, e.g. Ashford, Eastford, Woodstock, Pomfret, Union, Willington, Mansfield, Chaplin, Hampton, Stafford."
     },
@@ -38,49 +68,110 @@
       "name": "LandWatch Connecticut land listings",
       "dealType": "mls",
       "state": "CT",
-      "bases": ["ashford-ct"],
-      "seeds": ["https://www.landwatch.com/connecticut-land-for-sale/acres-5-999"],
-      "follow": { "include": ["landwatch\\.com/connecticut-land-for-sale/acres-5-999/pg-[2-6]$"], "exclude": [], "depth": 1, "maxPages": 8 },
-      "enabled": true
+      "bases": [
+        "ashford-ct"
+      ],
+      "seeds": [
+        "https://www.landwatch.com/connecticut-land-for-sale/acres-5-999"
+      ],
+      "follow": {
+        "include": [
+          "landwatch\\.com/connecticut-land-for-sale/acres-5-999/pg-[2-6]$"
+        ],
+        "exclude": [],
+        "depth": 1,
+        "maxPages": 8
+      },
+      "enabled": false,
+      "note": "Disabled: the site blocks automated readers (HTTP 403 or a bot challenge) even with a browser identity. Use the Sources tab link by hand."
     },
     {
       "id": "landwatch-ri",
       "name": "LandWatch Rhode Island land listings",
       "dealType": "mls",
       "state": "RI",
-      "bases": ["ashford-ct"],
-      "seeds": ["https://www.landwatch.com/rhode-island-land-for-sale/acres-5-999"],
-      "follow": { "include": ["landwatch\\.com/rhode-island-land-for-sale/acres-5-999/pg-[2-4]$"], "exclude": [], "depth": 1, "maxPages": 5 },
-      "enabled": true
+      "bases": [
+        "ashford-ct"
+      ],
+      "seeds": [
+        "https://www.landwatch.com/rhode-island-land-for-sale/acres-5-999"
+      ],
+      "follow": {
+        "include": [
+          "landwatch\\.com/rhode-island-land-for-sale/acres-5-999/pg-[2-4]$"
+        ],
+        "exclude": [],
+        "depth": 1,
+        "maxPages": 5
+      },
+      "enabled": false,
+      "note": "Disabled: the site blocks automated readers (HTTP 403 or a bot challenge) even with a browser identity. Use the Sources tab link by hand."
     },
     {
       "id": "landwatch-ma",
       "name": "LandWatch Massachusetts land listings",
       "dealType": "mls",
       "state": "MA",
-      "bases": ["ashford-ct"],
-      "seeds": ["https://www.landwatch.com/massachusetts-land-for-sale/acres-5-999"],
-      "follow": { "include": ["landwatch\\.com/massachusetts-land-for-sale/acres-5-999/pg-[2-6]$"], "exclude": [], "depth": 1, "maxPages": 8 },
-      "enabled": true
+      "bases": [
+        "ashford-ct"
+      ],
+      "seeds": [
+        "https://www.landwatch.com/massachusetts-land-for-sale/acres-5-999"
+      ],
+      "follow": {
+        "include": [
+          "landwatch\\.com/massachusetts-land-for-sale/acres-5-999/pg-[2-6]$"
+        ],
+        "exclude": [],
+        "depth": 1,
+        "maxPages": 8
+      },
+      "enabled": false,
+      "note": "Disabled: the site blocks automated readers (HTTP 403 or a bot challenge) even with a browser identity. Use the Sources tab link by hand."
     },
     {
       "id": "landsearch-ct",
       "name": "LandSearch Connecticut",
       "dealType": "mls",
       "state": "CT",
-      "bases": ["ashford-ct"],
-      "seeds": ["https://www.landsearch.com/properties/connecticut"],
-      "follow": { "include": ["landsearch\\.com/properties/connecticut/p[2-5]$"], "exclude": [], "depth": 1, "maxPages": 6 },
-      "enabled": true
+      "bases": [
+        "ashford-ct"
+      ],
+      "seeds": [
+        "https://www.landsearch.com/properties/connecticut"
+      ],
+      "follow": {
+        "include": [
+          "landsearch\\.com/properties/connecticut/p[2-5]$"
+        ],
+        "exclude": [],
+        "depth": 1,
+        "maxPages": 6
+      },
+      "enabled": false,
+      "note": "Disabled: the site blocks automated readers (HTTP 403 or a bot challenge) even with a browser identity. Use the Sources tab link by hand."
     },
     {
       "id": "bid4assets-ne",
       "name": "Bid4Assets county tax sales (New England and New York)",
       "dealType": "tax-sale",
       "state": "CT",
-      "bases": ["ashford-ct"],
-      "seeds": ["https://www.bid4assets.com/storefront/realestate"],
-      "follow": { "include": ["bid4assets\\.com/.*(connecticut|rhode|massachusetts|new-york|auction/index/\\d+)"], "exclude": [], "depth": 2, "maxPages": 40 },
+      "bases": [
+        "ashford-ct"
+      ],
+      "seeds": [
+        "https://www.bid4assets.com/taxsales"
+      ],
+      "follow": {
+        "include": [
+          "bid4assets\\.com/(taxsales|storefront|auction|.*(connecticut|rhode|massachusetts|new-york|vermont|new-hampshire))"
+        ],
+        "exclude": [
+          "signup|login|help"
+        ],
+        "depth": 2,
+        "maxPages": 30
+      },
       "enabled": true
     },
     {
@@ -88,41 +179,90 @@
       "name": "Auctions International county tax foreclosures (NY)",
       "dealType": "tax-sale",
       "state": "NY",
-      "bases": ["ashford-ct"],
-      "seeds": ["https://www.auctionsinternational.com/liveauctions"],
-      "follow": { "include": ["auctionsinternational\\.com/.*(tax|foreclos|county|real-estate|liveauction/\\d+)"], "exclude": ["\\.pdf$"], "depth": 2, "maxPages": 30 },
-      "enabled": true
+      "bases": [
+        "ashford-ct"
+      ],
+      "seeds": [
+        "https://www.auctionsinternational.com/liveauctions"
+      ],
+      "follow": {
+        "include": [
+          "auctionsinternational\\.com/.*(tax|foreclos|county|real-estate|liveauction/\\d+)"
+        ],
+        "exclude": [
+          "\\.pdf$"
+        ],
+        "depth": 2,
+        "maxPages": 30
+      },
+      "enabled": false,
+      "note": "Disabled: the site blocks automated readers (HTTP 403 or a bot challenge) even with a browser identity. Use the Sources tab link by hand."
     },
     {
       "id": "ma-land-court-tax-title",
       "name": "Massachusetts town tax-title auctions",
       "dealType": "tax-sale",
       "state": "MA",
-      "bases": ["ashford-ct"],
+      "bases": [
+        "ashford-ct"
+      ],
       "seeds": [],
-      "follow": { "include": ["(tax|title|auction|treasurer)"], "exclude": ["\\.pdf$"], "depth": 1, "maxPages": 20 },
+      "follow": {
+        "include": [
+          "(tax|title|auction|treasurer)"
+        ],
+        "exclude": [
+          "\\.pdf$"
+        ],
+        "depth": 1,
+        "maxPages": 20
+      },
       "enabled": true,
       "note": "Add treasurer auction pages for towns inside the radius (Brimfield, Monson, Wales, Holland, Sturbridge, Charlton, Dudley, Southbridge, Petersham...)."
     },
-
     {
       "id": "landwatch-wa",
       "name": "LandWatch Washington land listings",
       "dealType": "mls",
       "state": "WA",
-      "bases": ["ashford-wa"],
-      "seeds": ["https://www.landwatch.com/washington-land-for-sale/acres-5-999"],
-      "follow": { "include": ["landwatch\\.com/washington-land-for-sale/acres-5-999/pg-[2-8]$"], "exclude": [], "depth": 1, "maxPages": 10 },
-      "enabled": true
+      "bases": [
+        "ashford-wa"
+      ],
+      "seeds": [
+        "https://www.landwatch.com/washington-land-for-sale/acres-5-999"
+      ],
+      "follow": {
+        "include": [
+          "landwatch\\.com/washington-land-for-sale/acres-5-999/pg-[2-8]$"
+        ],
+        "exclude": [],
+        "depth": 1,
+        "maxPages": 10
+      },
+      "enabled": false,
+      "note": "Disabled: the site blocks automated readers (HTTP 403 or a bot challenge) even with a browser identity. Use the Sources tab link by hand."
     },
     {
       "id": "bid4assets-wa",
       "name": "Bid4Assets Washington county tax foreclosures",
       "dealType": "tax-sale",
       "state": "WA",
-      "bases": ["ashford-wa"],
-      "seeds": ["https://www.bid4assets.com/storefront/realestate"],
-      "follow": { "include": ["bid4assets\\.com/.*(washington|auction/index/\\d+)"], "exclude": [], "depth": 2, "maxPages": 40 },
+      "bases": [
+        "ashford-wa"
+      ],
+      "seeds": [
+        "https://www.bid4assets.com/taxsales"
+      ],
+      "follow": {
+        "include": [
+          "bid4assets\\.com/(taxsales|storefront|auction|.*washington)"
+        ],
+        "exclude": [
+          "signup|login|help"
+        ],
+        "depth": 2,
+        "maxPages": 30
+      },
       "enabled": true
     },
     {
@@ -130,20 +270,380 @@
       "name": "LandWatch Alabama land listings",
       "dealType": "mls",
       "state": "AL",
-      "bases": ["ashford-al"],
-      "seeds": ["https://www.landwatch.com/alabama-land-for-sale/acres-5-999"],
-      "follow": { "include": ["landwatch\\.com/alabama-land-for-sale/acres-5-999/pg-[2-8]$"], "exclude": [], "depth": 1, "maxPages": 10 },
-      "enabled": true
+      "bases": [
+        "ashford-al"
+      ],
+      "seeds": [
+        "https://www.landwatch.com/alabama-land-for-sale/acres-5-999"
+      ],
+      "follow": {
+        "include": [
+          "landwatch\\.com/alabama-land-for-sale/acres-5-999/pg-[2-8]$"
+        ],
+        "exclude": [],
+        "depth": 1,
+        "maxPages": 10
+      },
+      "enabled": false,
+      "note": "Disabled: the site blocks automated readers (HTTP 403 or a bot challenge) even with a browser identity. Use the Sources tab link by hand."
     },
     {
       "id": "landwatch-ny-west",
       "name": "LandWatch New York land listings",
       "dealType": "mls",
       "state": "NY",
-      "bases": ["ashford-ny"],
-      "seeds": ["https://www.landwatch.com/new-york-land-for-sale/acres-5-999"],
-      "follow": { "include": ["landwatch\\.com/new-york-land-for-sale/acres-5-999/pg-[2-8]$"], "exclude": [], "depth": 1, "maxPages": 10 },
-      "enabled": true
+      "bases": [
+        "ashford-ny"
+      ],
+      "seeds": [
+        "https://www.landwatch.com/new-york-land-for-sale/acres-5-999"
+      ],
+      "follow": {
+        "include": [
+          "landwatch\\.com/new-york-land-for-sale/acres-5-999/pg-[2-8]$"
+        ],
+        "exclude": [],
+        "depth": 1,
+        "maxPages": 10
+      },
+      "enabled": false,
+      "note": "Disabled: the site blocks automated readers (HTTP 403 or a bot challenge) even with a browser identity. Use the Sources tab link by hand."
+    },
+    {
+      "id": "craigslist-hartford",
+      "name": "Craigslist hartford land",
+      "dealType": "fsbo",
+      "state": "CT",
+      "bases": [
+        "ashford-ct"
+      ],
+      "adapter": "craigslist",
+      "seeds": [
+        "https://hartford.craigslist.org/search/rea?query=acres",
+        "https://hartford.craigslist.org/search/rea?query=land"
+      ],
+      "enabled": true,
+      "note": "Reads the listing lines present in the HTML; Craigslist renders the full grid with JavaScript, so this sees a subset."
+    },
+    {
+      "id": "craigslist-newlondon",
+      "name": "Craigslist newlondon land",
+      "dealType": "fsbo",
+      "state": "CT",
+      "bases": [
+        "ashford-ct"
+      ],
+      "adapter": "craigslist",
+      "seeds": [
+        "https://newlondon.craigslist.org/search/rea?query=acres",
+        "https://newlondon.craigslist.org/search/rea?query=land"
+      ],
+      "enabled": true,
+      "note": "Reads the listing lines present in the HTML; Craigslist renders the full grid with JavaScript, so this sees a subset."
+    },
+    {
+      "id": "craigslist-worcester",
+      "name": "Craigslist worcester land",
+      "dealType": "fsbo",
+      "state": "MA",
+      "bases": [
+        "ashford-ct"
+      ],
+      "adapter": "craigslist",
+      "seeds": [
+        "https://worcester.craigslist.org/search/rea?query=acres",
+        "https://worcester.craigslist.org/search/rea?query=land"
+      ],
+      "enabled": true,
+      "note": "Reads the listing lines present in the HTML; Craigslist renders the full grid with JavaScript, so this sees a subset."
+    },
+    {
+      "id": "craigslist-providence",
+      "name": "Craigslist providence land",
+      "dealType": "fsbo",
+      "state": "RI",
+      "bases": [
+        "ashford-ct"
+      ],
+      "adapter": "craigslist",
+      "seeds": [
+        "https://providence.craigslist.org/search/rea?query=acres",
+        "https://providence.craigslist.org/search/rea?query=land"
+      ],
+      "enabled": true,
+      "note": "Reads the listing lines present in the HTML; Craigslist renders the full grid with JavaScript, so this sees a subset."
+    },
+    {
+      "id": "craigslist-westernmass",
+      "name": "Craigslist westernmass land",
+      "dealType": "fsbo",
+      "state": "MA",
+      "bases": [
+        "ashford-ct"
+      ],
+      "adapter": "craigslist",
+      "seeds": [
+        "https://westernmass.craigslist.org/search/rea?query=acres",
+        "https://westernmass.craigslist.org/search/rea?query=land"
+      ],
+      "enabled": true,
+      "note": "Reads the listing lines present in the HTML; Craigslist renders the full grid with JavaScript, so this sees a subset."
+    },
+    {
+      "id": "craigslist-hudsonvalley",
+      "name": "Craigslist hudsonvalley land",
+      "dealType": "fsbo",
+      "state": "NY",
+      "bases": [
+        "ashford-ct"
+      ],
+      "adapter": "craigslist",
+      "seeds": [
+        "https://hudsonvalley.craigslist.org/search/rea?query=acres",
+        "https://hudsonvalley.craigslist.org/search/rea?query=land"
+      ],
+      "enabled": true,
+      "note": "Reads the listing lines present in the HTML; Craigslist renders the full grid with JavaScript, so this sees a subset."
+    },
+    {
+      "id": "craigslist-boston",
+      "name": "Craigslist boston land",
+      "dealType": "fsbo",
+      "state": "MA",
+      "bases": [
+        "ashford-ct"
+      ],
+      "adapter": "craigslist",
+      "seeds": [
+        "https://boston.craigslist.org/search/rea?query=acres",
+        "https://boston.craigslist.org/search/rea?query=land"
+      ],
+      "enabled": true,
+      "note": "Reads the listing lines present in the HTML; Craigslist renders the full grid with JavaScript, so this sees a subset."
+    },
+    {
+      "id": "craigslist-seattle",
+      "name": "Craigslist seattle land",
+      "dealType": "fsbo",
+      "state": "WA",
+      "bases": [
+        "ashford-wa"
+      ],
+      "adapter": "craigslist",
+      "seeds": [
+        "https://seattle.craigslist.org/search/rea?query=acres",
+        "https://seattle.craigslist.org/search/rea?query=land"
+      ],
+      "enabled": true,
+      "note": "Reads the listing lines present in the HTML; Craigslist renders the full grid with JavaScript, so this sees a subset."
+    },
+    {
+      "id": "craigslist-olympic",
+      "name": "Craigslist olympic land",
+      "dealType": "fsbo",
+      "state": "WA",
+      "bases": [
+        "ashford-wa"
+      ],
+      "adapter": "craigslist",
+      "seeds": [
+        "https://olympic.craigslist.org/search/rea?query=acres",
+        "https://olympic.craigslist.org/search/rea?query=land"
+      ],
+      "enabled": true,
+      "note": "Reads the listing lines present in the HTML; Craigslist renders the full grid with JavaScript, so this sees a subset."
+    },
+    {
+      "id": "craigslist-yakima",
+      "name": "Craigslist yakima land",
+      "dealType": "fsbo",
+      "state": "WA",
+      "bases": [
+        "ashford-wa"
+      ],
+      "adapter": "craigslist",
+      "seeds": [
+        "https://yakima.craigslist.org/search/rea?query=acres",
+        "https://yakima.craigslist.org/search/rea?query=land"
+      ],
+      "enabled": true,
+      "note": "Reads the listing lines present in the HTML; Craigslist renders the full grid with JavaScript, so this sees a subset."
+    },
+    {
+      "id": "craigslist-portland",
+      "name": "Craigslist portland land",
+      "dealType": "fsbo",
+      "state": "OR",
+      "bases": [
+        "ashford-wa"
+      ],
+      "adapter": "craigslist",
+      "seeds": [
+        "https://portland.craigslist.org/search/rea?query=acres",
+        "https://portland.craigslist.org/search/rea?query=land"
+      ],
+      "enabled": true,
+      "note": "Reads the listing lines present in the HTML; Craigslist renders the full grid with JavaScript, so this sees a subset."
+    },
+    {
+      "id": "craigslist-dothan",
+      "name": "Craigslist dothan land",
+      "dealType": "fsbo",
+      "state": "AL",
+      "bases": [
+        "ashford-al"
+      ],
+      "adapter": "craigslist",
+      "seeds": [
+        "https://dothan.craigslist.org/search/rea?query=acres",
+        "https://dothan.craigslist.org/search/rea?query=land"
+      ],
+      "enabled": true,
+      "note": "Reads the listing lines present in the HTML; Craigslist renders the full grid with JavaScript, so this sees a subset."
+    },
+    {
+      "id": "craigslist-montgomery",
+      "name": "Craigslist montgomery land",
+      "dealType": "fsbo",
+      "state": "AL",
+      "bases": [
+        "ashford-al"
+      ],
+      "adapter": "craigslist",
+      "seeds": [
+        "https://montgomery.craigslist.org/search/rea?query=acres",
+        "https://montgomery.craigslist.org/search/rea?query=land"
+      ],
+      "enabled": true,
+      "note": "Reads the listing lines present in the HTML; Craigslist renders the full grid with JavaScript, so this sees a subset."
+    },
+    {
+      "id": "craigslist-tallahassee",
+      "name": "Craigslist tallahassee land",
+      "dealType": "fsbo",
+      "state": "FL",
+      "bases": [
+        "ashford-al"
+      ],
+      "adapter": "craigslist",
+      "seeds": [
+        "https://tallahassee.craigslist.org/search/rea?query=acres",
+        "https://tallahassee.craigslist.org/search/rea?query=land"
+      ],
+      "enabled": true,
+      "note": "Reads the listing lines present in the HTML; Craigslist renders the full grid with JavaScript, so this sees a subset."
+    },
+    {
+      "id": "craigslist-columbusga",
+      "name": "Craigslist columbusga land",
+      "dealType": "fsbo",
+      "state": "GA",
+      "bases": [
+        "ashford-al"
+      ],
+      "adapter": "craigslist",
+      "seeds": [
+        "https://columbusga.craigslist.org/search/rea?query=acres",
+        "https://columbusga.craigslist.org/search/rea?query=land"
+      ],
+      "enabled": true,
+      "note": "Reads the listing lines present in the HTML; Craigslist renders the full grid with JavaScript, so this sees a subset."
+    },
+    {
+      "id": "craigslist-buffalo",
+      "name": "Craigslist buffalo land",
+      "dealType": "fsbo",
+      "state": "NY",
+      "bases": [
+        "ashford-ny"
+      ],
+      "adapter": "craigslist",
+      "seeds": [
+        "https://buffalo.craigslist.org/search/rea?query=acres",
+        "https://buffalo.craigslist.org/search/rea?query=land"
+      ],
+      "enabled": true,
+      "note": "Reads the listing lines present in the HTML; Craigslist renders the full grid with JavaScript, so this sees a subset."
+    },
+    {
+      "id": "craigslist-rochester",
+      "name": "Craigslist rochester land",
+      "dealType": "fsbo",
+      "state": "NY",
+      "bases": [
+        "ashford-ny"
+      ],
+      "adapter": "craigslist",
+      "seeds": [
+        "https://rochester.craigslist.org/search/rea?query=acres",
+        "https://rochester.craigslist.org/search/rea?query=land"
+      ],
+      "enabled": true,
+      "note": "Reads the listing lines present in the HTML; Craigslist renders the full grid with JavaScript, so this sees a subset."
+    },
+    {
+      "id": "craigslist-chautauqua",
+      "name": "Craigslist chautauqua land",
+      "dealType": "fsbo",
+      "state": "NY",
+      "bases": [
+        "ashford-ny"
+      ],
+      "adapter": "craigslist",
+      "seeds": [
+        "https://chautauqua.craigslist.org/search/rea?query=acres",
+        "https://chautauqua.craigslist.org/search/rea?query=land"
+      ],
+      "enabled": true,
+      "note": "Reads the listing lines present in the HTML; Craigslist renders the full grid with JavaScript, so this sees a subset."
+    },
+    {
+      "id": "craigslist-erie",
+      "name": "Craigslist erie land",
+      "dealType": "fsbo",
+      "state": "PA",
+      "bases": [
+        "ashford-ny"
+      ],
+      "adapter": "craigslist",
+      "seeds": [
+        "https://erie.craigslist.org/search/rea?query=acres",
+        "https://erie.craigslist.org/search/rea?query=land"
+      ],
+      "enabled": true,
+      "note": "Reads the listing lines present in the HTML; Craigslist renders the full grid with JavaScript, so this sees a subset."
+    },
+    {
+      "id": "craigslist-charlestonwv",
+      "name": "Craigslist charlestonwv land",
+      "dealType": "fsbo",
+      "state": "WV",
+      "bases": [
+        "ashford-wv"
+      ],
+      "adapter": "craigslist",
+      "seeds": [
+        "https://charlestonwv.craigslist.org/search/rea?query=acres",
+        "https://charlestonwv.craigslist.org/search/rea?query=land"
+      ],
+      "enabled": true,
+      "note": "Reads the listing lines present in the HTML; Craigslist renders the full grid with JavaScript, so this sees a subset."
+    },
+    {
+      "id": "craigslist-huntington",
+      "name": "Craigslist huntington land",
+      "dealType": "fsbo",
+      "state": "WV",
+      "bases": [
+        "ashford-wv"
+      ],
+      "adapter": "craigslist",
+      "seeds": [
+        "https://huntington.craigslist.org/search/rea?query=acres",
+        "https://huntington.craigslist.org/search/rea?query=land"
+      ],
+      "enabled": true,
+      "note": "Reads the listing lines present in the HTML; Craigslist renders the full grid with JavaScript, so this sees a subset."
     }
   ]
 }

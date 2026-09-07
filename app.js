@@ -108,7 +108,8 @@
     if (distance == null) reasons.push(["warn", "No coordinates"]);
     else if (!inRadius) reasons.push(["bad", `${Math.round(distance)} mi, outside radius`]);
     const acresOk = p.acres != null && p.acres >= s.minAcres;
-    if (!acresOk) reasons.push(["bad", `Under ${s.minAcres} acres`]);
+    if (p.acres == null) reasons.push(["warn", "Acres unknown"]);
+    else if (!acresOk) reasons.push(["bad", `Under ${s.minAcres} acres`]);
     const landOk = !s.landOnly || !p.hasStructure;
     if (!landOk) reasons.push(["bad", "Has structure"]);
     let priceOk = false;

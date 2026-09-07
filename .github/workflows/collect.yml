@@ -51,7 +51,7 @@ jobs:
           if [ "$DEBUG" = "true" ]; then
             rm -rf debug && mkdir -p debug
             EXTRA="--dump-text debug/pages"
-            if [ -f config/probe-urls.txt ]; then node probe.js --out debug/probe --ua "$COLLECTOR_UA" --file config/probe-urls.txt || true; fi
+            if [ -f config/probe-urls.txt ]; then node probe.js --out debug/probe --ua "$COLLECTOR_UA" --raw 40000 --file config/probe-urls.txt || true; fi
           fi
           if [ -z "$ANTHROPIC_API_KEY" ]; then
             echo "ANTHROPIC_API_KEY secret not set; running heuristic extraction only"

@@ -53,7 +53,10 @@ export function applyCriteria(parcels, { minAcres, landOnly, keepUnknownAcresFor
       p.acresUnknown = true;
     } else if (p.acres < minAcres) { dropped.smallAcres++; return false; }
     if (landOnly && p.hasStructure === true) { dropped.structure++; return false; }
-    if (p.askingPrice == null) { dropped.noPrice++; return false; }
+    if (p.askingPrice == null) {
+      if (!keepUnknownAcresFor.includes(p.dealType)) { dropped.noPrice++; return false; }
+      p.priceUnknown = true;
+    }
     return true;
   });
   return { kept, dropped };

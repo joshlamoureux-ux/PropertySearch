@@ -1,33 +1,48 @@
-# URLs fetched by probe.js in a debug run; results land in collector/debug/probe.
-# Connecticut tax sales: index and a completed sale page to learn the layout
-https://www.cttaxsales.com/
-https://www.cttaxsales.com/upcoming-tax-sales/
-https://cttaxsales.com/recently-completed-tax-sales/
-# CT Judicial foreclosure sales: find the public list pages
-https://www.jud.ct.gov/foreclosure/
-https://www.jud.ct.gov/foreclosure/Public/Public_Search.aspx
-https://sso.eregulations.ct.gov/foreclosure/
-# Vision assessor (VGSI) for a Windham County town: street list and a parcel card
-https://gis.vgsi.com/pomfretct/
-https://gis.vgsi.com/pomfretct/Streets.aspx?Name=ROUTE%2044
-https://gis.vgsi.com/pomfretct/Parcel.aspx?pid=100
-https://gis.vgsi.com/ashfordct/
-# CT statewide parcel data candidates
-https://cteco.uconn.edu/
-https://data.ct.gov/api/views/metadata/v1?limit=5&search=parcel
-https://ctmaps.ct.gov/
-# Listing sites with bot protection: see whether a browser UA gets through
-https://www.landwatch.com/connecticut-land-for-sale/acres-5-999
-https://www.landsearch.com/properties/connecticut
-https://www.landandfarm.com/search/CT-land-for-sale/
-https://www.landflip.com/land-for-sale/connecticut
-https://www.bid4assets.com/storefront/realestate
-https://www.auctionsinternational.com/liveauctions
-https://www.auctionsinternational.com/real-estate
-# Craigslist real estate (server-rendered, has land)
-https://hartford.craigslist.org/search/rea?query=acres
+# Debug-run probes. Results land in collector/debug/probe.
+# Bid4Assets tax sale calendar
+https://www.bid4assets.com/taxsales
+# CT Judicial pending foreclosure sale postings
+https://www.jud.ct.gov/foreclosure_sales/Public/PendPostbyTownList.aspx
+https://www.jud.ct.gov/foreclosure_sales/Public/PendPostbyTownDetails.aspx?town=Woodstock
+https://www.jud.ct.gov/foreclosure_sales/
+# A tax-sale notice PDF, to see what the notices contain
+https://cttaxsales.com/wp-content/uploads/2026/06/2.25-acres-on-West-Thompson-Road-Thompson-CT.pdf
+# Vision assessor: street index and a real street/parcel for Pomfret
+https://gis.vgsi.com/pomfretct/Streets.aspx?Letter=M
+https://gis.vgsi.com/pomfretct/Streets.aspx?Name=MASHAMOQUET%20RD
+https://gis.vgsi.com/pomfretct/Parcel.aspx?pid=1
+https://gis.vgsi.com/pomfretct/Parcel.aspx?pid=500
+# Which nearby towns are on Vision
+https://gis.vgsi.com/eastfordct/
+https://gis.vgsi.com/woodstockct/
+https://gis.vgsi.com/thompsonct/
+https://gis.vgsi.com/unionct/
+https://gis.vgsi.com/willingtonct/
+https://gis.vgsi.com/mansfieldct/
+https://gis.vgsi.com/chaplinct/
+https://gis.vgsi.com/hamptonct/
+https://gis.vgsi.com/staffordct/
+https://gis.vgsi.com/tollandct/
+https://gis.vgsi.com/coventryct/
+https://gis.vgsi.com/brooklynct/
+https://gis.vgsi.com/killinglyct/
+https://gis.vgsi.com/plainfieldct/
+https://gis.vgsi.com/canterburyct/
+https://gis.vgsi.com/scotlandct/
+https://gis.vgsi.com/windhamct/
+https://gis.vgsi.com/lebanonct/
+https://gis.vgsi.com/columbiact/
+https://gis.vgsi.com/hebronct/
+https://gis.vgsi.com/andoverct/
+https://gis.vgsi.com/boltonct/
+https://gis.vgsi.com/putnamct/
+https://gis.vgsi.com/sterlingct/
+https://gis.vgsi.com/ellingtonct/
+https://gis.vgsi.com/vernonct/
+# Craigslist: raw page to look for embedded result JSON, and robots
+https://www.craigslist.org/robots.txt
 https://newlondon.craigslist.org/search/rea?query=acres
-https://worcester.craigslist.org/search/rea?query=acres
-# Massachusetts and Rhode Island parcel/assessor candidates
-https://gis.vgsi.com/brimfieldma/
-https://massgis.maps.arcgis.com/
+# CT open data catalog search for parcels
+https://api.us.socrata.com/api/catalog/v1?domains=data.ct.gov&q=parcel&limit=10
+# Ashford assessor (not on Vision): find its vendor
+https://www.ashfordtownhall.org/

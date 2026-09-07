@@ -5,6 +5,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import crypto from "node:crypto";
+import { extractText } from "unpdf";
 
 const UA_BOT = "AshfordLandFinder/0.1 (+https://github.com/joshlamoureux-ux/PropertySearch; land-opportunity research; contact via repo)";
 const UA_BROWSER = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36";
@@ -78,8 +79,19 @@ export class Fetcher {
       try {
         const res = await this.rawFetch(url);
         if (res.status === 429 || res.status >= 500) { await sleep(2000 * attempt); continue; }
-        const html = await res.text();
-        const rec = { url, finalUrl: res.url || url, status: res.status, html, fetchedAt: Date.now() };
+        const ctype = res.headers.get("content-type") || "";
+        let html = "", text = null, isPdf = false;
+        if (/application\/pdf/i.test(ctype) || /\.pdf(\?|$)/i.test(res.url || url)) {
+          isPdf = true;
+          try {
+            const buf = new Uint8Array(await res.arrayBuffer());
+            const r = await extractText(buf, { mergePages: true });
+            text = String(r.text || "").replace(/[ \t]+\n/g, "\n").replace(/\n{3,}/g, "\n\n").trim();
+          } catch (e) { this.log.warn(`pdf text extraction failed for ${url}: ${e.message}`); text = ""; }
+        } else {
+          html = await res.text();
+        }
+        const rec = { url, finalUrl: res.url || url, status: res.status, html, text, isPdf, fetchedAt: Date.now() };
         if (res.ok) fs.writeFileSync(this.cachePath(url), JSON.stringify(rec));
         this.stats.fetched++;
         if (!res.ok) this.log.warn(`HTTP ${res.status} for ${url}`);
