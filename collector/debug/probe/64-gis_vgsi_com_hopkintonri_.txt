@@ -1,0 +1,264 @@
+URL: https://gis.vgsi.com/hopkintonri/
+FINAL: https://gis.vgsi.com/hopkintonri/
+STATUS: 200
+TITLE: Vision Government Solutions
+BYTES: 15624
+
+===== TEXT =====
+Vision Government Solutions
+
+|
+
+Hopkinton,RI
+
+|
+
+Welcome
+
+Welcome to the Town of Hopkinton, RI Online Assessment Database.
+
+Shown on this site are assessments of all taxable and exempt properties based on 100% of fair market value as of December 31, 2025.
+
+The Town of Hopkinton and Vision Government Solutions would like to thank the residents of Hopkinton for their patience and cooperation throughout the 2025 Revaluation project.
+
+Real Property Tax Rate: $12.44
+
+Tangible Property Tax Rate: $14.66
+
+Please note that assessed values do not reflect any exemptions, which will be applied to the final assessments.
+
+Though every effort is made to produce and publish the most accurate information available, there is no guarantee the information is free from errors or inaccuracies. Property owners are encouraged to check the information for accuracy and contact the Assessor with any discrepancies.
+
+Search Tips: When searching by map and lot, there are three blocks. The first block is for the map number, which requires three digits, so if you are searching for map 2 use 002. The second block is for condominium unit number, which requires three digits, so if searching for unit 21 use 021. If it is not a condominium, enter 000. The third block is for the lot number. This is a five character block, so if searching for lot 23A use 0023A.
+
+(c) 2026 Vision Government Solutions, Inc. All rights reserved.
+
+===== LINKS =====
+
+
+===== RAW HEAD =====
+
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="EN">
+<head>
+    <!-- Level Access ADA widget -->
+    <script src="https://cdn.userway.org/widget.js" data-account="lotasidGlP"></script>  
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-93590319-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-37067763-1');
+    </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" media="all" href="/HopkintonRI/Styles/base.css?v=6" />
+   <!--
+   [if IE 7]><link type="text/css" rel="stylesheet" media="all" href="/HopkintonRI/Styles/ie7.css" /><![endif]
+   [if IE 8]><link type="text/css" rel="stylesheet" media="all" href="/HopkintonRI/Styles/ie8.css"/><![endif]
+   -->
+    <link href="/HopkintonRI/Styles/SoftGreyGridView.css" rel="stylesheet" type="text/css" />
+    <link href="/HopkintonRI/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="/HopkintonRI/Styles/jquery-ui-1.9.2.custom.css" rel="stylesheet" type="text/css" />
+   
+    <!-- JQuery and UI-->
+    <script src="/HopkintonRI/Scripts/jquery-1.8.3.js"  type="text/javascript"></script>
+    <script src="/HopkintonRI/Scripts/jquery-ui-1.9.2.custom.min.js"  type="text/javascript"></script>
+   
+    <script src="/HopkintonRI/Scripts/bgiframe.js" type="text/javascript"></script>
+    <link rel="shortcut icon" href="/HopkintonRI/Images/VGS_Icon32x32.ico" type="image/x-icon" />
+    
+    <style type="text/css">
+	.myoutercontainer { position:relative }
+	.myinnercontainer {  margin-top:20px }
+    </style>
+
+    <title>Vision Government Solutions </title>
+</head>
+<body class="page front">
+    <form method="post" action="./" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTE2OTQ4MTU3NQ9kFgJmD2QWAmYPZBYGZg9kFgRmDw8WBB4ISW1hZ2VVcmwFGX4vSW1hZ2VzL2hvcGtpbnRvbl9yaS5naWYeDUFsdGVybmF0ZVRleHQFFkhvcGtpbnRvbixSSSB0b3duIHNlYWxkZAIBDw8WAh4EVGV4dAUMSG9wa2ludG9uLFJJZGQCAQ8PFgIeB1Zpc2libGVoZGQCAg9kFgQCAQ8WAh8CBZ8SPHAgc3R5bGU9InRleHQtYWxpZ246IGNlbnRlcjsiPldlbGNvbWUgdG8gdGhlIFRvd24gb2YgSG9wa2ludG9uLCBSSSBPbmxpbmUgQXNzZXNzbWVudCBEYXRhYmFzZS4gPC9wPjxwIHN0eWxlPSJ0ZXh0LWFsaWduOiBjZW50ZXI7Ij48YnI+PC9wPjxociBpZD0iaHQiPjxoNiBzdHlsZT0idGV4dC1hbGlnbjogY2VudGVyOyI+PHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9Im1zby1tYXJnaW4tdG9wLWFsdDphdXRvO21hcmdpbi1ib3R0b206Ny41cHQ7DQp0ZXh0LWFsaWduOmp1c3RpZnk7dGV4dC1pbmRlbnQ6LjVpbjtsaW5lLWhlaWdodDoxNS4wcHQiPjxmb250IGNvbG9yPSIjMzMzMzMzIiBmYWNlPSJBcmlhbCwgc2Fucy1zZXJpZiI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTZweDsiPlNob3duIG9uIHRoaXMgc2l0ZSBhcmUgYXNzZXNzbWVudHMgb2YgYWxsIHRheGFibGUgYW5kIGV4ZW1wdCBwcm9wZXJ0aWVzIGJhc2VkIG9uIDEwMCUgb2YgZmFpciBtYXJrZXQgdmFsdWUgYXMgb2YgRGVjZW1iZXIgMzEsIDIwMjUuJm5ic3A7PC9zcGFuPjwvZm9udD48L3A+PHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9Im1zby1tYXJnaW4tdG9wLWFsdDphdXRvO21hcmdpbi1ib3R0b206Ny41cHQ7DQp0ZXh0LWFsaWduOmp1c3RpZnk7dGV4dC1pbmRlbnQ6LjVpbjtsaW5lLWhlaWdodDoxNS4wcHQiPjxmb250IGNvbG9yPSIjMzMzMzMzIiBmYWNlPSJBcmlhbCwgc2Fucy1zZXJpZiI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTZweDsiPlRoZSBUb3duIG9mIEhvcGtpbnRvbiBhbmQgVmlzaW9uIEdvdmVybm1lbnQgU29sdXRpb25zIHdvdWxkIGxpa2UgdG8gdGhhbmsgdGhlIHJlc2lkZW50cyBvZiBIb3BraW50b24gZm9yIHRoZWlyIHBhdGllbmNlIGFuZCBjb29wZXJhdGlvbiB0aHJvdWdob3V0IHRoZSAyMDI1IFJldmFsdWF0aW9uIHByb2plY3QuJm5ic3A7PC9zcGFuPjwvZm9udD48L3A+PHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9Im1zby1tYXJnaW4tdG9wLWFsdDphdXRvO21hcmdpbi1ib3R0b206Ny41cHQ7DQp0ZXh0LWFsaWduOmp1c3RpZnk7dGV4dC1pbmRlbnQ6LjVpbjtsaW5lLWhlaWdodDoxNS4wcHQiPjx1IHN0eWxlPSJ0ZXh0LWluZGVudDogMC41aW47IGZvbnQtc2l6ZTogMTZweDsgY29sb3I6IHJnYig1MSwgNTEsIDUxKTsgZm9udC1mYW1pbHk6IEFyaWFsLCBzYW5zLXNlcmlmOyB0ZXh0LWFsaWduOiBsZWZ0OyI+PGJyPjwvdT48L3A+PHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9InRleHQtYWxpZ246IGxlZnQ7IG1hcmdpbi1ib3R0b206IDcuNXB0OyB0ZXh0LWluZGVudDogMC41aW47IGxpbmUtaGVpZ2h0OiAxNXB0OyI+PGZvbnQgY29sb3I9IiMzMzMzMzMiIGZhY2U9IkFyaWFsLCBzYW5zLXNlcmlmIj48c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxNnB4OyI+PHU+UmVhbCBQcm9wZXJ0eSBUYXggUmF0ZTo8L3U+IDxzcGFuIHN0eWxlPSJ3aGl0ZS1zcGFjZTpwcmUiPgk8L3NwYW4+JDEyLjQ0PC9zcGFuPjwvZm9udD48L3A+PHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9InRleHQtYWxpZ246IGxlZnQ7IG1hcmdpbi1ib3R0b206IDcuNXB0OyB0ZXh0LWluZGVudDogMC41aW47IGxpbmUtaGVpZ2h0OiAxNXB0OyI+PGZvbnQgY29sb3I9IiMzMzMzMzMiIGZhY2U9IkFyaWFsLCBzYW5zLXNlcmlmIj48c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxNnB4OyI+PHU+VGFuZ2libGUgUHJvcGVydHkgVGF4IFJhdGU6PC91PiA8c3BhbiBzdHlsZT0id2hpdGUtc3BhY2U6cHJlIj4JPC9zcGFuPiQxNC42Njwvc3Bhbj48L2ZvbnQ+PC9wPjwvaDY+PGhyIGlkPSJodCI+PHAgc3R5bGU9InRleHQtYWxpZ246IGNlbnRlcjsiPjxicj48L3A+PGRpdiBzdHlsZT0idGV4dC1hbGlnbjogbGVmdDsiPlBsZWFzZSBub3RlIHRoYXQgYXNzZXNzZWQgdmFsdWVzIGRvIG5vdCByZWZsZWN0IGFueSBleGVtcHRpb25zLCB3aGljaCB3aWxsIGJlIGFwcGxpZWQgdG8gdGhlIGZpbmFsIGFzc2Vzc21lbnRzLjwvZGl2PjxwPjwvcD48cD48YnI+PC9wPjxwPjxpPlRob3VnaCBldmVyeSBlZmZvcnQgaXMgbWFkZSB0byBwcm9kdWNlIGFuZCBwdWJsaXNoIHRoZSBtb3N0IGFjY3VyYXRlIGluZm9ybWF0aW9uIGF2YWlsYWJsZSwgdGhlcmUgaXMgbm8gZ3VhcmFudGVlIHRoZSBpbmZvcm1hdGlvbiBpcyBmcmVlIGZyb20gZXJyb3JzIG9yIGluYWNjdXJhY2llcy4gUHJvcGVydHkgb3duZXJzIGFyZSBlbmNvdXJhZ2VkIHRvIGNoZWNrIHRoZSBpbmZvcm1hdGlvbiBmb3IgYWNjdXJhY3kgYW5kIGNvbnRhY3QgdGhlIEFzc2Vzc29yIHdpdGggYW55IGRpc2NyZXBhbmNpZXMuJm5ic3A7PC9pPjwvcD48cD48YnI+PC9wPjxwPjwvcD48cD48YnI+PC9wPmQCAw9kFgYCAQ8WAh8DaGQCAw8PFgIfA2dkZAIFDxYCHwIF/AM8c3BhbiBzdHlsZT0iZm9udC1zaXplOiBzbWFsbGVyOyI+PGk+U2VhcmNoIFRpcHM6IFdoZW4gc2VhcmNoaW5nIGJ5IG1hcCBhbmQgbG90LCB0aGVyZSBhcmUgdGhyZWUgYmxvY2tzLiZuYnNwOyBUaGUgZmlyc3QgYmxvY2sgaXMgZm9yIHRoZSBtYXAgbnVtYmVyLCB3aGljaCByZXF1aXJlcyB0aHJlZSBkaWdpdHMsIHNvIGlmIHlvdSBhcmUgc2VhcmNoaW5nIGZvciBtYXAgMiB1c2UgMDAyLiZuYnNwOyBUaGUgc2Vjb25kIGJsb2NrIGlzIGZvciBjb25kb21pbml1bSB1bml0IG51bWJlciwgd2hpY2ggcmVxdWlyZXMgdGhyZWUgZGlnaXRzLCBzbyBpZiBzZWFyY2hpbmcgZm9yIHVuaXQgMjEgdXNlIDAyMS4gSWYgaXQgaXMgbm90IGEgY29uZG9taW5pdW0sIGVudGVyIDAwMC4gVGhlIHRoaXJkIGJsb2NrIGlzIGZvciB0aGUgbG90IG51bWJlci4mbmJzcDsgVGhpcyBpcyBhIGZpdmUgY2hhcmFjdGVyIGJsb2NrLCBzbyBpZiBzZWFyY2hpbmcgZm9yIGxvdCAyM0EgdXNlIDAwMjNBLjwvaT48L3NwYW4+ZGSxpOCWxXE2m+cM4RMeG8pGj2gVvE/fIb+y+w31xfqt5g==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C9D22551" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAJdeEKPcMNR1jJBmD56HNNAQyChBnh26NvXQpWWOqy8DKXguZ9xMrYjkwrSYWRaMvLAKGALtRlQdIfZKyYtqUXM" />
+</div>
+        <div class="inner-page">
+            <div class="inner-inner-page">
+                <div class="page front">
+                    <header>
+                    <div class="topBorder">
+                     <img alt="" id="HeaderImage" src='/HopkintonRI/Images/top-border.png' width="955px;"  />    
+                    </div>
+                    <div class="header-images">
+                        <div id="panBannerDefault">
+	
+                            <table style="width:99.5%" >
+                                <tr>
+                                    <td>
+                                        <h1 style="font-size:20pt !important; font-weight: bold;">
+                                            <img id="imgTownSeal" src="Images/hopkinton_ri.gif" alt="Hopkinton,RI town seal" style="height:75px;" />
+                                            <span id="lblTownName" class="myinnercontainer" style="display:inline-block;font-size:36pt;font-weight:bold;width:500px;">Hopkinton,RI</span>
+                                        </h1>
+                                    </td>
+                                    <td align="right">
+                                        <span class="header-right-image" >
+                                            <input type="image" name="ctl00$ImageButton1" id="imgVisionImageButton" 
+                                           src='/HopkintonRI/Images/visiongovernmentsolutionslogo.png' alt="Vision Government Solutions Logo" />
+                                        </span>
+                                    </td>
+                                </tr>
+                            </table>
+                        
+</div>
+                        
+                    </div>
+                    <div style="width:100%;top:-18px;position: relative">
+                        
+                    </div>
+                    </header>
+                    <div>
+                        <div class="page clientservices-appraisal">
+                            <main>
+                            <div class="main-content">
+                                <div style="width: 99%;padding-left:5px;padding-right:5px;">
+                                    
+
+    <style>
+        div.container
+        {
+            border: 0px solid #000000;
+            overflow: auto;
+            width: 100%;
+        }
+    </style>
+    <div class="container">
+        <div class="ui-widget">
+            <div id="WelcomeText" style="float: Left; width: 50%">
+                <h1>Welcome</h1>
+                
+                <p style="text-align: center;">Welcome to the Town of Hopkinton, RI Online Assessment Database. </p><p style="text-align: center;"><br></p><hr id="ht"><h6 style="text-align: center;"><p class="MsoNormal" style="mso-margin-top-alt:auto;margin-bottom:7.5pt;
+text-align:justify;text-indent:.5in;line-height:15.0pt"><font color="#333333" face="Arial, sans-serif"><span style="font-size: 16px;">Shown on this site are assessments of all taxable and exempt properties based on 100% of fair market value as of December 31, 2025.&nbsp;</span></font></p><p class="MsoNormal" style="mso-margin-top-alt:auto;margin-bottom:7.5pt;
+text-align:justify;text-indent:.5in;line-height:15.0pt"><font color="#333333" face="Arial, sans-serif"><span style="font-size: 16px;">The Town of Hopkinton and Vision Government Solutions would like to thank the residents of Hopkinton for their patience and cooperation throughout the 2025 Revaluation project.&nbsp;</span></font></p><p class="MsoNormal" style="mso-margin-top-alt:auto;margin-bottom:7.5pt;
+text-align:justify;text-indent:.5in;line-height:15.0pt"><u style="text-indent: 0.5in; font-size: 16px; color: rgb(51, 51, 51); font-family: Arial, sans-serif; text-align: left;"><br></u></p><p class="MsoNormal" style="text-align: left; margin-bottom: 7.5pt; text-indent: 0.5in; line-height: 15pt;"><font color="#333333" face="Arial, sans-serif"><span style="font-size: 16px;"><u>Real Property Tax Rate:</u> <span style="white-space:pre">	</span>$12.44</span></font></p><p class="MsoNormal" style="text-align: left; margin-bottom: 7.5pt; text-indent: 0.5in; line-height: 15pt;"><font color="#333333" face="Arial, sans-serif"><span style="font-size: 16px;"><u>Tangible Property Tax Rate:</u> <span style="white-space:pre">	</span>$14.66</span></font></p></h6><hr id="ht"><p style="text-align: center;"><br></p><div style="text-align: left;">Please note that assessed values do not reflect any exemptions, which will be applied to the final assessments.</div><p></p><p><br></p><p><i>Though every effort is made to produce and publish the most accurate information available, there is no guarantee the information is free from errors or inaccuracies. Property owners are encouraged to check the information for accuracy and contact the Assessor with any discrepancies.&nbsp;</i></p><p><br></p><p></p><p><br></p>
+
+            </div>
+
+            <br />
+            <br />
+            <div id="MainContent_login" style="float: Right; width: 45%; ">
+            
+                <div style="padding-left:40px; font-size:1.4em">
+                <br />&nbsp;
+                    <input type="submit" name="ctl00$MainContent$btnEnterOnlineDatabase" value="Enter Online Database" id="MainContent_btnEnterOnlineDatabase" class="btn btn-primary" />
+
+                    <br /><br /><br />
+                
+            </div>
+            <div id="SilverlightMessage"  >
+                
+                
+              
+                    
+            </div>
+                    <br />
+
+                  <span style="font-size: smaller;"><i>Search Tips: When searching by map and lot, there are three blocks.&nbsp; The first block is for the map number, which requires three digits, so if you are searching for map 2 use 002.&nbsp; The second block is for condominium unit number, which requires three digits, so if searching for unit 21 use 021. If it is not a condominium, enter 000. The third block is for the lot number.&nbsp; This is a five character block, so if searching for lot 23A use 0023A.</i></span>
+
+        </div>
+    </div>
+    <br />
+    <br />
+    <br />
+        </div>
+
+                                </div>
+                            </div>
+                            </main>
+                            <div style="height:10px;"></div>
+                            <footer>
+                            <div class="clientservices-footer">
+                                <div style="background-color:#333366; width: 100%">
+                                    <span style="float:right;padding-top:6px; padding-right: 12px;">(c)  2026 Vision Government Solutions, Inc. All rights reserved.</span>
+                                </div>    
+                            </div>
+                            </footer>
+                        </div>
+                    </div>
+                    <div class="bottomgraphic">    
+                        <img alt="" id="Image4" src='/HopkintonRI/Images/pagebottomds.png' />
+                    </div> 
+                </div>
+            </div>
+        </div>
+        
+        
+    <script type="text/javascript">
+        //ondomready
+        $(function () {
+
+            var ua = window.navigator.userAgent;
+            var msie = ua.indexOf("MSIE ");
+
+            if (msie > 0) // If Internet Explorer, check version number
+            {
+                var version = parseInt(ua.substring(msie + 5, ua.indexOf(".", msie)));
+                if (version <= 6) {
+                    alert("Your browser need to be upgraded to version 7 or newer for this site to work correctly");
+                }
+            };
+
+        });
+
+        $(function () {
+
+            // $("input:submit,  button", ".ui-widget").button();
+
+        });
+
+
+
+
+
+       
+
+    </script>
+    
+    <script>
+        // Override the user agent so that you can see it work!
+        navigator.__defineGetter__('userAgent', function () {
+            return 'Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; SLCC1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.50727)';
+        });
+
+
+    </script>
+
+   
+
+      
+        
+              <script type="text/javascript">
+
+                  //SMW VIS-12382 upgraded GA tag into master page head tags to clear cookie samesite error
+                  //var _gaq = _gaq || [];
+                  //_gaq.push(['_setAccount', 'UA-37067763-1']);
+                  //_gaq.push(['_trackPageview']);
+
+                  //(function () {
+                  //    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                  //    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://ssl') + '.google-analytics.com/ga.js';
+                  //    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                  //})();
+
+</script>        
+    </form>
+
+</body>
+</html>
+

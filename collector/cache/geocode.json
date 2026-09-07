@@ -664,5 +664,111 @@
  ">>>>> pastoral paradise: 80 acres + 10 buildings <<<<, hanover-pembroke area, ma, usa": null,
  "hanover-pembroke area, ma, usa": null,
  "53 acre farm and development land for sale, digby, nova scotia, ma, usa": null,
- "digby, nova scotia, ma, usa": null
+ "digby, nova scotia, ma, usa": null,
+ "47 main street, hartford, ct, usa": {
+  "lat": 41.665268,
+  "lng": -72.7806045,
+  "name": "47, Main Street, City Hall–Monument Historic District, Barrio Latino, New Britain, Capitol Planning Region, Connecticut, 06051, United States",
+  "precision": "place"
+ },
+ "296 homestead avenue, hartford, ct, usa": {
+  "lat": 41.7795449,
+  "lng": -72.6987886,
+  "name": "296, Homestead Avenue, Upper Albany Historic District, Asylum Hill, Clay Arsenal, Hartford, Connecticut, 06112, United States",
+  "precision": "place"
+ },
+ "79 bonner street a/k/a 79-83 bonner street, hartford, ct, usa": null,
+ "hartford, ct, usa": {
+  "lat": 41.764582,
+  "lng": -72.6908547,
+  "name": "Hartford, Capitol Planning Region, Connecticut, United States",
+  "precision": "city"
+ },
+ "273 asylum street a/k/a 273-281 asylum street, hartford, ct, usa": null,
+ "104 westland street, hartford, ct, usa": {
+  "lat": 41.7904934,
+  "lng": -72.6769253,
+  "name": "104, Westland Street, Capen–Clark Historic District, Asylum Hill, Clay Arsenal, Hartford, Connecticut, 06120, United States",
+  "precision": "place"
+ },
+ "110 walnut street a/k/a 110-112 walnut street, hartford, ct, usa": null,
+ "446 franklin avenue, hartford, ct, usa": {
+  "lat": 41.737232,
+  "lng": -72.675217,
+  "name": "446, Franklin Avenue, South End, Coltville, Hartford, Capitol Planning Region, Connecticut, 06114, United States",
+  "precision": "place"
+ },
+ "12 south street a/k/a 12-14 south street, hartford, ct, usa": null,
+ "435 wethersfield avenue, hartford, ct, usa": {
+  "lat": 41.743858,
+  "lng": -72.6733218,
+  "name": "435, Wethersfield Avenue, South End, Frog Hollow, Coltville, Hartford, Connecticut, 06114, United States",
+  "precision": "place"
+ },
+ "715 wethersfield avenue, hartford, ct, usa": {
+  "lat": 41.7363431,
+  "lng": -72.6712465,
+  "name": "715, Wethersfield Avenue, South End, Hartford, Connecticut, 06114, United States",
+  "precision": "place"
+ },
+ "596 zion street a/k/a 596-600 zion street, hartford, ct, usa": null,
+ "39 john street a/k/a 39-43 john street, hartford, ct, usa": null,
+ "51 john street, hartford, ct, usa": {
+  "lat": 41.7753469,
+  "lng": -72.6411796,
+  "name": "51, John Street, Downtown Main Street Historic District, East Hartford, Capitol Planning Region, Connecticut, 06108, United States",
+  "precision": "place"
+ },
+ "45 john street a/k/a 45-47 john street, hartford, ct, usa": null,
+ "44 john street, hartford, ct, usa": {
+  "lat": 41.7755992,
+  "lng": -72.6421731,
+  "name": "44, John Street, Downtown Main Street Historic District, East Hartford, Capitol Planning Region, Connecticut, 06108, United States",
+  "precision": "place"
+ },
+ "25 sigourney street, hartford, ct, usa": {
+  "lat": 41.7627377,
+  "lng": -72.6946265,
+  "name": "Connecticut Office of Emergency Management, 25, Sigourney Street, Imlay and Laurel Streets District, Parkville, Clay Arsenal, Hartford, Connecticut, 06106, United States",
+  "precision": "office"
+ },
+ "44 prospect street a/k/a 44-48 prospect street, hartford, ct, usa": null,
+ "319 new britain road, unit 325, kensington, ct, usa": null,
+ "115a chasta lane, stratford, ct, usa": {
+  "lat": 41.2459042,
+  "lng": -73.1117987,
+  "name": "Chasta Lane, Oronoque Hills South, Oronoque, Stratford, Greater Bridgeport Planning Region, Connecticut, 06614, United States",
+  "precision": "road"
+ },
+ "41b bucksin lane, stratford, ct, usa": null,
+ "stratford, ct, usa": {
+  "lat": 41.1923646,
+  "lng": -73.1304917,
+  "name": "Stratford, Greater Bridgeport Planning Region, Connecticut, United States",
+  "precision": "town"
+ },
+ "32 prospect hill drive, east windsor, ct, usa": {
+  "lat": 41.9257048,
+  "lng": -72.6021791,
+  "name": "32, Prospect Hill Drive, Spring Village, Warehouse Point, East Windsor, Capitol Planning Region, Connecticut, 06088, United States",
+  "precision": "place"
+ },
+ "30b folkstone road, broad brook, ct, usa": {
+  "lat": 41.9093012,
+  "lng": -72.5590613,
+  "name": "Folkstone Road, Broad Brook, East Windsor, Capitol Planning Region, Connecticut, 06016, United States",
+  "precision": "road"
+ },
+ "18 david drive, east windsor, ct, usa": {
+  "lat": 41.8853695,
+  "lng": -72.6012981,
+  "name": "18, David Drive, East Windsor, Capitol Planning Region, Connecticut, 06088, United States",
+  "precision": "place"
+ },
+ "10i riverview drive, east windsor, ct, usa": {
+  "lat": 41.9069179,
+  "lng": -72.6154016,
+  "name": "Riverview Drive, East Windsor, Capitol Planning Region, Connecticut, 06088, United States",
+  "precision": "road"
+ }
 }

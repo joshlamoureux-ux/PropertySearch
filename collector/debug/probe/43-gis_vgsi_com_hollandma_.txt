@@ -1,0 +1,239 @@
+URL: https://gis.vgsi.com/hollandma/
+FINAL: https://gis.vgsi.com/hollandma/
+STATUS: 200
+TITLE: Vision Government Solutions
+BYTES: 10670
+
+===== TEXT =====
+Vision Government Solutions
+
+|
+
+HOLLAND,MA
+
+|
+
+Welcome
+
+Welcome to the Assessor's database for the Town of Holland, Massachusetts. The Town of Holland has contracted with Vision Government Solutions Inc. of Hudson, Massachusetts to assist with the state mandated revaluations and interim year adjustments. The values currently available here are for Fiscal Year 2026, and the tax rate is $12.20 per 1,000.
+
+This website will allow the user to search for properties by street address, by owner name, or by map-block-lot. This database also provides the user with an explanation of the revaluation process. Property owners are encouraged to use this database to compare their property to similar properties within the Town of Holland.
+
+Both the Board of Assessors and Vision Government Solutions Inc. would like to thank the residents and property owners of Holland for their cooperation each year when sales are analysed for a true representation of current market value. We appreciate property owners cooperation as we collect building permit information and perform cyclical and sales analysis inspections as required.
+
+(c) 2026 Vision Government Solutions, Inc. All rights reserved.
+
+===== LINKS =====
+
+
+===== RAW HEAD =====
+
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    
+     <link type="text/css" rel="stylesheet" media="all" href="/HollandMA/Styles/base.css" />
+   <!--
+   [if IE 7]><link type="text/css" rel="stylesheet" media="all" href="/HollandMA/Styles/ie7.css" /><![endif]
+   [if IE 8]><link type="text/css" rel="stylesheet" media="all" href="/HollandMA/Styles/ie8.css"/><![endif]
+   -->
+   <link href="/HollandMA/Styles/SoftGreyGridView.css" rel="stylesheet" type="text/css" />
+    <link href="/HollandMA/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+
+    <link href="/HollandMA/Styles/jquery-ui-1.9.2.custom.css" rel="stylesheet" type="text/css" />
+   
+    <!-- JQuery and UI-->
+    <script src="/HollandMA/Scripts/jquery-1.8.3.js"  type="text/javascript"></script>
+    <script src="/HollandMA/Scripts/jquery-ui-1.9.2.custom.min.js"  type="text/javascript"></script>
+   
+    <script src="/HollandMA/Scripts/bgiframe.js" type="text/javascript"></script>
+    <link rel="shortcut icon" href="/HollandMA/Images/VGS_Icon32x32.ico" type="image/x-icon" />
+      <style type="text/css">
+	.myoutercontainer { position:relative }
+	.myinnercontainer { position:absolute; top:50%; height:75px; margin-top:0px }
+    </style>
+
+    <title>Vision Government Solutions </title>
+</head>
+<body class="page front">
+    <form method="post" action="./" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTE2OTQ4MTU3NQ9kFgJmD2QWAmYPZBYGZg9kFgRmDw8WBB4ISW1hZ2VVcmwFF34vSW1hZ2VzL2hvbGxhbmRfbWEuanBnHg1BbHRlcm5hdGVUZXh0BRRIT0xMQU5ELE1BIHRvd24gc2VhbGRkAgEPDxYCHgRUZXh0BQpIT0xMQU5ELE1BZGQCAQ8PFgIeB1Zpc2libGVoZGQCAg9kFgQCAQ8WAh8CBb8IV2VsY29tZSB0byB0aGUgQXNzZXNzb3IncyBkYXRhYmFzZSBmb3IgdGhlIFRvd24gb2YgSG9sbGFuZCwgTWFzc2FjaHVzZXR0cy4gVGhlIFRvd24gb2YgSG9sbGFuZCBoYXMgY29udHJhY3RlZCB3aXRoIFZpc2lvbiBHb3Zlcm5tZW50IFNvbHV0aW9ucyBJbmMuIG9mIEh1ZHNvbiwgTWFzc2FjaHVzZXR0cyB0byBhc3Npc3Qgd2l0aCB0aGUgc3RhdGUgbWFuZGF0ZWQgcmV2YWx1YXRpb25zIGFuZCBpbnRlcmltIHllYXIgYWRqdXN0bWVudHMuIFRoZSB2YWx1ZXMgY3VycmVudGx5IGF2YWlsYWJsZSBoZXJlIGFyZSBmb3IgRmlzY2FsIFllYXIgMjAyNiwgYW5kIHRoZSB0YXggcmF0ZSBpcyAkMTIuMjAgcGVyIDEsMDAwLjxicj48YnI+VGhpcyB3ZWJzaXRlIHdpbGwgYWxsb3cgdGhlIHVzZXIgdG8gc2VhcmNoIGZvciBwcm9wZXJ0aWVzIGJ5IHN0cmVldCBhZGRyZXNzLCBieSBvd25lciBuYW1lLCBvciBieSBtYXAtYmxvY2stbG90LiBUaGlzIGRhdGFiYXNlIGFsc28gcHJvdmlkZXMgdGhlIHVzZXIgd2l0aCBhbiBleHBsYW5hdGlvbiBvZiB0aGUgcmV2YWx1YXRpb24gcHJvY2Vzcy4gUHJvcGVydHkgb3duZXJzIGFyZSBlbmNvdXJhZ2VkIHRvIHVzZSB0aGlzIGRhdGFiYXNlIHRvIGNvbXBhcmUgdGhlaXIgcHJvcGVydHkgdG8gc2ltaWxhciBwcm9wZXJ0aWVzIHdpdGhpbiB0aGUgVG93biBvZiBIb2xsYW5kLjxicj48YnI+Qm90aCB0aGUgQm9hcmQgb2YgQXNzZXNzb3JzIGFuZCBWaXNpb24gR292ZXJubWVudCBTb2x1dGlvbnMgSW5jLiB3b3VsZCBsaWtlIHRvIHRoYW5rIHRoZSByZXNpZGVudHMgYW5kIHByb3BlcnR5IG93bmVycyBvZiBIb2xsYW5kIGZvciB0aGVpciBjb29wZXJhdGlvbiBlYWNoIHllYXIgd2hlbiBzYWxlcyBhcmUgYW5hbHlzZWQgZm9yIGEgdHJ1ZSByZXByZXNlbnRhdGlvbiBvZiBjdXJyZW50IG1hcmtldCB2YWx1ZS4gV2UgYXBwcmVjaWF0ZSBwcm9wZXJ0eSBvd25lcnMgY29vcGVyYXRpb24gYXMgd2UgY29sbGVjdCBidWlsZGluZyBwZXJtaXQgaW5mb3JtYXRpb24gYW5kIHBlcmZvcm0gY3ljbGljYWwgYW5kIHNhbGVzIGFuYWx5c2lzIGluc3BlY3Rpb25zIGFzIHJlcXVpcmVkLjxicj48YnI+PGJyPmQCAw9kFgYCAQ8WAh8DaGQCAw8PFgIfA2dkZAIFDxYCHwIFBDxicj5kZLlQTEZiQUUuxwQ5vGwJrn1Lp4PaUxEH5D/vMW24Njx7" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="83FDFCD5" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAI4PDaUIafHkaPzcrACYUHDQyChBnh26NvXQpWWOqy8DJf15nhqH8kKQomQUpesDNO14iji32nnjIu88jjL6x9y" />
+</div>
+    <div class="inner-page">
+        <div class="inner-inner-page">
+            <div class="page front">
+                <div class="topBorder">
+                 <img alt="" id="HeaderImage" src='/HollandMA/Images/top-border.png' width="955px;"  />    
+                </div>
+                <div class="header-images">
+                    <div id="panBannerDefault">
+	
+                        <table style="width:99.5%" >
+                            <tr>
+                                <td>
+                                    <span >
+                                        <img id="imgTownSeal" src="Images/holland_ma.jpg" alt="HOLLAND,MA town seal" style="height:75px;" />
+                                    </span>
+                                    <span class="myoutercontainer" style="padding-top: 15px;margin-top: 15px;vertical-align: middle; ">
+                                        <span id="lblTownName" class="myinnercontainer" style="display:inline-block;font-size:36pt;font-weight:bold;width:500px;">HOLLAND,MA</span>
+                                    </span>
+                                </td>
+                                <td align="right">
+                                    <span class="header-right-image" >
+                                        <input type="image" name="ctl00$ImageButton1" id="imgVisionImageButton" 
+                                       src='/HollandMA/Images/visiongovernmentsolutionslogo.png' />
+                                    </span>
+                                </td>
+                            </tr>
+                        </table>
+                    
+</div>
+                    
+                </div>
+                <div style="width:100%;top:-18px;position: relative">
+                    
+                
+                </div>
+                <div>
+                    <div class="page clientservices-appraisal">
+                        <div class="main-content">
+                            <div style="width: 99%;padding-left:5px;padding-right:5px;">
+                                
+
+    <style>
+        div.container
+        {
+            border: 0px solid #000000;
+            overflow: auto;
+            width: 100%;
+        }
+    </style>
+    <div class="container">
+        <div class="ui-widget">
+            <div id="WelcomeText" style="float: Left; width: 50%">
+                <h1>Welcome</h1>
+                
+                Welcome to the Assessor's database for the Town of Holland, Massachusetts. The Town of Holland has contracted with Vision Government Solutions Inc. of Hudson, Massachusetts to assist with the state mandated revaluations and interim year adjustments. The values currently available here are for Fiscal Year 2026, and the tax rate is $12.20 per 1,000.<br><br>This website will allow the user to search for properties by street address, by owner name, or by map-block-lot. This database also provides the user with an explanation of the revaluation process. Property owners are encouraged to use this database to compare their property to similar properties within the Town of Holland.<br><br>Both the Board of Assessors and Vision Government Solutions Inc. would like to thank the residents and property owners of Holland for their cooperation each year when sales are analysed for a true representation of current market value. We appreciate property owners cooperation as we collect building permit information and perform cyclical and sales analysis inspections as required.<br><br><br>
+
+            </div>
+
+            <br />
+            <br />
+            <div id="MainContent_login" style="float: Right; width: 45%; ">
+            
+                <div style="padding-left:40px; font-size:1.4em">
+                <br />&nbsp;
+                    <input type="submit" name="ctl00$MainContent$btnEnterOnlineDatabase" value="Enter Online Database" id="MainContent_btnEnterOnlineDatabase" class="btn btn-primary" />
+
+                    <br /><br /><br />
+                
+            </div>
+            <div id="SilverlightMessage"  >
+                
+                
+              
+                    
+            </div>
+                    <br />
+
+                  <br>
+
+        </div>
+    </div>
+    <br />
+    <br />
+    <br />
+        </div>
+
+                            </div>
+                        </div>
+                <div style="height:10px;"></div>
+                         <div class="clientservices-footer">
+               
+                <div style="background-color:#333366; width: 100%">
+                    <span style="float:right;padding-top:6px; padding-right: 12px;">(c)  2026 Vision Government Solutions, Inc. All rights reserved.</span>
+                </div>    
+            </div>
+                    </div>
+                </div>
+                <div class="bottomgraphic">    
+                    <img alt="" id="Image4" src='/HollandMA/Images/pagebottomds.png' />
+                </div> 
+            </div>
+        </div>
+        </div>
+  
+    <script type="text/javascript">
+        //ondomready
+        $(function () {
+
+            var ua = window.navigator.userAgent;
+            var msie = ua.indexOf("MSIE ");
+
+            if (msie > 0) // If Internet Explorer, check version number
+            {
+                var version = parseInt(ua.substring(msie + 5, ua.indexOf(".", msie)));
+                if (version <= 6) {
+                    alert("Your browser need to be upgraded to version 7 or newer for this site to work correctly");
+                }
+            };
+
+        });
+
+        $(function () {
+
+            // $("input:submit,  button", ".ui-widget").button();
+
+        });
+
+
+
+
+
+       
+
+    </script>
+    
+    <script>
+        // Override the user agent so that you can see it work!
+        navigator.__defineGetter__('userAgent', function () {
+            return 'Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; SLCC1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.50727)';
+        });
+
+
+    </script>
+
+   
+
+  
+
+              <script type="text/javascript">
+
+                  //SMW VIS-12382 upgraded GA tag into master page head tags to clear cookie samesite error
+                  //var _gaq = _gaq || [];
+                  //_gaq.push(['_setAccount', 'UA-37067763-1']);
+                  //_gaq.push(['_trackPageview']);
+
+                  //(function () {
+                  //    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                  //    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://ssl') + '.google-analytics.com/ga.js';
+                  //    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                  //})();
+
+</script>        
+    </form>
+
+</body>
+</html>
+

@@ -1,0 +1,258 @@
+URL: https://gis.vgsi.com/dudleyma/
+FINAL: https://gis.vgsi.com/dudleyma/
+STATUS: 200
+TITLE: Vision Government Solutions
+BYTES: 11947
+
+===== TEXT =====
+Vision Government Solutions
+
+|
+
+Dudley, MA
+
+|
+
+Welcome
+
+Welcome to the Assessor's database for the Town of Dudley.
+The Town of Dudley has contracted with Vision Government Solutions of Hudson, MA to assist in the state mandated revaluations and interim year adjustments.
+
+Valuations and photos are updated annually, and ownership is updated daily.
+
+Information provided in this database represents assessed property values as of January1, 2025 for fiscal year 2026. The valuations reflect the full and fair cash value of real property which was certified by the Department of Revenue Bureau of Local Assessment.
+
+The Fiscal Year 2026 tax rate is $10.06 per thousand.
+
+We encourage property owners to review the information specific to their properties and contact us if any discrepancies are found. You can reach us by telephone at 508-949-8006 or email us at assess1@dudleyma.gov.
+
+The Assessor's Office also offers several real estate exemptions, Widow/Widower ($175), Elderly ($500), Legally Blind ($500), Veteran 10%-99% service-related disability ($400), Veteran 100% service-related disability ($1,000), and Veteran paraplegic (Exempt from Real Estate Tax). If you think you may qualify for any of these, please contact us.
+
+(c) 2026 Vision Government Solutions, Inc. All rights reserved.
+
+===== LINKS =====
+
+
+===== RAW HEAD =====
+
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="EN">
+<head>
+    <!-- Level Access ADA widget -->
+    <script src="https://cdn.userway.org/widget.js" data-account="lotasidGlP"></script>  
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-93590319-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-37067763-1');
+    </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" media="all" href="/DudleyMA/Styles/base.css?v=6" />
+   <!--
+   [if IE 7]><link type="text/css" rel="stylesheet" media="all" href="/DudleyMA/Styles/ie7.css" /><![endif]
+   [if IE 8]><link type="text/css" rel="stylesheet" media="all" href="/DudleyMA/Styles/ie8.css"/><![endif]
+   -->
+    <link href="/DudleyMA/Styles/SoftGreyGridView.css" rel="stylesheet" type="text/css" />
+    <link href="/DudleyMA/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="/DudleyMA/Styles/jquery-ui-1.9.2.custom.css" rel="stylesheet" type="text/css" />
+   
+    <!-- JQuery and UI-->
+    <script src="/DudleyMA/Scripts/jquery-1.8.3.js"  type="text/javascript"></script>
+    <script src="/DudleyMA/Scripts/jquery-ui-1.9.2.custom.min.js"  type="text/javascript"></script>
+   
+    <script src="/DudleyMA/Scripts/bgiframe.js" type="text/javascript"></script>
+    <link rel="shortcut icon" href="/DudleyMA/Images/VGS_Icon32x32.ico" type="image/x-icon" />
+    
+    <style type="text/css">
+	.myoutercontainer { position:relative }
+	.myinnercontainer {  margin-top:20px }
+    </style>
+
+    <title>Vision Government Solutions </title>
+</head>
+<body class="page front">
+    <form method="post" action="./" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTE2OTQ4MTU3NQ9kFgJmD2QWAmYPZBYGZg9kFgRmDw8WBB4ISW1hZ2VVcmwFCX4vSW1hZ2VzLx4NQWx0ZXJuYXRlVGV4dAUURHVkbGV5LCBNQSB0b3duIHNlYWxkZAIBDw8WAh4EVGV4dAUKRHVkbGV5LCBNQWRkAgEPDxYCHgdWaXNpYmxlaGRkAgIPZBYEAgEPFgIfAgWVCldlbGNvbWUgdG8gdGhlIEFzc2Vzc29yJ3MgZGF0YWJhc2UgZm9yIHRoZSBUb3duIG9mIER1ZGxleS48ZGl2PlRoZSBUb3duIG9mIER1ZGxleSBoYXMgY29udHJhY3RlZCB3aXRoIFZpc2lvbiBHb3Zlcm5tZW50IFNvbHV0aW9ucyBvZiBIdWRzb24sIE1BIHRvIGFzc2lzdCBpbiB0aGUgc3RhdGUgbWFuZGF0ZWQgcmV2YWx1YXRpb25zIGFuZCBpbnRlcmltIHllYXIgYWRqdXN0bWVudHMuJm5ic3A7PC9kaXY+PGRpdj5WYWx1YXRpb25zIGFuZCBwaG90b3MgYXJlIHVwZGF0ZWQgYW5udWFsbHksIGFuZCBvd25lcnNoaXAgaXMgdXBkYXRlZCBkYWlseS48L2Rpdj48ZGl2PkluZm9ybWF0aW9uIHByb3ZpZGVkIGluIHRoaXMgZGF0YWJhc2UgcmVwcmVzZW50cyBhc3Nlc3NlZCBwcm9wZXJ0eSB2YWx1ZXMgYXMgb2YgSmFudWFyeTEsIDIwMjUgZm9yIGZpc2NhbCB5ZWFyIDIwMjYuJm5ic3A7IFRoZSB2YWx1YXRpb25zIHJlZmxlY3QgdGhlIGZ1bGwgYW5kIGZhaXIgY2FzaCB2YWx1ZSBvZiByZWFsIHByb3BlcnR5IHdoaWNoIHdhcyBjZXJ0aWZpZWQgYnkgdGhlIERlcGFydG1lbnQgb2YgUmV2ZW51ZSBCdXJlYXUgb2YgTG9jYWwgQXNzZXNzbWVudC48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2PlRoZSBGaXNjYWwgWWVhciAyMDI2IHRheCByYXRlIGlzICQxMC4wNiBwZXIgdGhvdXNhbmQuPC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj5XZSBlbmNvdXJhZ2UgcHJvcGVydHkgb3duZXJzIHRvIHJldmlldyB0aGUgaW5mb3JtYXRpb24gc3BlY2lmaWMgdG8gdGhlaXIgcHJvcGVydGllcyBhbmQgY29udGFjdCB1cyBpZiBhbnkgZGlzY3JlcGFuY2llcyBhcmUgZm91bmQuJm5ic3A7IFlvdSBjYW4gcmVhY2ggdXMgYnkgdGVsZXBob25lIGF0IDUwOC05NDktODAwNiBvciBlbWFpbCB1cyBhdCBhc3Nlc3MxQGR1ZGxleW1hLmdvdi48L2Rpdj48ZGl2PlRoZSBBc3Nlc3NvcidzIE9mZmljZSBhbHNvIG9mZmVycyBzZXZlcmFsIHJlYWwgZXN0YXRlIGV4ZW1wdGlvbnMsIFdpZG93L1dpZG93ZXIgKCQxNzUpLCBFbGRlcmx5ICgkNTAwKSwgTGVnYWxseSBCbGluZCAoJDUwMCksIFZldGVyYW4gMTAlLTk5JSBzZXJ2aWNlLXJlbGF0ZWQgZGlzYWJpbGl0eSAoJDQwMCksIFZldGVyYW4gMTAwJSBzZXJ2aWNlLXJlbGF0ZWQgZGlzYWJpbGl0eSAoJDEsMDAwKSwgYW5kIFZldGVyYW4gcGFyYXBsZWdpYyAoRXhlbXB0IGZyb20gUmVhbCBFc3RhdGUgVGF4KS4mbmJzcDsgSWYgeW91IHRoaW5rIHlvdSBtYXkgcXVhbGlmeSBmb3IgYW55IG9mIHRoZXNlLCBwbGVhc2UgY29udGFjdCB1cy48YnI+PGRpdj48YnI+PC9kaXY+PC9kaXY+ZAIDD2QWBgIBDxYCHwNoZAIDDw8WAh8DZ2RkAgUPFgIfAgUEPGJyPmRkyCixO6Xee2eZ4ml9lnsXioeyCKUj/N2BGScoerZ0ZTU=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A202127E" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAALWsL1glGppftHbgN7Eqly3QyChBnh26NvXQpWWOqy8DB+wEVhn0ysPfkE2pUTIHH5ZpCQZ6/oS9ZCFEwcjTorI" />
+</div>
+        <div class="inner-page">
+            <div class="inner-inner-page">
+                <div class="page front">
+                    <header>
+                    <div class="topBorder">
+                     <img alt="" id="HeaderImage" src='/DudleyMA/Images/top-border.png' width="955px;"  />    
+                    </div>
+                    <div class="header-images">
+                        <div id="panBannerDefault">
+	
+                            <table style="width:99.5%" >
+                                <tr>
+                                    <td>
+                                        <h1 style="font-size:20pt !important; font-weight: bold;">
+                                            <img id="imgTownSeal" src="Images/" alt="Dudley, MA town seal" style="height:75px;" />
+                                            <span id="lblTownName" class="myinnercontainer" style="display:inline-block;font-size:36pt;font-weight:bold;width:500px;">Dudley, MA</span>
+                                        </h1>
+                                    </td>
+                                    <td align="right">
+                                        <span class="header-right-image" >
+                                            <input type="image" name="ctl00$ImageButton1" id="imgVisionImageButton" 
+                                           src='/DudleyMA/Images/visiongovernmentsolutionslogo.png' alt="Vision Government Solutions Logo" />
+                                        </span>
+                                    </td>
+                                </tr>
+                            </table>
+                        
+</div>
+                        
+                    </div>
+                    <div style="width:100%;top:-18px;position: relative">
+                        
+                    </div>
+                    </header>
+                    <div>
+                        <div class="page clientservices-appraisal">
+                            <main>
+                            <div class="main-content">
+                                <div style="width: 99%;padding-left:5px;padding-right:5px;">
+                                    
+
+    <style>
+        div.container
+        {
+            border: 0px solid #000000;
+            overflow: auto;
+            width: 100%;
+        }
+    </style>
+    <div class="container">
+        <div class="ui-widget">
+            <div id="WelcomeText" style="float: Left; width: 50%">
+                <h1>Welcome</h1>
+                
+                Welcome to the Assessor's database for the Town of Dudley.<div>The Town of Dudley has contracted with Vision Government Solutions of Hudson, MA to assist in the state mandated revaluations and interim year adjustments.&nbsp;</div><div>Valuations and photos are updated annually, and ownership is updated daily.</div><div>Information provided in this database represents assessed property values as of January1, 2025 for fiscal year 2026.&nbsp; The valuations reflect the full and fair cash value of real property which was certified by the Department of Revenue Bureau of Local Assessment.</div><div><br></div><div>The Fiscal Year 2026 tax rate is $10.06 per thousand.</div><div><br></div><div>We encourage property owners to review the information specific to their properties and contact us if any discrepancies are found.&nbsp; You can reach us by telephone at 508-949-8006 or email us at assess1@dudleyma.gov.</div><div>The Assessor's Office also offers several real estate exemptions, Widow/Widower ($175), Elderly ($500), Legally Blind ($500), Veteran 10%-99% service-related disability ($400), Veteran 100% service-related disability ($1,000), and Veteran paraplegic (Exempt from Real Estate Tax).&nbsp; If you think you may qualify for any of these, please contact us.<br><div><br></div></div>
+
+            </div>
+
+            <br />
+            <br />
+            <div id="MainContent_login" style="float: Right; width: 45%; ">
+            
+                <div style="padding-left:40px; font-size:1.4em">
+                <br />&nbsp;
+                    <input type="submit" name="ctl00$MainContent$btnEnterOnlineDatabase" value="Enter Online Database" id="MainContent_btnEnterOnlineDatabase" class="btn btn-primary" />
+
+                    <br /><br /><br />
+                
+            </div>
+            <div id="SilverlightMessage"  >
+                
+                
+              
+                    
+            </div>
+                    <br />
+
+                  <br>
+
+        </div>
+    </div>
+    <br />
+    <br />
+    <br />
+        </div>
+
+                                </div>
+                            </div>
+                            </main>
+                            <div style="height:10px;"></div>
+                            <footer>
+                            <div class="clientservices-footer">
+                                <div style="background-color:#333366; width: 100%">
+                                    <span style="float:right;padding-top:6px; padding-right: 12px;">(c)  2026 Vision Government Solutions, Inc. All rights reserved.</span>
+                                </div>    
+                            </div>
+                            </footer>
+                        </div>
+                    </div>
+                    <div class="bottomgraphic">    
+                        <img alt="" id="Image4" src='/DudleyMA/Images/pagebottomds.png' />
+                    </div> 
+                </div>
+            </div>
+        </div>
+        
+        
+    <script type="text/javascript">
+        //ondomready
+        $(function () {
+
+            var ua = window.navigator.userAgent;
+            var msie = ua.indexOf("MSIE ");
+
+            if (msie > 0) // If Internet Explorer, check version number
+            {
+                var version = parseInt(ua.substring(msie + 5, ua.indexOf(".", msie)));
+                if (version <= 6) {
+                    alert("Your browser need to be upgraded to version 7 or newer for this site to work correctly");
+                }
+            };
+
+        });
+
+        $(function () {
+
+            // $("input:submit,  button", ".ui-widget").button();
+
+        });
+
+
+
+
+
+       
+
+    </script>
+    
+    <script>
+        // Override the user agent so that you can see it work!
+        navigator.__defineGetter__('userAgent', function () {
+            return 'Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; SLCC1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.50727)';
+        });
+
+
+    </script>
+
+   
+
+      
+        
+              <script type="text/javascript">
+
+                  //SMW VIS-12382 upgraded GA tag into master page head tags to clear cookie samesite error
+                  //var _gaq = _gaq || [];
+                  //_gaq.push(['_setAccount', 'UA-37067763-1']);
+                  //_gaq.push(['_trackPageview']);
+
+                  //(function () {
+                  //    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                  //    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://ssl') + '.google-analytics.com/ga.js';
+                  //    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                  //})();
+
+</script>        
+    </form>
+
+</body>
+</html>
+

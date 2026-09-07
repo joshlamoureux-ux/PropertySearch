@@ -1,0 +1,277 @@
+URL: https://gis.vgsi.com/southbridgema/
+FINAL: https://gis.vgsi.com/southbridgema/
+STATUS: 200
+TITLE: Vision Government Solutions
+BYTES: 12573
+
+===== TEXT =====
+Vision Government Solutions
+
+|
+
+SOUTHBRIDGE,MA
+
+|
+
+Welcome
+
+Welcome to the Southbridge MA Online Assessment Database.
+
+The Town of Southbridge has completed its revaluation program
+for assessments for all classes of property. We have received approval from the
+Massachusetts Department of Revenue (DOR) that our property values are at “Full
+and Fair Cash Value”.
+
+The Fiscal Year 2026 Tax Rate is $14.89 per thousand dollars
+valuation.
+
+If you have any questions or concerns regarding your assessed
+value or the data on your property, please contact the Assessor’s Office at
+508-764-5404. Office hours are Monday – Wednesday 8:00 a.m. – 4:00 p.m., Thursday
+8:00 a.m. – 8:00 p.m., and Friday 8:00 a.m. – 12:00 p.m.
+
+The Southbridge Board of Assessors hopes that you find this
+information helpful and convenient.
+
+(c) 2026 Vision Government Solutions, Inc. All rights reserved.
+
+===== LINKS =====
+
+
+===== RAW HEAD =====
+
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    
+     <link type="text/css" rel="stylesheet" media="all" href="/SouthbridgeMA/Styles/base.css" />
+   <!--
+   [if IE 7]><link type="text/css" rel="stylesheet" media="all" href="/SouthbridgeMA/Styles/ie7.css" /><![endif]
+   [if IE 8]><link type="text/css" rel="stylesheet" media="all" href="/SouthbridgeMA/Styles/ie8.css"/><![endif]
+   -->
+   <link href="/SouthbridgeMA/Styles/SoftGreyGridView.css" rel="stylesheet" type="text/css" />
+    <link href="/SouthbridgeMA/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+
+    <link href="/SouthbridgeMA/Styles/jquery-ui-1.9.2.custom.css" rel="stylesheet" type="text/css" />
+   
+    <!-- JQuery and UI-->
+    <script src="/SouthbridgeMA/Scripts/jquery-1.8.3.js"  type="text/javascript"></script>
+    <script src="/SouthbridgeMA/Scripts/jquery-ui-1.9.2.custom.min.js"  type="text/javascript"></script>
+   
+    <script src="/SouthbridgeMA/Scripts/bgiframe.js" type="text/javascript"></script>
+    <link rel="shortcut icon" href="/SouthbridgeMA/Images/VGS_Icon32x32.ico" type="image/x-icon" />
+      <style type="text/css">
+	.myoutercontainer { position:relative }
+	.myinnercontainer { position:absolute; top:50%; height:75px; margin-top:0px }
+    </style>
+
+    <title>Vision Government Solutions </title>
+</head>
+<body class="page front">
+    <form method="post" action="./" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTE2OTQ4MTU3NQ9kFgJmD2QWAmYPZBYGZg9kFgRmDw8WAh4ISW1hZ2VVcmwFG34vSW1hZ2VzL3NvdXRoYnJpZGdlX21hLnBuZ2RkAgEPDxYCHgRUZXh0BQ5TT1VUSEJSSURHRSxNQWRkAgEPDxYCHgdWaXNpYmxlaGRkAgIPZBYEAgEPFgIfAQWiDzxwIHN0eWxlPSJtYXJnaW4tdG9wOjBpbjttYXJnaW4tcmlnaHQ6MGluO21hcmdpbi1ib3R0b206Ny41cHQ7bWFyZ2luLWxlZnQ6MGluOw0KYmFja2dyb3VuZDp3aGl0ZSI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZToxMS41cHQ7Zm9udC1mYW1pbHk6JnF1b3Q7SGVsdmV0aWNhJnF1b3Q7LHNhbnMtc2VyaWY7DQpjb2xvcjojMzMzMzMzIj5XZWxjb21lIHRvIHRoZSBTb3V0aGJyaWRnZSBNQSBPbmxpbmUgQXNzZXNzbWVudCBEYXRhYmFzZS48bzpwPjwvbzpwPjwvc3Bhbj48L3A+PHAgc3R5bGU9Im1hcmdpbi10b3A6MGluO21hcmdpbi1yaWdodDowaW47bWFyZ2luLWJvdHRvbTo3LjVwdDttYXJnaW4tbGVmdDowaW47DQpiYWNrZ3JvdW5kOndoaXRlIj48c3BhbiBzdHlsZT0iZm9udC1zaXplOjExLjVwdDtmb250LWZhbWlseTomcXVvdDtIZWx2ZXRpY2EmcXVvdDssc2Fucy1zZXJpZjsNCmNvbG9yOiMzMzMzMzMiPlRoZSBUb3duIG9mIFNvdXRoYnJpZGdlIGhhcyBjb21wbGV0ZWQgaXRzIHJldmFsdWF0aW9uIHByb2dyYW0NCmZvciBhc3Nlc3NtZW50cyBmb3IgYWxsIGNsYXNzZXMgb2YgcHJvcGVydHkuIFdlIGhhdmUgcmVjZWl2ZWQgYXBwcm92YWwgZnJvbSB0aGUNCk1hc3NhY2h1c2V0dHMgRGVwYXJ0bWVudCBvZiBSZXZlbnVlIChET1IpIHRoYXQgb3VyIHByb3BlcnR5IHZhbHVlcyBhcmUgYXQg4oCcRnVsbA0KYW5kIEZhaXIgQ2FzaCBWYWx1ZeKAnS48bzpwPjwvbzpwPjwvc3Bhbj48L3A+PHAgc3R5bGU9Im1hcmdpbi10b3A6MGluO21hcmdpbi1yaWdodDowaW47bWFyZ2luLWJvdHRvbTo3LjVwdDttYXJnaW4tbGVmdDowaW47DQpiYWNrZ3JvdW5kOndoaXRlIj48c3BhbiBzdHlsZT0iZm9udC1zaXplOjExLjVwdDtmb250LWZhbWlseTomcXVvdDtIZWx2ZXRpY2EmcXVvdDssc2Fucy1zZXJpZjsNCmNvbG9yOiMzMzMzMzMiPlRoZSBGaXNjYWwgWWVhciAyMDI2IFRheCBSYXRlIGlzICQxNC44OSBwZXIgdGhvdXNhbmQgZG9sbGFycw0KdmFsdWF0aW9uLjxvOnA+PC9vOnA+PC9zcGFuPjwvcD48cCBzdHlsZT0ibWFyZ2luLXRvcDowaW47bWFyZ2luLXJpZ2h0OjBpbjttYXJnaW4tYm90dG9tOjcuNXB0O21hcmdpbi1sZWZ0OjBpbjsNCmJhY2tncm91bmQ6d2hpdGUiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6MTEuNXB0O2ZvbnQtZmFtaWx5OiZxdW90O0hlbHZldGljYSZxdW90OyxzYW5zLXNlcmlmOw0KY29sb3I6IzMzMzMzMyI+SWYgeW91IGhhdmUgYW55IHF1ZXN0aW9ucyBvciBjb25jZXJucyByZWdhcmRpbmcgeW91ciBhc3Nlc3NlZA0KdmFsdWUgb3IgdGhlIGRhdGEgb24geW91ciBwcm9wZXJ0eSwgcGxlYXNlIGNvbnRhY3QgdGhlIEFzc2Vzc29y4oCZcyBPZmZpY2UgYXQNCjUwOC03NjQtNTQwNC4gT2ZmaWNlIGhvdXJzIGFyZSBNb25kYXkg4oCTIFdlZG5lc2RheSZuYnNwOzwvc3Bhbj48c3BhbiBzdHlsZT0iY29sb3I6IHJnYig1MSwgNTEsIDUxKTsgZm9udC1mYW1pbHk6IEhlbHZldGljYSwgc2Fucy1zZXJpZjsgZm9udC1zaXplOiAxMS41cHQ7Ij44OjAwIGEubS4g4oCTIDQ6MDAgcC5tLiwgVGh1cnNkYXkNCjg6MDAgYS5tLiDigJMgODowMCBwLm0uLCBhbmQgRnJpZGF5IDg6MDAgYS5tLiDigJMgMTI6MDAgcC5tLjwvc3Bhbj48L3A+PHA+DQoNCg0KDQoNCg0KDQoNCjwvcD48cCBzdHlsZT0ibWFyZ2luLXRvcDowaW47bWFyZ2luLXJpZ2h0OjBpbjttYXJnaW4tYm90dG9tOjcuNXB0O21hcmdpbi1sZWZ0OjBpbjsNCmJhY2tncm91bmQ6d2hpdGUiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6MTEuNXB0O2ZvbnQtZmFtaWx5OiZxdW90O0hlbHZldGljYSZxdW90OyxzYW5zLXNlcmlmOw0KY29sb3I6IzMzMzMzMyI+VGhlIFNvdXRoYnJpZGdlIEJvYXJkIG9mIEFzc2Vzc29ycyBob3BlcyB0aGF0IHlvdSBmaW5kIHRoaXMNCmluZm9ybWF0aW9uIGhlbHBmdWwgYW5kIGNvbnZlbmllbnQuPC9zcGFuPjwvcD48cD4mbmJzcDs8L3A+PHA+PGJyPjwvcD5kAgMPZBYGAgEPFgIfAmhkAgMPDxYCHwJnZGQCBQ8WAh8BBQQ8YnI+ZGRf6Q1ccf2T4oOvyr4zVpQ3hmwaU8hY2+9bV1iq1//c7A==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="044052E5" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAALjjUj+3IQOpdZ/yDUkiXdfQyChBnh26NvXQpWWOqy8DBRaYRaD151nAIsnn+fJ+AWmm+JSagUtFTrbRUXq2FJS" />
+</div>
+    <div class="inner-page">
+        <div class="inner-inner-page">
+            <div class="page front">
+                <div class="topBorder">
+                 <img alt="" id="HeaderImage" src='/SouthbridgeMA/Images/top-border.png' width="955px;"  />    
+                </div>
+                <div class="header-images">
+                    <div id="panBannerDefault">
+	
+                        <table style="width:99.5%" >
+                            <tr>
+                                <td>
+                                    <span >
+                                        <img id="imgTownSeal" src="Images/southbridge_ma.png" style="height:75px;" />
+                                    </span>
+                                    <span class="myoutercontainer" style="padding-top: 15px;margin-top: 15px;vertical-align: middle; ">
+                                        <span id="lblTownName" class="myinnercontainer" style="display:inline-block;font-size:36pt;font-weight:bold;width:500px;">SOUTHBRIDGE,MA</span>
+                                    </span>
+                                </td>
+                                <td align="right">
+                                    <span class="header-right-image" >
+                                        <input type="image" name="ctl00$ImageButton1" id="imgVisionImageButton" 
+                                       src='/SouthbridgeMA/Images/visiongovernmentsolutionslogo.png' />
+                                    </span>
+                                </td>
+                            </tr>
+                        </table>
+                    
+</div>
+                    
+                </div>
+                <div style="width:100%;top:-18px;position: relative">
+                    
+                
+                </div>
+                <div>
+                    <div class="page clientservices-appraisal">
+                        <div class="main-content">
+                            <div style="width: 99%;padding-left:5px;padding-right:5px;">
+                                
+
+    <style>
+        div.container
+        {
+            border: 0px solid #000000;
+            overflow: auto;
+            width: 100%;
+        }
+    </style>
+    <div class="container">
+        <div class="ui-widget">
+            <div id="WelcomeText" style="float: Left; width: 50%">
+                <h1>
+                    Welcome</h1>
+                
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:7.5pt;margin-left:0in;
+background:white"><span style="font-size:11.5pt;font-family:&quot;Helvetica&quot;,sans-serif;
+color:#333333">Welcome to the Southbridge MA Online Assessment Database.<o:p></o:p></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:7.5pt;margin-left:0in;
+background:white"><span style="font-size:11.5pt;font-family:&quot;Helvetica&quot;,sans-serif;
+color:#333333">The Town of Southbridge has completed its revaluation program
+for assessments for all classes of property. We have received approval from the
+Massachusetts Department of Revenue (DOR) that our property values are at “Full
+and Fair Cash Value”.<o:p></o:p></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:7.5pt;margin-left:0in;
+background:white"><span style="font-size:11.5pt;font-family:&quot;Helvetica&quot;,sans-serif;
+color:#333333">The Fiscal Year 2026 Tax Rate is $14.89 per thousand dollars
+valuation.<o:p></o:p></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:7.5pt;margin-left:0in;
+background:white"><span style="font-size:11.5pt;font-family:&quot;Helvetica&quot;,sans-serif;
+color:#333333">If you have any questions or concerns regarding your assessed
+value or the data on your property, please contact the Assessor’s Office at
+508-764-5404. Office hours are Monday – Wednesday&nbsp;</span><span style="color: rgb(51, 51, 51); font-family: Helvetica, sans-serif; font-size: 11.5pt;">8:00 a.m. – 4:00 p.m., Thursday
+8:00 a.m. – 8:00 p.m., and Friday 8:00 a.m. – 12:00 p.m.</span></p><p>
+
+
+
+
+
+
+
+</p><p style="margin-top:0in;margin-right:0in;margin-bottom:7.5pt;margin-left:0in;
+background:white"><span style="font-size:11.5pt;font-family:&quot;Helvetica&quot;,sans-serif;
+color:#333333">The Southbridge Board of Assessors hopes that you find this
+information helpful and convenient.</span></p><p>&nbsp;</p><p><br></p>
+
+            </div>
+
+            <br />
+            <br />
+            <div id="MainContent_login" style="float: Right; width: 45%; ">
+            
+                <div style="padding-left:40px; font-size:1.4em">
+                <br />&nbsp;
+                    <input type="submit" name="ctl00$MainContent$btnEnterOnlineDatabase" value="Enter Online Database" id="MainContent_btnEnterOnlineDatabase" class="btn btn-primary" />
+
+                    <br /><br /><br />
+                
+            </div>
+            <div id="SilverlightMessage"  >
+                
+                
+              
+                    
+            </div>
+                    <br />
+
+                  <br>
+
+        </div>
+    </div>
+    <br />
+    <br />
+    <br />
+        </div>
+
+                            </div>
+                        </div>
+                <div style="height:10px;"></div>
+                         <div class="clientservices-footer">
+               
+                <div style="background-color:#333366; width: 100%">
+                    <span style="float:right;padding-top:6px; padding-right: 12px;">(c)  2026 Vision Government Solutions, Inc. All rights reserved.</span>
+                </div>    
+            </div>
+                    </div>
+                </div>
+                <div class="bottomgraphic">    
+                    <img alt="" id="Image4" src='/SouthbridgeMA/Images/pagebottomds.png' />
+                </div> 
+            </div>
+        </div>
+        </div>
+  
+    <script type="text/javascript">
+        //ondomready
+        $(function () {
+
+            var ua = window.navigator.userAgent;
+            var msie = ua.indexOf("MSIE ");
+
+            if (msie > 0) // If Internet Explorer, check version number
+            {
+                var version = parseInt(ua.substring(msie + 5, ua.indexOf(".", msie)));
+                if (version <= 6) {
+                    alert("Your browser need to be upgraded to version 7 or newer for this site to work correctly");
+                }
+            };
+
+        });
+
+        $(function () {
+
+            // $("input:submit,  button", ".ui-widget").button();
+
+        });
+
+
+
+
+
+       
+
+    </script>
+    
+    <script>
+        // Override the user agent so that you can see it work!
+        navigator.__defineGetter__('userAgent', function () {
+            return 'Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; SLCC1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.50727)';
+        });
+
+
+    </script>
+
+   
+
+  
+
+              <script type="text/javascript">
+
+                  var _gaq = _gaq || [];
+                  _gaq.push(['_setAccount', 'UA-37067763-1']);
+                  _gaq.push(['_trackPageview']);
+
+                  (function () {
+                      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://ssl') + '.google-analytics.com/ga.js';
+                      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                  })();
+
+</script>        
+    </form>
+
+</body>
+</html>
+
