@@ -29,7 +29,7 @@ Default assessment ratios: Connecticut 0.70, Rhode Island and Massachusetts 1.00
 
 ## Automatic search
 
-The `collector/` folder holds the program that searches on its own. It runs daily in GitHub Actions (or by hand with `node collector/run.js`), reads the configured tax-sale, foreclosure, auction and land-listing sources, keeps parcels that meet the rules, geocodes them, filters to the radius, and writes `data/found-parcels.js`. The page loads that file and merges the parcels in, tagged **found**. See `collector/README.md` for setup, including the `ANTHROPIC_API_KEY` secret the extractor uses to read pages with no fixed layout.
+The `collector/` folder holds the program that searches on its own. It runs daily in GitHub Actions (or by hand with `node collector/run.js`), reads the configured tax-sale, foreclosure, auction and land-listing sources, keeps parcels that meet the rules, geocodes them, filters to the radius, and writes `data/found-parcels.js`. The page loads that file and merges the parcels in, tagged **found**. It runs for free with no API key; an optional `ANTHROPIC_API_KEY` secret improves reading of unfamiliar pages. See `collector/README.md`.
 
 ## Other ways to get parcels in
 
@@ -58,7 +58,7 @@ Everything is saved in the browser's localStorage. Use **Backup** to download a 
 
 ## Roadmap
 
-- **Assessor join**: pull land and building assessed values from Vision (VGSI) assessor cards or MassGIS/CT parcel exports so every found parcel gets a real assessed value and structures are detected from a non-zero building value.
+- **Assessor coverage**: the free Vision lookup covers 15 towns around Ashford; add the towns on other vendors (Ashford itself uses propertyrecordcards.com, Killingly and Putnam others) and MassGIS/RIGIS parcel exports.
 - **More sources**: town-by-town tax-collector pages (placeholders exist in `collector/config/sources.json`), RI municipal tax sales, NYS Auctions, court dockets.
 - **Alerts**: email or text when a new parcel passes every test or when a sale date is within 14 days.
 
