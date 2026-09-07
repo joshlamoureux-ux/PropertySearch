@@ -1,0 +1,509 @@
+Vision Government Solutions
+
+|
+
+MANCHESTER,CT
+
+|
+
+Search [https://gis.vgsi.com/manchesterct/Search.aspx]
+
+Street Listing [https://gis.vgsi.com/manchesterct/Streets.aspx]
+
+Sales Search [https://gis.vgsi.com/manchesterct/Sales.aspx]
+
+Feedback [https://gis.vgsi.com/manchesterct/Feedback.aspx]
+
+Back
+
+Home [https://gis.vgsi.com/manchesterct/Default.aspx?lo=T]
+
+24 ROUND HILL ROAD
+
+Sales
+
+Print
+
+Map
+It
+
+Location
+
+24 ROUND HILL ROAD
+
+Mblu
+
+36/ 4887/ 24/ /
+
+Acct#
+
+488700024
+
+Owner
+
+GUDAITIS JAMIE LYN
+
+Total Assessment
+
+$356,900
+
+Appraisal
+
+$509,900
+
+PID
+
+13980
+
+Building Count
+
+1
+
+DISTRICT
+
+T
+
+CONCRETE
+
+Current Value
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2021
+| $397,700
+| $112,200
+| $509,900
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2021
+| $278,400
+| $78,500
+| $356,900
+
+Owner of Record
+
+| Owner
+| GUDAITIS JAMIE LYN
+
+| Lot Type
+|
+
+| Address
+| 24 ROUND HILL ROAD
+MANCHESTER, CT 06040
+
+| Sale Price
+| $0
+
+| Certificate
+|
+
+| Book & Page
+| 4795/812
+
+|
+|
+
+|
+|
+
+| Sale Date
+| 07/15/2026
+
+| Instrument
+| 31
+
+Ownership History
+
+Ownership History
+
+| Owner
+| Sale Price
+| Certificate
+| Book & Page
+| Instrument
+| Sale Date
+
+| GUDAITIS JAMIE LYN
+| $0
+|
+| 4795/812
+| 31
+| 07/15/2026
+
+| GUDAITIS JAIME LYN &
+| $0
+|
+| 3809/0261
+| 31
+| 10/27/2010
+
+| CONLEY MICHAEL
+| $459,000
+| x
+| 3298/0343
+| 33
+| 07/06/2006
+
+| BIFFINGER SUSAN L
+| $399,000
+| C
+| 3025/0001
+| 33
+| 02/22/2005
+
+| BALDWIN STEVEN W & JOHN M
+| $26,000
+|
+| 3010/0154
+| 01
+| 01/21/2005
+
+Building Information
+
+Building 1 : Section 1
+
+|
+Year Built:
+
+| 2004
+
+|
+Living Area:
+
+| 3,235
+
+|
+Replacement Cost:
+
+| $439,457
+
+|
+Replacement Cost
+
+Less Depreciation:
+
+|
+
+$369,100
+
+Building Attributes
+
+| Field
+| Description
+
+| Style:
+| Colonial
+
+| Model
+| Residential
+
+| Grade:
+| Good
+
+| Stories:
+| 2 Stories
+
+| Occupancy
+| 1
+
+| Exterior Wall 1
+| Vinyl Siding
+
+| Exterior Wall 2
+|
+
+| Roof Structure:
+| Gable/Hip
+
+| Roof Cover
+| Asphalt Shingl
+
+| Interior Wall 1
+| Drywall/Sheetr
+
+| Interior Wall 2
+|
+
+| Interior Flr 1
+| Hardwood
+
+| Interior Flr 2
+| Carpet
+
+| Heat Fuel
+| Oil
+
+| Heat Type:
+| Forced Air-Duc
+
+| AC Type:
+| Central
+
+| Total Bedrooms:
+| 5 Bedrooms
+
+| Total Bthrms:
+| 2
+
+| Total Half Baths:
+| 1
+
+| Total Xtra Fixtrs:
+|
+
+| Total Rooms:
+| 10 Rooms
+
+| Bath Style:
+| Average
+
+| Kitchen Style:
+| Average
+
+| Extra Kitchens
+|
+
+| Whirlpool
+| 1
+
+| Fireplace
+| 1
+
+| Fin Basement
+|
+
+| Fin Bsmnt Qual
+|
+
+| Fin Bsmnt 2
+|
+
+| Fin Bsmnt2 Qual
+|
+
+| Bsmnt Garage
+|
+
+| Fndtn Level
+|
+
+| SFA Code
+|
+
+Building Photo
+
+Building Layout
+
+Building Sub-Areas (sq ft)
+
+| Code
+| Description
+| Gross
+Area
+| Living
+Area
+
+| BAS
+| First Floor
+|
+1,548
+
+|
+1,548
+
+| FUS
+| Upper Story, Finished
+|
+1,140
+
+|
+1,140
+
+| FHS
+| Half Story, Finished
+|
+912
+
+|
+547
+
+| BSM
+| Basement
+|
+1,548
+
+|
+0
+
+| FGR
+| Garage
+|
+504
+
+|
+0
+
+| PTO
+| Patio
+|
+666
+
+|
+0
+
+| UAT
+| Attic, Unfinished
+|
+1,140
+
+|
+0
+
+|
+|
+|
+7,458
+
+|
+3,235
+
+Extra Features
+
+Extra Features
+
+| Code
+| Description
+| Size
+| Value
+| Bldg #
+
+| HTUB
+| Hot Tub
+| 1.00 UNIT
+| $2,900
+| 1
+
+Land
+
+Land Use
+
+| Use Code
+| 101
+
+| Description
+| Single Family
+
+| Zone
+| AA
+
+| Neighborhood
+| 70
+
+| Alt Land Appr
+| No
+
+| Category
+|
+
+Land Line Valuation
+
+| Size (Acres)
+| 1.19
+
+| Frontage
+| 0
+
+| Depth
+| 0
+
+| Total Assessed Land
+| $78,500
+
+| Appraised Value
+| $112,200
+
+Outbuildings
+
+Outbuildings
+
+| Code
+| Description
+| Sub Code
+| Sub Description
+| Size
+| Value
+| Bldg #
+
+| SPL1
+| Pool Inground - Avg Quality
+|
+|
+| 760.00 S.F.
+| $25,700
+| 1
+
+Valuation History
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2025
+| $397,700
+| $112,200
+| $509,900
+
+| 2024
+| $397,700
+| $112,200
+| $509,900
+
+| 2023
+| $397,700
+| $112,200
+| $509,900
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2025
+| $278,400
+| $78,500
+| $356,900
+
+| 2024
+| $278,400
+| $78,500
+| $356,900
+
+| 2023
+| $278,400
+| $78,500
+| $356,900
+
+All locations identified on Google, Yahoo, and Bing maps are approximate and may not be exact
+
+Go To Google Maps [http://maps.google.com/?q=24%20ROUND%20HILL%20ROAD%20%20,]
+
+Go To Microsoft Bing Maps [http://www.bing.com/maps/?q=24%20ROUND%20HILL%20ROAD%20%20,]
+
+(c) 2026 Vision Government Solutions, Inc. All rights reserved.

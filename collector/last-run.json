@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-09-07T00:44:47.645Z",
+ "startedAt": "2026-09-07T00:54:41.133Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -65,7 +65,7 @@
    "name": "Craigslist newlondon land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 14,
+   "rawParcels": 11,
    "errors": [],
    "notes": []
   },
@@ -92,7 +92,7 @@
    "name": "Craigslist westernmass land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 45,
+   "rawParcels": 44,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 83,
+   "rawParcels": 80,
    "errors": [],
    "notes": []
   },
@@ -110,17 +110,17 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 48,
+   "rawParcels": 39,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 393,
- "uniqueParcels": 301,
+ "rawParcels": 377,
+ "uniqueParcels": 303,
  "dropped": {
-  "smallAcres": 46,
-  "unknownAcres": 100,
-  "structure": 17,
+  "smallAcres": 48,
+  "unknownAcres": 101,
+  "structure": 10,
   "noPrice": 3
  },
  "assessor": {
@@ -137,7 +137,7 @@
    "town": "Manchester",
    "acres": 0.38,
    "hasStructure": true,
-   "assessedValue": null,
+   "assessedValue": 106000,
    "dealType": "tax-sale"
   },
   {
@@ -145,7 +145,7 @@
    "town": "Manchester",
    "acres": 0.17,
    "hasStructure": true,
-   "assessedValue": null,
+   "assessedValue": 126400,
    "dealType": "tax-sale"
   },
   {
@@ -153,7 +153,7 @@
    "town": "Manchester",
    "acres": 0.31,
    "hasStructure": true,
-   "assessedValue": null,
+   "assessedValue": 144800,
    "dealType": "tax-sale"
   },
   {
@@ -161,7 +161,7 @@
    "town": "Manchester",
    "acres": 1.19,
    "hasStructure": true,
-   "assessedValue": null,
+   "assessedValue": 356900,
    "dealType": "tax-sale"
   },
   {
@@ -169,7 +169,7 @@
    "town": "Manchester",
    "acres": 0.24,
    "hasStructure": true,
-   "assessedValue": null,
+   "assessedValue": 170400,
    "dealType": "tax-sale"
   },
   {
@@ -177,7 +177,7 @@
    "town": "Manchester",
    "acres": 0.71,
    "hasStructure": true,
-   "assessedValue": null,
+   "assessedValue": 313700,
    "dealType": "tax-sale"
   },
   {
@@ -185,15 +185,7 @@
    "town": "Manchester",
    "acres": 0.29,
    "hasStructure": true,
-   "assessedValue": null,
-   "dealType": "tax-sale"
-  },
-  {
-   "address": "361 Hillstown Road",
-   "town": "Manchester",
-   "acres": 10.2,
-   "hasStructure": true,
-   "assessedValue": null,
+   "assessedValue": 141200,
    "dealType": "tax-sale"
   },
   {
@@ -201,7 +193,7 @@
    "town": "Manchester",
    "acres": 0.79,
    "hasStructure": true,
-   "assessedValue": null,
+   "assessedValue": 133600,
    "dealType": "tax-sale"
   },
   {
@@ -209,7 +201,7 @@
    "town": "East Windsor",
    "acres": null,
    "hasStructure": true,
-   "assessedValue": null,
+   "assessedValue": 1180550,
    "dealType": "tax-sale"
   },
   {
@@ -217,7 +209,7 @@
    "town": "East Windsor",
    "acres": null,
    "hasStructure": true,
-   "assessedValue": null,
+   "assessedValue": 268640,
    "dealType": "tax-sale"
   },
   {
@@ -225,7 +217,7 @@
    "town": "Broad Brook",
    "acres": null,
    "hasStructure": true,
-   "assessedValue": null,
+   "assessedValue": 277670,
    "dealType": "tax-sale"
   },
   {
@@ -233,7 +225,7 @@
    "town": "East Windsor",
    "acres": null,
    "hasStructure": true,
-   "assessedValue": null,
+   "assessedValue": 125060,
    "dealType": "tax-sale"
   },
   {
@@ -241,7 +233,7 @@
    "town": "Broad Brook",
    "acres": null,
    "hasStructure": true,
-   "assessedValue": null,
+   "assessedValue": 163610,
    "dealType": "tax-sale"
   },
   {
@@ -249,7 +241,7 @@
    "town": "Broad Brook",
    "acres": null,
    "hasStructure": true,
-   "assessedValue": null,
+   "assessedValue": 211340,
    "dealType": "tax-sale"
   },
   {
@@ -257,7 +249,7 @@
    "town": "Broad Brook",
    "acres": null,
    "hasStructure": true,
-   "assessedValue": null,
+   "assessedValue": 213110,
    "dealType": "tax-sale"
   },
   {
@@ -265,7 +257,7 @@
    "town": "East Windsor",
    "acres": null,
    "hasStructure": true,
-   "assessedValue": null,
+   "assessedValue": 171020,
    "dealType": "tax-sale"
   },
   {
@@ -273,7 +265,7 @@
    "town": "East Windsor",
    "acres": null,
    "hasStructure": true,
-   "assessedValue": null,
+   "assessedValue": 150490,
    "dealType": "tax-sale"
   },
   {
@@ -281,7 +273,7 @@
    "town": "Broad Brook",
    "acres": null,
    "hasStructure": true,
-   "assessedValue": null,
+   "assessedValue": 301210,
    "dealType": "tax-sale"
   },
   {
@@ -289,7 +281,7 @@
    "town": "Sterling",
    "acres": 4.92,
    "hasStructure": true,
-   "assessedValue": null,
+   "assessedValue": 200005,
    "dealType": "tax-sale"
   },
   {
@@ -297,7 +289,7 @@
    "town": "Sterling",
    "acres": 3.11,
    "hasStructure": false,
-   "assessedValue": null,
+   "assessedValue": 44000,
    "dealType": "tax-sale"
   },
   {
@@ -305,7 +297,7 @@
    "town": "Sterling",
    "acres": 0.89,
    "hasStructure": true,
-   "assessedValue": null,
+   "assessedValue": 182400,
    "dealType": "tax-sale"
   },
   {
@@ -313,7 +305,7 @@
    "town": "Sterling",
    "acres": 1.38,
    "hasStructure": true,
-   "assessedValue": null,
+   "assessedValue": 133900,
    "dealType": "tax-sale"
   },
   {
@@ -321,7 +313,7 @@
    "town": "Sterling",
    "acres": 2.1,
    "hasStructure": true,
-   "assessedValue": null,
+   "assessedValue": 210500,
    "dealType": "tax-sale"
   },
   {
@@ -329,7 +321,7 @@
    "town": "Sterling",
    "acres": null,
    "hasStructure": true,
-   "assessedValue": null,
+   "assessedValue": 168000,
    "dealType": "tax-sale"
   },
   {
@@ -337,15 +329,7 @@
    "town": "Sterling",
    "acres": 0.67,
    "hasStructure": true,
-   "assessedValue": null,
-   "dealType": "tax-sale"
-  },
-  {
-   "address": "10 Exeter Drive",
-   "town": "Sterling",
-   "acres": 19.85,
-   "hasStructure": true,
-   "assessedValue": null,
+   "assessedValue": 81900,
    "dealType": "tax-sale"
   },
   {
@@ -353,15 +337,7 @@
    "town": "Sterling",
    "acres": 0.3,
    "hasStructure": true,
-   "assessedValue": null,
-   "dealType": "tax-sale"
-  },
-  {
-   "address": "130 Old Cranston Road",
-   "town": "Sterling",
-   "acres": 109,
-   "hasStructure": true,
-   "assessedValue": null,
+   "assessedValue": 218500,
    "dealType": "tax-sale"
   },
   {
@@ -369,7 +345,7 @@
    "town": "Andover",
    "acres": 1.49,
    "hasStructure": true,
-   "assessedValue": null,
+   "assessedValue": 97790,
    "dealType": "tax-sale"
   },
   {
@@ -377,7 +353,7 @@
    "town": "Andover",
    "acres": 0.25,
    "hasStructure": true,
-   "assessedValue": null,
+   "assessedValue": 99610,
    "dealType": "tax-sale"
   },
   {
@@ -385,21 +361,21 @@
    "town": "Tolland",
    "acres": 0.12,
    "hasStructure": false,
-   "assessedValue": null,
+   "assessedValue": 5200,
    "dealType": "tax-sale"
   }
  ],
- "assessorMatchedKept": 1,
+ "assessorMatchedKept": 4,
  "geocode": {
-  "lookups": 0,
-  "cached": 139,
-  "misses": 0
+  "lookups": 10,
+  "cached": 140,
+  "misses": 6
  },
- "insideRadius": 91,
- "outsideRadius": 5,
- "noCoordinates": 7,
- "estimatedValues": 6,
- "finalParcels": 98,
+ "insideRadius": 96,
+ "outsideRadius": 6,
+ "noCoordinates": 10,
+ "estimatedValues": 8,
+ "finalParcels": 101,
  "fetch": {
   "fetched": 257,
   "cached": 1,
@@ -407,6 +383,6 @@
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-09-07T00:51:01.451Z",
- "durationSeconds": 374
+ "finishedAt": "2026-09-07T01:01:04.996Z",
+ "durationSeconds": 384
 }

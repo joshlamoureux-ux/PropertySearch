@@ -1,0 +1,400 @@
+Vision Government Solutions
+
+|
+
+Sterling, CT
+
+|
+
+Search [https://gis.vgsi.com/sterlingct/Search.aspx]
+
+Street Listing [https://gis.vgsi.com/sterlingct/Streets.aspx]
+
+Sales Search [https://gis.vgsi.com/sterlingct/Sales.aspx]
+
+Back
+
+Home [https://gis.vgsi.com/sterlingct/Default.aspx?lo=T]
+
+47 CHURCH ST
+
+Sales
+
+Print
+
+Map
+It
+
+Location
+
+47 CHURCH ST
+
+Mblu
+
+001SC/ 024/ 0054/ /
+
+Acct#
+
+00013100
+
+Owner
+
+UNITED PROTESTANT CHURCH
+
+Total Market Value
+
+$218,500
+
+Appraisal
+
+$312,100
+
+PID
+
+120
+
+Building Count
+
+1
+
+Current Value
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2022
+| $277,700
+| $34,400
+| $312,100
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2022
+| $194,400
+| $24,100
+| $218,500
+
+Owner of Record
+
+| Owner
+| UNITED PROTESTANT CHURCH
+
+| Co-Owner
+|
+
+| Address
+| 47 CHURCH ST
+STERLING, CT 06377
+
+| Sale Price
+| $0
+
+| Certificate
+|
+
+| Book & Page
+| 9/413
+
+|
+|
+
+|
+|
+
+| Sale Date
+| 04/16/1894
+
+| Instrument
+| 25
+
+| Qualified
+| U
+
+Ownership History
+
+Ownership History
+
+| Owner
+| Sale Price
+| Certificate
+| Book & Page
+| Instrument
+| Sale Date
+
+| UNITED PROTESTANT CHURCH
+| $0
+|
+| 9/413
+| 25
+| 04/16/1894
+
+Building Information
+
+Building 1 : Section 1
+
+|
+Year Built:
+
+| 1910
+
+|
+Living Area:
+
+| 1,808
+
+|
+Replacement Cost:
+
+| $578,446
+
+|
+Building Percent Good:
+
+| 48
+
+|
+Replacement Cost
+
+Less Depreciation:
+
+|
+
+$277,700
+
+Building Attributes
+
+| Field
+| Description
+
+| Style:
+| Church/Temple
+
+| Model
+| Comm/Ind
+
+| Grade
+| C
+
+| Stories:
+| 1
+
+| Occupancy
+| 1.00
+
+| Exterior Wall 1
+| Average
+
+| Exterior Wall 2
+|
+
+| Roof Structure
+| Gable
+
+| Roof Cover
+| Asph/F Gls/Cmp
+
+| Interior Wall 1
+| Typical
+
+| Interior Wall 2
+|
+
+| Interior Floor 1
+| Average
+
+| Interior Floor 2
+|
+
+| Heating Fuel
+| Oil
+
+| Heating Type
+| Hot Water
+
+| AC Type
+| None
+
+| Bldg Use
+| RELIGIOUS
+
+| Total Rooms
+|
+
+| Total Bedrms
+|
+
+| Total Baths
+|
+
+| Total H Bths
+|
+
+| Extra Fixtures
+|
+
+| 1st Floor Use:
+|
+
+| Heat/AC
+| None
+
+| Frame Type
+| Wood
+
+| Baths/Plumbing
+| Average
+
+| Ceiling/Wall
+|
+
+| Rooms/Prtns
+| Average
+
+| Wall Height
+| 14.00
+
+| % Comn Wall
+|
+
+Building Photo
+
+Building Layout
+
+Building Sub-Areas (sq ft)
+
+| Code
+| Description
+| Gross
+Area
+| Living
+Area
+
+| BAS
+| First Floor
+|
+1,808
+
+|
+1,808
+
+| FBM
+| Finished Basement
+|
+1,632
+
+|
+0
+
+| FEP
+| Finished Enclosed Porch
+|
+49
+
+|
+0
+
+|
+|
+|
+3,489
+
+|
+1,808
+
+Extra Features
+
+Extra Features
+
+|
+
+No Data for Extra Features
+
+Land
+
+Land Use
+
+| Use Code
+| 3030
+
+| Description
+| COMM LAND
+
+| Zone
+|
+
+| Neighborhood
+| 1000
+
+| Alt Land Appr
+| No
+
+| Category
+|
+
+Land Line Valuation
+
+| Size (Acres)
+| 0.3
+
+| Frontage
+|
+
+| Depth
+|
+
+| Total Market Land
+| $24,100
+
+| Appraised Value
+| $34,400
+
+Outbuildings
+
+Outbuildings
+
+|
+
+No Data for Outbuildings
+
+Valuation History
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2025
+| $277,700
+| $34,400
+| $312,100
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2025
+| $194,400
+| $24,100
+| $218,500
+
+All locations identified on Google, Yahoo, and Bing maps are approximate and may not be exact
+
+Go To Google Maps [http://maps.google.com/?q=47%20CHURCH%20ST%20%20STERLING,%20CT%2006377]
+
+Go To Microsoft Bing Maps [http://www.bing.com/maps/?q=47%20CHURCH%20ST%20%20STERLING,%20CT%2006377]
+
+(c) 2026 Vision Government Solutions, Inc. All rights reserved.

@@ -1,0 +1,468 @@
+Vision Government Solutions
+
+|
+
+MANCHESTER,CT
+
+|
+
+Search [https://gis.vgsi.com/manchesterct/Search.aspx]
+
+Street Listing [https://gis.vgsi.com/manchesterct/Streets.aspx]
+
+Sales Search [https://gis.vgsi.com/manchesterct/Sales.aspx]
+
+Feedback [https://gis.vgsi.com/manchesterct/Feedback.aspx]
+
+Back
+
+Home [https://gis.vgsi.com/manchesterct/Default.aspx?lo=T]
+
+99 TREBBE DRIVE
+
+Sales
+
+Print
+
+Map
+It
+
+Location
+
+99 TREBBE DRIVE
+
+Mblu
+
+47/ 5540/ 99/ /
+
+Acct#
+
+554000099
+
+Owner
+
+COUCH CHARLOTTE H
+
+Total Assessment
+
+$144,800
+
+Appraisal
+
+$206,800
+
+PID
+
+16145
+
+Building Count
+
+1
+
+DISTRICT
+
+T
+
+CONCRETE
+
+Current Value
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2021
+| $149,500
+| $57,300
+| $206,800
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2021
+| $104,700
+| $40,100
+| $144,800
+
+Owner of Record
+
+| Owner
+| COUCH CHARLOTTE H
+
+| Lot Type
+|
+
+| Address
+| 99 TREBBE DRIVE
+MANCHESTER, CT 06040
+
+| Sale Price
+| $0
+
+| Certificate
+| C
+
+| Book & Page
+| 2645/0330
+
+|
+|
+
+|
+|
+
+| Sale Date
+| 05/28/2003
+
+| Instrument
+| 31
+
+Ownership History
+
+Ownership History
+
+| Owner
+| Sale Price
+| Certificate
+| Book & Page
+| Instrument
+| Sale Date
+
+| COUCH CHARLOTTE H
+| $0
+| C
+| 2645/0330
+| 31
+| 05/28/2003
+
+| COUCH JEANNETTE
+| $0
+|
+| 1831/0288
+|
+| 06/27/1996
+
+Building Information
+
+Building 1 : Section 1
+
+|
+Year Built:
+
+| 1897
+
+|
+Living Area:
+
+| 1,578
+
+|
+Replacement Cost:
+
+| $226,474
+
+|
+Replacement Cost
+
+Less Depreciation:
+
+|
+
+$149,500
+
+Building Attributes
+
+| Field
+| Description
+
+| Style:
+| Colonial
+
+| Model
+| Residential
+
+| Grade:
+| Average
+
+| Stories:
+| 2 Stories
+
+| Occupancy
+| 1
+
+| Exterior Wall 1
+| Asbest Shingle
+
+| Exterior Wall 2
+|
+
+| Roof Structure:
+| Gable/Hip
+
+| Roof Cover
+| Asphalt/Arch Shingle
+
+| Interior Wall 1
+| Plaster
+
+| Interior Wall 2
+|
+
+| Interior Flr 1
+| Hardwood
+
+| Interior Flr 2
+| Carpet
+
+| Heat Fuel
+| Oil
+
+| Heat Type:
+| Hot Water
+
+| AC Type:
+| None
+
+| Total Bedrooms:
+| 3 Bedrooms
+
+| Total Bthrms:
+| 2
+
+| Total Half Baths:
+| 0
+
+| Total Xtra Fixtrs:
+|
+
+| Total Rooms:
+| 6 Rooms
+
+| Bath Style:
+| Average
+
+| Kitchen Style:
+| Average
+
+| Extra Kitchens
+|
+
+| Whirlpool
+|
+
+| Fireplace
+|
+
+| Fin Basement
+| 476
+
+| Fin Bsmnt Qual
+| Rec Room
+
+| Fin Bsmnt 2
+|
+
+| Fin Bsmnt2 Qual
+|
+
+| Bsmnt Garage
+|
+
+| Fndtn Level
+|
+
+| SFA Code
+|
+
+Building Photo
+
+Building Layout
+
+Building Sub-Areas (sq ft)
+
+| Code
+| Description
+| Gross
+Area
+| Living
+Area
+
+| BAS
+| First Floor
+|
+924
+
+|
+924
+
+| FUS
+| Upper Story, Finished
+|
+654
+
+|
+654
+
+| BSM
+| Basement
+|
+924
+
+|
+0
+
+| FOP
+| Porch, Open
+|
+96
+
+|
+0
+
+| UAT
+| Attic, Unfinished
+|
+654
+
+|
+0
+
+| UST
+| Utility, Storage, Unfinished
+|
+96
+
+|
+0
+
+| WDK
+| Wood Deck
+|
+164
+
+|
+0
+
+|
+|
+|
+3,512
+
+|
+1,578
+
+Extra Features
+
+Extra Features
+
+|
+
+No Data for Extra Features
+
+Land
+
+Land Use
+
+| Use Code
+| 101
+
+| Description
+| Single Family
+
+| Zone
+| RA
+
+| Neighborhood
+| 50
+
+| Alt Land Appr
+| No
+
+| Category
+|
+
+Land Line Valuation
+
+| Size (Acres)
+| 0.31
+
+| Frontage
+| 0
+
+| Depth
+| 0
+
+| Total Assessed Land
+| $40,100
+
+| Appraised Value
+| $57,300
+
+Outbuildings
+
+Outbuildings
+
+|
+
+No Data for Outbuildings
+
+Valuation History
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2025
+| $149,500
+| $57,300
+| $206,800
+
+| 2024
+| $149,500
+| $57,300
+| $206,800
+
+| 2023
+| $149,500
+| $57,300
+| $206,800
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2025
+| $104,700
+| $40,100
+| $144,800
+
+| 2024
+| $104,700
+| $40,100
+| $144,800
+
+| 2023
+| $104,700
+| $40,100
+| $144,800
+
+All locations identified on Google, Yahoo, and Bing maps are approximate and may not be exact
+
+Go To Google Maps [http://maps.google.com/?q=99%20TREBBE%20DRIVE]
+
+Go To Microsoft Bing Maps [http://www.bing.com/maps/?q=99%20TREBBE%20DRIVE]
+
+(c) 2026 Vision Government Solutions, Inc. All rights reserved.

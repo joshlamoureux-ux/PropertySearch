@@ -1,0 +1,479 @@
+Vision Government Solutions
+
+|
+
+Andover, CT
+
+|
+
+Search [https://gis.vgsi.com/andoverct/Search.aspx]
+
+Street Listing [https://gis.vgsi.com/andoverct/Streets.aspx]
+
+Sales Search [https://gis.vgsi.com/andoverct/Sales.aspx]
+
+Feedback [https://gis.vgsi.com/andoverct/Feedback.aspx]
+
+Back
+
+Home [https://gis.vgsi.com/andoverct/Default.aspx?lo=T]
+
+7 BAILEY RD
+
+Sales
+
+Print
+
+Map
+It
+
+Location
+
+7 BAILEY RD
+
+Mblu
+
+21/ 1/ 1-2/ /
+
+Acct#
+
+150
+
+Owner
+
+KARI CASEY
+
+Total Market Value
+
+$97,790
+
+Appraisal
+
+$139,700
+
+PID
+
+150
+
+Building Count
+
+1
+
+Current Value
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2021
+| $92,600
+| $47,100
+| $139,700
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2021
+| $64,820
+| $32,970
+| $97,790
+
+Owner of Record
+
+| Owner
+| KARI CASEY
+
+| Co-Owner
+|
+
+| Address
+| 7 BAILEY RD
+ANDOVER, CT 06232
+
+| Sale Price
+| $150,000
+
+| Certificate
+|
+
+| Book & Page
+| 138/655
+
+|
+|
+
+|
+|
+
+| Sale Date
+| 04/27/2021
+
+| Instrument
+| 00
+
+Ownership History
+
+Ownership History
+
+| Owner
+| Sale Price
+| Certificate
+| Book & Page
+| Instrument
+| Sale Date
+
+| KARI CASEY
+| $150,000
+|
+| 138/655
+| 00
+| 04/27/2021
+
+| GOULART TANYA M
+| $176,000
+|
+| 0096/0626
+| 00
+| 03/30/2005
+
+| PEPIN MARILYN J
+| $0
+|
+| 0074/0628
+|
+| 01/31/2000
+
+| PEPIN ALFRED H & MARILYN J
+| $63,000
+|
+| 0039/0118
+| 00
+| 09/08/1983
+
+Building Information
+
+Building 1 : Section 1
+
+|
+Year Built:
+
+| 1923
+
+|
+Living Area:
+
+| 1,138
+
+|
+Replacement Cost:
+
+| $126,116
+
+|
+Building Percent Good:
+
+| 68
+
+|
+Replacement Cost
+
+Less Depreciation:
+
+|
+
+$85,800
+
+Building Attributes
+
+| Field
+| Description
+
+| Style:
+| Conventional
+
+| Model
+| Residential
+
+| Grade:
+| C
+
+| Stories:
+| 1.25
+
+| Occupancy
+| 1
+
+| Exterior Wall 1
+| Vinyl Siding
+
+| Exterior Wall 2
+|
+
+| Roof Structure:
+| Gable/Hip
+
+| Roof Cover
+| Asph/F Gls/Cmp
+
+| Interior Wall 1
+| Drywall/Sheet
+
+| Interior Wall 2
+|
+
+| Interior Flr 1
+| Hardwood
+
+| Interior Flr 2
+| Minimum/Plywd
+
+| Heat Fuel
+| Oil
+
+| Heat Type:
+| Hot Water
+
+| AC Type:
+| None
+
+| Total Bedrooms:
+| 3 Bedrooms
+
+| Total Bthrms:
+| 1
+
+| Total Half Baths:
+| 0
+
+| Total Xtra Fixtrs:
+|
+
+| Total Rooms:
+| 6 Rooms
+
+| Bath Style:
+| Average
+
+| Kitchen Style:
+| Average
+
+Building Photo
+
+Building Layout
+
+Building Sub-Areas (sq ft)
+
+| Code
+| Description
+| Gross
+Area
+| Living
+Area
+
+| BAS
+| First Floor
+|
+935
+
+|
+935
+
+| EAF
+| Attic, Expansion, Finished
+|
+405
+
+|
+203
+
+| CRL
+| Crawl Space
+|
+665
+
+|
+0
+
+| EAU
+| Attic, Expansion, Unfinished
+|
+510
+
+|
+0
+
+| FEP
+| Porch, Enclosed, Finished
+|
+136
+
+|
+0
+
+| FOP
+| Porch, Open, Finished
+|
+119
+
+|
+0
+
+| UBM
+| Basement, Unfinished
+|
+270
+
+|
+0
+
+|
+|
+|
+3,040
+
+|
+1,138
+
+Extra Features
+
+Extra Features
+
+| Code
+| Description
+| Size
+| Value
+| Bldg #
+
+| FPL2
+| Fireplc 1.5 St Chmny
+| 1.00 UNITS
+| $1,700
+| 1
+
+Land
+
+Land Use
+
+| Use Code
+| 1010
+
+| Description
+| Single Fam MDL-01
+
+| Zone
+| ARD
+
+| Neighborhood
+| 12
+
+| Alt Land Appr
+| No
+
+| Category
+|
+
+Land Line Valuation
+
+| Size (Acres)
+| 1.49
+
+| Frontage
+| 0
+
+| Depth
+| 0
+
+| Total Market Land
+| $32,970
+
+| Appraised Value
+| $47,100
+
+Outbuildings
+
+Outbuildings
+
+| Code
+| Description
+| Sub Code
+| Sub Description
+| Size
+| Value
+| Bldg #
+
+| FGR1
+| Garage Av
+|
+|
+| 532.00 S.F.
+| $3,800
+| 1
+
+| SHD2
+| Shed
+|
+|
+| 306.00 S.F.
+| $1,300
+| 1
+
+Valuation History
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2021
+| $92,600
+| $47,100
+| $139,700
+
+| 2020
+| $90,800
+| $60,200
+| $151,000
+
+| 2015
+| $97,500
+| $60,300
+| $157,800
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2021
+| $64,820
+| $32,970
+| $97,790
+
+| 2020
+| $63,600
+| $42,200
+| $105,800
+
+| 2015
+| $68,300
+| $42,200
+| $110,500
+
+All locations identified on Google, Yahoo, and Bing maps are approximate and may not be exact
+
+Go To Google Maps [http://maps.google.com/?q=7%20BAILEY%20RD]
+
+Go To Microsoft Bing Maps [http://www.bing.com/maps/?q=7%20BAILEY%20RD]
+
+(c) 2026 Vision Government Solutions, Inc. All rights reserved.

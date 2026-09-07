@@ -1,0 +1,494 @@
+Vision Government Solutions
+
+|
+
+MANCHESTER,CT
+
+|
+
+Search [https://gis.vgsi.com/manchesterct/Search.aspx]
+
+Street Listing [https://gis.vgsi.com/manchesterct/Streets.aspx]
+
+Sales Search [https://gis.vgsi.com/manchesterct/Sales.aspx]
+
+Feedback [https://gis.vgsi.com/manchesterct/Feedback.aspx]
+
+Back
+
+Home [https://gis.vgsi.com/manchesterct/Default.aspx?lo=T]
+
+361 HILLSTOWN ROAD
+
+Sales
+
+Print
+
+Map
+It
+
+Location
+
+361 HILLSTOWN ROAD
+
+Mblu
+
+22/ 2950/ 361/ /
+
+Acct#
+
+295000361
+
+Owner
+
+WALSH PAUL J
+
+Total Assessment
+
+$194,240
+
+Appraisal
+
+$652,700
+
+PID
+
+7754
+
+Building Count
+
+1
+
+DISTRICT
+
+T
+
+CONCRETE
+
+Current Value
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2021
+| $180,700
+| $472,000
+| $652,700
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2021
+| $126,600
+| $67,640
+| $194,240
+
+Owner of Record
+
+| Owner
+| WALSH PAUL J
+
+| Lot Type
+| SURERO EVELYN M
+
+| Address
+| 361 HILLSTOWN ROAD
+MANCHESTER, CT 06040
+
+| Sale Price
+| $259,000
+
+| Certificate
+|
+
+| Book & Page
+| 4485/0145
+
+|
+|
+
+|
+|
+
+| Sale Date
+| 11/09/2017
+
+| Instrument
+| 25
+
+Ownership History
+
+Ownership History
+
+| Owner
+| Sale Price
+| Certificate
+| Book & Page
+| Instrument
+| Sale Date
+
+| WALSH PAUL J
+| $259,000
+|
+| 4485/0145
+| 25
+| 11/09/2017
+
+| WALSH PAUL J
+| $259,000
+|
+| 4475/0001
+| 33
+| 10/02/2017
+
+| CARAMMA SANTO
+| $222,500
+| C
+| 2249/0252
+| 33
+| 03/07/2001
+
+| NIMIROWSKI GARY A & GLENN R
+| $0
+|
+| 2015/0072
+|
+| 09/18/1998
+
+Building Information
+
+Building 1 : Section 1
+
+|
+Year Built:
+
+| 1955
+
+|
+Living Area:
+
+| 1,948
+
+|
+Replacement Cost:
+
+| $247,710
+
+|
+Replacement Cost
+
+Less Depreciation:
+
+|
+
+$173,400
+
+Building Attributes
+
+| Field
+| Description
+
+| Style:
+| Ranch
+
+| Model
+| Residential
+
+| Grade:
+| Average
+
+| Stories:
+| 1 Story
+
+| Occupancy
+| 1
+
+| Exterior Wall 1
+| Brick/Masonry
+
+| Exterior Wall 2
+| Wood Shingle
+
+| Roof Structure:
+| Gable/Hip
+
+| Roof Cover
+| Asphalt Shingl
+
+| Interior Wall 1
+| Drywall/Sheetr
+
+| Interior Wall 2
+|
+
+| Interior Flr 1
+| Hardwood
+
+| Interior Flr 2
+| Carpet
+
+| Heat Fuel
+| Oil
+
+| Heat Type:
+| Hot Water
+
+| AC Type:
+| None
+
+| Total Bedrooms:
+| 2 Bedrooms
+
+| Total Bthrms:
+| 1
+
+| Total Half Baths:
+| 1
+
+| Total Xtra Fixtrs:
+|
+
+| Total Rooms:
+| 5 Rooms
+
+| Bath Style:
+| Average
+
+| Kitchen Style:
+| Average
+
+| Extra Kitchens
+|
+
+| Whirlpool
+|
+
+| Fireplace
+| 2
+
+| Fin Basement
+|
+
+| Fin Bsmnt Qual
+|
+
+| Fin Bsmnt 2
+|
+
+| Fin Bsmnt2 Qual
+|
+
+| Bsmnt Garage
+|
+
+| Fndtn Level
+|
+
+| SFA Code
+|
+
+Building Photo
+
+Building Layout
+
+Building Sub-Areas (sq ft)
+
+| Code
+| Description
+| Gross
+Area
+| Living
+Area
+
+| BAS
+| First Floor
+|
+1,948
+
+|
+1,948
+
+| BSM
+| Basement
+|
+1,140
+
+|
+0
+
+| SLB
+| Slab
+|
+808
+
+|
+0
+
+| UST
+| Utility, Storage, Unfinished
+|
+42
+
+|
+0
+
+| WDK
+| Wood Deck
+|
+192
+
+|
+0
+
+|
+|
+|
+4,130
+
+|
+1,948
+
+Extra Features
+
+Extra Features
+
+|
+
+No Data for Extra Features
+
+Land
+
+Land Use
+
+| Use Code
+| 101
+
+| Description
+| Single Family
+
+| Zone
+| RR
+
+| Neighborhood
+| 50
+
+| Alt Land Appr
+| No
+
+| Category
+|
+
+Land Line Valuation
+
+| Size (Acres)
+| 10.2
+
+| Frontage
+| 0
+
+| Depth
+| 0
+
+| Total Assessed Land
+| $67,640
+
+| Appraised Value
+| $472,000
+
+Outbuildings
+
+Outbuildings
+
+| Code
+| Description
+| Sub Code
+| Sub Description
+| Size
+| Value
+| Bldg #
+
+| SHD1
+| Shed
+|
+|
+| 460.00 S.F.
+| $4,100
+| 1
+
+| PAT1
+| Patio Brick/CBlk
+|
+|
+| 360.00 S.F.
+| $2,500
+| 1
+
+| PAT2
+| Patio Concrete
+|
+|
+| 224.00 S.F.
+| $700
+| 1
+
+Valuation History
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2025
+| $180,700
+| $472,000
+| $652,700
+
+| 2024
+| $180,700
+| $472,000
+| $652,700
+
+| 2023
+| $180,700
+| $472,000
+| $652,700
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2025
+| $126,600
+| $67,640
+| $194,240
+
+| 2024
+| $126,600
+| $67,640
+| $194,240
+
+| 2023
+| $126,600
+| $67,640
+| $194,240
+
+All locations identified on Google, Yahoo, and Bing maps are approximate and may not be exact
+
+Go To Google Maps [http://maps.google.com/?q=361%20HILLSTOWN%20ROAD]
+
+Go To Microsoft Bing Maps [http://www.bing.com/maps/?q=361%20HILLSTOWN%20ROAD]
+
+(c) 2026 Vision Government Solutions, Inc. All rights reserved.

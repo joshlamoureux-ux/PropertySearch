@@ -1,0 +1,450 @@
+Vision Government Solutions
+
+|
+
+Sterling, CT
+
+|
+
+Search [https://gis.vgsi.com/sterlingct/Search.aspx]
+
+Street Listing [https://gis.vgsi.com/sterlingct/Streets.aspx]
+
+Sales Search [https://gis.vgsi.com/sterlingct/Sales.aspx]
+
+Back
+
+Home [https://gis.vgsi.com/sterlingct/Default.aspx?lo=T]
+
+10 EXETER DR
+
+Sales
+
+Print
+
+Map
+It
+
+Location
+
+10 EXETER DR
+
+Mblu
+
+03842/ 017/ IP14/ /
+
+Acct#
+
+00027300
+
+Owner
+
+STERLING PROPERTY LLC
+
+Total Market Value
+
+$712,880
+
+Appraisal
+
+$1,018,400
+
+PID
+
+250
+
+Building Count
+
+1
+
+Current Value
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2022
+| $737,700
+| $280,700
+| $1,018,400
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2022
+| $516,380
+| $196,500
+| $712,880
+
+Owner of Record
+
+| Owner
+| STERLING PROPERTY LLC
+
+| Co-Owner
+|
+
+| Address
+| 27 STILLMAN RD
+GLEN COVE, NY 11542
+
+| Sale Price
+| $1,050,000
+
+| Certificate
+| 2019
+
+| Book & Page
+| 158/130
+
+|
+|
+
+|
+|
+
+| Sale Date
+| 05/26/2019
+
+| Instrument
+| 25
+
+| Qualified
+| U
+
+Ownership History
+
+Ownership History
+
+| Owner
+| Sale Price
+| Certificate
+| Book & Page
+| Instrument
+| Sale Date
+
+| STERLING PROPERTY LLC
+| $1,050,000
+| 2019
+| 158/130
+| 25
+| 05/26/2019
+
+| EMPIRECO LIMITED PARTNERSHIP
+| $0
+| 2017
+| 149/758
+| 25
+| 09/29/2016
+
+| REENERGY STERLING CT LIMITED PARTNERSHIP
+| $0
+|
+| 54/143
+| 25
+| 09/11/1987
+
+Building Information
+
+Building 1 : Section 1
+
+|
+Year Built:
+
+| 1991
+
+|
+Living Area:
+
+| 3,200
+
+|
+Replacement Cost:
+
+| $468,832
+
+|
+Building Percent Good:
+
+| 65
+
+|
+Replacement Cost
+
+Less Depreciation:
+
+|
+
+$304,700
+
+Building Attributes
+
+| Field
+| Description
+
+| Style:
+| Office
+
+| Model
+| Comm/Ind
+
+| Grade
+| C
+
+| Stories:
+| 1
+
+| Occupancy
+| 1.00
+
+| Exterior Wall 1
+| Pre-finsh Metl
+
+| Exterior Wall 2
+|
+
+| Roof Structure
+| Gable
+
+| Roof Cover
+| Enam Mtl Shing
+
+| Interior Wall 1
+| Drywall/Sheet
+
+| Interior Wall 2
+|
+
+| Interior Floor 1
+| Vinyl/Asphalt
+
+| Interior Floor 2
+| Carpet
+
+| Heating Fuel
+| Oil
+
+| Heating Type
+| Forced Air-Duc
+
+| AC Type
+| Central
+
+| Bldg Use
+| COMM BLDG
+
+| Total Rooms
+|
+
+| Total Bedrms
+|
+
+| Total Baths
+|
+
+| Total H Bths
+|
+
+| Extra Fixtures
+|
+
+| 1st Floor Use:
+|
+
+| Heat/AC
+| Ht/AC Package
+
+| Frame Type
+| Fireprf Steel
+
+| Baths/Plumbing
+| Average
+
+| Ceiling/Wall
+| Ceil Walls
+
+| Rooms/Prtns
+| Average
+
+| Wall Height
+| 12.00
+
+| % Comn Wall
+| 0.00
+
+Building Photo
+
+Building Layout
+
+Building Sub-Areas (sq ft)
+
+| Code
+| Description
+| Gross
+Area
+| Living
+Area
+
+| BAS
+| First Floor
+|
+3,200
+
+|
+3,200
+
+|
+|
+|
+3,200
+
+|
+3,200
+
+Extra Features
+
+Extra Features
+
+|
+
+No Data for Extra Features
+
+Land
+
+Land Use
+
+| Use Code
+| 3222
+
+| Description
+| COMM BLDG
+
+| Zone
+|
+
+| Neighborhood
+| 1000
+
+| Alt Land Appr
+| No
+
+| Category
+|
+
+Land Line Valuation
+
+| Size (Acres)
+| 19.85
+
+| Frontage
+|
+
+| Depth
+|
+
+| Total Market Land
+| $196,500
+
+| Appraised Value
+| $280,700
+
+Outbuildings
+
+Outbuildings
+
+| Code
+| Description
+| Sub Code
+| Sub Description
+| Size
+| Value
+| Bldg #
+
+| PAV1
+| Paving
+| AS
+| Asphalt
+| 566000.00 S.F.
+| $100,000
+| 1
+
+| FN1
+| Fence-4' Chain
+| TY
+| Typical
+| 35000.00 L.F.
+| $100,000
+| 1
+
+| LT1
+| Lights-In W/Pl
+| TY
+| Typical
+| 1.00 UNITS
+| $300
+| 1
+
+| LT2
+| W/Double Light
+| TY
+| Typical
+| 2.00 UNITS
+| $900
+| 1
+
+| SCL1
+| Scales-Mechan
+| TY
+| Typical
+| 17.00 TONS
+| $5,600
+| 1
+
+| NMW
+| Net Mega Watt
+|
+|
+| 26.00 MW
+| $226,260
+| 1
+
+Valuation History
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2025
+| $737,700
+| $280,700
+| $1,018,400
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2025
+| $516,380
+| $196,500
+| $712,880
+
+All locations identified on Google, Yahoo, and Bing maps are approximate and may not be exact
+
+Go To Google Maps [http://maps.google.com/?q=10%20EXETER%20DR%20%20STERLING,%20CT%2006377]
+
+Go To Microsoft Bing Maps [http://www.bing.com/maps/?q=10%20EXETER%20DR%20%20STERLING,%20CT%2006377]
+
+(c) 2026 Vision Government Solutions, Inc. All rights reserved.

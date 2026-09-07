@@ -1,0 +1,485 @@
+Vision Government Solutions
+
+|
+
+|
+
+Search [https://gis.vgsi.com/eastwindsorct/Search.aspx]
+
+Street Listing [https://gis.vgsi.com/eastwindsorct/Streets.aspx]
+
+Sales Search [https://gis.vgsi.com/eastwindsorct/Sales.aspx]
+
+Feedback [https://gis.vgsi.com/eastwindsorct/Feedback.aspx]
+
+Back
+
+Home [https://gis.vgsi.com/eastwindsorct/Default.aspx?lo=T]
+
+66 SCANTIC RD
+
+Sales
+
+Print
+
+Map
+It
+
+Location
+
+66 SCANTIC RD
+
+Mblu
+
+075/ 31/ 010/ 003/
+
+Acct#
+
+01922003
+
+Owner
+
+GAGNON CAROL A EST OF
+
+PBN
+
+Total Market Value
+
+$268,640
+
+Appraisal
+
+$383,760
+
+PID
+
+3500
+
+Building Count
+
+1
+
+Current Value
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2025
+| $289,930
+| $93,830
+| $383,760
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2025
+| $202,950
+| $65,690
+| $268,640
+
+Owner of Record
+
+| Owner
+| GAGNON CAROL A EST OF
+
+| Co-Owner
+|
+
+| Address
+|
+
+| Sale Price
+| $0
+
+| Certificate
+|
+
+| Book & Page
+| V/S
+
+|
+|
+
+|
+|
+
+| Sale Date
+| 07/11/2020
+
+Ownership History
+
+Ownership History
+
+| Owner
+| Sale Price
+| Certificate
+| Book & Page
+| Sale Date
+
+| GAGNON CAROL A EST OF
+| $0
+|
+| V/S
+| 07/11/2020
+
+| GAGNON ROBERT G
+| $0
+|
+| V/S
+| 05/19/2019
+
+| GAGNON ROBERT G & CAROL A
+| $230,846
+|
+| 0236/0990
+| 03/18/2002
+
+| BEGIN HOMES INC
+| $0
+|
+| 0211/0686
+| 07/21/1999
+
+Building Information
+
+Building 1 : Section 1
+
+|
+Year Built:
+
+| 2001
+
+|
+Living Area:
+
+| 1,696
+
+|
+Replacement Cost:
+
+| $329,441
+
+|
+Building Percent Good:
+
+| 87
+
+|
+Replacement Cost
+
+Less Depreciation:
+
+|
+
+$286,610
+
+Building Attributes
+
+| Field
+| Description
+
+| Style
+| Ranch
+
+| Model:
+| 01
+
+| Grade:
+| C+
+
+| Stories
+| 1.00
+
+| Occupancy
+| 1
+
+| Exterior Wall 1
+| Vinyl Siding
+
+| Exterior Wall 2
+|
+
+| Roof Structure
+| Gable
+
+| Roof Cover
+| Arch Shingles
+
+| Interior Wall 1
+| Drywall
+
+| Interior Wall 2
+|
+
+| Interior Flr 1
+| Hardwood
+
+| Heat Fuel
+| Oil
+
+| Heat Type:
+| Hot Water
+
+| AC Percent
+| 100
+
+| Total Bedrooms:
+| 3 Bedrooms
+
+| Full Bthrms:
+| 3
+
+| Half Baths:
+| 0
+
+| Extra Fixtures
+| 0
+
+| Total Rooms:
+| 6
+
+| Bath Style
+|
+
+| Kitchen Style
+| Typical
+
+| Extra Kitchens
+| 0
+
+| Fireplace(s)
+| 0
+
+| Wood Stoves
+| 0
+
+| Interior Floor 2
+|
+
+| Bsmt Gar(s)
+| 0
+
+| SF Fin. Bsmt.
+| 0
+
+| Fin Bsmt Qual
+|
+
+| Attic Access
+|
+
+| Basement Area
+| 1680
+
+| Above Ground Area
+| 0
+
+| Finished Area
+| 1696
+
+| Cooling Type
+| Central
+
+| Ground Floor Area
+| 1696
+
+| SFLA
+| 1696
+
+Building Photo
+
+Building Layout
+
+Building Sub-Areas (sq ft)
+
+| Code
+| Description
+| Gross
+Area
+| Living
+Area
+
+| BAS
+| First Floor
+|
+1,696
+
+|
+1,696
+
+| BSM
+| Basement
+|
+1,680
+
+|
+0
+
+| DCK
+| Deck
+|
+60
+
+|
+0
+
+| FGR
+| Garage
+|
+552
+
+|
+0
+
+| FOP
+| Open Porch
+|
+222
+
+|
+0
+
+|
+|
+|
+4,210
+
+|
+1,696
+
+Extra Features
+
+Extra Features
+
+|
+
+No Data for Extra Features
+
+Land
+
+Land Use
+
+| Use Code
+| 101
+
+| Description
+| Single Family
+
+| Zone
+| A-1
+
+| Neighborhood
+| 102
+
+| Alt Land Appr
+| No
+
+| Category
+|
+
+Land Line Valuation
+
+| Size (Sqr Feet)
+| 64033
+
+| Frontage
+|
+
+| Depth
+|
+
+| Total Market Land
+| $65,690
+
+| Appraised Value
+| $93,830
+
+Outbuildings
+
+Outbuildings
+
+| Code
+| Description
+| Sub Code
+| Sub Description
+| Size
+| Value
+| Bldg #
+
+| SHD1
+| Shed
+| FR
+| Frame
+| 192.00 S.F.
+| $1,920
+| 1
+
+| SHD1
+| Shed
+| FR
+| Frame
+| 140.00 S.F.
+| $1,400
+| 1
+
+Valuation History
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2024
+| $289,930
+| $93,830
+| $383,760
+
+| 2023
+| $289,930
+| $93,830
+| $383,760
+
+| 2022
+| $105,180
+| $47,080
+| $152,260
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2024
+| $202,950
+| $65,690
+| $268,640
+
+| 2023
+| $202,950
+| $65,690
+| $268,640
+
+| 2022
+| $105,180
+| $47,080
+| $152,260
+
+All locations identified on Google, Yahoo, and Bing maps are approximate and may not be exact
+
+Go To Google Maps [http://maps.google.com/?q=66%20SCANTIC%20RD%20%20,]
+
+Go To Microsoft Bing Maps [http://www.bing.com/maps/?q=66%20SCANTIC%20RD%20%20,]
+
+(c) 2026 Vision Government Solutions, Inc. All rights reserved.

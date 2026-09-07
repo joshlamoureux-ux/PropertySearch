@@ -1,0 +1,588 @@
+Vision Government Solutions
+
+|
+
+Sterling, CT
+
+|
+
+Search [https://gis.vgsi.com/sterlingct/Search.aspx]
+
+Street Listing [https://gis.vgsi.com/sterlingct/Streets.aspx]
+
+Sales Search [https://gis.vgsi.com/sterlingct/Sales.aspx]
+
+Back
+
+Home [https://gis.vgsi.com/sterlingct/Default.aspx?lo=T]
+
+1030 PLAINFIELD PIKE
+
+Sales
+
+Print
+
+Map
+It
+
+Location
+
+1030 PLAINFIELD PIKE
+
+Mblu
+
+00IOV/ 022/ 0053/ /
+
+Acct#
+
+00092500
+
+Owner
+
+GAILEY JOSHUA A
+
+Total Market Value
+
+$133,900
+
+Appraisal
+
+$191,200
+
+PID
+
+848
+
+Building Count
+
+2
+
+Current Value
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2022
+| $133,100
+| $58,100
+| $191,200
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2022
+| $93,200
+| $40,700
+| $133,900
+
+Owner of Record
+
+| Owner
+| GAILEY JOSHUA A
+
+| Co-Owner
+|
+
+| Address
+| 25 SOUTH PINE ST
+PLAINFIELD, CT 06374
+
+| Sale Price
+| $65,000
+
+| Certificate
+| 2017
+
+| Book & Page
+| 150/438
+
+|
+|
+
+|
+|
+
+| Sale Date
+| 12/27/2016
+
+| Instrument
+| 25
+
+| Qualified
+| U
+
+Ownership History
+
+Ownership History
+
+| Owner
+| Sale Price
+| Certificate
+| Book & Page
+| Instrument
+| Sale Date
+
+| GAILEY JOSHUA A
+| $65,000
+| 2017
+| 150/438
+| 25
+| 12/27/2016
+
+| DYER RUSSELL E
+| $0
+|
+| 61/262
+| 25
+| 04/12/1990
+
+Building Information
+
+Building 1 : Section 1
+
+|
+Year Built:
+
+| 1930
+
+|
+Living Area:
+
+| 1,837
+
+|
+Replacement Cost:
+
+| $190,913
+
+|
+Building Percent Good:
+
+| 63
+
+|
+Replacement Cost
+
+Less Depreciation:
+
+|
+
+$120,300
+
+Building Attributes
+
+| Field
+| Description
+
+| Style
+| Two Family
+
+| Model
+| Residential
+
+| Grade:
+| C
+
+| Stories
+| 1
+
+| Occupancy
+| 1
+
+| Exterior Wall 1
+| Vinyl Siding
+
+| Exterior Wall 2
+|
+
+| Roof Structure
+| Gable
+
+| Roof Cover
+| Asphalt
+
+| Interior Wall 1
+| Drywall
+
+| Interior Wall 2
+|
+
+| Interior Flr 1
+| Carpet
+
+| Interior Flr 2
+| Hardwood
+
+| Heat Fuel
+| Oil
+
+| Heat Type:
+| Hot Water
+
+| AC Type:
+| None
+
+| Total Bedrooms:
+| 2 Bedrooms
+
+| Full Bthrms:
+| 2
+
+| Half Baths:
+|
+
+| Extra Fixtures
+| 2
+
+| Total Rooms:
+| 6
+
+| Bath Style:
+| Average
+
+| Kitchen Style:
+| Average
+
+| Extra Kitchens
+|
+
+| Fireplace(s)
+|
+
+| Extra Opening(s)
+|
+
+| Gas Fireplace(s)
+|
+
+| Blocked FPL(s)
+|
+
+| Bsmt Garage(s)
+|
+
+| Fin Bsmt
+|
+
+| FBM Quality
+|
+
+Building Photo
+
+Building Layout
+
+Building Sub-Areas (sq ft)
+
+| Code
+| Description
+| Gross
+Area
+| Living
+Area
+
+| BAS
+| First Floor
+|
+1,837
+
+|
+1,837
+
+| UST
+| Unfinished Utility Area
+|
+36
+
+|
+0
+
+|
+|
+|
+1,873
+
+|
+1,837
+
+Building 2 : Section 1
+
+|
+Year Built:
+
+| 1970
+
+|
+Living Area:
+
+| 600
+
+|
+Replacement Cost:
+
+| $41,595
+
+|
+Building Percent Good:
+
+| 30
+
+|
+Replacement Cost
+
+Less Depreciation:
+
+|
+
+$12,500
+
+Building Attributes : Bldg 2 of 2
+
+| Field
+| Description
+
+| Style
+| Manufactured Home
+
+| Model
+| Mobile Home
+
+| Grade:
+| D-
+
+| Stories
+| 1
+
+| Occupancy
+| 1
+
+| Exterior Wall 1
+| Vinyl Siding
+
+| Exterior Wall 2
+|
+
+| Roof Structure
+| Gable
+
+| Roof Cover
+| Asphalt
+
+| Interior Wall 1
+| Minimum
+
+| Interior Wall 2
+|
+
+| Interior Flr 1
+| Carpet
+
+| Interior Flr 2
+|
+
+| Heat Fuel
+| Oil
+
+| Heat Type:
+| Forced Hot Air
+
+| AC Type:
+| None
+
+| Total Bedrooms:
+| 1 Bedroom
+
+| Full Bthrms:
+| 1
+
+| Half Baths:
+|
+
+| Extra Fixtures
+|
+
+| Total Rooms:
+| 4
+
+| Bath Style:
+| Average
+
+| Kitchen Style:
+| Average
+
+| Extra Kitchens
+|
+
+| Fireplace(s)
+|
+
+| Extra Opening(s)
+|
+
+| Gas Fireplace(s)
+|
+
+| Blocked FPL(s)
+|
+
+| Bsmt Garage(s)
+|
+
+| Fin Bsmt
+|
+
+| FBM Quality
+|
+
+Building Photo
+
+Building Layout
+
+Building Sub-Areas (sq ft)
+
+| Code
+| Description
+| Gross
+Area
+| Living
+Area
+
+| BAS
+| First Floor
+|
+600
+
+|
+600
+
+| FOP
+| Open Porch
+|
+150
+
+|
+0
+
+|
+|
+|
+750
+
+|
+600
+
+Extra Features
+
+Extra Features
+
+|
+
+No Data for Extra Features
+
+Land
+
+Land Use
+
+| Use Code
+| 1090
+
+| Description
+| Multi Houses
+
+| Zone
+|
+
+| Neighborhood
+| 1000
+
+| Alt Land Appr
+| No
+
+| Category
+|
+
+Land Line Valuation
+
+| Size (Acres)
+| 1.38
+
+| Frontage
+|
+
+| Depth
+|
+
+| Total Market Land
+| $40,700
+
+| Appraised Value
+| $58,100
+
+Outbuildings
+
+Outbuildings
+
+| Code
+| Description
+| Sub Code
+| Sub Description
+| Size
+| Value
+| Bldg #
+
+| SHD1
+| Shed
+| FR
+| Frame
+| 414.00 S.F.
+| $200
+| 2
+
+| SHD1
+| Shed
+| FR
+| Frame
+| 144.00 S.F.
+| $100
+| 2
+
+Valuation History
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2025
+| $133,100
+| $58,100
+| $191,200
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2025
+| $93,200
+| $40,700
+| $133,900
+
+All locations identified on Google, Yahoo, and Bing maps are approximate and may not be exact
+
+Go To Google Maps [http://maps.google.com/?q=1030%20PLAINFIELD%20PIKE%20%20STERLING,%20CT%2006377]
+
+Go To Microsoft Bing Maps [http://www.bing.com/maps/?q=1030%20PLAINFIELD%20PIKE%20%20STERLING,%20CT%2006377]
+
+(c) 2026 Vision Government Solutions, Inc. All rights reserved.

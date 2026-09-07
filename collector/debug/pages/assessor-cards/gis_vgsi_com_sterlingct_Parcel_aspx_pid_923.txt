@@ -1,0 +1,431 @@
+Vision Government Solutions
+
+|
+
+Sterling, CT
+
+|
+
+Search [https://gis.vgsi.com/sterlingct/Search.aspx]
+
+Street Listing [https://gis.vgsi.com/sterlingct/Streets.aspx]
+
+Sales Search [https://gis.vgsi.com/sterlingct/Sales.aspx]
+
+Back
+
+Home [https://gis.vgsi.com/sterlingct/Default.aspx?lo=T]
+
+37 POND ST
+
+Sales
+
+Print
+
+Map
+It
+
+Location
+
+37 POND ST
+
+Mblu
+
+00IOV/ 029/ 0037/ /
+
+Acct#
+
+00101000
+
+Owner
+
+DONAHEY CINDY S
+
+Total Market Value
+
+$182,400
+
+Appraisal
+
+$260,600
+
+PID
+
+923
+
+Building Count
+
+1
+
+Current Value
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2022
+| $205,400
+| $55,200
+| $260,600
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2022
+| $143,800
+| $38,600
+| $182,400
+
+Owner of Record
+
+| Owner
+| DONAHEY CINDY S
+
+| Co-Owner
+|
+
+| Address
+| 72 CASTLE ROCK RD NA
+WOODSTOCK, CT 06281
+
+| Sale Price
+| $0
+
+| Certificate
+|
+
+| Book & Page
+| 76/968
+
+|
+|
+
+|
+|
+
+| Sale Date
+| 10/10/1997
+
+| Instrument
+| 25
+
+| Qualified
+| U
+
+Ownership History
+
+Ownership History
+
+| Owner
+| Sale Price
+| Certificate
+| Book & Page
+| Instrument
+| Sale Date
+
+| DONAHEY CINDY S
+| $0
+|
+| 76/968
+| 25
+| 10/10/1997
+
+Building Information
+
+Building 1 : Section 1
+
+|
+Year Built:
+
+| 1966
+
+|
+Living Area:
+
+| 1,504
+
+|
+Replacement Cost:
+
+| $280,080
+
+|
+Building Percent Good:
+
+| 73
+
+|
+Replacement Cost
+
+Less Depreciation:
+
+|
+
+$204,500
+
+Building Attributes
+
+| Field
+| Description
+
+| Style
+| Ranch
+
+| Model
+| Residential
+
+| Grade:
+| C
+
+| Stories
+| 1
+
+| Occupancy
+| 1
+
+| Exterior Wall 1
+| Clapboard
+
+| Exterior Wall 2
+|
+
+| Roof Structure
+| Gable
+
+| Roof Cover
+| Asphalt
+
+| Interior Wall 1
+| Drywall
+
+| Interior Wall 2
+|
+
+| Interior Flr 1
+| Hardwood
+
+| Interior Flr 2
+| Carpet
+
+| Heat Fuel
+| Oil
+
+| Heat Type:
+| Forced Hot Air
+
+| AC Type:
+| None
+
+| Total Bedrooms:
+| 3 Bedrooms
+
+| Full Bthrms:
+| 1
+
+| Half Baths:
+| 1
+
+| Extra Fixtures
+|
+
+| Total Rooms:
+| 6
+
+| Bath Style:
+| Average
+
+| Kitchen Style:
+| Average
+
+| Extra Kitchens
+|
+
+| Fireplace(s)
+| 1
+
+| Extra Opening(s)
+| 1
+
+| Gas Fireplace(s)
+|
+
+| Blocked FPL(s)
+|
+
+| Bsmt Garage(s)
+| 1
+
+| Fin Bsmt
+| 240
+
+| FBM Quality
+| Rec Room
+
+Building Photo
+
+Building Layout
+
+Building Sub-Areas (sq ft)
+
+| Code
+| Description
+| Gross
+Area
+| Living
+Area
+
+| BAS
+| First Floor
+|
+1,504
+
+|
+1,504
+
+| FOP
+| Open Porch
+|
+120
+
+|
+0
+
+| UBM
+| Unfinished Bsmt
+|
+1,504
+
+|
+0
+
+| WDK
+| Deck
+|
+234
+
+|
+0
+
+|
+|
+|
+3,362
+
+|
+1,504
+
+Extra Features
+
+Extra Features
+
+|
+
+No Data for Extra Features
+
+Land
+
+Land Use
+
+| Use Code
+| 1010
+
+| Description
+| Single Family
+
+| Zone
+|
+
+| Neighborhood
+| 1000
+
+| Alt Land Appr
+| No
+
+| Category
+|
+
+Land Line Valuation
+
+| Size (Acres)
+| 0.89
+
+| Frontage
+|
+
+| Depth
+|
+
+| Total Market Land
+| $38,600
+
+| Appraised Value
+| $55,200
+
+Outbuildings
+
+Outbuildings
+
+| Code
+| Description
+| Sub Code
+| Sub Description
+| Size
+| Value
+| Bldg #
+
+| SHD1
+| Shed
+| FR
+| Frame
+| 40.00 S.F.
+| $300
+| 1
+
+| SHD1
+| Shed
+| FR
+| Frame
+| 80.00 S.F.
+| $600
+| 1
+
+Valuation History
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2025
+| $205,400
+| $55,200
+| $260,600
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2025
+| $143,800
+| $38,600
+| $182,400
+
+All locations identified on Google, Yahoo, and Bing maps are approximate and may not be exact
+
+Go To Google Maps [http://maps.google.com/?q=37%20POND%20ST%20%20STERLING,%20CT%2006377]
+
+Go To Microsoft Bing Maps [http://www.bing.com/maps/?q=37%20POND%20ST%20%20STERLING,%20CT%2006377]
+
+(c) 2026 Vision Government Solutions, Inc. All rights reserved.

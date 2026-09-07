@@ -1,0 +1,432 @@
+Vision Government Solutions
+
+|
+
+|
+
+Search [https://gis.vgsi.com/eastwindsorct/Search.aspx]
+
+Street Listing [https://gis.vgsi.com/eastwindsorct/Streets.aspx]
+
+Sales Search [https://gis.vgsi.com/eastwindsorct/Sales.aspx]
+
+Feedback [https://gis.vgsi.com/eastwindsorct/Feedback.aspx]
+
+Back
+
+Home [https://gis.vgsi.com/eastwindsorct/Default.aspx?lo=T]
+
+32 PROSPECT HILL DR
+
+Sales
+
+Print
+
+Map
+It
+
+Location
+
+32 PROSPECT HILL DR
+
+Mblu
+
+102/ 17/ 000/ P 043/
+
+Acct#
+
+01198500
+
+Owner
+
+OLISKY CHESTER S JR & ADA E
+
+PBN
+
+Total Market Value
+
+$125,060
+
+Appraisal
+
+$178,660
+
+PID
+
+2763
+
+Building Count
+
+1
+
+Current Value
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2025
+| $125,920
+| $52,740
+| $178,660
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2025
+| $88,140
+| $36,920
+| $125,060
+
+Owner of Record
+
+| Owner
+| OLISKY CHESTER S JR & ADA E
+
+| Co-Owner
+|
+
+| Address
+| P O BOX 711
+EAST WINDSOR, CT 060880711
+
+| Sale Price
+| $0
+
+| Certificate
+|
+
+| Book & Page
+| 0070/0393
+
+|
+|
+
+|
+|
+
+| Sale Date
+| 09/16/1963
+
+Ownership History
+
+Ownership History
+
+| Owner
+| Sale Price
+| Certificate
+| Book & Page
+| Sale Date
+
+| OLISKY CHESTER S JR & ADA E
+| $0
+|
+| 0070/0393
+| 09/16/1963
+
+Building Information
+
+Building 1 : Section 1
+
+|
+Year Built:
+
+| 1952
+
+|
+Living Area:
+
+| 864
+
+|
+Replacement Cost:
+
+| $174,887
+
+|
+Building Percent Good:
+
+| 72
+
+|
+Replacement Cost
+
+Less Depreciation:
+
+|
+
+$125,920
+
+Building Attributes
+
+| Field
+| Description
+
+| Style
+| Ranch
+
+| Model:
+| Residential
+
+| Grade:
+| C-
+
+| Stories
+| 1.00
+
+| Occupancy
+| 1
+
+| Exterior Wall 1
+| Vinyl Siding
+
+| Exterior Wall 2
+|
+
+| Roof Structure
+| Gable
+
+| Roof Cover
+| Arch Shingles
+
+| Interior Wall 1
+| Panel
+
+| Interior Wall 2
+|
+
+| Interior Flr 1
+| Hardwood
+
+| Heat Fuel
+| Oil
+
+| Heat Type:
+| Hot Water
+
+| AC Percent
+| 0
+
+| Total Bedrooms:
+| 3 Bedrooms
+
+| Full Bthrms:
+| 1
+
+| Half Baths:
+| 0
+
+| Extra Fixtures
+| 0
+
+| Total Rooms:
+| 5
+
+| Bath Style
+|
+
+| Kitchen Style
+| Typical
+
+| Extra Kitchens
+| 0
+
+| Fireplace(s)
+| 0
+
+| Wood Stoves
+| 0
+
+| Interior Floor 2
+|
+
+| Bsmt Gar(s)
+| 0
+
+| SF Fin. Bsmt.
+| 0
+
+| Fin Bsmt Qual
+|
+
+| Attic Access
+|
+
+| Basement Area
+| 864
+
+| Above Ground Area
+| 864
+
+| Finished Area
+| 864
+
+| Cooling Type
+| None
+
+| Ground Floor Area
+| 864
+
+| SFLA
+| 864
+
+Building Photo
+
+Building Layout
+
+Building Sub-Areas (sq ft)
+
+| Code
+| Description
+| Gross
+Area
+| Living
+Area
+
+| BAS
+| First Floor
+|
+864
+
+|
+864
+
+| BSM
+| Basement
+|
+864
+
+|
+0
+
+| DCK
+| Deck
+|
+318
+
+|
+0
+
+|
+|
+|
+2,046
+
+|
+864
+
+Extra Features
+
+Extra Features
+
+|
+
+No Data for Extra Features
+
+Land
+
+Land Use
+
+| Use Code
+| 101
+
+| Description
+| Single Family
+
+| Zone
+| R-3
+
+| Neighborhood
+| 102
+
+| Alt Land Appr
+| No
+
+| Category
+|
+
+Land Line Valuation
+
+| Size (Sqr Feet)
+| 14810
+
+| Frontage
+|
+
+| Depth
+|
+
+| Total Market Land
+| $36,920
+
+| Appraised Value
+| $52,740
+
+Outbuildings
+
+Outbuildings
+
+|
+
+No Data for Outbuildings
+
+Valuation History
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2024
+| $125,920
+| $52,740
+| $178,660
+
+| 2023
+| $125,920
+| $52,740
+| $178,660
+
+| 2022
+| $33,430
+| $49,400
+| $82,830
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2024
+| $88,140
+| $36,920
+| $125,060
+
+| 2023
+| $88,140
+| $36,920
+| $125,060
+
+| 2022
+| $33,430
+| $49,400
+| $82,830
+
+All locations identified on Google, Yahoo, and Bing maps are approximate and may not be exact
+
+Go To Google Maps [http://maps.google.com/?q=32%20PROSPECT%20HILL%20DR]
+
+Go To Microsoft Bing Maps [http://www.bing.com/maps/?q=32%20PROSPECT%20HILL%20DR]
+
+(c) 2026 Vision Government Solutions, Inc. All rights reserved.

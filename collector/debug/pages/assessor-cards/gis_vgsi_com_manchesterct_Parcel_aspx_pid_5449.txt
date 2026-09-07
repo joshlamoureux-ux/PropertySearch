@@ -1,0 +1,518 @@
+Vision Government Solutions
+
+|
+
+MANCHESTER,CT
+
+|
+
+Search [https://gis.vgsi.com/manchesterct/Search.aspx]
+
+Street Listing [https://gis.vgsi.com/manchesterct/Streets.aspx]
+
+Sales Search [https://gis.vgsi.com/manchesterct/Sales.aspx]
+
+Feedback [https://gis.vgsi.com/manchesterct/Feedback.aspx]
+
+Back
+
+Home [https://gis.vgsi.com/manchesterct/Default.aspx?lo=T]
+
+164 FERN STREET
+
+Sales
+
+Print
+
+Map
+It
+
+Location
+
+164 FERN STREET
+
+Mblu
+
+98/ 2140/ 164/ /
+
+Acct#
+
+214000164
+
+Owner
+
+OFORI-MINTAH DANIEL &
+
+Total Assessment
+
+$313,700
+
+Appraisal
+
+$448,100
+
+PID
+
+5449
+
+Building Count
+
+1
+
+DISTRICT
+
+T
+
+CONCRETE
+
+Current Value
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2021
+| $364,800
+| $83,300
+| $448,100
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2021
+| $255,400
+| $58,300
+| $313,700
+
+Owner of Record
+
+| Owner
+| OFORI-MINTAH DANIEL &
+
+| Lot Type
+| AMOWAAH CHRISTINE
+
+| Address
+| 164 FERN STREET
+MANCHESTER, CT 06040
+
+| Sale Price
+| $350,000
+
+| Certificate
+|
+
+| Book & Page
+| 4276/0259
+
+|
+|
+
+|
+|
+
+| Sale Date
+| 08/25/2015
+
+| Instrument
+| 33
+
+Ownership History
+
+Ownership History
+
+| Owner
+| Sale Price
+| Certificate
+| Book & Page
+| Instrument
+| Sale Date
+
+| OFORI-MINTAH DANIEL &
+| $350,000
+|
+| 4276/0259
+| 33
+| 08/25/2015
+
+| WELCH CHRISTIAN M &
+| $389,900
+|
+| 4141/0283
+| 33
+| 01/16/2014
+
+| MERRITT STEPHEN & LYNN
+| $425,000
+|
+| 3411/0233
+| 33
+| 02/26/2007
+
+| MATHENY KAREN A
+| $107,000
+| C
+| 1446/0164
+|
+| 05/17/1991
+
+Building Information
+
+Building 1 : Section 1
+
+|
+Year Built:
+
+| 1991
+
+|
+Living Area:
+
+| 2,989
+
+|
+Replacement Cost:
+
+| $434,540
+
+|
+Replacement Cost
+
+Less Depreciation:
+
+|
+
+$352,000
+
+Building Attributes
+
+| Field
+| Description
+
+| Style:
+| Modern/Contemp
+
+| Model
+| Residential
+
+| Grade:
+| Good
+
+| Stories:
+| 2 Stories
+
+| Occupancy
+| 1
+
+| Exterior Wall 1
+| Clapboard
+
+| Exterior Wall 2
+|
+
+| Roof Structure:
+| Gable/Hip
+
+| Roof Cover
+| Asphalt/Arch Shingle
+
+| Interior Wall 1
+| Drywall/Sheetr
+
+| Interior Wall 2
+|
+
+| Interior Flr 1
+| Hardwood
+
+| Interior Flr 2
+| Carpet
+
+| Heat Fuel
+| Gas
+
+| Heat Type:
+| Forced Air-Duc
+
+| AC Type:
+| Central
+
+| Total Bedrooms:
+| 3 Bedrooms
+
+| Total Bthrms:
+| 2
+
+| Total Half Baths:
+| 1
+
+| Total Xtra Fixtrs:
+| 2
+
+| Total Rooms:
+| 8
+
+| Bath Style:
+| Average
+
+| Kitchen Style:
+| Average
+
+| Extra Kitchens
+|
+
+| Whirlpool
+|
+
+| Fireplace
+| 2
+
+| Fin Basement
+| 1000
+
+| Fin Bsmnt Qual
+| Rec Room
+
+| Fin Bsmnt 2
+|
+
+| Fin Bsmnt2 Qual
+|
+
+| Bsmnt Garage
+|
+
+| Fndtn Level
+|
+
+| SFA Code
+|
+
+Building Photo
+
+Building Layout
+
+Building Sub-Areas (sq ft)
+
+| Code
+| Description
+| Gross
+Area
+| Living
+Area
+
+| BAS
+| First Floor
+|
+1,524
+
+|
+1,524
+
+| FUS
+| Upper Story, Finished
+|
+1,184
+
+|
+1,184
+
+| FAT
+| Attic, Finished
+|
+1,404
+
+|
+281
+
+| BSM
+| Basement
+|
+1,524
+
+|
+0
+
+| EAU
+| Attic, Expansion, Unfinished
+|
+696
+
+|
+0
+
+| FGR
+| Garage
+|
+696
+
+|
+0
+
+| FOP
+| Porch, Open
+|
+22
+
+|
+0
+
+| FSP
+| Screen Porch
+|
+128
+
+|
+0
+
+| PTO
+| Patio
+|
+708
+
+|
+0
+
+|
+|
+|
+7,886
+
+|
+2,989
+
+Extra Features
+
+Extra Features
+
+| Code
+| Description
+| Size
+| Value
+| Bldg #
+
+| SOL1
+| Solar Panels-PPacct
+| 38.00 UNIT
+| $0
+| 1
+
+Land
+
+Land Use
+
+| Use Code
+| 101
+
+| Description
+| Single Family
+
+| Zone
+| RR
+
+| Neighborhood
+| 70
+
+| Alt Land Appr
+| No
+
+| Category
+|
+
+Land Line Valuation
+
+| Size (Acres)
+| 0.71
+
+| Frontage
+| 0
+
+| Depth
+| 0
+
+| Total Assessed Land
+| $58,300
+
+| Appraised Value
+| $83,300
+
+Outbuildings
+
+Outbuildings
+
+| Code
+| Description
+| Sub Code
+| Sub Description
+| Size
+| Value
+| Bldg #
+
+| SPL2
+| Pool Inground - Good Quality
+|
+|
+| 512.00 S.F.
+| $12,800
+| 1
+
+Valuation History
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2025
+| $364,800
+| $83,300
+| $448,100
+
+| 2024
+| $364,800
+| $83,300
+| $448,100
+
+| 2023
+| $364,800
+| $83,300
+| $448,100
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2025
+| $255,400
+| $58,300
+| $313,700
+
+| 2024
+| $255,400
+| $58,300
+| $313,700
+
+| 2023
+| $255,400
+| $58,300
+| $313,700
+
+All locations identified on Google, Yahoo, and Bing maps are approximate and may not be exact
+
+Go To Google Maps [http://maps.google.com/?q=164%20FERN%20STREET]
+
+Go To Microsoft Bing Maps [http://www.bing.com/maps/?q=164%20FERN%20STREET]
+
+(c) 2026 Vision Government Solutions, Inc. All rights reserved.

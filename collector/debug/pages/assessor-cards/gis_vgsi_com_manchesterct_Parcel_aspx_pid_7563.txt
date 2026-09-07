@@ -1,0 +1,477 @@
+Vision Government Solutions
+
+|
+
+MANCHESTER,CT
+
+|
+
+Search [https://gis.vgsi.com/manchesterct/Search.aspx]
+
+Street Listing [https://gis.vgsi.com/manchesterct/Streets.aspx]
+
+Sales Search [https://gis.vgsi.com/manchesterct/Sales.aspx]
+
+Feedback [https://gis.vgsi.com/manchesterct/Feedback.aspx]
+
+Back
+
+Home [https://gis.vgsi.com/manchesterct/Default.aspx?lo=T]
+
+257 HILLIARD STREET
+
+Sales
+
+Print
+
+Map
+It
+
+Location
+
+257 HILLIARD STREET
+
+Mblu
+
+59/ 2920/ 257/ /
+
+Acct#
+
+292000257
+
+Owner
+
+CARNEY CARI M EST
+
+Total Assessment
+
+$106,000
+
+Appraisal
+
+$151,500
+
+PID
+
+7563
+
+Building Count
+
+1
+
+DISTRICT
+
+E
+
+CONCRETE
+
+Current Value
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2021
+| $104,300
+| $47,200
+| $151,500
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2021
+| $73,000
+| $33,000
+| $106,000
+
+Owner of Record
+
+| Owner
+| CARNEY CARI M EST
+
+| Lot Type
+| CARNEY PETER T ADM
+
+| Address
+| 257 HILLIARD STREET
+MANCHESTER, CT 06042
+
+| Sale Price
+| $0
+
+| Certificate
+|
+
+| Book & Page
+| 4710/851
+
+|
+|
+
+|
+|
+
+| Sale Date
+| 03/13/2023
+
+| Instrument
+| 39
+
+Ownership History
+
+Ownership History
+
+| Owner
+| Sale Price
+| Certificate
+| Book & Page
+| Instrument
+| Sale Date
+
+| CARNEY CARI M EST
+| $0
+|
+| 4710/851
+| 39
+| 03/13/2023
+
+| CARNEY CARI
+| $0
+|
+| 4312/0065
+| 31
+| 01/15/2016
+
+| OSBORNE GORDON J &
+| $91,000
+| C
+| 2314/0201
+| 37
+| 08/14/2001
+
+| WATERS EARL L JR EST
+| $0
+|
+| 2314/0200
+| 25
+| 08/14/2001
+
+| WATERS EARL L JR EST
+| $0
+|
+| 2275/0017
+| 35
+| 05/18/2001
+
+Building Information
+
+Building 1 : Section 1
+
+|
+Year Built:
+
+| 1941
+
+|
+Living Area:
+
+| 980
+
+|
+Replacement Cost:
+
+| $163,840
+
+|
+Replacement Cost
+
+Less Depreciation:
+
+|
+
+$103,200
+
+Building Attributes
+
+| Field
+| Description
+
+| Style:
+| Ranch
+
+| Model
+| Residential
+
+| Grade:
+| Average
+
+| Stories:
+| 1 Story
+
+| Occupancy
+| 1
+
+| Exterior Wall 1
+| Vinyl Siding
+
+| Exterior Wall 2
+|
+
+| Roof Structure:
+| Gable/Hip
+
+| Roof Cover
+| Asphalt/Arch Shingle
+
+| Interior Wall 1
+| Plaster
+
+| Interior Wall 2
+|
+
+| Interior Flr 1
+| Hardwood
+
+| Interior Flr 2
+|
+
+| Heat Fuel
+| Oil
+
+| Heat Type:
+| Forced Air-Duc
+
+| AC Type:
+| Unit/AC
+
+| Total Bedrooms:
+| 2 Bedrooms
+
+| Total Bthrms:
+| 1
+
+| Total Half Baths:
+| 0
+
+| Total Xtra Fixtrs:
+|
+
+| Total Rooms:
+| 5 Rooms
+
+| Bath Style:
+| Average
+
+| Kitchen Style:
+| Average
+
+| Extra Kitchens
+|
+
+| Whirlpool
+|
+
+| Fireplace
+| 1
+
+| Fin Basement
+|
+
+| Fin Bsmnt Qual
+|
+
+| Fin Bsmnt 2
+|
+
+| Fin Bsmnt2 Qual
+|
+
+| Bsmnt Garage
+|
+
+| Fndtn Level
+|
+
+| SFA Code
+|
+
+Building Photo
+
+Building Layout
+
+Building Sub-Areas (sq ft)
+
+| Code
+| Description
+| Gross
+Area
+| Living
+Area
+
+| BAS
+| First Floor
+|
+980
+
+|
+980
+
+| BSM
+| Basement
+|
+672
+
+|
+0
+
+| CRL
+| Crawl
+|
+308
+
+|
+0
+
+| FOP
+| Porch, Open
+|
+12
+
+|
+0
+
+|
+|
+|
+1,972
+
+|
+980
+
+Extra Features
+
+Extra Features
+
+|
+
+No Data for Extra Features
+
+Land
+
+Land Use
+
+| Use Code
+| 101
+
+| Description
+| Single Family
+
+| Zone
+| RA
+
+| Neighborhood
+| 40
+
+| Alt Land Appr
+| No
+
+| Category
+|
+
+Land Line Valuation
+
+| Size (Acres)
+| 0.38
+
+| Frontage
+| 0
+
+| Depth
+| 0
+
+| Total Assessed Land
+| $33,000
+
+| Appraised Value
+| $47,200
+
+Outbuildings
+
+Outbuildings
+
+| Code
+| Description
+| Sub Code
+| Sub Description
+| Size
+| Value
+| Bldg #
+
+| SHD1
+| Shed
+|
+|
+| 120.00 S.F.
+| $1,100
+| 1
+
+Valuation History
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2025
+| $104,300
+| $47,200
+| $151,500
+
+| 2024
+| $104,300
+| $47,200
+| $151,500
+
+| 2023
+| $104,300
+| $47,200
+| $151,500
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2025
+| $73,000
+| $33,000
+| $106,000
+
+| 2024
+| $73,000
+| $33,000
+| $106,000
+
+| 2023
+| $73,000
+| $33,000
+| $106,000
+
+All locations identified on Google, Yahoo, and Bing maps are approximate and may not be exact
+
+Go To Google Maps [http://maps.google.com/?q=257%20HILLIARD%20STREET]
+
+Go To Microsoft Bing Maps [http://www.bing.com/maps/?q=257%20HILLIARD%20STREET]
+
+(c) 2026 Vision Government Solutions, Inc. All rights reserved.

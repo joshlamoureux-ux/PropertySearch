@@ -1,0 +1,504 @@
+Vision Government Solutions
+
+|
+
+|
+
+Search [https://gis.vgsi.com/eastwindsorct/Search.aspx]
+
+Street Listing [https://gis.vgsi.com/eastwindsorct/Streets.aspx]
+
+Sales Search [https://gis.vgsi.com/eastwindsorct/Sales.aspx]
+
+Feedback [https://gis.vgsi.com/eastwindsorct/Feedback.aspx]
+
+Back
+
+Home [https://gis.vgsi.com/eastwindsorct/Default.aspx?lo=T]
+
+76 GRIFFIN RD
+
+Sales
+
+Print
+
+Map
+It
+
+Location
+
+76 GRIFFIN RD
+
+Mblu
+
+008/ 68/ 016/ /
+
+Acct#
+
+00629500
+
+Owner
+
+WTBY 5 DEVELOPMENT LLC & ROYAL REALTY HOLDINGS LLC
+
+PBN
+
+Total Market Value
+
+$301,210
+
+Appraisal
+
+$430,290
+
+PID
+
+1171
+
+Building Count
+
+1
+
+Current Value
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2025
+| $323,640
+| $106,650
+| $430,290
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2025
+| $226,550
+| $74,660
+| $301,210
+
+Owner of Record
+
+| Owner
+| WTBY 5 DEVELOPMENT LLC & ROYAL REALTY HOLDINGS LLC
+
+| Co-Owner
+|
+
+| Address
+| C/O ROYAL REALTY HOLDINGS LLC
+698 MAIN ST
+BRANFORD, CT 06405
+
+| Sale Price
+| $203,000
+
+| Certificate
+|
+
+| Book & Page
+| 461/131
+
+|
+|
+
+|
+|
+
+| Sale Date
+| 09/04/2024
+
+| Instrument
+| 00
+
+Ownership History
+
+Ownership History
+
+| Owner
+| Sale Price
+| Certificate
+| Book & Page
+| Instrument
+| Sale Date
+
+| WTBY 5 DEVELOPMENT LLC & ROYAL REALTY HOLDINGS LLC
+| $203,000
+|
+| 461/131
+| 00
+| 09/04/2024
+
+| FLORENCE KENNETH
+| $82,500
+|
+| 427/722
+| 04
+| 09/04/2020
+
+| JOSEPH ARNOLD F
+| $0
+|
+| 0116/0538
+|
+| 06/30/1980
+
+Building Information
+
+Building 1 : Section 1
+
+|
+Year Built:
+
+| 1820
+
+|
+Living Area:
+
+| 2,076
+
+|
+Replacement Cost:
+
+| $335,330
+
+|
+Building Percent Good:
+
+| 90
+
+|
+Replacement Cost
+
+Less Depreciation:
+
+|
+
+$301,800
+
+Building Attributes
+
+| Field
+| Description
+
+| Style
+| Colonial
+
+| Model:
+| Residential
+
+| Grade:
+| C+
+
+| Stories
+| 2.00
+
+| Occupancy
+| 1
+
+| Exterior Wall 1
+| Brick
+
+| Exterior Wall 2
+| Clapboard
+
+| Roof Structure
+| Gable
+
+| Roof Cover
+| Asphalt
+
+| Interior Wall 1
+| Plaster
+
+| Interior Wall 2
+|
+
+| Interior Flr 1
+| Hardwood
+
+| Heat Fuel
+| Propane
+
+| Heat Type:
+| Steam
+
+| AC Percent
+| 0
+
+| Total Bedrooms:
+| 4 Bedrooms
+
+| Full Bthrms:
+| 2
+
+| Half Baths:
+| 0
+
+| Extra Fixtures
+| 1
+
+| Total Rooms:
+| 8
+
+| Bath Style
+|
+
+| Kitchen Style
+| Modern
+
+| Extra Kitchens
+| 0
+
+| Fireplace(s)
+| 1
+
+| Wood Stoves
+| 0
+
+| Interior Floor 2
+|
+
+| Bsmt Gar(s)
+| 0
+
+| SF Fin. Bsmt.
+| 0
+
+| Fin Bsmt Qual
+|
+
+| Attic Access
+| Closet Stairs
+
+| Basement Area
+| 918
+
+| Above Ground Area
+| 1836
+
+| Finished Area
+| 1836
+
+| Cooling Type
+| None
+
+| Ground Floor Area
+| 918
+
+| SFLA
+| 1836
+
+Building Photo
+
+Building Layout
+
+Building Sub-Areas (sq ft)
+
+| Code
+| Description
+| Gross
+Area
+| Living
+Area
+
+| BAS
+| First Floor
+|
+1,158
+
+|
+1,158
+
+| FUS
+| Finished Upper Story
+|
+918
+
+|
+918
+
+| BSM
+| Basement
+|
+918
+
+|
+0
+
+| CRL
+| Crawl Space
+|
+240
+
+|
+0
+
+| FEP
+| Finished Enclosed Porch
+|
+162
+
+|
+0
+
+| PTS
+| Stone Patio
+|
+96
+
+|
+0
+
+|
+|
+|
+3,492
+
+|
+2,076
+
+Extra Features
+
+Extra Features
+
+|
+
+No Data for Extra Features
+
+Land
+
+Land Use
+
+| Use Code
+| 101
+
+| Description
+| Single Family
+
+| Zone
+| A-1
+
+| Neighborhood
+| 106
+
+| Alt Land Appr
+| No
+
+| Category
+|
+
+Land Line Valuation
+
+| Size (Sqr Feet)
+| 51400
+
+| Frontage
+|
+
+| Depth
+|
+
+| Total Market Land
+| $74,660
+
+| Appraised Value
+| $106,650
+
+Outbuildings
+
+Outbuildings
+
+| Code
+| Description
+| Sub Code
+| Sub Description
+| Size
+| Value
+| Bldg #
+
+| BRN4
+| 1s Barn W/Loft&Bsmt
+| FR
+| Frame
+| 1200.00 S.F.
+| $21,600
+| 1
+
+| SHD1
+| Shed
+| FR
+| Frame
+| 240.00 S.F.
+| $240
+| 1
+
+| FDTN
+| Foundation
+| R
+| Residence
+| 0.00 UNITS
+| $0
+| 1
+
+Valuation History
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2024
+| $154,140
+| $106,650
+| $260,790
+
+| 2023
+| $154,140
+| $106,650
+| $260,790
+
+| 2022
+| $43,540
+| $49,440
+| $92,980
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2024
+| $107,900
+| $74,660
+| $182,560
+
+| 2023
+| $107,900
+| $74,660
+| $182,560
+
+| 2022
+| $43,540
+| $49,440
+| $92,980
+
+All locations identified on Google, Yahoo, and Bing maps are approximate and may not be exact
+
+Go To Google Maps [http://maps.google.com/?q=76%20GRIFFIN%20RD%20%20,]
+
+Go To Microsoft Bing Maps [http://www.bing.com/maps/?q=76%20GRIFFIN%20RD%20%20,]
+
+(c) 2026 Vision Government Solutions, Inc. All rights reserved.

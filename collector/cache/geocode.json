@@ -770,5 +770,35 @@
   "lng": -72.6154016,
   "name": "Riverview Drive, East Windsor, Capitol Planning Region, Connecticut, 06088, United States",
   "precision": "road"
- }
+ },
+ "east haddam home on 9 acres, devils hopyard, ct, usa": null,
+ "devils hopyard, ct, usa": {
+  "lat": 41.9423587,
+  "lng": -72.3537116,
+  "name": "Devils Hopyard Swamp, Lake View Terrace, Stafford, Capitol Planning Region, Connecticut, United States",
+  "precision": "wetland"
+ },
+ "4 year round cabins, 1 house, a pavilion and 2 garages on 24 acres!!, lee, ma, usa": null,
+ "lee, ma, usa": {
+  "lat": 42.3073477,
+  "lng": -73.2504911,
+  "name": "Lee, Berkshire County, Massachusetts, 01260, United States",
+  "precision": "town"
+ },
+ "a secluded country home, 8 acres, horses welcome, a great estate!, westerly, ri, usa": null,
+ "westerly, ri, usa": {
+  "lat": 41.3775996,
+  "lng": -71.8272911,
+  "name": "Westerly, South County, Rhode Island, United States",
+  "precision": "town"
+ },
+ "12 acres 1536sq ft house framed inside. complete to make it yur own!, sandwich, nh, usa": null,
+ "sandwich, nh, usa": {
+  "lat": 43.7911421,
+  "lng": -71.4110137,
+  "name": "Sandwich, Carroll County, New Hampshire, 03259, United States",
+  "precision": "hamlet"
+ },
+ "1 bed, tiny house on 7acres. garage included. workshop extra if needed, lovely 2 floor house in county setting with garage, ma, usa": null,
+ "lovely 2 floor house in county setting with garage, ma, usa": null
 }

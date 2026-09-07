@@ -1,0 +1,448 @@
+Vision Government Solutions
+
+|
+
+MANCHESTER,CT
+
+|
+
+Search [https://gis.vgsi.com/manchesterct/Search.aspx]
+
+Street Listing [https://gis.vgsi.com/manchesterct/Streets.aspx]
+
+Sales Search [https://gis.vgsi.com/manchesterct/Sales.aspx]
+
+Feedback [https://gis.vgsi.com/manchesterct/Feedback.aspx]
+
+Back
+
+Home [https://gis.vgsi.com/manchesterct/Default.aspx?lo=T]
+
+65 SCHOOL STREET
+
+Sales
+
+Print
+
+Map
+It
+
+Location
+
+65 SCHOOL STREET
+
+Mblu
+
+95/ 5030/ 65/ /
+
+Acct#
+
+503000065
+
+Owner
+
+MAIORCA MARGARET E
+
+Total Assessment
+
+$170,400
+
+Appraisal
+
+$243,500
+
+PID
+
+14333
+
+Building Count
+
+1
+
+DISTRICT
+
+T
+
+CONCRETE
+
+Current Value
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2021
+| $198,900
+| $44,600
+| $243,500
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2021
+| $139,200
+| $31,200
+| $170,400
+
+Owner of Record
+
+| Owner
+| MAIORCA MARGARET E
+
+| Lot Type
+|
+
+| Address
+| 67 SCHOOL ST
+MANCHESTER, CT 06040-6115
+
+| Sale Price
+| $0
+
+| Certificate
+| C
+
+| Book & Page
+| 0561/0275
+
+|
+|
+
+|
+|
+
+| Sale Date
+|
+
+Ownership History
+
+Ownership History
+
+| Owner
+| Sale Price
+| Certificate
+| Book & Page
+| Sale Date
+
+| MAIORCA MARGARET E
+| $0
+| C
+| 0561/0275
+|
+
+Building Information
+
+Building 1 : Section 1
+
+|
+Year Built:
+
+| 1900
+
+|
+Living Area:
+
+| 2,754
+
+|
+Replacement Cost:
+
+| $325,992
+
+|
+Replacement Cost
+
+Less Depreciation:
+
+|
+
+$198,900
+
+Building Attributes
+
+| Field
+| Description
+
+| Style:
+| Family Duplex
+
+| Model
+| Multi-Family
+
+| Grade:
+| Average
+
+| Stories:
+| 2.5
+
+| Occupancy
+| 2
+
+| Exterior Wall 1
+| Aluminum Sidin
+
+| Exterior Wall 2
+|
+
+| Roof Structure:
+| Gable/Hip
+
+| Roof Cover
+| Asphalt/Arch Shingle
+
+| Interior Wall 1
+| Plaster
+
+| Interior Wall 2
+|
+
+| Interior Flr 1
+| Hardwood
+
+| Interior Flr 2
+| Carpet
+
+| Heat Fuel
+| Gas
+
+| Heat Type:
+| Hot Water
+
+| AC Type:
+| Central
+
+| Total Bedrooms:
+| 6 Bedrooms
+
+| Total Bthrms:
+| 2
+
+| Total Half Baths:
+| 0
+
+| Total Xtra Fixtrs:
+|
+
+| Total Rooms:
+| 12 Rooms
+
+| Bath Style:
+| Below Average
+
+| Kitchen Style:
+| Average
+
+| Extra Kitchens
+|
+
+| Whirlpool
+|
+
+| Fireplace
+|
+
+| Fin Basement
+|
+
+| Fin Bsmnt Qual
+|
+
+| Fin Bsmnt 2
+|
+
+| Fin Bsmnt2 Qual
+|
+
+| Bsmnt Garage
+|
+
+| Fndtn Level
+|
+
+| SFA Code
+|
+
+Building Photo
+
+Building Layout
+
+Building Sub-Areas (sq ft)
+
+| Code
+| Description
+| Gross
+Area
+| Living
+Area
+
+| BAS
+| First Floor
+|
+1,377
+
+|
+1,377
+
+| FUS
+| Upper Story, Finished
+|
+1,377
+
+|
+1,377
+
+| BSM
+| Basement
+|
+1,377
+
+|
+0
+
+| FOP
+| Porch, Open
+|
+48
+
+|
+0
+
+| UEP
+| Porch, Enclosed, Unfinished
+|
+112
+
+|
+0
+
+| UHS
+| Half Story, Unfinished
+|
+1,377
+
+|
+0
+
+|
+|
+|
+5,668
+
+|
+2,754
+
+Extra Features
+
+Extra Features
+
+|
+
+No Data for Extra Features
+
+Land
+
+Land Use
+
+| Use Code
+| 102
+
+| Description
+| Two Family
+
+| Zone
+| RB
+
+| Neighborhood
+| 40
+
+| Alt Land Appr
+| No
+
+| Category
+|
+
+Land Line Valuation
+
+| Size (Acres)
+| 0.24
+
+| Frontage
+| 0
+
+| Depth
+| 0
+
+| Total Assessed Land
+| $31,200
+
+| Appraised Value
+| $44,600
+
+Outbuildings
+
+Outbuildings
+
+|
+
+No Data for Outbuildings
+
+Valuation History
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2025
+| $198,900
+| $44,600
+| $243,500
+
+| 2024
+| $198,900
+| $44,600
+| $243,500
+
+| 2023
+| $198,900
+| $44,600
+| $243,500
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2025
+| $139,200
+| $31,200
+| $170,400
+
+| 2024
+| $139,200
+| $31,200
+| $170,400
+
+| 2023
+| $139,200
+| $31,200
+| $170,400
+
+All locations identified on Google, Yahoo, and Bing maps are approximate and may not be exact
+
+Go To Google Maps [http://maps.google.com/?q=65%20SCHOOL%20STREET]
+
+Go To Microsoft Bing Maps [http://www.bing.com/maps/?q=65%20SCHOOL%20STREET]
+
+(c) 2026 Vision Government Solutions, Inc. All rights reserved.

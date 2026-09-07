@@ -1,0 +1,401 @@
+Vision Government Solutions
+
+|
+
+Sterling, CT
+
+|
+
+Search [https://gis.vgsi.com/sterlingct/Search.aspx]
+
+Street Listing [https://gis.vgsi.com/sterlingct/Streets.aspx]
+
+Sales Search [https://gis.vgsi.com/sterlingct/Sales.aspx]
+
+Back
+
+Home [https://gis.vgsi.com/sterlingct/Default.aspx?lo=T]
+
+0 MAIN ST
+
+Sales
+
+Print
+
+Map
+It
+
+Location
+
+0 MAIN ST
+
+Mblu
+
+03844/ SHE/ RDER/ /
+
+Acct#
+
+10100000
+
+Owner
+
+STERLING HILLS DEVELOPMENT CORPORATION
+
+Total Market Value
+
+$168,000
+
+Appraisal
+
+$240,000
+
+PID
+
+1831
+
+Building Count
+
+1
+
+Current Value
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2022
+| $240,000
+| $0
+| $240,000
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2022
+| $168,000
+| $0
+| $168,000
+
+Owner of Record
+
+| Owner
+| STERLING HILLS DEVELOPMENT CORPORATION
+
+| Co-Owner
+| LLC
+
+| Address
+| 118 JANE ST
+NORTH PROVIDENCE, RI 02904
+
+| Sale Price
+| $625,000
+
+| Certificate
+|
+
+| Book & Page
+| 170/459
+
+|
+|
+
+|
+|
+
+| Sale Date
+| 04/12/2022
+
+| Instrument
+| 06
+
+| Qualified
+| U
+
+Ownership History
+
+Ownership History
+
+| Owner
+| Sale Price
+| Certificate
+| Book & Page
+| Instrument
+| Sale Date
+
+| STERLING HILLS DEVELOPMENT CORPORATION
+| $625,000
+|
+| 170/459
+| 06
+| 04/12/2022
+
+| STERLING HILLS LLC
+| $0
+|
+| 169/102
+| 14
+| 12/31/2021
+
+| STERLING HEIGHTS LLC
+| $445,000
+| 2019
+| 157/919
+| 25
+| 06/19/2019
+
+| STERLING HILLS LLC
+| $0
+|
+| 107/60
+| 25
+| 09/16/2005
+
+Building Information
+
+Building 1 : Section 1
+
+|
+Year Built:
+
+|
+
+|
+Living Area:
+
+| 0
+
+|
+Replacement Cost:
+
+| $0
+
+|
+Building Percent Good:
+
+|
+
+|
+Replacement Cost
+
+Less Depreciation:
+
+|
+
+$0
+
+Building Attributes
+
+| Field
+| Description
+
+| Style
+| Outbuildings
+
+| Model
+|
+
+| Grade:
+|
+
+| Stories
+|
+
+| Occupancy
+|
+
+| Exterior Wall 1
+|
+
+| Exterior Wall 2
+|
+
+| Roof Structure
+|
+
+| Roof Cover
+|
+
+| Interior Wall 1
+|
+
+| Interior Wall 2
+|
+
+| Interior Flr 1
+|
+
+| Interior Flr 2
+|
+
+| Heat Fuel
+|
+
+| Heat Type:
+|
+
+| AC Type:
+|
+
+| Total Bedrooms:
+|
+
+| Full Bthrms:
+|
+
+| Half Baths:
+|
+
+| Extra Fixtures
+|
+
+| Total Rooms:
+|
+
+| Bath Style:
+|
+
+| Kitchen Style:
+|
+
+| Extra Kitchens
+|
+
+| Fireplace(s)
+|
+
+| Extra Opening(s)
+|
+
+| Gas Fireplace(s)
+|
+
+| Blocked FPL(s)
+|
+
+| Bsmt Garage(s)
+|
+
+| Fin Bsmt
+|
+
+| FBM Quality
+|
+
+Building Photo
+
+Building Layout
+
+Building Sub-Areas (sq ft)
+
+|
+
+No Data for Building Sub-Areas
+
+Extra Features
+
+Extra Features
+
+|
+
+No Data for Extra Features
+
+Land
+
+Land Use
+
+| Use Code
+| 1300
+
+| Description
+| Vacant
+
+| Zone
+|
+
+| Neighborhood
+| 1000
+
+| Alt Land Appr
+| No
+
+| Category
+|
+
+Land Line Valuation
+
+| Size (Unit)
+| 24.0000
+
+| Frontage
+|
+
+| Depth
+|
+
+| Total Market Land
+| $0
+
+| Appraised Value
+| $0
+
+Outbuildings
+
+Outbuildings
+
+| Code
+| Description
+| Sub Code
+| Sub Description
+| Size
+| Value
+| Bldg #
+
+| CNDR
+| Condo Rights
+| TY
+| Typical
+| 1.00
+| $240,000
+| 1
+
+Valuation History
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2025
+| $240,000
+| $0
+| $240,000
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2025
+| $168,000
+| $0
+| $168,000
+
+All locations identified on Google, Yahoo, and Bing maps are approximate and may not be exact
+
+Go To Google Maps [http://maps.google.com/?q=0%20MAIN%20ST%20%20STERLING,%20CT%2006377]
+
+Go To Microsoft Bing Maps [http://www.bing.com/maps/?q=0%20MAIN%20ST%20%20STERLING,%20CT%2006377]
+
+(c) 2026 Vision Government Solutions, Inc. All rights reserved.
