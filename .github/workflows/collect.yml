@@ -14,6 +14,12 @@ on:
       min_acres:
         description: "Minimum acres"
         default: "5"
+      debug:
+        description: "Dump page text and probe candidate URLs into collector/debug (for tuning sources)"
+        default: "false"
+      ua:
+        description: "User agent: bot (identifies the collector) or browser"
+        default: "bot"
 
 permissions:
   contents: write
@@ -38,18 +44,27 @@ jobs:
           COLLECTOR_BASE: ${{ github.event.inputs.base || 'ashford-ct' }}
           COLLECTOR_RADIUS: ${{ github.event.inputs.radius || '100' }}
           COLLECTOR_MIN_ACRES: ${{ github.event.inputs.min_acres || '5' }}
+          COLLECTOR_UA: ${{ github.event.inputs.ua || 'bot' }}
+          DEBUG: ${{ github.event.inputs.debug || 'false' }}
         run: |
+          EXTRA=""
+          if [ "$DEBUG" = "true" ]; then
+            rm -rf debug && mkdir -p debug
+            EXTRA="--dump-text debug/pages"
+            if [ -f config/probe-urls.txt ]; then node probe.js --out debug/probe --ua "$COLLECTOR_UA" --file config/probe-urls.txt || true; fi
+          fi
           if [ -z "$ANTHROPIC_API_KEY" ]; then
             echo "ANTHROPIC_API_KEY secret not set; running heuristic extraction only"
-            node run.js --no-llm
+            node run.js --no-llm $EXTRA
           else
-            node run.js
+            node run.js $EXTRA
           fi
       - name: Commit results
         run: |
           git config user.name "land-collector[bot]"
           git config user.email "land-collector@users.noreply.github.com"
           git add data/found-parcels.js data/found-parcels.json collector/last-run.json collector/cache/geocode.json
+          git add -A collector/debug 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No changes"
           else

@@ -6,13 +6,15 @@ import fs from "node:fs";
 import path from "node:path";
 import crypto from "node:crypto";
 
-const UA = "AshfordLandFinder/0.1 (+https://github.com/joshlamoureux-ux/PropertySearch; land-opportunity research; contact via repo)";
+const UA_BOT = "AshfordLandFinder/0.1 (+https://github.com/joshlamoureux-ux/PropertySearch; land-opportunity research; contact via repo)";
+const UA_BROWSER = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36";
 
 export function sha1(s) { return crypto.createHash("sha1").update(String(s)).digest("hex"); }
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
 export class Fetcher {
-  constructor({ cacheDir, ttlHours = 20, perHostDelayMs = 1500, timeoutMs = 30000, log = console }) {
+  constructor({ cacheDir, ttlHours = 20, perHostDelayMs = 1500, timeoutMs = 30000, log = console, ua = "bot" }) {
+    this.ua = ua === "browser" ? UA_BROWSER : UA_BOT;
     this.cacheDir = cacheDir; fs.mkdirSync(cacheDir, { recursive: true });
     this.ttlMs = ttlHours * 3600 * 1000;
     this.perHostDelayMs = perHostDelayMs;
@@ -52,7 +54,7 @@ export class Fetcher {
     const ctrl = new AbortController();
     const t = setTimeout(() => ctrl.abort(), this.timeoutMs);
     try {
-      return await fetch(url, { headers: { "User-Agent": UA, "Accept": "text/html,application/xhtml+xml,application/json;q=0.9,*/*;q=0.8", "Accept-Language": "en-US,en;q=0.8" }, redirect: "follow", signal: ctrl.signal });
+      return await fetch(url, { headers: { "User-Agent": this.ua, "Accept": "text/html,application/xhtml+xml,application/json;q=0.9,*/*;q=0.8", "Accept-Language": "en-US,en;q=0.8" }, redirect: "follow", signal: ctrl.signal });
     } finally { clearTimeout(t); }
   }
 

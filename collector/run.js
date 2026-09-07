@@ -37,6 +37,8 @@ const opts = {
   dryRun: argv.includes("--dry-run"),
   sourcesFile: flag("sources", path.join(here, "config", "sources.json")),
   outDir: flag("out", path.join(root, "data")),
+  dumpDir: flag("dump-text", null),
+  ua: flag("ua", process.env.COLLECTOR_UA || "bot"),
   customLat: flag("lat", null), customLng: flag("lng", null)
 };
 
@@ -69,7 +71,9 @@ if (!sources.length) { console.error("No sources enabled for this base."); proce
 const startedAt = new Date();
 log.info(`Collector starting: base=${base.short} radius=${opts.radius}mi minAcres=${opts.minAcres} landOnly=${opts.landOnly} extractor=${opts.noLlm ? "heuristic" : "claude"} sources=${sources.length}`);
 
-const fetcher = new Fetcher({ cacheDir: path.join(here, "cache", "pages"), log });
+const fetcher = new Fetcher({ cacheDir: path.join(here, "cache", "pages"), log, ua: opts.ua });
+if (opts.dumpDir) fs.mkdirSync(opts.dumpDir, { recursive: true });
+let dumpN = 0;
 const geocoder = new Geocoder({ cacheFile: path.join(here, "cache", "geocode.json"), log, enabled: !opts.noGeocode });
 let extractor = null;
 if (!opts.noLlm) {
@@ -98,6 +102,10 @@ for (const source of sources) {
     if (page.status >= 400) { srcSummary.errors.push(`${url}: HTTP ${page.status}`); continue; }
     srcSummary.pagesFetched++;
     const text = htmlToText(page.html);
+    if (opts.dumpDir) {
+      const links = extractLinks(page.html, page.finalUrl).map(l => `${l.text} -> ${l.href}`).join("\n");
+      fs.writeFileSync(path.join(opts.dumpDir, `${String(++dumpN).padStart(3, "0")}-${source.id}.txt`), `URL: ${page.finalUrl}\nSTATUS: ${page.status}\nTITLE: ${pageTitle(page.html)}\n\n===== TEXT =====\n${text.slice(0, 40000)}\n\n===== LINKS =====\n${links.slice(0, 30000)}\n`);
+    }
     if (text.length < 200) { srcSummary.notes.push(`${url}: little text (JS-rendered or blocked?)`); }
     else {
       let result;
@@ -140,7 +148,7 @@ for (const source of sources) {
 // ---------- filter, geocode, radius, value ----------
 let parcels = dedupe(allParcels);
 summary.rawParcels = allParcels.length; summary.uniqueParcels = parcels.length;
-const { kept, dropped } = applyCriteria(parcels, { minAcres: opts.minAcres, landOnly: opts.landOnly });
+const { kept, dropped } = applyCriteria(parcels, { minAcres: opts.minAcres, landOnly: opts.landOnly, keepUnknownAcresFor: ["tax-sale", "tax-lien", "foreclosure", "estate", "government", "auction"] });
 summary.dropped = dropped;
 log.info(`${parcels.length} unique parcels; ${kept.length} meet acreage/land/price rules (dropped: ${JSON.stringify(dropped)})`);
 

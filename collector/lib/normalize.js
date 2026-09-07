@@ -42,10 +42,16 @@ export function dedupe(parcels) {
 }
 
 /** Keep parcels that meet the size and land-only rules. Unknown structure status is kept. */
-export function applyCriteria(parcels, { minAcres, landOnly }) {
-  const dropped = { smallOrUnknownAcres: 0, structure: 0, noPrice: 0 };
+export function applyCriteria(parcels, { minAcres, landOnly, keepUnknownAcresFor = [] }) {
+  const dropped = { smallAcres: 0, unknownAcres: 0, structure: 0, noPrice: 0 };
   const kept = parcels.filter(p => {
-    if (p.acres == null || p.acres < minAcres) { dropped.smallOrUnknownAcres++; return false; }
+    if (p.acres == null) {
+      // Tax-sale and court notices rarely print acreage. Keep those so the
+      // user (or a later enrichment step) can fill it in; drop listings, which
+      // always state lot size when it is worth anything.
+      if (!keepUnknownAcresFor.includes(p.dealType)) { dropped.unknownAcres++; return false; }
+      p.acresUnknown = true;
+    } else if (p.acres < minAcres) { dropped.smallAcres++; return false; }
     if (landOnly && p.hasStructure === true) { dropped.structure++; return false; }
     if (p.askingPrice == null) { dropped.noPrice++; return false; }
     return true;
