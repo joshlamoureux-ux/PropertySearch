@@ -80,7 +80,7 @@ export function applyRadius(parcels, base, radiusMiles) {
  * is written to marketValue with valueSource explaining it, so the app shows it
  * as an estimate rather than a fact.
  */
-export function estimateValues(parcels, { minSamples = 4 } = {}) {
+export function estimateValues(parcels, { minSamples = 6 } = {}) {
   const comps = parcels.filter(p => ["mls", "fsbo"].includes(p.dealType) && p.priceKind === "list-price" && p.askingPrice && p.acres >= 1);
   const groups = { county: new Map(), state: new Map() };
   for (const c of comps) {
@@ -95,7 +95,7 @@ export function estimateValues(parcels, { minSamples = 4 } = {}) {
     let sample = countyKey ? groups.county.get(countyKey) : null, area = p.county ? `${p.county} County` : null;
     if (!sample || sample.length < minSamples) { sample = groups.state.get(p.state); area = p.state; }
     if (!sample || sample.length < minSamples) continue;
-    const med = median(sample);
+    const med = median(trim(sample));
     p.marketValue = Math.round(med * p.acres);
     p.valueSource = `estimate: median $${Math.round(med).toLocaleString()}/acre across ${sample.length} land listings in ${area}`;
     estimated++;
@@ -105,3 +105,6 @@ export function estimateValues(parcels, { minSamples = 4 } = {}) {
 
 function push(map, k, v) { if (!map.has(k)) map.set(k, []); map.get(k).push(v); }
 function median(a) { const s = [...a].sort((x, y) => x - y); const m = Math.floor(s.length / 2); return s.length % 2 ? s[m] : (s[m - 1] + s[m]) / 2; }
+
+// Drop the top and bottom 15% of a sample before taking the median.
+function trim(a) { const s = [...a].sort((x, y) => x - y); const k = Math.floor(s.length * 0.15); return s.length > 6 ? s.slice(k, s.length - k) : s; }

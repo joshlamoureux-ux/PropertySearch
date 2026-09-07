@@ -55,17 +55,21 @@ export async function collect({ source, fetcher, log, maxNotices = 80 }) {
     read++;
     if (!pdf || !pdf.isPdf || !pdf.text) { notes.push(`${p.url}: notice not readable`); continue; }
     const t = pdf.text.replace(/\s+/g, " ");
+    const due = /TOTAL AMOUNT DUE:\s*\$\s?([\d,]+(?:\.\d{2})?)/i.exec(t) || /(?:total|amount)\s+due[^$]{0,40}?\$\s?([\d,]{3,}(?:\.\d{2})?)/i.exec(t);
+    if (due) p.askingPrice = Math.round(Number(due[1].replace(/,/g, "")));
+    const addr = /ADDRESS OF REAL ESTATE:\s*(.+?)\s+PROPERTY BOUNDARIES:/i.exec(t);
+    if (addr && !p.acres) { const ac = /[±~]?\s*([\d.]+)\s*\+?\s*acres?/i.exec(addr[1]); if (ac) p.acres = Number(ac[1]); }
+    const vol = /Volume\s+(\d+)\s+Page\s+(\d+)/i.exec(t);
+    if (vol) p.notes = [p.notes, `Land records Vol. ${vol[1]} Pg. ${vol[2]}`].filter(Boolean).join(". ");
+    const owner = /DELINQUENT TAXPAYER:\s*(.+?)\s+ADDRESS OF REAL ESTATE:/i.exec(t);
+    if (owner && /estate of/i.test(owner[1])) { p.dealType = "tax-sale"; p.notes = [p.notes, "Owner is an estate"].filter(Boolean).join(". "); }
     const assessed = /assess(?:ed|ment)[^$]{0,80}?\$\s?([\d,]{4,})/i.exec(t);
     if (assessed) p.assessedValue = Number(assessed[1].replace(/,/g, ""));
-    const due = /(?:total|amount|sum)\s+(?:amount\s+)?due[^$]{0,60}?\$\s?([\d,]{3,}(?:\.\d{2})?)/i.exec(t) || /\$\s?([\d,]{3,}(?:\.\d{2})?)[^.]{0,60}?(?:is|are)\s+due/i.exec(t);
-    if (due) p.askingPrice = Math.round(Number(due[1].replace(/,/g, "")));
-    if (p.acres == null) { const ac = /([\d.]+)\s*(?:\+\/-\s*)?acres?/i.exec(t); if (ac) p.acres = Number(ac[1]); }
-    const mapLot = /(?:map|assessor)[^A-Za-z0-9]{0,10}([\dA-Z]+)[^A-Za-z0-9]{1,10}(?:lot|block)[^A-Za-z0-9]{0,10}([\dA-Z-]+)/i.exec(t);
-    if (mapLot) p.parcelId = `${mapLot[1]}-${mapLot[2]}`;
     if (p.hasStructure == null) {
-      if (/\b(dwelling|single[- ]family|two[- ]family|multi[- ]family|residence|house|condominium|unit\s+\d|apartment|garage|commercial building)\b/i.test(t)) p.hasStructure = true;
+      if (/^(mobile home|unit\s|condominium)/i.test(p.address) || /\b(dwelling|single[- ]family|two[- ]family|multi[- ]family|residence|condominium unit|apartment)\b/i.test(t)) p.hasStructure = true;
       else if (/\b(vacant|unimproved|undeveloped|land only|rear lot|lot of land|parcel of land)\b/i.test(t)) p.hasStructure = false;
     }
+    if (/^mobile home/i.test(p.address)) p.notes = [p.notes, "Mobile home only; land may be leased"].filter(Boolean).join(". ");
     if (/redeem|redemption/i.test(t)) p.notes = [p.notes, "Six-month redemption period after sale"].filter(Boolean).join(". ");
   }
   return { parcels, pagesFetched, notes, errors };

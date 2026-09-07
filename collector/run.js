@@ -17,6 +17,7 @@ import { fileURLToPath } from "node:url";
 import { Fetcher } from "./lib/fetch.js";
 import { htmlToText, extractLinks, pageTitle, pageText } from "./lib/html.js";
 import { ADAPTERS } from "./lib/adapters/index.js";
+import { VgsiLookup } from "./lib/enrich/vgsi.js";
 import { ClaudeExtractor, heuristicExtract } from "./lib/extract.js";
 import { Geocoder } from "./lib/geo.js";
 import { normalizeParcel, dedupe, applyCriteria, applyRadius, estimateValues } from "./lib/normalize.js";
@@ -92,7 +93,11 @@ for (const source of sources) {
     if (!adapter) { srcSummary.errors.push(`unknown adapter ${source.adapter}`); summary.sources.push(srcSummary); continue; }
     log.info(`Source ${source.id}: adapter ${source.adapter}`);
     try {
-      const r = await adapter.collect({ source, fetcher, log });
+      const extract = async (text, { url, dealType, hint }) => {
+        if (extractor) { try { return await extractor.extract(text, { url, sourceHint: hint || source.name }); } catch (e) { if (/authentication/i.test(e.message)) { log.warn(e.message); extractor = null; summary.extractor = "heuristic"; } } }
+        return heuristicExtract(text, { url, dealType });
+      };
+      const r = await adapter.collect({ source, fetcher, log, extract });
       srcSummary.pagesFetched = r.pagesFetched; srcSummary.rawParcels = r.parcels.length;
       srcSummary.notes.push(...r.notes); srcSummary.errors.push(...r.errors);
       for (const raw of r.parcels) {
@@ -170,6 +175,22 @@ summary.rawParcels = allParcels.length; summary.uniqueParcels = parcels.length;
 const { kept, dropped } = applyCriteria(parcels, { minAcres: opts.minAcres, landOnly: opts.landOnly, keepUnknownAcresFor: ["tax-sale", "tax-lien", "foreclosure", "estate", "government", "auction"] });
 summary.dropped = dropped;
 log.info(`${parcels.length} unique parcels; ${kept.length} meet acreage/land/price rules (dropped: ${JSON.stringify(dropped)})`);
+
+// Assessor lookup (free): fills acreage, assessed value and the assessor's own
+// appraisal for parcels in towns whose database is on Vision.
+const vgsi = new VgsiLookup({ fetcher, log, maxCards: Number(process.env.COLLECTOR_MAX_CARDS || 80) });
+if (!argv.includes("--no-assessor")) {
+  const targets = kept.filter(p => p.assessedValue == null && vgsi.slugFor(p.town, p.state));
+  log.info(`assessor lookup: ${targets.length} parcels in Vision towns`);
+  for (const p of targets) { try { await vgsi.enrich(p); } catch (e) { log.warn(`assessor lookup failed for ${p.address}: ${e.message}`); } }
+  log.info(`assessor lookup: ${JSON.stringify(vgsi.stats)}`);
+}
+summary.assessor = vgsi.stats;
+// Re-apply the acreage rule now that some unknowns are filled.
+for (const p of kept) { if (p.acres != null) { delete p.acresUnknown; } }
+const kept2 = kept.filter(p => !(p.acres != null && p.acres < opts.minAcres) && !(opts.landOnly && p.hasStructure === true));
+summary.droppedAfterAssessor = kept.length - kept2.length;
+kept.length = 0; kept.push(...kept2);
 
 for (const p of kept) {
   const hit = await geocoder.locate(p, base.state === "UK" ? "United Kingdom" : "USA");

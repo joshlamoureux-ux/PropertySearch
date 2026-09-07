@@ -163,16 +163,19 @@
         "https://www.bid4assets.com/taxsales"
       ],
       "follow": {
-        "include": [
-          "bid4assets\\.com/(taxsales|storefront|auction|.*(connecticut|rhode|massachusetts|new-york|vermont|new-hampshire))"
-        ],
-        "exclude": [
-          "signup|login|help"
-        ],
-        "depth": 2,
-        "maxPages": 30
+        "maxPages": 10
       },
-      "enabled": true
+      "enabled": true,
+      "adapter": "bid4assets",
+      "states": [
+        "CT",
+        "RI",
+        "MA",
+        "NY",
+        "VT",
+        "NH"
+      ],
+      "note": "Reads the tax-sale calendar and opens only auctions in the listed states."
     },
     {
       "id": "auctions-international-ny",
@@ -254,16 +257,14 @@
         "https://www.bid4assets.com/taxsales"
       ],
       "follow": {
-        "include": [
-          "bid4assets\\.com/(taxsales|storefront|auction|.*washington)"
-        ],
-        "exclude": [
-          "signup|login|help"
-        ],
-        "depth": 2,
-        "maxPages": 30
+        "maxPages": 10
       },
-      "enabled": true
+      "enabled": true,
+      "adapter": "bid4assets",
+      "states": [
+        "WA",
+        "OR"
+      ]
     },
     {
       "id": "landwatch-al",

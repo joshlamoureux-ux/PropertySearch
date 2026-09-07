@@ -1,48 +1,71 @@
-# Debug-run probes. Results land in collector/debug/probe.
-# Bid4Assets tax sale calendar
-https://www.bid4assets.com/taxsales
-# CT Judicial pending foreclosure sale postings
+# Debug-run probes.
+# CT Judicial: find the foreclosure sales list from the judicial home page
+https://www.jud.ct.gov/jud2.htm
 https://www.jud.ct.gov/foreclosure_sales/Public/PendPostbyTownList.aspx
-https://www.jud.ct.gov/foreclosure_sales/Public/PendPostbyTownDetails.aspx?town=Woodstock
-https://www.jud.ct.gov/foreclosure_sales/
-# A tax-sale notice PDF, to see what the notices contain
-https://cttaxsales.com/wp-content/uploads/2026/06/2.25-acres-on-West-Thompson-Road-Thompson-CT.pdf
-# Vision assessor: street index and a real street/parcel for Pomfret
-https://gis.vgsi.com/pomfretct/Streets.aspx?Letter=M
-https://gis.vgsi.com/pomfretct/Streets.aspx?Name=MASHAMOQUET%20RD
-https://gis.vgsi.com/pomfretct/Parcel.aspx?pid=1
-https://gis.vgsi.com/pomfretct/Parcel.aspx?pid=500
-# Which nearby towns are on Vision
+# Ashford property record cards vendor
+https://www.propertyrecordcards.com/SearchMaster.aspx?towncode=003
+# Vision towns: CT
+https://gis.vgsi.com/manchesterct/
+https://gis.vgsi.com/eastwindsorct/
+https://gis.vgsi.com/cromwellct/
+https://gis.vgsi.com/hartfordct/
+https://gis.vgsi.com/granbyct/
+https://gis.vgsi.com/glastonburyct/
+https://gis.vgsi.com/enfieldct/
+https://gis.vgsi.com/somersct/
+https://gis.vgsi.com/southwindsorct/
+https://gis.vgsi.com/colchesterct/
+https://gis.vgsi.com/norwichct/
+https://gis.vgsi.com/griswoldct/
+https://gis.vgsi.com/voluntownct/
+https://gis.vgsi.com/lisbonct/
+https://gis.vgsi.com/spraguect/
+https://gis.vgsi.com/franklinct/
+https://gis.vgsi.com/marlboroughct/
+https://gis.vgsi.com/easthamptonct/
+https://gis.vgsi.com/portlandct/
+https://gis.vgsi.com/eastlymect/
+https://gis.vgsi.com/montvillect/
+https://gis.vgsi.com/ledyardct/
+https://gis.vgsi.com/prestonct/
+https://gis.vgsi.com/northstoningtonct/
+https://gis.vgsi.com/stoningtonct/
+https://gis.vgsi.com/grotonct/
+https://gis.vgsi.com/waterfordct/
+https://gis.vgsi.com/lymect/
+https://gis.vgsi.com/oldlymect/
+https://gis.vgsi.com/salemct/
+https://gis.vgsi.com/bozrahct/
 https://gis.vgsi.com/eastfordct/
-https://gis.vgsi.com/woodstockct/
-https://gis.vgsi.com/thompsonct/
-https://gis.vgsi.com/unionct/
-https://gis.vgsi.com/willingtonct/
-https://gis.vgsi.com/mansfieldct/
-https://gis.vgsi.com/chaplinct/
-https://gis.vgsi.com/hamptonct/
-https://gis.vgsi.com/staffordct/
-https://gis.vgsi.com/tollandct/
-https://gis.vgsi.com/coventryct/
-https://gis.vgsi.com/brooklynct/
 https://gis.vgsi.com/killinglyct/
-https://gis.vgsi.com/plainfieldct/
-https://gis.vgsi.com/canterburyct/
-https://gis.vgsi.com/scotlandct/
-https://gis.vgsi.com/windhamct/
-https://gis.vgsi.com/lebanonct/
-https://gis.vgsi.com/columbiact/
-https://gis.vgsi.com/hebronct/
-https://gis.vgsi.com/andoverct/
-https://gis.vgsi.com/boltonct/
-https://gis.vgsi.com/putnamct/
-https://gis.vgsi.com/sterlingct/
-https://gis.vgsi.com/ellingtonct/
-https://gis.vgsi.com/vernonct/
-# Craigslist: raw page to look for embedded result JSON, and robots
-https://www.craigslist.org/robots.txt
-https://newlondon.craigslist.org/search/rea?query=acres
-# CT open data catalog search for parcels
-https://api.us.socrata.com/api/catalog/v1?domains=data.ct.gov&q=parcel&limit=10
-# Ashford assessor (not on Vision): find its vendor
-https://www.ashfordtownhall.org/
+# Vision towns: MA
+https://gis.vgsi.com/sturbridgema/
+https://gis.vgsi.com/charltonma/
+https://gis.vgsi.com/dudleyma/
+https://gis.vgsi.com/southbridgema/
+https://gis.vgsi.com/monsonma/
+https://gis.vgsi.com/walesma/
+https://gis.vgsi.com/hollandma/
+https://gis.vgsi.com/palmerma/
+https://gis.vgsi.com/warema/
+https://gis.vgsi.com/warrenma/
+https://gis.vgsi.com/brookfieldma/
+https://gis.vgsi.com/spencerma/
+https://gis.vgsi.com/oxfordma/
+https://gis.vgsi.com/websterma/
+https://gis.vgsi.com/douglasma/
+https://gis.vgsi.com/uxbridgema/
+https://gis.vgsi.com/petershamma/
+https://gis.vgsi.com/hardwickma/
+https://gis.vgsi.com/barrema/
+https://gis.vgsi.com/belchertownma/
+# Vision towns: RI
+https://gis.vgsi.com/fosterri/
+https://gis.vgsi.com/glocesterri/
+https://gis.vgsi.com/burrillvilleri/
+https://gis.vgsi.com/scituateri/
+https://gis.vgsi.com/coventryri/
+https://gis.vgsi.com/westgreenwichri/
+https://gis.vgsi.com/exeterri/
+https://gis.vgsi.com/hopkintonri/
+https://gis.vgsi.com/richmondri/
