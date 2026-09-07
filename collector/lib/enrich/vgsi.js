@@ -16,19 +16,70 @@ import { pageText } from "../html.js";
 
 const BASE = process.env.VGSI_BASE || "https://gis.vgsi.com";
 
-// Town -> Vision slug. Probed 2026-09-07; towns not listed use another vendor
-// (Ashford, Eastford, Killingly, Putnam, Mansfield, Chaplin, Scotland, Windham,
-// Lebanon, Columbia, Hebron, Ellington, Vernon are NOT on Vision).
+// Town -> Vision slug. Probed 2026-09-07. Not on Vision (other vendors): CT Ashford,
+// Eastford, Killingly, Putnam, Mansfield, Chaplin, Scotland, Windham, Lebanon, Columbia,
+// Hebron, Ellington, Vernon, Cromwell, Hartford, Colchester, Voluntown, Franklin,
+// Marlborough, East Hampton, Portland, Montville, Ledyard, North Stonington, Stonington,
+// Groton, Lyme, Bozrah; MA Brimfield, Charlton, Monson, Warren, Brookfield, Spencer,
+// Oxford, Webster, Douglas, Uxbridge, Petersham, Hardwick, Barre, Belchertown;
+// RI Glocester, Burrillville, Scituate, Coventry, West Greenwich.
 export const VGSI_TOWNS = {
   CT: {
-    "pomfret": "pomfretct", "woodstock": "woodstockct", "thompson": "thompsonct", "union": "unionct",
-    "willington": "willingtonct", "hampton": "hamptonct", "stafford": "staffordct", "tolland": "tollandct",
-    "coventry": "coventryct", "brooklyn": "brooklynct", "plainfield": "plainfieldct", "canterbury": "canterburyct",
-    "andover": "andoverct", "bolton": "boltonct", "sterling": "sterlingct"
+    "pomfret": "pomfretct",
+    "woodstock": "woodstockct",
+    "thompson": "thompsonct",
+    "union": "unionct",
+    "willington": "willingtonct",
+    "hampton": "hamptonct",
+    "stafford": "staffordct",
+    "tolland": "tollandct",
+    "coventry": "coventryct",
+    "brooklyn": "brooklynct",
+    "plainfield": "plainfieldct",
+    "canterbury": "canterburyct",
+    "andover": "andoverct",
+    "bolton": "boltonct",
+    "sterling": "sterlingct",
+    "manchester": "manchesterct",
+    "east windsor": "eastwindsorct",
+    "granby": "granbyct",
+    "glastonbury": "glastonburyct",
+    "enfield": "enfieldct",
+    "somers": "somersct",
+    "south windsor": "southwindsorct",
+    "norwich": "norwichct",
+    "griswold": "griswoldct",
+    "lisbon": "lisbonct",
+    "sprague": "spraguect",
+    "east lyme": "eastlymect",
+    "preston": "prestonct",
+    "waterford": "waterfordct",
+    "old lyme": "oldlymect",
+    "salem": "salemct"
   },
-  MA: {},
-  RI: {}
+  MA: {
+    "sturbridge": "sturbridgema",
+    "dudley": "dudleyma",
+    "southbridge": "southbridgema",
+    "wales": "walesma",
+    "holland": "hollandma",
+    "palmer": "palmerma",
+    "ware": "warema"
+  },
+  RI: {
+    "foster": "fosterri",
+    "exeter": "exeterri",
+    "hopkinton": "hopkintonri",
+    "richmond": "richmondri"
+  }
 };
+// Villages and post-office names that appear in notices, mapped to their town.
+export const TOWN_ALIASES = {
+  CT: { "broad brook": "east windsor", "warehouse point": "east windsor", "north grosvenordale": "thompson", "grosvenordale": "thompson", "quinebaug": "thompson", "moosup": "plainfield", "wauregan": "plainfield", "central village": "plainfield", "oneco": "sterling", "stafford springs": "stafford", "staffordville": "stafford", "baltic": "sprague", "versailles": "sprague", "hanover": "sprague", "jewett city": "griswold", "taftville": "norwich", "norwichtown": "norwich", "yantic": "norwich", "niantic": "east lyme", "flanders": "east lyme", "quaker hill": "waterford", "south woodstock": "woodstock", "east woodstock": "woodstock", "abington": "pomfret", "pomfret center": "pomfret", "west willington": "willington", "south willington": "willington", "mansfield center": "mansfield", "storrs": "mansfield", "hazardville": "enfield", "thompsonville": "enfield", "somersville": "somers", "east glastonbury": "glastonbury", "south glastonbury": "glastonbury", "north granby": "granby", "west granby": "granby", "dayville": "killingly", "danielson": "killingly", "rogers": "killingly", "ballouville": "killingly", "east killingly": "killingly", "willimantic": "windham", "north windham": "windham", "south windham": "windham", "uncasville": "montville", "oakdale": "montville", "gales ferry": "ledyard", "mystic": "stonington", "pawcatuck": "stonington", "old mystic": "stonington" },
+  MA: { "fiskdale": "sturbridge", "thorndike": "palmer", "bondsville": "palmer", "three rivers": "palmer", "gilbertville": "hardwick", "wheelwright": "hardwick", "west warren": "warren", "east brookfield": "brookfield" },
+  RI: { "hope valley": "hopkinton", "ashaway": "hopkinton", "wyoming": "richmond", "carolina": "richmond", "chepachet": "glocester", "harrisville": "burrillville", "pascoag": "burrillville" }
+};
+
 
 const SUFFIX = { ROAD: "RD", STREET: "ST", AVENUE: "AVE", DRIVE: "DR", LANE: "LN", COURT: "CT", HIGHWAY: "HWY", TURNPIKE: "TPKE", TERRACE: "TER", PLACE: "PL", CIRCLE: "CIR", BOULEVARD: "BLVD", PARKWAY: "PKWY", TRAIL: "TRL", EXTENSION: "EXT", ROUTE: "RTE", PIKE: "PIKE", WAY: "WAY", HILL: "HILL", PATH: "PATH", SQUARE: "SQ", NORTH: "N", SOUTH: "S", EAST: "E", WEST: "W" };
 const SUFFIX_SET = new Set([...Object.keys(SUFFIX), ...Object.values(SUFFIX)]);
@@ -60,7 +111,11 @@ export class VgsiLookup {
     this.stats = { attempted: 0, matched: 0, cards: 0, noTown: 0, noStreet: 0, noNumber: 0 };
   }
 
-  slugFor(town, state) { return (VGSI_TOWNS[state] || {})[String(town || "").toLowerCase().replace(/^(town|city) of /, "").trim()] || null; }
+  slugFor(town, state) {
+    let t = String(town || "").toLowerCase().replace(/^(town|city) of /, "").replace(/\s+/g, " ").trim();
+    t = (TOWN_ALIASES[state] || {})[t] || t;
+    return (VGSI_TOWNS[state] || {})[t] || null;
+  }
 
   async streetsForLetter(slug, letter) {
     const key = slug + "|" + letter;

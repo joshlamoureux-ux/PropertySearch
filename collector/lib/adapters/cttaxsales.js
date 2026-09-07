@@ -18,7 +18,7 @@ const PAGES = ["https://cttaxsales.com/upcoming-tax-sales/", "https://cttaxsales
 const LINE = /^(.*?),\s*([A-Za-z .'\-]+?)\s+CT\|?\s*\[(https?:\/\/[^\]\s]+)\]\s*$/;
 const ACRES_TITLE = /^([\d.]+)\s*(?:\+\/-\s*)?acres?\s+(?:on|off|at)?\s*(.+)$/i;
 
-export async function collect({ source, fetcher, log, maxNotices = 80 }) {
+export async function collect({ source, fetcher, log, maxNotices = Number(process.env.COLLECTOR_MAX_NOTICES || 250) }) {
   const parcels = [], notes = [], errors = [];
   let pagesFetched = 0;
   for (const url of source.seeds && source.seeds.length ? source.seeds : PAGES) {

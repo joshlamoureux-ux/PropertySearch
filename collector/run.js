@@ -178,7 +178,7 @@ log.info(`${parcels.length} unique parcels; ${kept.length} meet acreage/land/pri
 
 // Assessor lookup (free): fills acreage, assessed value and the assessor's own
 // appraisal for parcels in towns whose database is on Vision.
-const vgsi = new VgsiLookup({ fetcher, log, maxCards: Number(process.env.COLLECTOR_MAX_CARDS || 80) });
+const vgsi = new VgsiLookup({ fetcher, log, maxCards: Number(process.env.COLLECTOR_MAX_CARDS || 150) });
 if (!argv.includes("--no-assessor")) {
   const targets = kept.filter(p => p.assessedValue == null && vgsi.slugFor(p.town, p.state));
   log.info(`assessor lookup: ${targets.length} parcels in Vision towns`);
@@ -189,7 +189,8 @@ summary.assessor = vgsi.stats;
 // Re-apply the acreage rule now that some unknowns are filled.
 for (const p of kept) { if (p.acres != null) { delete p.acresUnknown; } }
 const kept2 = kept.filter(p => !(p.acres != null && p.acres < opts.minAcres) && !(opts.landOnly && p.hasStructure === true));
-summary.droppedAfterAssessor = kept.length - kept2.length;
+summary.droppedAfterAssessor = kept.filter(p => !kept2.includes(p)).map(p => ({ address: p.address, town: p.town, acres: p.acres, hasStructure: p.hasStructure, assessedValue: p.assessedValue, dealType: p.dealType }));
+summary.assessorMatchedKept = kept2.filter(p => p.assessorUrl).length;
 kept.length = 0; kept.push(...kept2);
 
 for (const p of kept) {

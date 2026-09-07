@@ -38,8 +38,8 @@
         "depth": 1,
         "maxPages": 50
       },
-      "enabled": true,
-      "note": "Pending foreclosure sale postings by town. Town list limited to the eastern half of the state; extend as needed."
+      "enabled": false,
+      "note": "Disabled: the public foreclosure-sales list moved and its current URL was not found (jud.ct.gov/foreclosure_sales returns 404). Re-enable with the right seed when known."
     },
     {
       "id": "ct-town-notices",
