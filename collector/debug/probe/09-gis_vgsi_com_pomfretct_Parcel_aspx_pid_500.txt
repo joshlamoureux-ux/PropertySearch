@@ -1,0 +1,805 @@
+URL: https://gis.vgsi.com/pomfretct/Parcel.aspx?pid=500
+FINAL: https://gis.vgsi.com/pomfretct/Parcel.aspx?pid=500
+STATUS: 200
+TITLE: Vision Government Solutions
+BYTES: 65872
+
+===== TEXT =====
+Vision Government Solutions
+
+|
+
+POMFRET,CT
+
+|
+
+Search [https://gis.vgsi.com/pomfretct/Search.aspx]
+
+Street Listing [https://gis.vgsi.com/pomfretct/Streets.aspx]
+
+Sales Search [https://gis.vgsi.com/pomfretct/Sales.aspx]
+
+Feedback [https://gis.vgsi.com/pomfretct/Feedback.aspx]
+
+Back
+
+Home [https://gis.vgsi.com/pomfretct/Default.aspx?lo=T]
+
+477 TAFT POND RD
+
+Sales
+
+Print
+
+Field
+Card
+
+Map
+It
+
+Location
+
+477 TAFT POND RD
+
+Mblu
+
+11/ B/ 009.01/ /
+
+Acct#
+
+S0160900
+
+Owner
+
+DENARO TONY J
+
+Assessment
+
+$57,900
+
+Appraisal
+
+$82,700
+
+PID
+
+500
+
+Building Count
+
+1
+
+Current Value
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2024
+| $0
+| $82,700
+| $82,700
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2024
+| $0
+| $57,900
+| $57,900
+
+Owner of Record
+
+| Owner
+| DENARO TONY J
+
+| Co-Owner
+|
+
+| Sale Price
+| $275,000
+
+| Certificate
+|
+
+| Book & Page
+| 0377/1087
+
+|
+|
+
+|
+|
+
+| Sale Date
+| 01/07/2020
+
+| Instrument
+| 25
+
+Ownership History
+
+Ownership History
+
+| Owner
+| Sale Price
+| Certificate
+| Book & Page
+| Instrument
+| Sale Date
+
+| DENARO TONY J
+| $275,000
+|
+| 0377/1087
+| 25
+| 01/07/2020
+
+| RICCIARDELLI JONATHAN J &
+| $0
+|
+| 0372/0222
+| 25
+| 06/27/2018
+
+| SZELA JAN A
+| $0
+|
+| 0059/0053
+|
+| 05/23/1986
+
+Building Information
+
+Building 1 : Section 1
+
+|
+Year Built:
+
+|
+
+|
+Living Area:
+
+| 0
+
+|
+Replacement Cost
+
+Less Depreciation:
+
+|
+
+$0
+
+Building Attributes
+
+| Field
+| Description
+
+| Style:
+| Vacant Land
+
+| Model
+|
+
+| Grade:
+|
+
+| Stories:
+|
+
+| Occupancy
+|
+
+| Exterior Wall 1
+|
+
+| Exterior Wall 2
+|
+
+| Roof Structure:
+|
+
+| Roof Cover
+|
+
+| Interior Wall 1
+|
+
+| Interior Wall 2
+|
+
+| Interior Flr 1
+|
+
+| Interior Flr 2
+|
+
+| Heat Fuel
+|
+
+| Heat Type:
+|
+
+| AC Type:
+|
+
+| Total Bedrooms:
+|
+
+| Full Baths:
+|
+
+| Half Baths:
+|
+
+| Xtra Fixtrs:
+|
+
+| Total Rooms:
+|
+
+| Bath Style:
+|
+
+| Kitchen Style:
+|
+
+| Extra Kitchens
+|
+
+| Whirlpool
+|
+
+| Fireplace
+|
+
+| Xtra Opening
+|
+
+| Blocked FPL
+|
+
+| Gas Fireplace
+|
+
+| Num Park
+|
+
+| Fireplaces
+|
+
+| Fndtn Cndtn
+|
+
+| Basement
+|
+
+Building Photo
+
+Building Layout
+
+Building Sub-Areas (sq ft)
+
+|
+
+No Data for Building Sub-Areas
+
+Extra Features
+
+Extra Features
+
+|
+
+No Data for Extra Features
+
+Land
+
+Land Use
+
+| Use Code
+| 1300
+
+| Description
+| Vacant Lot
+
+| Zone
+| RR
+
+| Neighborhood
+| 0060
+
+| Alt Land Appr
+| No
+
+| Category
+|
+
+Land Line Valuation
+
+| Size (Acres)
+| 1.91
+
+| Frontage
+| 0
+
+| Depth
+| 0
+
+| Assessed Value
+| $57,900
+
+| Appraised Value
+| $82,700
+
+Outbuildings
+
+Outbuildings
+
+|
+
+No Data for Outbuildings
+
+Valuation History
+
+Appraisal
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2025
+| $0
+| $82,700
+| $82,700
+
+| 2024
+| $0
+| $82,700
+| $82,700
+
+| 2023
+| $0
+| $80,900
+| $80,900
+
+Assessment
+
+| Valuation Year
+| Improvements
+| Land
+| Total
+
+| 2025
+| $0
+| $57,900
+| $57,900
+
+| 2024
+| $0
+| $57,900
+| $57,900
+
+| 2023
+| $0
+| $56,600
+| $56,600
+
+All locations identified on Google, Yahoo, and Bing maps are approximate and may not be exact
+
+Go To Google Maps [http://maps.google.com/?q=477%20TAFT%20POND%20RD]
+
+Go To Yahoo Maps [http://maps.yahoo.com/#q=477%20TAFT%20POND%20RD%20%20]
+
+Go To Microsoft Bing Maps [http://www.bing.com/maps/?q=477%20TAFT%20POND%20RD]
+
+(c) 2026 Vision Government Solutions, Inc. All rights reserved.
+
+===== LINKS =====
+Search -> https://gis.vgsi.com/pomfretct/Search.aspx
+Street Listing -> https://gis.vgsi.com/pomfretct/Streets.aspx
+Sales Search -> https://gis.vgsi.com/pomfretct/Sales.aspx
+Feedback -> https://gis.vgsi.com/pomfretct/Feedback.aspx
+Home -> https://gis.vgsi.com/pomfretct/Default.aspx?lo=T
+ -> https://gis.vgsi.com/photos/PomfretCTPhotos//default.jpg
+ -> https://gis.vgsi.com/photos/PomfretCTPhotos//Sketches/500_500.jpg
+Go To Google Maps -> http://maps.google.com/?q=477%20TAFT%20POND%20RD
+Go To Yahoo Maps -> http://maps.yahoo.com/
+Go To Microsoft Bing Maps -> http://www.bing.com/maps/?q=477%20TAFT%20POND%20RD
+
+===== RAW HEAD =====
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>
+	Vision Government Solutions
+</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/> 
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="noindex" />
+    <link href="/PomfretCT/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link type="text/css" rel="stylesheet" media="all" href="/PomfretCT/Styles/base.css" />
+    <link type="text/css" rel="stylesheet" media="all" href="/PomfretCT/Styles/parcel.css" />
+   
+
+    
+   <!--
+   [if IE 7]><link type="text/css" rel="stylesheet" media="all" href="/PomfretCT/Styles/ie7.css" /><![endif]
+   [if IE 8]><link type="text/css" rel="stylesheet" media="all" href="/PomfretCT/Styles/ie8.css"/><![endif]
+   -->
+    <link href="/PomfretCT/Styles/SoftGreyGridView.css" rel="stylesheet" type="text/css" />
+    <link href="/PomfretCT/Styles/jquery-ui-1.9.2.custom.css" rel="stylesheet" type="text/css" />
+   
+   
+    <link rel="shortcut icon" href="/PomfretCT/Images/VGS_Icon32x32.ico" type="image/x-icon" />
+   
+    <style type="text/css">
+	   .myoutercontainer { position:relative }
+	   .myinnercontainer { position:absolute; top:50%; height:75px; margin-top:0px }
+    </style>
+    <style type="text/css" media="print">
+       .hideMeInPrint { display: none; }
+         #panBannerDefault{ display: none;}
+    </style>
+    
+
+    
+
+</head>
+
+<body class="page front">
+	<form method="post" action="./Parcel.aspx?pid=500" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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Mi41BDIuNzUBMgMzLjUBMwM0LjUBNAE1FCsDDmdnZ2dnZ2dnZ2dnZ2dnFgFmZAIED2QWDmYPFgIfBwUHICAgICAgIGQCAg8WAh8HBRhDT05TVFJSRVMuQ05TX0ZPVU5EQVRJT05kAgQPFgIfBwUdQ09OU1RSUkVTLkNOU19GT1VOREFUSU9OX0RFU0NkAgYPFgIfBwUHbnVtZXJpY2QCCA8PFgIfAQUJT2NjdXBhbmN5ZGQCCg9kFgICAQ8QZGQWAGQCDA8PFgIfAmdkFgQCAQ8PFgIfAQUHICAgICAgIGRkAgMPDxYCHwpoZGQCBQ9kFgxmDxYCHwcFByAgICAgICBkAgIPFgIfBwUYQ09OU1RSUkVTLkNOU19FWFRfV0FMTF8xZAIEDxYCHwcFHUNPTlNUUlJFUy5DTlNfRVhUX1dBTExfMV9ERVNDZAIGDxYCHwcFB3BpY2trZXlkAggPDxYCHwEFD0V4dGVyaW9yIFdhbGwgMWRkAgoPDxYCHwJnZBYCAgEPEA8WBh8IBQVERVNDUh8JBQRDT0RFHwRnZBAVHwANQWJvdmUgQXZlcmFnZQ5BbHVtaW51bSBTaWRuZw5Bc2Jlc3QgU2hpbmdsZQdBc3BoYWx0B0F2ZXJhZ2UNQmVsb3cgQXZlcmFnZQ5Cb2FyZCAmIEJhdHRlbgxCcmljayBWZW5lZXINQnJpY2svTWFzb25yeQ5DZWRhciBvciBSZWR3ZAlDbGFwYm9hcmQOQ29tcC4vV2FsbCBCcmQMQ29uY3IvQ2luZGVyDkZpYnIvY2VtIEJvYXJkC0ZMWUFTSCBJQ09ODUdsYXNzL1RoZXJtby4ETG9ncwdNaW5pbXVtDlByZS1jYXN0IENvbmNyDFByZS1GYWIgV29vZA5QcmUtZmluc2ggTWV0bA1QcmVjYXN0IFBhbmVsDlJlaW5mb3JjIENvbmNyDVNpbmdsZSBTaWRpbmcNU3RvbmUvTWFzb25yeQ5TdHVjY28gb24gV29vZA5TdHVjY28vTWFzb25yeQxWaW55bCBTaWRpbmcOV29vZCBvbiBTaGVhdGgMV29vZCBTaGluZ2xlFR8AAjEwAjI2AjA3AjE4AjA1AjAzAjA2AjE5AjIwAjEyAjExAjAyAjE1AjI5AjMwAjI4AjA5AjAxAjIzAjEzAjI3AjIyAjI0AjA0AjIxAjE2AjE3AjI1AjA4AjE0FCsDH2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2cWAWZkAgYPZBYMZg8WAh8HBQcgICAgICAgZAICDxYCHwcFF0NPTlNUUlJFUy5DTlNfRVhUX0NORFROZAIEDxYCHwcFHENPTlNUUlJFUy5DTlNfRVhUX0NORFROX0RFU0NkAgYPFgIfBwUHcGlja2tleWQCCA8PFgIfAQUPRXh0ZXJpb3IgV2FsbCAyZGQCCg8PFgIfAmdkFgICAQ8QDxYGHwgFBURFU0NSHwkFBENPREUfBGdkEBUfAA1BYm92ZSBBdmVyYWdlDkFsdW1pbnVtIFNpZG5nDkFzYmVzdCBTaGluZ2xlB0FzcGhhbHQHQXZlcmFnZQ1CZWxvdyBBdmVyYWdlDkJvYXJkICYgQmF0dGVuDEJyaWNrIFZlbmVlcg1Ccmljay9NYXNvbnJ5DkNlZGFyIG9yIFJlZHdkCUNsYXBib2FyZA5Db21wLi9XYWxsIEJyZAxDb25jci9DaW5kZXIORmlici9jZW0gQm9hcmQLRkxZQVNIIElDT04NR2xhc3MvVGhlcm1vLgRMb2dzB01pbmltdW0OUHJlLWNhc3QgQ29uY3IMUHJlLUZhYiBXb29kDlByZS1maW5zaCBNZXRsDVByZWNhc3QgUGFuZWwOUmVpbmZvcmMgQ29uY3INU2luZ2xlIFNpZGluZw1TdG9uZS9NYXNvbnJ5DlN0dWNjbyBvbiBXb29kDlN0dWNjby9NYXNvbnJ5DFZpbnlsIFNpZGluZw5Xb29kIG9uIFNoZWF0aAxXb29kIFNoaW5nbGUVHwACMTACMjYCMDcCMTgCMDUCMDMCMDYCMTkCMjACMTICMTECMDICMTUCMjkCMzACMjgCMDkCMDECMjMCMTMCMjcCMjICMjQCMDQCMjECMTYCMTcCMjUCMDgCMTQUKwMfZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZxYBZmQCBw9kFgxmDxYCHwcFByAgICAgICBkAgIPFgIfBwUZQ09OU1RSUkVTLkNOU19ST09GX1NUUlVDVGQCBA8WAh8HBR5DT05TVFJSRVMuQ05TX1JPT0ZfU1RSVUNUX0RFU0NkAgYPFgIfBwUHcGlja2tleWQCCA8PFgIfAQUPUm9vZiBTdHJ1Y3R1cmU6ZGQCCg8PFgIfAmdkFgICAQ8QDxYGHwgFBURFU0NSHwkFBENPREUfBGdkEBUOAA5Cb3dzdHJpbmcgVHJ1cwRGbGF0BUdhYmxlB0dhbWJyZWwDSGlwCUlycmVndWxhcgdNYW5zYXJkDlByZXN0cmVzIENvbmNyDlJlaW5mb3JjIENvbmNyDlJpZ2lkIEZybS9CSnN0CFNhbHQgQm94BFNoZWQOU3RlZWwgRnJtL1RydXMVDgACMTECMDECMDMCMDcCMDQCMDgCMDYCMTMCMTICMDkCMDUCMDICMTAUKwMOZ2dnZ2dnZ2dnZ2dnZ2cWAWZkAggPZBYMZg8WAh8HBQcgICAgICAgZAICDxYCHwcFGENPTlNUUlJFUy5DTlNfUk9PRl9DT1ZFUmQCBA8WAh8HBR1DT05TVFJSRVMuQ05TX1JPT0ZfQ09WRVJfREVTQ2QCBg8WAh8HBQdwaWNra2V5ZAIIDw8WAh8BBQpSb29mIENvdmVyZGQCCg8PFgIfAmdkFgICAQ8QDxYGHwgFBURFU0NSHwkFBENPREUfBGdkEBUPAApBcmNoIFNoaW5nDkFzYmVzdG9zIFNoaW5nB0FzcGhhbHQJQ2xheSBUaWxlDUNvbmNyZXRlIFRpbGUKQ29ycnVnIEFzYg5FbmFtIE10bCBTaGluZwxGaWJlciBQYW5lbHMJTWV0YWwvVGluDVJvbGxlZCBDb21wb3MFU2xhdGUMVGFyICYgR3JhdmVsBVZpbnlsDFdvb2QgU2hpbmdsZRUPAAIxNAIwNgIwMwIwOAIwNwIwNQIwOQIxMgIwMQIwMgIxMQIwNAIxMwIxMBQrAw9nZ2dnZ2dnZ2dnZ2dnZ2cWAWZkAgkPZBYMZg8WAh8HBQcgICAgICAgZAICDxYCHwcFGENPTlNUUlJFUy5DTlNfSU5UX1dBTExfMWQCBA8WAh8HBR1DT05TVFJSRVMuQ05TX0lOVF9XQUxMXzFfREVTQ2QCBg8WAh8HBQdwaWNra2V5ZAIIDw8WAh8BBQ9JbnRlcmlvciBXYWxsIDFkZAIKDw8WAh8CZ2QWAgIBDxAPFgYfCAUFREVTQ1IfCQUEQ09ERR8EZ2QQFQgADUN1c3QgV2QgUGFuZWwHRHJ5d2FsbAtLbm90dHkgUGluZQ1NaW5pbS9NYXNvbnJ5B1BsYXN0ZXINUGx5d29vZCBQYW5lbA1XYWxsIEJyZC9Xb29kFQgAAjA2AjA1AjA3AjAxAjAzAjA0AjAyFCsDCGdnZ2dnZ2dnFgFmZAIKD2QWDGYPFgIfBwUHICAgICAgIGQCAg8WAh8HBRdDT05TVFJSRVMuQ05TX0lOVF9DTkRUTmQCBA8WAh8HBRxDT05TVFJSRVMuQ05TX0lOVF9DTkRUTl9ERVNDZAIGDxYCHwcFB3BpY2trZXlkAggPDxYCHwEFD0ludGVyaW9yIFdhbGwgMmRkAgoPDxYCHwJnZBYCAgEPEA8WBh8IBQVERVNDUh8JBQRDT0RFHwRnZBAVCAANQ3VzdCBXZCBQYW5lbAdEcnl3YWxsC0tub3R0eSBQaW5lDU1pbmltL01hc29ucnkHUGxhc3Rlcg1QbHl3b29kIFBhbmVsDVdhbGwgQnJkL1dvb2QVCAACMDYCMDUCMDcCMDECMDMCMDQCMDIUKwMIZ2dnZ2dnZ2cWAWZkAgsPZBYMZg8WAh8HZWQCAg8WAh8HBRJDT05TVFJSRVMuQ05TX1ZJRVdkAgQPFgIfBwUXQ09OU1RSUkVTLkNOU19WSUVXX0RFU0NkAgYPFgIfBwUHcGlja2tleWQCCA8PFgIfAQUOSW50ZXJpb3IgRmxyIDFkZAIKDw8WAh8CZ2QWAgIBDxAPFgYfCAUFREVTQ1IfCQUEQ09ERR8EZ2QQFRUAB0F2ZXJhZ2UGQ2FycGV0DkNlcmFtIENsYXkgVGlsDkNvbmNyIEFidiBHcmFkDkNvbmNyLUZpbmlzaGVkCUNvcmsgVGlsZQlEaXJ0L05vbmUISGFyZHdvb2QOSW5sYWlkIFNodCBHZHMGTWFyYmxlDU1pbmltdW0vUGx5d2QHUGFycXVldA5QaW5lL1NvZnQgV29vZA1QcmVjYXN0IENvbmNyC1F1YXJyeSBUaWxlBVNsYXRlDlRlcnJhenpvIEVwb3h5DlRlcnJhenpvIE1vbm9sDVZpbnlsL0FzcGhhbHQNV29vZCBMYW1pbmF0ZRUVAAIwOAIxNAIxMQIwNAIwMwIwNwIwMQIxMgIwNgIxOQIwMgIxMwIwOQIxNwIxNQIxOAIxNgIxMAIwNQIyMBQrAxVnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2cWAWZkAgwPZBYMZg8WAh8HBQcgICAgICAgZAICDxYCHwcFF0NPTlNUUlJFUy5DTlNfVVNSRkxEXzgxZAIEDxYCHwcFHENPTlNUUlJFUy5DTlNfVVNSRkxEXzgxX0RFU0NkAgYPFgIfBwUHcGlja2tleWQCCA8PFgIfAQUOSW50ZXJpb3IgRmxyIDJkZAIKDw8WAh8CZ2QWAgIBDxAPFgYfCAUFREVTQ1IfCQUEQ09ERR8EZ2QQFRUAB0F2ZXJhZ2UGQ2FycGV0DkNlcmFtIENsYXkgVGlsDkNvbmNyIEFidiBHcmFkDkNvbmNyLUZpbmlzaGVkCUNvcmsgVGlsZQlEaXJ0L05vbmUISGFyZHdvb2QOSW5sYWlkIFNodCBHZHMGTWFyYmxlDU1pbmltdW0vUGx5d2QHUGFycXVldA5QaW5lL1NvZnQgV29vZA1QcmVjYXN0IENvbmNyC1F1YXJyeSBUaWxlBVNsYXRlDlRlcnJhenpvIEVwb3h5DlRlcnJhenpvIE1vbm9sDVZpbnlsL0FzcGhhbHQNV29vZCBMYW1pbmF0ZRUVAAIwOAIxNAIxMQIwNAIwMwIwNwIwMQIxMgIwNgIxOQIwMgIxMwIwOQIxNwIxNQIxOAIxNgIxMAIwNQIyMBQrAxVnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2cWAWZkAg0PZBYMZg8WAh8HBQcgICAgICAgZAICDxYCHwcFF0NPTlNUUlJFUy5DTlNfVVNSRkxEXzgyZAIEDxYCHwcFHENPTlNUUlJFUy5DTlNfVVNSRkxEXzgyX0RFU0NkAgYPFgIfBwUHcGlja2tleWQCCA8PFgIfAQUJSGVhdCBGdWVsZGQCCg8PFgIfAmdkFgICAQ8QDxYGHwgFBURFU0NSHwkFBENPREUfBGdkEBUKAAxDb2FsIG9yIFdvb2QIRWxlY3RyaWMDR2FzCkdlb1RoZXJtYWwJSHlkcm8tYWlyBE5vbmUDT2lsB1Byb3BhbmUOU29sYXIgQXNzaXN0ZWQVCgACMDECMDQCMDMCMDcCMDgCMDYCMDICMDkCMDUUKwMKZ2dnZ2dnZ2dnZxYBZmQCDg9kFgxmDxYCHwcFByAgICAgICBkAgIPFgIfBwUXQ09OU1RSUkVTLkNOU19IRUFUX1RZUEVkAgQPFgIfBwUcQ09OU1RSUkVTLkNOU19IRUFUX1RZUEVfREVTQ2QCBg8WAh8HBQdwaWNra2V5ZAIIDw8WAh8BBQpIZWF0IFR5cGU6ZGQCCg8PFgIfAmdkFgICAQ8Q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aXN0b3J5VmFsdWVzQXBwcg88KwAMAQgCAWQFIGN0bDAwJE1haW5Db250ZW50JGdyZFNhbGVzRnV0dXJlD2dkBR5jdGwwMCRNYWluQ29udGVudCRjdGwwMSRncmRDbnMPPCsADAEIAgFkBR5jdGwwMCRNYWluQ29udGVudCRjdGwwMSRncmRTdWIPPCsADAEIZmQFHWN0bDAwJE1haW5Db250ZW50JGdyZFNwY2xMYW5kD2dkBRdjdGwwMCRNYWluQ29udGVudCRncmRPYg88KwAMAQhmZAUXY3RsMDAkTWFpbkNvbnRlbnQkZ3JkWGYPPCsADAEIZmQFHWN0bDAwJE1haW5Db250ZW50JGdyZFZpc2l0SHN0D2dkBRpjdGwwMCRNYWluQ29udGVudCRncmRTYWxlcw88KwAMAQgCAWQFJWN0bDAwJE1haW5Db250ZW50JGdyZEN1cnJlbnRWYWx1ZUFzbXQPPCsADAEIAgFkBR9jdGwwMCRNYWluQ29udGVudCRncmRXZWJBZGRyZXNzD2dkBSZjdGwwMCRNYWluQ29udGVudCRncmRIaXN0b3J5VmFsdWVzQXNtdA88KwAMAQgCAWQFHGN0bDAwJE1haW5Db250ZW50JGdyZEV4ZW1wdHMPZ2QFJWN0bDAwJE1haW5Db250ZW50JGdyZEN1cnJlbnRWYWx1ZUFwcHIPPCsADAEIAgFkdzd/E2TgIMZJIuFozjVJDRDirwt6kLqoSVywQDlItZk=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="0BB1E6CE" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAvn84WUpymHltUUEWj9OTrPkbuf1hRDuGcmpmDnwlR4H2hEswt2IwwGgDGWkqbEkOLBwKci2Y9mhaGAkBHO6ZPX0X2TOR8xYVzUM6sQg2zZNhV4jxT2Rk2ilkHFbILydgPK8WwscoIA0ALz5p3xLHveYS3tzgjqNBhuN3N6iN6aPex6kw1/vFkzkDvppR2Punkrvon2B5GXy+98hBVOKzNGNO3AIw/ZFY0pa2yCQ5XskXAxJ9EVfg7q7JlVjIX+aX90+v50tqBOuCQhl2/ofn7L" />
+</div>
+
+
+<div class="inner-page">
+   <div class="inner-inner-page">
+
+      <div class="page front">
+      
+         <div class="topBorder hideMeInPrint" >
+            <img alt="" id="HeaderImage" class="hideMeInPrint" src='/PomfretCT/Images/top-border.png' width="955px;"  />
+         </div>
+         
+
+         <div class="header-images hideMeInPrint">
+           <div id="panBannerDefault">
+	
+                        <table width="99.5%" >
+                            <tr style="height: 75px;">
+                                <td style="" >
+                                    <span >
+                                        <img id="imgTownSeal" src="Images/pomfret_ct.jpg" style="height:75px;" />
+                                    </span>
+                                    <span class="myoutercontainer" style="padding-top: 15px;margin-top: 15px;vertical-align: middle; ">
+                                        <span id="lblTownName" class="myinnercontainer" style="display:inline-block;font-size:36pt;font-weight:bold;width:500px;">POMFRET,CT</span>
+                                    </span>
+                                </td>
+                                <td align="right">
+                                    <span class="header-right-image" >
+                                        <input type="image" name="ctl00$ImageButton1" id="imgVisionImageButton" 
+                                        src='/PomfretCT/Images/visiongovernmentsolutionslogo.png' />
+                                    </span>
+                                </td>
+                            </tr>
+                        </table>
+                    
+</div>
+                    
+         </div>
+                 
+          
+ 
+         <div style="width:100%;" class="hideMeInPrint">
+             
+            
+
+            <div id="panMenu">
+	
+                <div class="menu hideMeInPrint" id="NavigationMenu" style="float: left;  background-image:url('/PomfretCT/Images/main-menu-backgnd.png'); width:99.5%">
+	            <ul class="level1" style="position: relative; width: 100%   ; float: left;" role="menubar">
+		            <li  role="menuitem" style="position: relative; float: left;">
+                            <a id="lnkSearch" class="level1" href="Search.aspx">Search</a>    
+                    </li>
+                    <li  role="menuitem" style="position: relative; float: left;">
+                        <a id="lnkStreets" class="level1" href="Streets.aspx">Street Listing</a>    
+                    </li>
+                    <div id="panSales">
+		
+                        <li  role="menuitem" style="position: relative; float: left;">
+                            <a id="lnkSales" class="level1" href="Sales.aspx">Sales Search</a>    
+                        </li>
+                    
+	</div>
+                    
+                    
+                    
+                    
+                    <div id="panFeedback">
+		
+                    <li  role="menuitem" id="FeedbackPage" style="position: relative; float: left;">
+                        <a id="lnkFeedback" class="level1" href="Feedback.aspx">Feedback</a>    
+                    </li>
+                    
+	</div>
+
+                    <li  role="menuitem" id="BackButton" style="position: relative; float: left;">
+                        <a id="lnkBack">Back</a>
+                    </li>
+
+                    
+
+                    
+                    
+                    
+                    <li  role="menuitem" id="Li2" style="position: relative; float: left;">
+                        <a id="lnkLogOut" class="level1" href="Default.aspx?lo=T">Home</a>    
+                    </li>
+                    
+	            </ul>
+            </div>
+            
+</div>
+                       
+        </div>
+          <input name="ctl00$hdnKeepAlive" type="hidden" id="hdnKeepAlive" value="No" />
+ 
+  
+            
+        <div class="page clientservices-appraisal">
+            <div class="main-content">
+                <div style="width:99.5%">
+                
+    <style>
+        .pagebreak {
+            page-break-before: always;
+        }
+
+        .floatBtn {
+            margin: 5px;
+        }
+          .fLeft {
+            float: left;width: 45%;
+        }
+    </style>
+    
+
+    <div id="MainContent_panParcel">
+	
+    
+</div>
+    <div class="ui-widget">
+        <h3>
+            </h3>
+    </div>
+    <div class="ui-widget" id="tabs">
+        <span id="legend"></span>&nbsp;
+        <div id="tabs-1" style="float: none; top: -50px;">
+            
+            <fieldset>
+                <legend><span style="float: none; font-size: 1.4em;">
+                    <span id="MainContent_lblTab1Title">477 TAFT POND RD</span>
+                </span>
+                    <div style="float: right" class="btn-toolbar hideMeInPrint">
+                        
+                        <div class="btn-group">
+                            
+                            
+                            
+                            <a id="similiarParcelSales" class="floatBtn btn btn-primary" data-toggle="tooltip" title="Search for similiar sales" style="">
+            <i class="icon-search icon-white"></i>&nbsp;Sales
+                            </a>
+                            <span style="" id="printButton" class="floatBtn btn btn-primary" data-toggle="tooltip"
+                                title="Print this page"><i class="icon-print icon-white"></i>&nbsp;Print </span>
+                            <div id="MainContent_panPropCard" class="floatBtn btn btn-danger" data-toggle="tooltip" title="Print a field card">
+	
+                                <i class="propertyCard icon-book  icon-white"></i><span class="propertyCard">&nbsp;Field
+                                    Card</span>
+                            
+</div>
+                               
+                                
+                            
+                            <span style="" id="showMapLinks" class="floatBtn btn btn-info" data-toggle="tooltip"
+                                title="View mapping options"><i class="icon-map-marker icon-white"></i>&nbsp;Map
+                                It </span>
+                                
+                            
+                        </div>
+                    </div>
+                    <span style="float: right; width: 100%"><span></span><span></span><span></span></span>
+                </legend>
+                <div style="clear: both">
+                </div>
+                <br />
+
+                <div class="row-fluid" style="font-size: 16px;">
+                    
+                        <dl id="MainContent_rowLocation" class="dl-horizontal fLeft">
+                            <dt>Location</dt>
+                            <dd>
+                                <span id="MainContent_lblLocation">477 TAFT POND RD</span></dd>
+                        </dl>
+                        <div>
+                            
+                        </div>
+                        <dl id="MainContent_rowMblu" class="dl-horizontal fLeft">
+                            <dt>
+                                <span id="MainContent_lblMbluLabel">Mblu</span></dt>
+                            <dd>
+                                <span id="MainContent_lblMblu">11/  B/  009.01/  / </span></dd>
+                        </dl>
+                        <dl id="MainContent_rowAcctNum" class="dl-horizontal fLeft">
+                            <dt>
+                                <span id="MainContent_lblAcctNumLabel">Acct#</span></dt>
+                            <dd>
+                                <span id="MainContent_lblAcctNum">S0160900</span></dd>
+                        </dl>
+                        <dl id="MainContent_rowOwnGeneral" class="dl-horizontal fLeft">
+                            <dt>Owner</dt>
+                            <dd>
+                                <span id="MainContent_lblGenOwner">DENARO TONY J</span></dd>
+                        </dl>
+                      
+                        
+                     
+                        
+
+                        
+                        
+                        
+                      
+                      <dl id="MainContent_rowAssessment" class="dl-horizontal fLeft">
+                            <dt>
+                                <span id="MainContent_lblGenAssessmentLabel">Assessment</span></dt>
+                            <dd>
+                                <span id="MainContent_lblGenAssessment">$57,900</span></dd>
+                        </dl>
+ 
+                       <dl id="MainContent_rowAppraisal" class="dl-horizontal fLeft">
+                            <dt>
+                                <span id="MainContent_lblGenAppraisalLabel">Appraisal</span></dt>
+                            <dd>
+                                <span id="MainContent_lblGenAppraisal">$82,700</span></dd>
+                        </dl>
+                       
+                        <dl id="MainContent_rowPid" class="dl-horizontal fLeft">
+                            <dt>
+                                <span id="MainContent_lblPidLabel">PID</span></dt>
+                            <dd>
+                                <span id="MainContent_lblPid">500</span></dd>
+                        </dl>
+                        <dl id="MainContent_rowBCnt" class="dl-horizontal fLeft">
+                            <dt>Building Count</dt>
+                            <dd>
+                                <span id="MainContent_lblBldCount">1</span></dd>
+                        </dl>
+                        
+                    
+                      
+                        
+
+                        
+                        
+                        
+
+                        
+                        
+
+                        
+                        
+                        
+                    
+                    
+                    
+                    
+                    
+                    
+					
+					 
+                    
+					
+					 
+                    
+                    
+                    
+                </div>
+                <div style="clear: both;"></div>
+
+                
+            </fieldset>
+        </div>
+        <div id="tabs-3">
+            <div id="MainContent_currentVal">
+	
+
+                <fieldset>
+                    <legend>Current Value</legend><span style="min-height: 5px; font-size: .2em;"></span>
+                    <div>
+                        <div>
+		<table class="GridViewStyle" cellspacing="0" rules="all" witdh="100%" border="1" id="MainContent_grdCurrentValueAppr" style="width:100%;border-collapse:collapse;">
+			<caption>
+				Appraisal
+			</caption><tr class="HeaderStyle">
+				<th scope="col">Valuation Year</th><th scope="col">Improvements</th><th scope="col">Land</th><th scope="col">Total</th>
+			</tr><tr class="RowStyle">
+				<td>2024</td><td align="right">$0</td><td align="right">$82,700</td><td align="right">$82,700</td>
+			</tr>
+		</table>
+	</div>
+                        <div>
+		<table class="GridViewStyle" cellspacing="0" rules="all" witdh="100%" border="1" id="MainContent_grdCurrentValueAsmt" style="width:100%;border-collapse:collapse;">
+			<caption>
+				Assessment
+			</caption><tr class="HeaderStyle">
+				<th scope="col">Valuation Year</th><th scope="col">Improvements</th><th scope="col">Land</th><th scope="col">Total</th>
+			</tr><tr class="RowStyle">
+				<td>2024</td><td align="right">$0</td><td align="right">$57,900</td><td align="right">$57,900</td>
+			</tr>
+		</table>
+	</div>
+                    </div>
+                </fieldset>
+            
+</div>
+        </div>
+        
+        
+        <div id="tabs-2">
+            <div id="MainContent_panCurOwn">
+	
+                <br />
+                <fieldset>
+                    <legend>
+                        <span id="MainContent_lblTab2Title" style="font-weight:bold;">Owner of Record</span></legend>
+                    <div style="float: left; width: 50%">
+                        <table>
+		<tr id="MainContent_rowOwn">
+			<td class="plabel">Owner</td><td class="data"><span id="MainContent_lblOwner">DENARO TONY J</span></td>
+		</tr><tr id="MainContent_rowCoOwn">
+			<td class="plabel"><span id="MainContent_lblLabelCoOwner">Co-Owner</span></td><td class="data"><span id="MainContent_lblCoOwner"></span></td>
+		</tr>
+	</table></div><div style="float: left; width: 50%">
+                        <table id="MainContent_Table1">
+		<tr>
+			<td class="plabel">Sale Price</td><td class="data"><span id="MainContent_lblPrice">$275,000</span></td>
+		</tr><tr id="MainContent_rowCertificate">
+			<td class="plabel"><span id="MainContent_lblLabelCertificate">Certificate</span></td><td class="data"><span id="MainContent_lblCertificate"></span></td>
+		</tr><tr id="MainContent_rowBp">
+			<td class="plabel">Book & Page </td><td class="data"><span id="MainContent_lblBp">0377/1087</span></td>
+		</tr><tr id="MainContent_rowBook">
+			<td class="plabel"><span id="MainContent_lblBookLabel"></span></td><td class="data"><span id="MainContent_lblBook"></span></td>
+		</tr><tr id="MainContent_rowPage">
+			<td class="plabel"><span id="MainContent_lblPageLabel"></span></td><td class="data"><span id="MainContent_lblPage"></span></td>
+		</tr><tr>
+			<td class="plabel">Sale Date</td><td class="data"><span id="MainContent_lblSaleDate">01/07/2020</span></td>
+		</tr><tr id="MainContent_rowInstrument">
+			<td class="plabel"><span id="MainContent_lblLabelInstrument">Instrument</span></td><td class="data"><span id="MainContent_lblInstrument">25</span></td>
+		</tr>
+	</table></div></fieldset> 
+</div><div id="MainContent_panSlh">
+	
+                <br />
+                <fieldset>
+                    <legend>Ownership History</legend><div>
+		<table class="GridViewStyle" cellspacing="0" witdh="100%" id="MainContent_grdSales" style=

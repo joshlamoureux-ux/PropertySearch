@@ -1,2 +1,0 @@
-URL: https://sso.eregulations.ct.gov/foreclosure/
-FAILED: blocked/failed

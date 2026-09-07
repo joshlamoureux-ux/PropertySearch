@@ -1,0 +1,295 @@
+URL: https://gis.vgsi.com/hamptonct/
+FINAL: https://gis.vgsi.com/hamptonct/
+STATUS: 200
+TITLE: Vision Government Solutions
+BYTES: 27594
+
+===== TEXT =====
+Vision Government Solutions
+
+|
+
+HAMPTON,CT
+
+|
+
+Welcome
+
+Welcome to the Town of
+Hampton, Connecticut online assessment database.
+
+Hampton has completed a revaluation for the Grand List of October 1, 2023.
+
+The 2023 mill rate was set at 20.83.
+
+The 2024 Grand List has been filed as of 1/28/25. A mill rate will not be set until budget approval late Spring 2025. For more information concerning budgets or the Board of Finance, visit the Town of Hampton website at www.hamptonct.org.
+
+If you wish to appeal your assessment you may file an appeal with the Town of
+Hampton’s Board of Assessment Appeals. Appeals to the Board of Assessment
+Appeals must be filed on or before February 20, 2025. Petition forms are available from the Resources tab of the Assessor's page on the Town of Hampton website.
+
+Property records are updated by our vendor, Vision Government Solutions, on a monthly basis, however pdf versions of the property card or "field card" are only updated once annually after the completion of dutites by the Board of Assessment Appeals in March.
+
+Questions and concerns should be directed to the Assessor listed below.
+
+CONTACT
+
+ASSESSOR
+
+JODY L. HEON, CCMAI
+
+TELEPHONE
+
+860 455-9132 EXT. 5 [tel:(860)%20455-9132]
+
+EMAIL ADDRESS
+
+ASSESSORS@HAMPTONCT.ORG [mailto:assessors@hamptonct.org]
+
+HOURS
+
+TUESDAYS: 9AM TO 4PM
+THURSDAYS: 3PM-7PM
+
+LOCATION
+
+HAMPTON TOWN HALL
+
+164 MAIN ST, HAMPTON, CT 06247
+
+If you have any questions please call Vision customer support at 800-628-1013 x2.
+
+(c) 2026 Vision Government Solutions, Inc. All rights reserved.
+
+===== LINKS =====
+
+
+===== RAW HEAD =====
+
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="EN">
+<head>
+    <!-- Level Access ADA widget -->
+    <script src="https://cdn.userway.org/widget.js" data-account="lotasidGlP"></script>  
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-93590319-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-37067763-1');
+    </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" media="all" href="/HamptonCT/Styles/base.css?v=6" />
+   <!--
+   [if IE 7]><link type="text/css" rel="stylesheet" media="all" href="/HamptonCT/Styles/ie7.css" /><![endif]
+   [if IE 8]><link type="text/css" rel="stylesheet" media="all" href="/HamptonCT/Styles/ie8.css"/><![endif]
+   -->
+    <link href="/HamptonCT/Styles/SoftGreyGridView.css" rel="stylesheet" type="text/css" />
+    <link href="/HamptonCT/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="/HamptonCT/Styles/jquery-ui-1.9.2.custom.css" rel="stylesheet" type="text/css" />
+   
+    <!-- JQuery and UI-->
+    <script src="/HamptonCT/Scripts/jquery-1.8.3.js"  type="text/javascript"></script>
+    <script src="/HamptonCT/Scripts/jquery-ui-1.9.2.custom.min.js"  type="text/javascript"></script>
+   
+    <script src="/HamptonCT/Scripts/bgiframe.js" type="text/javascript"></script>
+    <link rel="shortcut icon" href="/HamptonCT/Images/VGS_Icon32x32.ico" type="image/x-icon" />
+    
+    <style type="text/css">
+	.myoutercontainer { position:relative }
+	.myinnercontainer {  margin-top:20px }
+    </style>
+
+    <title>Vision Government Solutions </title>
+</head>
+<body class="page front">
+    <form method="post" action="./" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTE2OTQ4MTU3NQ9kFgJmD2QWAmYPZBYGZg9kFgRmDw8WBB4ISW1hZ2VVcmwFF34vSW1hZ2VzL2hhbXB0b25fY3QuanBnHg1BbHRlcm5hdGVUZXh0BRRIQU1QVE9OLENUIHRvd24gc2VhbGRkAgEPDxYCHgRUZXh0BQpIQU1QVE9OLENUZGQCAQ8PFgIeB1Zpc2libGVoZGQCAg9kFgQCAQ8WAh8CBZ05PHAgc3R5bGU9Im1hcmdpbjogMGluIDBpbiAwcHQ7IGZvbnQtc2l6ZTogMTUuNHB4OyBiYWNrZ3JvdW5kLWNvbG9yOiByZ2IoMjU1LCAyNTUsIDI1NSk7Ij48Zm9udCBmYWNlPSJBcmlhbCwgc2Fucy1zZXJpZiI+Jm5ic3A7PC9mb250PjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTogVGFob21hLCBzYW5zLXNlcmlmOyBmb250LXNpemU6IDEwcHQ7Ij5XZWxjb21lIHRvIHRoZSBUb3duIG9mDQpIYW1wdG9uLCBDb25uZWN0aWN1dCBvbmxpbmUgYXNzZXNzbWVudCBkYXRhYmFzZS48L3NwYW4+PC9wPjxwIGNsYXNzPSJNc29Ob3JtYWwiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDEwcHQ7IGZvbnQtZmFtaWx5OiBUYWhvbWEsIHNhbnMtc2VyaWY7Ij48YnI+DQpIYW1wdG9uIGhhcyBjb21wbGV0ZWQgYSByZXZhbHVhdGlvbiBmb3IgdGhlIEdyYW5kIExpc3Qgb2YgT2N0b2JlciAxLCAyMDIzLiZuYnNwOyZuYnNwOzwvc3Bhbj48L3A+PHAgY2xhc3M9Ik1zb05vcm1hbCI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTBwdDsgZm9udC1mYW1pbHk6IFRhaG9tYSwgc2Fucy1zZXJpZjsiPlRoZSAyMDIzIG1pbGwgcmF0ZSB3YXMgc2V0IGF0IDIwLjgzLjwvc3Bhbj48L3A+PHAgY2xhc3M9Ik1zb05vcm1hbCI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTBwdDsgZm9udC1mYW1pbHk6IFRhaG9tYSwgc2Fucy1zZXJpZjsiPjxicj48L3NwYW4+PC9wPjxwIGNsYXNzPSJNc29Ob3JtYWwiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDEwcHQ7IGZvbnQtZmFtaWx5OiBUYWhvbWEsIHNhbnMtc2VyaWY7Ij5UaGUgMjAyNCBHcmFuZCBMaXN0IGhhcyBiZWVuIGZpbGVkIGFzIG9mIDEvMjgvMjUuIEEgbWlsbCByYXRlIHdpbGwgbm90IGJlIHNldCB1bnRpbCBidWRnZXQgYXBwcm92YWwgbGF0ZSBTcHJpbmcgMjAyNS4mbmJzcDsgRm9yIG1vcmUgaW5mb3JtYXRpb24gY29uY2VybmluZyBidWRnZXRzIG9yIHRoZSBCb2FyZCBvZiBGaW5hbmNlLCB2aXNpdCB0aGUgVG93biBvZiBIYW1wdG9uIHdlYnNpdGUgYXQgd3d3LmhhbXB0b25jdC5vcmcuPC9zcGFuPjwvcD48cCBjbGFzcz0iTXNvTm9ybWFsIj48Zm9udCBjb2xvcj0iI2ZmMDAwMCIgc3R5bGU9ImZvbnQtZmFtaWx5OiBUYWhvbWEsIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZTogMTBwdDsiPjxicj48L2ZvbnQ+PC9wPjxwIGNsYXNzPSJNc29Ob3JtYWwiPjxmb250IGZhY2U9IlRhaG9tYSwgc2Fucy1zZXJpZiI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTBwdDsiPklmIHlvdSB3aXNoIHRvIGFwcGVhbCB5b3VyIGFzc2Vzc21lbnQmbmJzcDs8L3NwYW4+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTMuMzMzM3B4OyI+eW91PC9zcGFuPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDEwcHQ7Ij4mbmJzcDttYXkgZmlsZSBhbiBhcHBlYWwgd2l0aCB0aGUgVG93biBvZg0KSGFtcHRvbuKAmXMgQm9hcmQgb2YgQXNzZXNzbWVudCBBcHBlYWxzLiZuYnNwOyBBcHBlYWxzIHRvIHRoZSBCb2FyZCBvZiBBc3Nlc3NtZW50DQpBcHBlYWxzIG11c3QgYmUgZmlsZWQgb24gb3IgYmVmb3JlIEZlYnJ1YXJ5IDIwLCAyMDI1LiZuYnNwOyBQZXRpdGlvbiBmb3JtcyBhcmUgYXZhaWxhYmxlIGZyb20gdGhlIFJlc291cmNlcyB0YWIgb2YgdGhlIEFzc2Vzc29yJ3MgcGFnZSBvbiB0aGUgVG93biBvZiBIYW1wdG9uIHdlYnNpdGUuPC9zcGFuPjwvZm9udD48L3A+PHAgY2xhc3M9Ik1zb05vcm1hbCI+PGZvbnQgZmFjZT0iVGFob21hLCBzYW5zLXNlcmlmIj48c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxMHB0OyI+UHJvcGVydHkgcmVjb3JkcyBhcmUgdXBkYXRlZCBieSBvdXIgdmVuZG9yLCBWaXNpb24gR292ZXJubWVudCBTb2x1dGlvbnMsIG9uIGEgbW9udGhseSBiYXNpcywgaG93ZXZlciBwZGYgdmVyc2lvbnMgb2YgdGhlIHByb3BlcnR5IGNhcmQgb3IgImZpZWxkIGNhcmQiIGFyZSBvbmx5IHVwZGF0ZWQgb25jZSBhbm51YWxseSBhZnRlciB0aGUgY29tcGxldGlvbiBvZiBkdXRpdGVzIGJ5IHRoZSBCb2FyZCBvZiBBc3Nlc3NtZW50IEFwcGVhbHMgaW4gTWFyY2guPC9zcGFuPjwvZm9udD48L3A+PHAgY2xhc3M9Ik1zb05vcm1hbCI+PGZvbnQgZmFjZT0iVGFob21hLCBzYW5zLXNlcmlmIj48c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxMy4zMzMzcHg7Ij5RdWVzdGlvbnMgYW5kIGNvbmNlcm5zIHNob3VsZCBiZSBkaXJlY3RlZCB0byB0aGUgQXNzZXNzb3IgbGlzdGVkIGJlbG93Ljwvc3Bhbj48L2ZvbnQ+PC9wPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDEwcHQ7IGZvbnQtZmFtaWx5OiBUYWhvbWEsIHNhbnMtc2VyaWY7Ij4NCjwhLS1baWYgIXN1cHBvcnRMaW5lQnJlYWtOZXdMaW5lXS0tPjxicj4NCjwhLS1bZW5kaWZdLS0+PC9zcGFuPjxwIGNsYXNzPSJNc29Ob3JtYWwiIGFsaWduPSJjZW50ZXIiIHN0eWxlPSJjb2xvcjogcmdiKDMzLCAzNywgNDEpOyBmb250LWZhbWlseTogUmFsZXdheSwgc2Fucy1zZXJpZjsgZm9udC1zaXplOiAxNnB4OyBmb250LXdlaWdodDogNzAwOyB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlOyBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDI1NSwgMjU1LCAyNTUsIDAuNyk7IG1hcmdpbi1ib3R0b206IDAuMDAwMXB0OyBsaW5lLWhlaWdodDogbm9ybWFsOyI+PGI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogNy41cHQ7IGZvbnQtZmFtaWx5OiAmcXVvdDtDZW50dXJ5IEdvdGhpYyZxdW90Oywgc2Fucy1zZXJpZjsiPkNPTlRBQ1Q8bzpwPjwvbzpwPjwvc3Bhbj48L2I+PC9wPjxwIGNsYXNzPSJNc29Ob3JtYWwiIGFsaWduPSJjZW50ZXIiIHN0eWxlPSJjb2xvcjogcmdiKDMzLCAzNywgNDEpOyBmb250LWZhbWlseTogUmFsZXdheSwgc2Fucy1zZXJpZjsgZm9udC1zaXplOiAxNnB4OyBmb250LXdlaWdodDogNzAwOyB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlOyBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDI1NSwgMjU1LCAyNTUsIDAuNyk7IG1hcmdpbi1ib3R0b206IDAuMDAwMXB0OyBsaW5lLWhlaWdodDogbm9ybWFsOyI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTBwdDsgZm9udC1mYW1pbHk6ICZxdW90O0NlbnR1cnkgR290aGljJnF1b3Q7LCBzYW5zLXNlcmlmOyI+QVNTRVNTT1I8bzpwPjwvbzpwPjwvc3Bhbj48L3A+PHAgY2xhc3M9Ik1zb05vcm1hbCIgYWxpZ249ImNlbnRlciIgc3R5bGU9ImNvbG9yOiByZ2IoMzMsIDM3LCA0MSk7IGZvbnQtZmFtaWx5OiBSYWxld2F5LCBzYW5zLXNlcmlmOyBmb250LXNpemU6IDE2cHg7IGZvbnQtd2VpZ2h0OiA3MDA7IHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7IG1hcmdpbi1ib3R0b206IDAuMDAwMXB0OyBsaW5lLWhlaWdodDogbm9ybWFsOyBiYWNrZ3JvdW5kOiB3aGl0ZTsiPjxiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDEwcHQ7IGZvbnQtZmFtaWx5OiAmcXVvdDtDZW50dXJ5IEdvdGhpYyZxdW90Oywgc2Fucy1zZXJpZjsgY29sb3I6IGRpbWdyYXk7Ij5KT0RZIEwuIEhFT04sIENDTUFJPG86cD48L286cD48L3NwYW4+PC9iPjwvcD48cCBjbGFzcz0iTXNvTm9ybWFsIiBhbGlnbj0iY2VudGVyIiBzdHlsZT0iY29sb3I6IHJnYigzMywgMzcsIDQxKTsgZm9udC1mYW1pbHk6IFJhbGV3YXksIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZTogMTZweDsgZm9udC13ZWlnaHQ6IDcwMDsgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTsgYmFja2dyb3VuZC1jb2xvcjogcmdiYSgyNTUsIDI1NSwgMjU1LCAwLjcpOyBsaW5lLWhlaWdodDogbm9ybWFsOyI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTBwdDsgZm9udC1mYW1pbHk6ICZxdW90O0NlbnR1cnkgR290aGljJnF1b3Q7LCBzYW5zLXNlcmlmOyI+Jm5ic3A7PC9zcGFuPjwvcD48cCBjbGFzcz0iTXNvTm9ybWFsIiBhbGlnbj0iY2VudGVyIiBzdHlsZT0iY29sb3I6IHJnYigzMywgMzcsIDQxKTsgZm9udC1mYW1pbHk6IFJhbGV3YXksIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZTogMTZweDsgZm9udC13ZWlnaHQ6IDcwMDsgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTsgbWFyZ2luLWJvdHRvbTogMC4wMDAxcHQ7IGxpbmUtaGVpZ2h0OiBub3JtYWw7IGJhY2tncm91bmQ6IHdoaXRlOyI+PGI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTBwdDsgZm9udC1mYW1pbHk6ICZxdW90O0NlbnR1cnkgR290aGljJnF1b3Q7LCBzYW5zLXNlcmlmOyBjb2xvcjogZGltZ3JheTsiPlRFTEVQSE9ORTxvOnA+PC9vOnA+PC9zcGFuPjwvYj48L3A+PHAgY2xhc3M9Ik1zb05vcm1hbCIgYWxpZ249ImNlbnRlciIgc3R5bGU9ImNvbG9yOiByZ2IoMzMsIDM3LCA0MSk7IGZvbnQtZmFtaWx5OiBSYWxld2F5LCBzYW5zLXNlcmlmOyBmb250LXNpemU6IDE2cHg7IGZvbnQtd2VpZ2h0OiA3MDA7IHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7IG1hcmdpbi1ib3R0b206IDAuMDAwMXB0OyBsaW5lLWhlaWdodDogbm9ybWFsOyBiYWNrZ3JvdW5kOiB3aGl0ZTsiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDhwdDsgZm9udC1mYW1pbHk6ICZxdW90O0NlbnR1cnkgR290aGljJnF1b3Q7LCBzYW5zLXNlcmlmOyI+PGEgaHJlZj0idGVsOig4NjApJTIwNDU1LTkxMzIiPjxzcGFuIHN0eWxlPSJjb2xvcjogYmx1ZTsiPjg2MCA0NTUtOTEzMiBFWFQuIDU8L3NwYW4+PC9hPjxvOnA+PC9vOnA+PC9zcGFuPjwvcD48cCBjbGFzcz0iTXNvTm9ybWFsIiBhbGlnbj0iY2VudGVyIiBzdHlsZT0iY29sb3I6IHJnYigzMywgMzcsIDQxKTsgZm9udC1mYW1pbHk6IFJhbGV3YXksIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZTogMTZweDsgZm9udC13ZWlnaHQ6IDcwMDsgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTsgbWFyZ2luLWJvdHRvbTogMC4wMDAxcHQ7IGxpbmUtaGVpZ2h0OiBub3JtYWw7IGJhY2tncm91bmQ6IHdoaXRlOyI+PGI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTBwdDsgZm9udC1mYW1pbHk6ICZxdW90O0NlbnR1cnkgR290aGljJnF1b3Q7LCBzYW5zLXNlcmlmOyBjb2xvcjogZGltZ3JheTsiPkVNQUlMIEFERFJFU1M8bzpwPjwvbzpwPjwvc3Bhbj48L2I+PC9wPjxwIGNsYXNzPSJNc29Ob3JtYWwiIGFsaWduPSJjZW50ZXIiIHN0eWxlPSJjb2xvcjogcmdiKDMzLCAzNywgNDEpOyBmb250LWZhbWlseTogUmFsZXdheSwgc2Fucy1zZXJpZjsgZm9udC1zaXplOiAxNnB4OyBmb250LXdlaWdodDogNzAwOyB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlOyBtYXJnaW4tYm90dG9tOiAwLjAwMDFwdDsgbGluZS1oZWlnaHQ6IG5vcm1hbDsgYmFja2dyb3VuZDogd2hpdGU7Ij48c3BhbiBzdHlsZT0iZm9udC1zaXplOiA4cHQ7IGZvbnQtZmFtaWx5OiAmcXVvdDtDZW50dXJ5IEdvdGhpYyZxdW90Oywgc2Fucy1zZXJpZjsiPjxhIGhyZWY9Im1haWx0bzphc3Nlc3NvcnNAaGFtcHRvbmN0Lm9yZyI+PHNwYW4gc3R5bGU9ImNvbG9yOiBibHVlOyI+QVNTRVNTT1JTQEhBTVBUT05DVC5PUkc8L3NwYW4+PC9hPjxvOnA+PC9vOnA+PC9zcGFuPjwvcD48cCBjbGFzcz0iTXNvTm9ybWFsIiBhbGlnbj0iY2VudGVyIiBzdHlsZT0iY29sb3I6IHJnYigzMywgMzcsIDQxKTsgZm9udC1mYW1pbHk6IFJhbGV3YXksIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZTogMTZweDsgZm9udC13ZWlnaHQ6IDcwMDsgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTsgbWFyZ2luLWJvdHRvbTogMC4wMDAxcHQ7IGxpbmUtaGVpZ2h0OiBub3JtYWw7IGJhY2tncm91bmQ6IHdoaXRlOyI+PGI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTBwdDsgZm9udC1mYW1pbHk6ICZxdW90O0NlbnR1cnkgR290aGljJnF1b3Q7LCBzYW5zLXNlcmlmOyBjb2xvcjogZGltZ3JheTsiPkhPVVJTPG86cD48L286cD48L3NwYW4+PC9iPjwvcD48cCBjbGFzcz0iTXNvTm9ybWFsIiBhbGlnbj0iY2VudGVyIiBzdHlsZT0iY29sb3I6IHJnYigzMywgMzcsIDQxKTsgZm9udC1mYW1pbHk6IFJhbGV3YXksIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZTogMTZweDsgZm9udC13ZWlnaHQ6IDcwMDsgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTsgbWFyZ2luLWJvdHRvbTogMC4wMDAxcHQ7IGxpbmUtaGVpZ2h0OiBub3JtYWw7IGJhY2tncm91bmQ6IHdoaXRlOyI+PGI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogOHB0OyBmb250LWZhbWlseTogJnF1b3Q7Q2VudHVyeSBHb3RoaWMmcXVvdDssIHNhbnMtc2VyaWY7Ij5UVUVTREFZUzombmJzcDs8L3NwYW4+PC9iPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDhwdDsgZm9udC1mYW1pbHk6ICZxdW90O0NlbnR1cnkgR290aGljJnF1b3Q7LCBzYW5zLXNlcmlmOyI+OUFNIFRPIDRQTSZuYnNwOzxicj48Yj5USFVSU0RBWVM6Jm5ic3A7PC9iPjNQTS03UE08bzpwPjwvbzpwPjwvc3Bhbj48L3A+PHAgY2xhc3M9Ik1zb05vcm1hbCIgYWxpZ249ImNlbnRlciIgc3R5bGU9ImNvbG9yOiByZ2IoMzMsIDM3LCA0MSk7IGZvbnQtZmFtaWx5OiBSYWxld2F5LCBzYW5zLXNlcmlmOyBmb250LXNpemU6IDE2cHg7IGZvbnQtd2VpZ2h0OiA3MDA7IHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7IG1hcmdpbi1ib3R0b206IDAuMDAwMXB0OyBsaW5lLWhlaWdodDogbm9ybWFsOyBiYWNrZ3JvdW5kOiB3aGl0ZTsiPjxiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDEwcHQ7IGZvbnQtZmFtaWx5OiAmcXVvdDtDZW50dXJ5IEdvdGhpYyZxdW90Oywgc2Fucy1zZXJpZjsgY29sb3I6IGRpbWdyYXk7Ij5MT0NBVElPTjxvOnA+PC9vOnA+PC9zcGFuPjwvYj48L3A+PHAgY2xhc3M9Ik1zb05vcm1hbCIgYWxpZ249ImNlbnRlciIgc3R5bGU9ImNvbG9yOiByZ2IoMzMsIDM3LCA0MSk7IGZvbnQtZmFtaWx5OiBSYWxld2F5LCBzYW5zLXNlcmlmOyBmb250LXNpemU6IDE2cHg7IGZvbnQtd2VpZ2h0OiA3MDA7IHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7IG1hcmdpbi1ib3R0b206IDAuMDAwMXB0OyBsaW5lLWhlaWdodDogbm9ybWFsOyBiYWNrZ3JvdW5kOiB3aGl0ZTsiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDhwdDsgZm9udC1mYW1pbHk6ICZxdW90O0NlbnR1cnkgR290aGljJnF1b3Q7LCBzYW5zLXNlcmlmOyI+SEFNUFRPTiBUT1dOIEhBTEw8bzpwPjwvbzpwPjwvc3Bhbj48L3A+PHAgY2xhc3M9Ik1zb05vcm1hbCIgYWxpZ249ImNlbnRlciIgc3R5bGU9ImNvbG9yOiByZ2IoMzMsIDM3LCA0MSk7IGZvbnQtZmFtaWx5OiBSYWxld2F5LCBzYW5zLXNlcmlmOyBmb250LXNpemU6IDE2cHg7IGZvbnQtd2VpZ2h0OiA3MDA7IHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7IG1hcmdpbi1ib3R0b206IDAuMDAwMXB0OyBsaW5lLWhlaWdodDogbm9ybWFsOyBiYWNrZ3JvdW5kOiB3aGl0ZTsiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDhwdDsgZm9udC1mYW1pbHk6ICZxdW90O0NlbnR1cnkgR290aGljJnF1b3Q7LCBzYW5zLXNlcmlmOyI+MTY0IE1BSU4gU1QsIEhBTVBUT04sIENUJm5ic3A7IDA2MjQ3PC9zcGFuPjwvcD5kAgMPZBYGAgEPFgIfA2hkAgMPDxYCHwNnZGQCBQ8WAh8CBZoFJm5ic3A7SWYgeW91IGhhdmUgYW55IHF1ZXN0aW9ucyBwbGVhc2UgY2FsbCBWaXNpb24gY3VzdG9tZXIgc3VwcG9ydCBhdCA4MDAtNjI4LTEwMTMgeDIuPGRpdj48YnI+PC9kaXY+PGRpdj48ZGl2IGNsYXNzPSJoZWFkaW5nIiBzdHlsZT0iYm94LXNpemluZzogYm9yZGVyLWJveDsgdGV4dC1hbGlnbjogY2VudGVyOyBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDI1NSwgMjU1LCAyNTUsIDAuNyk7IHBhZGRpbmc6IDEwcHggMTVweDsgbWFyZ2luOiAwcHg7IGNvbG9yOiByZ2IoMzMsIDM3LCA0MSk7IGZvbnQtZmFtaWx5OiBBcmltbzsgZm9udC1zaXplOiAxNnB4OyI+PGg2IHN0eWxlPSJib3gtc2l6aW5nOiBib3JkZXItYm94OyBtYXJnaW4tdG9wOiAwcHg7IG1hcmdpbi1ib3R0b206IDAuNXJlbTsgZm9udC1mYW1pbHk6IFJhbGV3YXksIHNhbnMtc2VyaWY7IGxpbmUtaGVpZ2h0OiAxLjI7IGNvbG9yOiBpbmhlcml0OyBmb250LXNpemU6IDFyZW07IHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7Ij48cCBjbGFzcz0iTXNvTm9ybWFsIiBhbGlnbj0iY2VudGVyIiBzdHlsZT0ibWFyZ2luLWJvdHRvbTogMC4wMDAxcHQ7IGxpbmUtaGVpZ2h0OiBub3JtYWw7Ij48YnI+PC9wPjwvaDY+PC9kaXY+PC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj48YnI+PC9kaXY+ZGRgucaQad5gkd9CrYuxpx/fXw7K3u6qc2LcnxCOpd5mHA==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="2BF19D81" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAI9bsFwgYTcwxER8Qhblw9cQyChBnh26NvXQpWWOqy8DKqhPvSTwdyFBXYskTBQN4twy5PMwhjgtps0+jdPXXmL" />
+</div>
+        <div class="inner-page">
+            <div class="inner-inner-page">
+                <div class="page front">
+                    <header>
+                    <div class="topBorder">
+                     <img alt="" id="HeaderImage" src='/HamptonCT/Images/top-border.png' width="955px;"  />    
+                    </div>
+                    <div class="header-images">
+                        <div id="panBannerDefault">
+	
+                            <table style="width:99.5%" >
+                                <tr>
+                                    <td>
+                                        <h1 style="font-size:20pt !important; font-weight: bold;">
+                                            <img id="imgTownSeal" src="Images/hampton_ct.jpg" alt="HAMPTON,CT town seal" style="height:75px;" />
+                                            <span id="lblTownName" class="myinnercontainer" style="display:inline-block;font-size:36pt;font-weight:bold;width:500px;">HAMPTON,CT</span>
+                                        </h1>
+                                    </td>
+                                    <td align="right">
+                                        <span class="header-right-image" >
+                                            <input type="image" name="ctl00$ImageButton1" id="imgVisionImageButton" 
+                                           src='/HamptonCT/Images/visiongovernmentsolutionslogo.png' alt="Vision Government Solutions Logo" />
+                                        </span>
+                                    </td>
+                                </tr>
+                            </table>
+                        
+</div>
+                        
+                    </div>
+                    <div style="width:100%;top:-18px;position: relative">
+                        
+                    </div>
+                    </header>
+                    <div>
+                        <div class="page clientservices-appraisal">
+                            <main>
+                            <div class="main-content">
+                                <div style="width: 99%;padding-left:5px;padding-right:5px;">
+                                    
+
+    <style>
+        div.container
+        {
+            border: 0px solid #000000;
+            overflow: auto;
+            width: 100%;
+        }
+    </style>
+    <div class="container">
+        <div class="ui-widget">
+            <div id="WelcomeText" style="float: Left; width: 50%">
+                <h1>Welcome</h1>
+                
+                <p style="margin: 0in 0in 0pt; font-size: 15.4px; background-color: rgb(255, 255, 255);"><font face="Arial, sans-serif">&nbsp;</font><span style="font-family: Tahoma, sans-serif; font-size: 10pt;">Welcome to the Town of
+Hampton, Connecticut online assessment database.</span></p><p class="MsoNormal"><span style="font-size: 10pt; font-family: Tahoma, sans-serif;"><br>
+Hampton has completed a revaluation for the Grand List of October 1, 2023.&nbsp;&nbsp;</span></p><p class="MsoNormal"><span style="font-size: 10pt; font-family: Tahoma, sans-serif;">The 2023 mill rate was set at 20.83.</span></p><p class="MsoNormal"><span style="font-size: 10pt; font-family: Tahoma, sans-serif;"><br></span></p><p class="MsoNormal"><span style="font-size: 10pt; font-family: Tahoma, sans-serif;">The 2024 Grand List has been filed as of 1/28/25. A mill rate will not be set until budget approval late Spring 2025.&nbsp; For more information concerning budgets or the Board of Finance, visit the Town of Hampton website at www.hamptonct.org.</span></p><p class="MsoNormal"><font color="#ff0000" style="font-family: Tahoma, sans-serif; font-size: 10pt;"><br></font></p><p class="MsoNormal"><font face="Tahoma, sans-serif"><span style="font-size: 10pt;">If you wish to appeal your assessment&nbsp;</span><span style="font-size: 13.3333px;">you</span><span style="font-size: 10pt;">&nbsp;may file an appeal with the Town of
+Hampton’s Board of Assessment Appeals.&nbsp; Appeals to the Board of Assessment
+Appeals must be filed on or before February 20, 2025.&nbsp; Petition forms are available from the Resources tab of the Assessor's page on the Town of Hampton website.</span></font></p><p class="MsoNormal"><font face="Tahoma, sans-serif"><span style="font-size: 10pt;">Property records are updated by our vendor, Vision Government Solutions, on a monthly basis, however pdf versions of the property card or "field card" are only updated once annually after the completion of dutites by the Board of Assessment Appeals in March.</span></font></p><p class="MsoNormal"><font face="Tahoma, sans-serif"><span style="font-size: 13.3333px;">Questions and concerns should be directed to the Assessor listed below.</span></font></p><span style="font-size: 10pt; font-family: Tahoma, sans-serif;">
+<!--[if !supportLineBreakNewLine]--><br>
+<!--[endif]--></span><p class="MsoNormal" align="center" style="color: rgb(33, 37, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 700; text-transform: uppercase; background-color: rgba(255, 255, 255, 0.7); margin-bottom: 0.0001pt; line-height: normal;"><b><span style="font-size: 7.5pt; font-family: &quot;Century Gothic&quot;, sans-serif;">CONTACT<o:p></o:p></span></b></p><p class="MsoNormal" align="center" style="color: rgb(33, 37, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 700; text-transform: uppercase; background-color: rgba(255, 255, 255, 0.7); margin-bottom: 0.0001pt; line-height: normal;"><span style="font-size: 10pt; font-family: &quot;Century Gothic&quot;, sans-serif;">ASSESSOR<o:p></o:p></span></p><p class="MsoNormal" align="center" style="color: rgb(33, 37, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 700; text-transform: uppercase; margin-bottom: 0.0001pt; line-height: normal; background: white;"><b><span style="font-size: 10pt; font-family: &quot;Century Gothic&quot;, sans-serif; color: dimgray;">JODY L. HEON, CCMAI<o:p></o:p></span></b></p><p class="MsoNormal" align="center" style="color: rgb(33, 37, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 700; text-transform: uppercase; background-color: rgba(255, 255, 255, 0.7); line-height: normal;"><span style="font-size: 10pt; font-family: &quot;Century Gothic&quot;, sans-serif;">&nbsp;</span></p><p class="MsoNormal" align="center" style="color: rgb(33, 37, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 700; text-transform: uppercase; margin-bottom: 0.0001pt; line-height: normal; background: white;"><b><span style="font-size: 10pt; font-family: &quot;Century Gothic&quot;, sans-serif; color: dimgray;">TELEPHONE<o:p></o:p></span></b></p><p class="MsoNormal" align="center" style="color: rgb(33, 37, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 700; text-transform: uppercase; margin-bottom: 0.0001pt; line-height: normal; background: white;"><span style="font-size: 8pt; font-family: &quot;Century Gothic&quot;, sans-serif;"><a href="tel:(860)%20455-9132"><span style="color: blue;">860 455-9132 EXT. 5</span></a><o:p></o:p></span></p><p class="MsoNormal" align="center" style="color: rgb(33, 37, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 700; text-transform: uppercase; margin-bottom: 0.0001pt; line-height: normal; background: white;"><b><span style="font-size: 10pt; font-family: &quot;Century Gothic&quot;, sans-serif; color: dimgray;">EMAIL ADDRESS<o:p></o:p></span></b></p><p class="MsoNormal" align="center" style="color: rgb(33, 37, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 700; text-transform: uppercase; margin-bottom: 0.0001pt; line-height: normal; background: white;"><span style="font-size: 8pt; font-family: &quot;Century Gothic&quot;, sans-serif;"><a href="mailto:assessors@hamptonct.org"><span style="color: blue;">ASSESSORS@HAMPTONCT.ORG</span></a><o:p></o:p></span></p><p class="MsoNormal" align="center" style="color: rgb(33, 37, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 700; text-transform: uppercase; margin-bottom: 0.0001pt; line-height: normal; background: white;"><b><span style="font-size: 10pt; font-family: &quot;Century Gothic&quot;, sans-serif; color: dimgray;">HOURS<o:p></o:p></span></b></p><p class="MsoNormal" align="center" style="color: rgb(33, 37, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 700; text-transform: uppercase; margin-bottom: 0.0001pt; line-height: normal; background: white;"><b><span style="font-size: 8pt; font-family: &quot;Century Gothic&quot;, sans-serif;">TUESDAYS:&nbsp;</span></b><span style="font-size: 8pt; font-family: &quot;Century Gothic&quot;, sans-serif;">9AM TO 4PM&nbsp;<br><b>THURSDAYS:&nbsp;</b>3PM-7PM<o:p></o:p></span></p><p class="MsoNormal" align="center" style="color: rgb(33, 37, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 700; text-transform: uppercase; margin-bottom: 0.0001pt; line-height: normal; background: white;"><b><span style="font-size: 10pt; font-family: &quot;Century Gothic&quot;, sans-serif; color: dimgray;">LOCATION<o:p></o:p></span></b></p><p class="MsoNormal" align="center" style="color: rgb(33, 37, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 700; text-transform: uppercase; margin-bottom: 0.0001pt; line-height: normal; background: white;"><span style="font-size: 8pt; font-family: &quot;Century Gothic&quot;, sans-serif;">HAMPTON TOWN HALL<o:p></o:p></span></p><p class="MsoNormal" align="center" style="color: rgb(33, 37, 41); font-family: Raleway, sans-serif; font-size: 16px; font-weight: 700; text-transform: uppercase; margin-bottom: 0.0001pt; line-height: normal; background: white;"><span style="font-size: 8pt; font-family: &quot;Century Gothic&quot;, sans-serif;">164 MAIN ST, HAMPTON, CT&nbsp; 06247</span></p>
+
+            </div>
+
+            <br />
+            <br />
+            <div id="MainContent_login" style="float: Right; width: 45%; ">
+            
+                <div style="padding-left:40px; font-size:1.4em">
+                <br />&nbsp;
+                    <input type="submit" name="ctl00$MainContent$btnEnterOnlineDatabase" value="Enter Online Database" id="MainContent_btnEnterOnlineDatabase" class="btn btn-primary" />
+
+                    <br /><br /><br />
+                
+            </div>
+            <div id="SilverlightMessage"  >
+                
+                
+              
+                    
+            </div>
+                    <br />
+
+                  &nbsp;If you have any questions please call Vision customer support at 800-628-1013 x2.<div><br></div><div><div class="heading" style="box-sizing: border-box; text-align: center; background-color: rgba(255, 255, 255, 0.7); padding: 10px 15px; margin: 0px; color: rgb(33, 37, 41); font-family: Arimo; font-size: 16px;"><h6 style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0.5rem; font-family: Raleway, sans-serif; line-height: 1.2; color: inherit; font-size: 1rem; text-transform: uppercase;"><p class="MsoNormal" align="center" style="margin-bottom: 0.0001pt; line-height: normal;"><br></p></h6></div></div><div><br></div><div><br></div><div><br></div>
+
+        </div>
+    </div>
+    <br />
+    <br />
+    <br />
+        </div>
+
+                                </div>
+                            </div>
+                            </main>
+                            <div style="height:10px;"></div>
+                            <footer>
+                            <div class="clientservices-footer">
+                                <div style="background-color:#333366; width: 100%">
+                                    <span style="float:right;padding-top:6px; padding-right: 12px;">(c)  2026 Vision Government Solutions, Inc. All rights reserved.</span>
+                                </div>    
+                            </div>
+                            </footer>
+                        </div>
+                    </div>
+                    <div class="bottomgraphic">    
+                        <img alt="" id="Image4" src='/HamptonCT/Images/pagebottomds.png' />
+                    </div> 
+                </div>
+            </div>
+        </div>
+        
+        
+    <script type="text/javascript">
+        //ondomready
+        $(function () {
+
+            var ua = window.navigator.userAgent;
+            var msie = ua.indexOf("MSIE ");
+
+            if (msie > 0) // If Internet Explorer, check version number
+            {
+                var version = parseInt(ua.substring(msie + 5, ua.indexOf(".", msie)));
+                if (version <= 6) {
+                    alert("Your browser need to be upgraded to version 7 or newer for this site to work correctly");
+                }
+            };
+
+        });
+
+        $(function () {
+
+            // $("input:submit,  button", ".ui-widget").button();
+
+        });
+
+
+
+
+
+       
+
+    </script>
+    
+    <script>
+        // Override the user agent so that you can see it work!
+        navigator.__defineGetter__('userAgent', function () {
+            return 'Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; SLCC1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.50727)';
+        });
+
+
+    </script>
+
+   
+
+      
+        
+              <script type="text/javascript">
+
+                  //SMW VIS-12382 upgraded GA tag into master page head tags to clear cookie samesite error
+                  //var _gaq = _gaq || [];
+                  //_gaq.push(['_setAccount', 'UA-37067763-1']);
+                  //_gaq.push(['_trackPageview']);
+
+                  //(function () {
+                  //    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                  //    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://ssl') + '.google-analytics.com/ga.js';
+                  //    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                  //})();
+
+</script>        
+    </form>
+
+</body>
+</html>
+

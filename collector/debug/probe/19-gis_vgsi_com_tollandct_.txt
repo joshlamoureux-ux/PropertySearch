@@ -1,0 +1,243 @@
+URL: https://gis.vgsi.com/tollandct/
+FINAL: https://gis.vgsi.com/tollandct/
+STATUS: 200
+TITLE: Vision Government Solutions
+BYTES: 9863
+
+===== TEXT =====
+Vision Government Solutions
+
+|
+
+TOLLAND,CT
+
+|
+
+Welcome
+
+Welcome to the Vision Government Solutions Inc. Assessor’s database for the Town of Tolland, CT.
+
+DO NOT ATTEMPT TO CONTACT VISION AS THEY ARE UNABLE TO ASSIST TOLLAND RESIDENTS.
+
+The Town of Tolland has contracted with Vision Government Solutions of Hudson, Massachusetts only to host the town's assessment data.
+
+This database has been updated on 3/19/2026 with 2025 Grand list numbers as of October 1, 2025.
+
+For questions call the Tolland Assessor's Office; 860-871-3650
+
+(c) 2026 Vision Government Solutions, Inc. All rights reserved.
+
+===== LINKS =====
+
+
+===== RAW HEAD =====
+
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    
+     <link type="text/css" rel="stylesheet" media="all" href="/TollandCT/Styles/base.css" />
+   <!--
+   [if IE 7]><link type="text/css" rel="stylesheet" media="all" href="/TollandCT/Styles/ie7.css" /><![endif]
+   [if IE 8]><link type="text/css" rel="stylesheet" media="all" href="/TollandCT/Styles/ie8.css"/><![endif]
+   -->
+   <link href="/TollandCT/Styles/SoftGreyGridView.css" rel="stylesheet" type="text/css" />
+    <link href="/TollandCT/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+
+    <link href="/TollandCT/Styles/jquery-ui-1.9.2.custom.css" rel="stylesheet" type="text/css" />
+   
+    <!-- JQuery and UI-->
+    <script src="/TollandCT/Scripts/jquery-1.8.3.js"  type="text/javascript"></script>
+    <script src="/TollandCT/Scripts/jquery-ui-1.9.2.custom.min.js"  type="text/javascript"></script>
+   
+    <script src="/TollandCT/Scripts/bgiframe.js" type="text/javascript"></script>
+    <link rel="shortcut icon" href="/TollandCT/Images/VGS_Icon32x32.ico" type="image/x-icon" />
+      <style type="text/css">
+	.myoutercontainer { position:relative }
+	.myinnercontainer { position:absolute; top:50%; height:75px; margin-top:0px }
+    </style>
+
+    <title>Vision Government Solutions </title>
+</head>
+<body class="page front">
+    <form method="post" action="./" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTE2OTQ4MTU3NQ9kFgJmD2QWAmYPZBYGZg9kFgRmDw8WBB4ISW1hZ2VVcmwFF34vSW1hZ2VzL3RvbGxhbmRfY3QuZ2lmHg1BbHRlcm5hdGVUZXh0BRRUT0xMQU5ELENUIHRvd24gc2VhbGRkAgEPDxYCHgRUZXh0BQpUT0xMQU5ELENUZGQCAQ8PFgIeB1Zpc2libGVoZGQCAg9kFgQCAQ8WAh8CBeYFPGRpdj5XZWxjb21lIHRvIHRoZSBWaXNpb24gR292ZXJubWVudCBTb2x1dGlvbnMgSW5jLiBBc3Nlc3NvcuKAmXMgZGF0YWJhc2UgZm9yIHRoZSBUb3duIG9mIFRvbGxhbmQsIENULiZuYnNwOzwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+PGI+RE8gTk9UIEFUVEVNUFQgVE8gQ09OVEFDVCBWSVNJT04gQVMgVEhFWSBBUkUgVU5BQkxFIFRPIEFTU0lTVCBUT0xMQU5EIFJFU0lERU5UUy48L2I+Jm5ic3A7PC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj5UaGUgVG93biBvZiBUb2xsYW5kIGhhcyBjb250cmFjdGVkIHdpdGggVmlzaW9uIEdvdmVybm1lbnQgU29sdXRpb25zIG9mIEh1ZHNvbiwgTWFzc2FjaHVzZXR0cyA8Yj5vbmx5PC9iPiZuYnNwOzxiPnRvIGhvc3QgdGhlIHRvd24ncyBhc3Nlc3NtZW50IGRhdGEuPC9iPiZuYnNwOzwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+VGhpcyBkYXRhYmFzZSBoYXMgYmVlbiB1cGRhdGVkIG9uIDMvMTkvMjAyNiB3aXRoIDIwMjUgR3JhbmQgbGlzdCBudW1iZXJzIGFzIG9mIE9jdG9iZXIgMSwgMjAyNS4mbmJzcDs8L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2PkZvciBxdWVzdGlvbnMgY2FsbCB0aGUgVG9sbGFuZCBBc3Nlc3NvcidzIE9mZmljZTsgODYwLTg3MS0zNjUwPC9kaXY+PGRpdj48YnI+PC9kaXY+PGJyPjxkaXY+PGJyPjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+PGJyPjwvZGl2PmQCAw9kFgYCAQ8WAh8DaGQCAw8PFgIfA2dkZAIFDxYCHwIFBDxicj5kZApb/HfFltxW5MTwugwK7A3s4EIKX4AywWDXC+eiFd+H" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="677ABEF4" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAJ0Dl4OKHvZGV3iF9BG8sHiQyChBnh26NvXQpWWOqy8DGrxzMct9emoY9Z4ar81gYFJ+SfQe+pdf+dIkG1W2gTP" />
+</div>
+    <div class="inner-page">
+        <div class="inner-inner-page">
+            <div class="page front">
+                <div class="topBorder">
+                 <img alt="" id="HeaderImage" src='/TollandCT/Images/top-border.png' width="955px;"  />    
+                </div>
+                <div class="header-images">
+                    <div id="panBannerDefault">
+	
+                        <table style="width:99.5%" >
+                            <tr>
+                                <td>
+                                    <span >
+                                        <img id="imgTownSeal" src="Images/tolland_ct.gif" alt="TOLLAND,CT town seal" style="height:75px;" />
+                                    </span>
+                                    <span class="myoutercontainer" style="padding-top: 15px;margin-top: 15px;vertical-align: middle; ">
+                                        <span id="lblTownName" class="myinnercontainer" style="display:inline-block;font-size:36pt;font-weight:bold;width:500px;">TOLLAND,CT</span>
+                                    </span>
+                                </td>
+                                <td align="right">
+                                    <span class="header-right-image" >
+                                        <input type="image" name="ctl00$ImageButton1" id="imgVisionImageButton" 
+                                       src='/TollandCT/Images/visiongovernmentsolutionslogo.png' />
+                                    </span>
+                                </td>
+                            </tr>
+                        </table>
+                    
+</div>
+                    
+                </div>
+                <div style="width:100%;top:-18px;position: relative">
+                    
+                
+                </div>
+                <div>
+                    <div class="page clientservices-appraisal">
+                        <div class="main-content">
+                            <div style="width: 99%;padding-left:5px;padding-right:5px;">
+                                
+
+    <style>
+        div.container
+        {
+            border: 0px solid #000000;
+            overflow: auto;
+            width: 100%;
+        }
+    </style>
+    <div class="container">
+        <div class="ui-widget">
+            <div id="WelcomeText" style="float: Left; width: 50%">
+                <h1>Welcome</h1>
+                
+                <div>Welcome to the Vision Government Solutions Inc. Assessor’s database for the Town of Tolland, CT.&nbsp;</div><div><br></div><div><b>DO NOT ATTEMPT TO CONTACT VISION AS THEY ARE UNABLE TO ASSIST TOLLAND RESIDENTS.</b>&nbsp;</div><div><br></div><div>The Town of Tolland has contracted with Vision Government Solutions of Hudson, Massachusetts <b>only</b>&nbsp;<b>to host the town's assessment data.</b>&nbsp;</div><div><br></div><div><br></div><div>This database has been updated on 3/19/2026 with 2025 Grand list numbers as of October 1, 2025.&nbsp;</div><div><br></div><div>For questions call the Tolland Assessor's Office; 860-871-3650</div><div><br></div><br><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>
+
+            </div>
+
+            <br />
+            <br />
+            <div id="MainContent_login" style="float: Right; width: 45%; ">
+            
+                <div style="padding-left:40px; font-size:1.4em">
+                <br />&nbsp;
+                    <input type="submit" name="ctl00$MainContent$btnEnterOnlineDatabase" value="Enter Online Database" id="MainContent_btnEnterOnlineDatabase" class="btn btn-primary" />
+
+                    <br /><br /><br />
+                
+            </div>
+            <div id="SilverlightMessage"  >
+                
+                
+              
+                    
+            </div>
+                    <br />
+
+                  <br>
+
+        </div>
+    </div>
+    <br />
+    <br />
+    <br />
+        </div>
+
+                            </div>
+                        </div>
+                <div style="height:10px;"></div>
+                         <div class="clientservices-footer">
+               
+                <div style="background-color:#333366; width: 100%">
+                    <span style="float:right;padding-top:6px; padding-right: 12px;">(c)  2026 Vision Government Solutions, Inc. All rights reserved.</span>
+                </div>    
+            </div>
+                    </div>
+                </div>
+                <div class="bottomgraphic">    
+                    <img alt="" id="Image4" src='/TollandCT/Images/pagebottomds.png' />
+                </div> 
+            </div>
+        </div>
+        </div>
+  
+    <script type="text/javascript">
+        //ondomready
+        $(function () {
+
+            var ua = window.navigator.userAgent;
+            var msie = ua.indexOf("MSIE ");
+
+            if (msie > 0) // If Internet Explorer, check version number
+            {
+                var version = parseInt(ua.substring(msie + 5, ua.indexOf(".", msie)));
+                if (version <= 6) {
+                    alert("Your browser need to be upgraded to version 7 or newer for this site to work correctly");
+                }
+            };
+
+        });
+
+        $(function () {
+
+            // $("input:submit,  button", ".ui-widget").button();
+
+        });
+
+
+
+
+
+       
+
+    </script>
+    
+    <script>
+        // Override the user agent so that you can see it work!
+        navigator.__defineGetter__('userAgent', function () {
+            return 'Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; SLCC1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.50727)';
+        });
+
+
+    </script>
+
+   
+
+  
+
+              <script type="text/javascript">
+
+                  //SMW VIS-12382 upgraded GA tag into master page head tags to clear cookie samesite error
+                  //var _gaq = _gaq || [];
+                  //_gaq.push(['_setAccount', 'UA-37067763-1']);
+                  //_gaq.push(['_trackPageview']);
+
+                  //(function () {
+                  //    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                  //    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://ssl') + '.google-analytics.com/ga.js';
+                  //    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                  //})();
+
+</script>        
+    </form>
+
+</body>
+</html>
+

@@ -1,9 +1,9 @@
-URL: https://www.bid4assets.com/storefront/MonroePATaxMar26
+URL: https://www.bid4assets.com/storefront/MonroePATaxApr26
 STATUS: 200
-TITLE: Bid4Assets: Monroe County, PA Repository Mar26
+TITLE: Bid4Assets: Monroe County, PA Repository Apr26
 
 ===== TEXT =====
-Bid4Assets: Monroe County, PA Repository Mar26
+Bid4Assets: Monroe County, PA Repository Apr26
 
 Follow us:
 
@@ -31,21 +31,21 @@ County of Monroe, PA
 
 Tax Claim Bureau - Repository Sale
 
-Important Dates [https://www.bid4assets.com/storefront/MonroePATaxMar26#collapseOne]
+Important Dates [https://www.bid4assets.com/storefront/MonroePATaxApr26#collapseOne]
 
 Starts
-March 11, 2026 at 10:00 AM ET
+April 8, 2026 at 10:00 AM ET
 
 Ends
-March 11, 2026 Closing times vary; check Auctions [https://www.bid4assets.com/storefront/MonroePATaxMar26#auctions] for details.
+April 8, 2026 Closing times vary; check Auctions [https://www.bid4assets.com/storefront/MonroePATaxApr26#auctions] for details.
 
 Deposit Deadline
-February 26, 2026 at 4:00 PM ET
+March 25, 2026 at 4:00 PM ET
 
 Settlement Deadline
-March 12, 2026 at 4:00 PM ET
+April 9, 2026 at 4:00 PM ET
 
-Deposit Instructions [https://www.bid4assets.com/storefront/MonroePATaxMar26#collapseTwo]
+Deposit Instructions [https://www.bid4assets.com/storefront/MonroePATaxApr26#collapseTwo]
 
 Monroe County Tax Claim Bureau is offering repository parcels for online auction.
 
@@ -55,7 +55,7 @@ These are all NO RESERVE auctions! Preview Now!
 
 Deposit Requirements
 
-A single $500.00 deposit (plus a $35 processing fee) is required to participate in the County of Monroe, PA Repository Sale. Your deposit must be received by Bid4Assets NO LATER THAN 4:00 PM ET (1:00 PM PT) Thursday, February 26. 2026. Please make your deposit well in advance of the auction in order to ensure your eligibility to bid.
+A single $500.00 deposit (plus a $35 processing fee) is required to participate in the County of Monroe, PA Repository Sale. Your deposit must be received by Bid4Assets NO LATER THAN 4:00 PM ET (1:00 PM PT) Wednesday, March 25, 2026. Please make your deposit well in advance of the auction in order to ensure your eligibility to bid.
 
 Potential bidders are required to register with the Monroe County Tax Claim Bureau AFTER registering and funding your deposit with Bid4Assets. Registration with both Bid4Assets and the Monroe County Tax Claim Bureau will begin on the 3rd Monday of each month and end at 4:00 pm on the last Friday of each month. Registration with Monroe County only needs to be completed once (1x) per calendar year.
 
@@ -65,13 +65,13 @@ All deposits to non-winning bidders will be refunded via eCheck within 10 busine
 
 Click Here For Deposit Instructions
 
-Settlement Instructions [https://www.bid4assets.com/storefront/MonroePATaxMar26#collapseSix]
+Settlement Instructions [https://www.bid4assets.com/storefront/MonroePATaxApr26#collapseSix]
 
-Full payment must be received by Bid4Assets no later than 4:00 PM ET on Thursday, March 12, 2026 . - No exceptions will be made. If the payment policy is not adhered to the winning bidder will forfeit their deposit to the County of Monroe, PA and may be banned from future sales.
+Full payment must be received by Bid4Assets no later than 4:00 PM ET on Thursday, April 9, 2026 . - No exceptions will be made. If the payment policy is not adhered to the winning bidder will forfeit their deposit to the County of Monroe, PA and may be banned from future sales.
 
 A $35 per-parcel-won administrative fee will be added to the final Sale Price and a 5% Buyers Premium (minimum $100.00) will be charged per parcel.
 
-Key Information [https://www.bid4assets.com/storefront/MonroePATaxMar26#collapseThree]
+Key Information [https://www.bid4assets.com/storefront/MonroePATaxApr26#collapseThree]
 
 Registration
 
@@ -187,13 +187,13 @@ Prospective purchasers are advised that some bonds or other assessments which ar
 You must be at least 18 years old to bid
 ALL SALES ARE FINAL!
 
-General Tax Sale Documents [https://www.bid4assets.com/storefront/MonroePATaxMar26#collapseFour]
+General Tax Sale Documents [https://www.bid4assets.com/storefront/MonroePATaxApr26#collapseFour]
 
 General Tax Sale Information
 
-County TOS [https://www.bid4assets.com/storefront/viewduediligence/24154?collectionId=9739&key=9aacc498-c0cf-475a-afec-53c99cda42d3]
+County TOS [https://www.bid4assets.com/storefront/viewduediligence/24326?collectionId=9790&key=304c647f-983a-479a-8a14-12deec1fa33f]
 
-Auction Folders [https://www.bid4assets.com/storefront/MonroePATaxMar26#collapseFive]
+Auction Folders [https://www.bid4assets.com/storefront/MonroePATaxApr26#collapseFive]
 
 Click Here to Download Property List Spreadsheet
 
@@ -214,7 +214,7 @@ View my Account [https://www.bid4assets.com/myb4a/]
 Search
 
 By APN#
-Please remember to enterall of the digits of the APN number including all dashes. If you do not have the full APN number, please download the spreadsheet located below or contact the county. [https://www.bid4assets.com/storefront/MonroePATaxMar26#]
+Please remember to enterall of the digits of the APN number including all dashes. If you do not have the full APN number, please download the spreadsheet located below or contact the county. [https://www.bid4assets.com/storefront/MonroePATaxApr26#]
 
 By Auction ID#
 
@@ -287,7 +287,7 @@ Create a Bid4Assets account -> https://www.bid4assets.com/registration/signup/st
  -> https://www.youtube.com/watch?v=obgnqB2k8Wg
 clicking here -> https://secure.bid4assets.com/Help/index.cfm?fuseAction=howToBid
 Monroe County Tax Claim Bureau website -> https://www.monroecountypa.gov/departments/tax-claim
-County TOS -> https://www.bid4assets.com/storefront/viewduediligence/24154?collectionId=9739&key=9aacc498-c0cf-475a-afec-53c99cda42d3
+County TOS -> https://www.bid4assets.com/storefront/viewduediligence/24326?collectionId=9790&key=304c647f-983a-479a-8a14-12deec1fa33f
 How to Participate -> https://www.bid4assets.com/pages/public/content/help/how-to-participate
 Tax Sale FAQs -> https://www.bid4assets.com/pages/public/content/help/tax-sale-buyer-faqs
 Tax Sale Glossary -> https://www.bid4assets.com/pages/public/content/help/tax-sale-glossary

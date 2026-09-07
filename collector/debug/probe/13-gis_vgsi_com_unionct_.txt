@@ -1,0 +1,339 @@
+URL: https://gis.vgsi.com/unionct/
+FINAL: https://gis.vgsi.com/unionct/
+STATUS: 200
+TITLE: Vision Government Solutions
+BYTES: 17272
+
+===== TEXT =====
+Vision Government Solutions
+
+|
+
+UNION,CT
+
+|
+
+Welcome
+
+Welcome to the Town of Union,
+Connecticut, Office of Assessment online assessment database.
+
+This database provides you with information on each parcel of real estate in Union,
+along with the ability to search for sales of properties that might be similar
+to your selected property.
+
+Union is performing a revaluation for the Grand List of October 1, 2023.
+This revaluation will impact the tax bills due beginning in July 2024.
+
+Do not apply the current tax (mill) rate to your new assessment as the mill
+rate will change, using the prior mill rate will not correctly calculate your
+July 2024 tax bill. The new mill rate will be determined in the Spring of
+2024.
+
+If you are an Union property owner, and you do not have your 2023 revaluation
+assessment notice, you may look up the new assessment for your property using
+this online database.
+
+In conjunction with the 2023 revaluation assessment notices, you may review
+your new assessment with a representative of Vision Government Solutions by
+scheduling an informal hearing. Informal hearings will be held by phone, by appointment only.
+
+To schedule an informal hearing, you may go to www.vgsi.com/schedules [http://www.vgsi.com/schedules] and follow the instructions to schedule an
+informal hearing. You will need the Parcel ID number (PID#), which can be
+found at the top of the 2023 revaluation assessment notice or on the online
+database. If you wish to schedule an informal hearing for two or more
+properties, please do not schedule your hearings online, please call Vision
+Government Solutions at 1-888-844-4300. If you do not have access to a
+computer, or prefer to call for an appointment time instead of scheduling your
+informal hearing online, you may call 1-888-844-4300 between the hours of 9:00
+AM and 4:00 PM, Monday through Friday, excluding state holidays.
+
+Please DO NOT contact the
+Town of Union Office of Assessment to schedule your informal hearing with
+Vision Government Solutions. The Town’s
+staff does not have access to create, change, or cancel hearing appointments.
+
+If you wish to appeal your assessment after the informal hearing, or if you are
+not able to attend an informal hearing, you may file an appeal with the Town of
+Union Board of Assessment Appeals. Appeals to the Board of Assessment
+Appeals must be filed on or before February 20, 2019. You do not have to
+attend an informal hearing to apply for a hearing with the Board of Assessment Appeals,
+but please bear in mind that the Board of Assessment Appeals process is more
+involved and more formal. You may obtain an application at the Union
+Assessor’s Office.
+
+(c) 2026 Vision Government Solutions, Inc. All rights reserved.
+
+===== LINKS =====
+www.vgsi.com/schedules -> http://www.vgsi.com/schedules
+
+===== RAW HEAD =====
+
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="EN">
+<head>
+    <!-- Level Access ADA widget -->
+    <script src="https://cdn.userway.org/widget.js" data-account="lotasidGlP"></script>  
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-93590319-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-37067763-1');
+    </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" media="all" href="/UnionCT/Styles/base.css?v=6" />
+   <!--
+   [if IE 7]><link type="text/css" rel="stylesheet" media="all" href="/UnionCT/Styles/ie7.css" /><![endif]
+   [if IE 8]><link type="text/css" rel="stylesheet" media="all" href="/UnionCT/Styles/ie8.css"/><![endif]
+   -->
+    <link href="/UnionCT/Styles/SoftGreyGridView.css" rel="stylesheet" type="text/css" />
+    <link href="/UnionCT/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="/UnionCT/Styles/jquery-ui-1.9.2.custom.css" rel="stylesheet" type="text/css" />
+   
+    <!-- JQuery and UI-->
+    <script src="/UnionCT/Scripts/jquery-1.8.3.js"  type="text/javascript"></script>
+    <script src="/UnionCT/Scripts/jquery-ui-1.9.2.custom.min.js"  type="text/javascript"></script>
+   
+    <script src="/UnionCT/Scripts/bgiframe.js" type="text/javascript"></script>
+    <link rel="shortcut icon" href="/UnionCT/Images/VGS_Icon32x32.ico" type="image/x-icon" />
+    
+    <style type="text/css">
+	.myoutercontainer { position:relative }
+	.myinnercontainer {  margin-top:20px }
+    </style>
+
+    <title>Vision Government Solutions </title>
+</head>
+<body class="page front">
+    <form method="post" action="./" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTE2OTQ4MTU3NQ9kFgJmD2QWAmYPZBYGZg9kFgRmDw8WBB4ISW1hZ2VVcmwFFH4vSW1hZ2VzL2N0X3NlYWwuZ2lmHg1BbHRlcm5hdGVUZXh0BRJVTklPTixDVCB0b3duIHNlYWxkZAIBDw8WAh4EVGV4dAUIVU5JT04sQ1RkZAIBDw8WAh4HVmlzaWJsZWhkZAICD2QWBAIBDxYCHwIFgBw8cCBjbGFzcz0iTXNvTm9ybWFsIj48c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxMHB0OyBmb250LWZhbWlseTogVGFob21hLCBzYW5zLXNlcmlmOyI+V2VsY29tZSB0byB0aGUgVG93biBvZiBVbmlvbiwNCkNvbm5lY3RpY3V0LCBPZmZpY2Ugb2YgQXNzZXNzbWVudCBvbmxpbmUgYXNzZXNzbWVudCBkYXRhYmFzZS48YnI+DQo8YnI+DQpUaGlzIGRhdGFiYXNlIHByb3ZpZGVzIHlvdSB3aXRoIGluZm9ybWF0aW9uIG9uIGVhY2ggcGFyY2VsIG9mIHJlYWwgZXN0YXRlIGluIFVuaW9uLA0KYWxvbmcgd2l0aCB0aGUgYWJpbGl0eSB0byBzZWFyY2ggZm9yIHNhbGVzIG9mIHByb3BlcnRpZXMgdGhhdCBtaWdodCBiZSBzaW1pbGFyDQp0byB5b3VyIHNlbGVjdGVkIHByb3BlcnR5LiZuYnNwOyA8YnI+DQo8YnI+DQpVbmlvbiBpcyBwZXJmb3JtaW5nIGEgcmV2YWx1YXRpb24gZm9yIHRoZSBHcmFuZCBMaXN0IG9mIE9jdG9iZXIgMSwgMjAyMy4mbmJzcDsNClRoaXMgcmV2YWx1YXRpb24gd2lsbCBpbXBhY3QgdGhlIHRheCBiaWxscyBkdWUgYmVnaW5uaW5nIGluIEp1bHkgMjAyNC4mbmJzcDsgPGJyPjwvc3Bhbj48L3A+PHAgY2xhc3M9Ik1zb05vcm1hbCI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTBwdDsgZm9udC1mYW1pbHk6IFRhaG9tYSwgc2Fucy1zZXJpZjsiPg0KRG8gbm90IGFwcGx5IHRoZSBjdXJyZW50IHRheCAobWlsbCkgcmF0ZSB0byB5b3VyIG5ldyBhc3Nlc3NtZW50IGFzIHRoZSBtaWxsDQpyYXRlIHdpbGwgY2hhbmdlLCB1c2luZyB0aGUgcHJpb3IgbWlsbCByYXRlIHdpbGwgbm90IGNvcnJlY3RseSBjYWxjdWxhdGUgeW91cg0KSnVseSAyMDI0IHRheCBiaWxsLiZuYnNwOyBUaGUgbmV3IG1pbGwgcmF0ZSB3aWxsIGJlIGRldGVybWluZWQgaW4gdGhlIFNwcmluZyBvZg0KMjAyNC4mbmJzcDsgPGJyPg0KPGJyPg0KSWYgeW91IGFyZSBhbiBVbmlvbiBwcm9wZXJ0eSBvd25lciwgYW5kIHlvdSBkbyBub3QgaGF2ZSB5b3VyIDIwMjMgcmV2YWx1YXRpb24NCmFzc2Vzc21lbnQgbm90aWNlLCB5b3UgbWF5IGxvb2sgdXAgdGhlIG5ldyBhc3Nlc3NtZW50IGZvciB5b3VyIHByb3BlcnR5IHVzaW5nDQp0aGlzIG9ubGluZSBkYXRhYmFzZS4mbmJzcDsgPGJyPg0KPGJyPg0KSW4gY29uanVuY3Rpb24gd2l0aCB0aGUgMjAyMyByZXZhbHVhdGlvbiBhc3Nlc3NtZW50IG5vdGljZXMsIHlvdSBtYXkgcmV2aWV3DQp5b3VyIG5ldyBhc3Nlc3NtZW50IHdpdGggYSByZXByZXNlbnRhdGl2ZSBvZiBWaXNpb24gR292ZXJubWVudCBTb2x1dGlvbnMgYnkNCnNjaGVkdWxpbmcgYW4gaW5mb3JtYWwgaGVhcmluZy4mbmJzcDsgSW5mb3JtYWwgaGVhcmluZ3Mgd2lsbCBiZSBoZWxkIGJ5IHBob25lLCA8Yj5ieSBhcHBvaW50bWVudCBvbmx5LjwvYj4mbmJzcDsgPGJyPg0KPGJyPg0KVG8gc2NoZWR1bGUgYW4gaW5mb3JtYWwgaGVhcmluZywgeW91IG1heSBnbyB0byA8L3NwYW4+PGEgaHJlZj0iaHR0cDovL3d3dy52Z3NpLmNvbS9zY2hlZHVsZXMiIHRhcmdldD0iX2JsYW5rIj48c3BhbiBzdHlsZT0iZm9udC1zaXplOg0KMTAuMHB0O2ZvbnQtZmFtaWx5OiZxdW90O1RhaG9tYSZxdW90OyxzYW5zLXNlcmlmO21zby1mYXJlYXN0LWZvbnQtZmFtaWx5OiZxdW90O1RpbWVzIE5ldyBSb21hbiZxdW90OyI+d3d3LnZnc2kuY29tL3NjaGVkdWxlczwvc3Bhbj48L2E+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTBwdDsgZm9udC1mYW1pbHk6IFRhaG9tYSwgc2Fucy1zZXJpZjsiPiBhbmQgZm9sbG93IHRoZSBpbnN0cnVjdGlvbnMgdG8gc2NoZWR1bGUgYW4NCmluZm9ybWFsIGhlYXJpbmcuJm5ic3A7IFlvdSB3aWxsIG5lZWQgdGhlIFBhcmNlbCBJRCBudW1iZXIgKFBJRCMpLCB3aGljaCBjYW4gYmUNCmZvdW5kIGF0IHRoZSB0b3Agb2YgdGhlIDIwMjMgcmV2YWx1YXRpb24gYXNzZXNzbWVudCBub3RpY2Ugb3Igb24gdGhlIG9ubGluZQ0KZGF0YWJhc2UuJm5ic3A7IElmIHlvdSB3aXNoIHRvIHNjaGVkdWxlIGFuIGluZm9ybWFsIGhlYXJpbmcgZm9yIHR3byBvciBtb3JlDQpwcm9wZXJ0aWVzLCBwbGVhc2UgZG8gbm90IHNjaGVkdWxlIHlvdXIgaGVhcmluZ3Mgb25saW5lLCBwbGVhc2UgY2FsbCBWaXNpb24NCkdvdmVybm1lbnQgU29sdXRpb25zIGF0IDEtODg4LTg0NC00MzAwLiAmbmJzcDsgSWYgeW91IGRvIG5vdCBoYXZlIGFjY2VzcyB0byBhDQpjb21wdXRlciwgb3IgcHJlZmVyIHRvIGNhbGwgZm9yIGFuIGFwcG9pbnRtZW50IHRpbWUgaW5zdGVhZCBvZiBzY2hlZHVsaW5nIHlvdXINCmluZm9ybWFsIGhlYXJpbmcgb25saW5lLCB5b3UgbWF5IGNhbGwgMS04ODgtODQ0LTQzMDAgYmV0d2VlbiB0aGUgaG91cnMgb2YgOTowMA0KQU0gYW5kIDQ6MDAgUE0sIE1vbmRheSB0aHJvdWdoIEZyaWRheSwgZXhjbHVkaW5nIHN0YXRlIGhvbGlkYXlzLiZuYnNwOyA8bzpwPjwvbzpwPjwvc3Bhbj48L3A+DQoNCjxwIGNsYXNzPSJNc29Ob3JtYWwiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDEwcHQ7IGZvbnQtZmFtaWx5OiBUYWhvbWEsIHNhbnMtc2VyaWY7Ij48YnI+DQo8L3NwYW4+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZToxMC4wcHQ7Zm9udC1mYW1pbHk6JnF1b3Q7VGFob21hJnF1b3Q7LHNhbnMtc2VyaWY7DQptc28tZmFyZWFzdC1mb250LWZhbWlseTomcXVvdDtUaW1lcyBOZXcgUm9tYW4mcXVvdDs7Y29sb3I6cmVkIj5QbGVhc2UgRE8gTk9UIGNvbnRhY3QgdGhlDQpUb3duIG9mIFVuaW9uIE9mZmljZSBvZiBBc3Nlc3NtZW50IHRvIHNjaGVkdWxlIHlvdXIgaW5mb3JtYWwgaGVhcmluZyB3aXRoDQpWaXNpb24gR292ZXJubWVudCBTb2x1dGlvbnMuICZuYnNwO1RoZSBUb3du4oCZcw0Kc3RhZmYgZG9lcyBub3QgaGF2ZSBhY2Nlc3MgdG8gY3JlYXRlLCBjaGFuZ2UsIG9yIGNhbmNlbCBoZWFyaW5nIGFwcG9pbnRtZW50cy48L3NwYW4+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTBwdDsgZm9udC1mYW1pbHk6IFRhaG9tYSwgc2Fucy1zZXJpZjsiPiZuYnNwOyA8YnI+DQo8YnI+DQpJZiB5b3Ugd2lzaCB0byBhcHBlYWwgeW91ciBhc3Nlc3NtZW50IGFmdGVyIHRoZSBpbmZvcm1hbCBoZWFyaW5nLCBvciBpZiB5b3UgYXJlDQpub3QgYWJsZSB0byBhdHRlbmQgYW4gaW5mb3JtYWwgaGVhcmluZywgeW91IG1heSBmaWxlIGFuIGFwcGVhbCB3aXRoIHRoZSBUb3duIG9mDQpVbmlvbiBCb2FyZCBvZiBBc3Nlc3NtZW50IEFwcGVhbHMuJm5ic3A7IEFwcGVhbHMgdG8gdGhlIEJvYXJkIG9mIEFzc2Vzc21lbnQNCkFwcGVhbHMgbXVzdCBiZSBmaWxlZCBvbiBvciBiZWZvcmUgRmVicnVhcnkgMjAsIDIwMTkuJm5ic3A7IFlvdSBkbyBub3QgaGF2ZSB0bw0KYXR0ZW5kIGFuIGluZm9ybWFsIGhlYXJpbmcgdG8gYXBwbHkgZm9yIGEgaGVhcmluZyB3aXRoIHRoZSBCb2FyZCBvZiBBc3Nlc3NtZW50IEFwcGVhbHMsDQpidXQgcGxlYXNlIGJlYXIgaW4gbWluZCB0aGF0IHRoZSBCb2FyZCBvZiBBc3Nlc3NtZW50IEFwcGVhbHMgcHJvY2VzcyBpcyBtb3JlDQppbnZvbHZlZCBhbmQgbW9yZSBmb3JtYWwuJm5ic3A7IFlvdSBtYXkgb2J0YWluIGFuIGFwcGxpY2F0aW9uIGF0IHRoZSBVbmlvbg0KQXNzZXNzb3LigJlzIE9mZmljZS48bzpwPjwvbzpwPjwvc3Bhbj48L3A+PGJyPmQCAw9kFgYCAQ8WAh8DaGQCAw8PFgIfA2dkZAIFDxYCHwIFBDxicj5kZCwo+SHUQHwNvanfHZYgsoRZoFMb84DgDz8TDYSxhCmw" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="85B761C8" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAIFPLgqimIUhmngfjaivoicQyChBnh26NvXQpWWOqy8DOmQ6uIPS9qV7lbyXvax5zUoQPqjF4du6EgbiAa8jQ/K" />
+</div>
+        <div class="inner-page">
+            <div class="inner-inner-page">
+                <div class="page front">
+                    <header>
+                    <div class="topBorder">
+                     <img alt="" id="HeaderImage" src='/UnionCT/Images/top-border.png' width="955px;"  />    
+                    </div>
+                    <div class="header-images">
+                        <div id="panBannerDefault">
+	
+                            <table style="width:99.5%" >
+                                <tr>
+                                    <td>
+                                        <h1 style="font-size:20pt !important; font-weight: bold;">
+                                            <img id="imgTownSeal" src="Images/ct_seal.gif" alt="UNION,CT town seal" style="height:75px;" />
+                                            <span id="lblTownName" class="myinnercontainer" style="display:inline-block;font-size:36pt;font-weight:bold;width:500px;">UNION,CT</span>
+                                        </h1>
+                                    </td>
+                                    <td align="right">
+                                        <span class="header-right-image" >
+                                            <input type="image" name="ctl00$ImageButton1" id="imgVisionImageButton" 
+                                           src='/UnionCT/Images/visiongovernmentsolutionslogo.png' alt="Vision Government Solutions Logo" />
+                                        </span>
+                                    </td>
+                                </tr>
+                            </table>
+                        
+</div>
+                        
+                    </div>
+                    <div style="width:100%;top:-18px;position: relative">
+                        
+                    </div>
+                    </header>
+                    <div>
+                        <div class="page clientservices-appraisal">
+                            <main>
+                            <div class="main-content">
+                                <div style="width: 99%;padding-left:5px;padding-right:5px;">
+                                    
+
+    <style>
+        div.container
+        {
+            border: 0px solid #000000;
+            overflow: auto;
+            width: 100%;
+        }
+    </style>
+    <div class="container">
+        <div class="ui-widget">
+            <div id="WelcomeText" style="float: Left; width: 50%">
+                <h1>Welcome</h1>
+                
+                <p class="MsoNormal"><span style="font-size: 10pt; font-family: Tahoma, sans-serif;">Welcome to the Town of Union,
+Connecticut, Office of Assessment online assessment database.<br>
+<br>
+This database provides you with information on each parcel of real estate in Union,
+along with the ability to search for sales of properties that might be similar
+to your selected property.&nbsp; <br>
+<br>
+Union is performing a revaluation for the Grand List of October 1, 2023.&nbsp;
+This revaluation will impact the tax bills due beginning in July 2024.&nbsp; <br></span></p><p class="MsoNormal"><span style="font-size: 10pt; font-family: Tahoma, sans-serif;">
+Do not apply the current tax (mill) rate to your new assessment as the mill
+rate will change, using the prior mill rate will not correctly calculate your
+July 2024 tax bill.&nbsp; The new mill rate will be determined in the Spring of
+2024.&nbsp; <br>
+<br>
+If you are an Union property owner, and you do not have your 2023 revaluation
+assessment notice, you may look up the new assessment for your property using
+this online database.&nbsp; <br>
+<br>
+In conjunction with the 2023 revaluation assessment notices, you may review
+your new assessment with a representative of Vision Government Solutions by
+scheduling an informal hearing.&nbsp; Informal hearings will be held by phone, <b>by appointment only.</b>&nbsp; <br>
+<br>
+To schedule an informal hearing, you may go to </span><a href="http://www.vgsi.com/schedules" target="_blank"><span style="font-size:
+10.0pt;font-family:&quot;Tahoma&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;">www.vgsi.com/schedules</span></a><span style="font-size: 10pt; font-family: Tahoma, sans-serif;"> and follow the instructions to schedule an
+informal hearing.&nbsp; You will need the Parcel ID number (PID#), which can be
+found at the top of the 2023 revaluation assessment notice or on the online
+database.&nbsp; If you wish to schedule an informal hearing for two or more
+properties, please do not schedule your hearings online, please call Vision
+Government Solutions at 1-888-844-4300. &nbsp; If you do not have access to a
+computer, or prefer to call for an appointment time instead of scheduling your
+informal hearing online, you may call 1-888-844-4300 between the hours of 9:00
+AM and 4:00 PM, Monday through Friday, excluding state holidays.&nbsp; <o:p></o:p></span></p>
+
+<p class="MsoNormal"><span style="font-size: 10pt; font-family: Tahoma, sans-serif;"><br>
+</span><span style="font-size:10.0pt;font-family:&quot;Tahoma&quot;,sans-serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:red">Please DO NOT contact the
+Town of Union Office of Assessment to schedule your informal hearing with
+Vision Government Solutions. &nbsp;The Town’s
+staff does not have access to create, change, or cancel hearing appointments.</span><span style="font-size: 10pt; font-family: Tahoma, sans-serif;">&nbsp; <br>
+<br>
+If you wish to appeal your assessment after the informal hearing, or if you are
+not able to attend an informal hearing, you may file an appeal with the Town of
+Union Board of Assessment Appeals.&nbsp; Appeals to the Board of Assessment
+Appeals must be filed on or before February 20, 2019.&nbsp; You do not have to
+attend an informal hearing to apply for a hearing with the Board of Assessment Appeals,
+but please bear in mind that the Board of Assessment Appeals process is more
+involved and more formal.&nbsp; You may obtain an application at the Union
+Assessor’s Office.<o:p></o:p></span></p><br>
+
+            </div>
+
+            <br />
+            <br />
+            <div id="MainContent_login" style="float: Right; width: 45%; ">
+            
+                <div style="padding-left:40px; font-size:1.4em">
+                <br />&nbsp;
+                    <input type="submit" name="ctl00$MainContent$btnEnterOnlineDatabase" value="Enter Online Database" id="MainContent_btnEnterOnlineDatabase" class="btn btn-primary" />
+
+                    <br /><br /><br />
+                
+            </div>
+            <div id="SilverlightMessage"  >
+                
+                
+              
+                    
+            </div>
+                    <br />
+
+                  <br>
+
+        </div>
+    </div>
+    <br />
+    <br />
+    <br />
+        </div>
+
+                                </div>
+                            </div>
+                            </main>
+                            <div style="height:10px;"></div>
+                            <footer>
+                            <div class="clientservices-footer">
+                                <div style="background-color:#333366; width: 100%">
+                                    <span style="float:right;padding-top:6px; padding-right: 12px;">(c)  2026 Vision Government Solutions, Inc. All rights reserved.</span>
+                                </div>    
+                            </div>
+                            </footer>
+                        </div>
+                    </div>
+                    <div class="bottomgraphic">    
+                        <img alt="" id="Image4" src='/UnionCT/Images/pagebottomds.png' />
+                    </div> 
+                </div>
+            </div>
+        </div>
+        
+        
+    <script type="text/javascript">
+        //ondomready
+        $(function () {
+
+            var ua = window.navigator.userAgent;
+            var msie = ua.indexOf("MSIE ");
+
+            if (msie > 0) // If Internet Explorer, check version number
+            {
+                var version = parseInt(ua.substring(msie + 5, ua.indexOf(".", msie)));
+                if (version <= 6) {
+                    alert("Your browser need to be upgraded to version 7 or newer for this site to work correctly");
+                }
+            };
+
+        });
+
+        $(function () {
+
+            // $("input:submit,  button", ".ui-widget").button();
+
+        });
+
+
+
+
+
+       
+
+    </script>
+    
+    <script>
+        // Override the user agent so that you can see it work!
+        navigator.__defineGetter__('userAgent', function () {
+            return 'Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; SLCC1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.50727)';
+        });
+
+
+    </script>
+
+   
+
+      
+        
+              <script type="text/javascript">
+
+                  //SMW VIS-12382 upgraded GA tag into master page head tags to clear cookie samesite error
+                  //var _gaq = _gaq || [];
+                  //_gaq.push(['_setAccount', 'UA-37067763-1']);
+                  //_gaq.push(['_trackPageview']);
+
+                  //(function () {
+                  //    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                  //    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://ssl') + '.google-analytics.com/ga.js';
+                  //    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                  //})();
+
+</script>        
+    </form>
+
+</body>
+</html>
+

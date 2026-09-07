@@ -1,9 +1,9 @@
-URL: https://www.bid4assets.com/storefront/MonroePATaxMar26
+URL: https://www.bid4assets.com/storefront/AlamedaMar26
 STATUS: 200
-TITLE: Bid4Assets: Monroe County, PA Repository Mar26
+TITLE: Bid4Assets: Alameda County, CA Tax Defaulted Properties Auction
 
 ===== TEXT =====
-Bid4Assets: Monroe County, PA Repository Mar26
+Bid4Assets: Alameda County, CA Tax Defaulted Properties Auction
 
 Follow us:
 
@@ -27,37 +27,39 @@ MY ACCOUNT / LOGIN [https://www.bid4assets.com/myaccount/login?returnUrl=%2Fmyb4
 
 CONTACT US [https://www.bid4assets.com/help/support/contactus]
 
-County of Monroe, PA
+County of
+Alameda, California
 
-Tax Claim Bureau - Repository Sale
+Treasurer-Tax Collector
+Tax Defaulted Properties Auction
 
-Important Dates [https://www.bid4assets.com/storefront/MonroePATaxMar26#collapseOne]
+Special Opportunity
+
+Important Dates [https://www.bid4assets.com/storefront/AlamedaMar26#collapseOne]
 
 Starts
-March 11, 2026 at 10:00 AM ET
+March 20, 2026 at 11:30 AM ET (8:30 AM PT)
 
 Ends
-March 11, 2026 Closing times vary; check Auctions [https://www.bid4assets.com/storefront/MonroePATaxMar26#auctions] for details.
+March 23, 2026 Closing times vary; check Auctions [https://www.bid4assets.com/storefront/AlamedaMar26#auctions] for details.
 
 Deposit Deadline
-February 26, 2026 at 4:00 PM ET
+March 17, 2026 at 4:00 PM ET (1:00 PM PT)
 
 Settlement Deadline
-March 12, 2026 at 4:00 PM ET
+March 25, 2026 at 4:00 PM ET (1:00 PM PT)
 
-Deposit Instructions [https://www.bid4assets.com/storefront/MonroePATaxMar26#collapseTwo]
+Deposit Instructions [https://www.bid4assets.com/storefront/AlamedaMar26#collapseTwo]
 
-Monroe County Tax Claim Bureau is offering repository parcels for online auction.
+Alameda County, CA is offering 256 parcels for auction online.
 
-Bids start as low as $800.00
+Bids start as low as $455.00
 
 These are all NO RESERVE auctions! Preview Now!
 
 Deposit Requirements
 
-A single $500.00 deposit (plus a $35 processing fee) is required to participate in the County of Monroe, PA Repository Sale. Your deposit must be received by Bid4Assets NO LATER THAN 4:00 PM ET (1:00 PM PT) Thursday, February 26. 2026. Please make your deposit well in advance of the auction in order to ensure your eligibility to bid.
-
-Potential bidders are required to register with the Monroe County Tax Claim Bureau AFTER registering and funding your deposit with Bid4Assets. Registration with both Bid4Assets and the Monroe County Tax Claim Bureau will begin on the 3rd Monday of each month and end at 4:00 pm on the last Friday of each month. Registration with Monroe County only needs to be completed once (1x) per calendar year.
+A single $5,000 deposit (plus a non-refundable $35 processing fee) is required to participate in the County of Alameda Tax Sale. Your deposit must be received by Bid4Assets NO LATER THAN 4:00 PM ET (1:00 PM PT) Tuesday, March 17th. **Please note that for Alameda County, all prospective bidders MUST fill out their vesting information before they are allowed to access the deposit instructions.** Please make your deposit well in advance of the auction in order to ensure your eligibility to bid.
 
 Deposit Refunds
 
@@ -65,17 +67,27 @@ All deposits to non-winning bidders will be refunded via eCheck within 10 busine
 
 Click Here For Deposit Instructions
 
-Settlement Instructions [https://www.bid4assets.com/storefront/MonroePATaxMar26#collapseSix]
+Settlement Instructions [https://www.bid4assets.com/storefront/AlamedaMar26#collapseSix]
 
-Full payment must be received by Bid4Assets no later than 4:00 PM ET on Thursday, March 12, 2026 . - No exceptions will be made. If the payment policy is not adhered to the winning bidder will forfeit their deposit to the County of Monroe, PA and may be banned from future sales.
+Full payment must be received by Bid4Assets no later than 4:00 PM ET (1:00 PM PT) on Wednesday, March 25, 2026 . - No exceptions will be made. If the payment policy is not adhered to the winning bidder will forfeit their deposit to Alameda County and may be banned from future sales.
 
-A $35 per-parcel-won administrative fee will be added to the final Sale Price and a 5% Buyers Premium (minimum $100.00) will be charged per parcel.
+The following fees will be added to the final sale price:
 
-Key Information [https://www.bid4assets.com/storefront/MonroePATaxMar26#collapseThree]
+A California documentary transfer tax calculated at the rate of $.55 for each $500.00 or fractional part thereof .
+
+A County Recording Fee of $17 per parcel. Please check each individual parcel for the fee amount. This fee can change based on the number of pages of the individual deeds.
+
+A $35 per-parcel-won administrative fee.
+
+Where applicable there is an additional City Transfer Tax. Bidders can click here [http://www.acgov.org/auditor/clerk/transfertax.htm] to determine if an asset requires an additional City Transfer Tax that will be added to the final sale price.
+
+Only a successful bidder has the opportunity to purchase County assets. If the successful bidder defaults, under California State Law, The County cannot resort to the second highest bidder, and will be required to take APPROPRIATE LEGAL ACTION AGAINST THE BIDDER WHO DEFAULTS.
+
+Key Information [https://www.bid4assets.com/storefront/AlamedaMar26#collapseThree]
 
 Registration
 
-Create a Bid4Assets account [https://www.bid4assets.com/registration/signup/step1] which is required to participate in any county tax sale. The process is quick, free, and easy.
+Create a Bid4Assets account [https://secure.bid4assets.com/mvc/registration/signup/step1] which is required to participate in any county tax sale. The process is quick, free, and easy.
 
 Already have an account? Proceed to Deposit Instructions
 
@@ -90,8 +102,6 @@ Please reference the deposit ID listed in the instructions, rather than the ID o
 Only certified check/money order or wire transfer are accepted. ACH, direct deposit, credit card, or money transfers will be rejected. Please do NOT deposit funds directly into Bid4Assets’ escrow account.
 
 There is no limit to the amount you can bid; the bid deposit does not cap your bidding; it is simply a requirement to participate. Please do NOT send more money than the amount required deposit, or your deposit may be rejected.
-
-Federal regulations require first-time bidders to complete a USA Patriot Act registration, which will be automatically generated when clicking for deposit instructions. ALL US citizens must complete this page. All non-US citizens must contact customer service for assistance.
 
 Please allow up to 48 business hours to acknowledge receipt of your deposit. You will be notified by email and in your message center when you are cleared to bid. Please note, certified checks/money orders may take an additional business day to process.
 
@@ -113,7 +123,8 @@ When you are ready to bid click “Place Bid” on the auction page.
 
 place bid
 
-Enter your bid amount in the Bid Amount box and be sure to agree to all auction terms. At the bottom of the bid window, you will be prompted to reenter your Bid4Assets password as a security measure. A more comprehensive, step-by- step guide to bidding is available by clicking here [https://secure.bid4assets.com/Help/index.cfm?fuseAction=howToBid] .
+Enter your bid amount in the Bid Amount box and be sure to agree to all auction terms. At the bottom of the bid window, you will be prompted to reenter your Bid4Assets password as a security measure.
+A more comprehensive, step-by- step guide to bidding is available by clicking here [https://secure.bid4assets.com/Help/index.cfm?fuseAction=howToBid] .
 
 Additional Bid information
 
@@ -128,12 +139,15 @@ Examples of Auto Bid:
 3. If the auction has a Reserve Price of $20,000 (this amount is hidden from bidders) and you enter an Auto Bid of $21,000, your bid will automatically be placed at the Reserve Price of $20,000. If another bidder jumps in, your bid will automatically increase until you meet your $21,000 maximum bid.
 
 What is Overtime?
+
 Overtime is the extension of an auction’s close time that keeps the auction open as long as there is active bidding on it. It occurs automatically when a bid is placed within the last few minutes of an auction. The auction will remain open until an entire overtime increment (typically five minutes) has passed without any bidding. The overtime increment for an auction will be indicated on the auction listing.
 
 How can I Monitor My Auctions?
+
 When participating in multiple auctions at once, it is advisable to only actively bid on one property at a time. You can find a list of properties that you have bid on in the “my bid list” tab of your profile. You will also receive confirmations of your placed bids as well as notifications of being out bid in your message center.
 
 Can I bid on Withdrawn or Postponed Auctions?
+
 No. Auctions must be live in order for you to able to place a bid. If a property is withdrawn or postponed by a county for any reason, it is no longer open for bidding. Please note, Bid4Assets does not have knowledge of why a property is withdrawn or postponed.
 
 After the Auction
@@ -166,9 +180,9 @@ Contact Information
 
 For questions about the auction and the bidding process, please contact service@bid4assets.com [mailto:service@bid4assets.com]
 
-Additional county information can be obtained at the Monroe County Tax Claim Bureau website [https://www.monroecountypa.gov/departments/tax-claim]
+Additional county information can be obtained at the Alameda County, CA Treasurer Tax Collector website [https://www.acgov.org/treasurer/]
 
-For questions about the assets and information that is not listed in the auction, please contact the county at TxClaim@monroecounty.pa.gov [mailto:TxClaim@monroecounty.pa.gov]
+For questions about the assets and information that is not listed in the auction, please contact the county at TTC.WEBMAIL@co.alameda.ca.us [mailto:TTC.WEBMAIL@co.alameda.ca.us]
 
 Disclaimer
 
@@ -176,24 +190,29 @@ Research and Inspect Thoroughly Before You Bid
 Prospective purchasers are urged to examine the title, location and desirability of the properties available to their own satisfaction prior to the sale.
 
 Properties are sold "AS IS"
-The sale of these properties should not, in any way, be equated to real estate sales by licensed salespeople, brokers or realtors. The County of Monroe makes no guarantee, expressed or implied, relative to the title, location or condition of the properties for sale. Property taxes currently due will be paid from the proceeds of the sale.
+The sale of these properties should not, in any way, be equated to real estate sales by licensed salespeople, brokers or realtors. The County of Alameda makes no guarantee, expressed or implied, relative to the title, location or condition of the properties for sale. Property taxes currently due will be paid from the proceeds of the sale.
 
 Important Disclaimer
-The County of Monroe is not liable for the failure of any device that is not owned, operated, and managed by the state or county, that prevents a person from participating in any sale. “Device” includes, but is not limited to, computer hardware, a computer network, a computer software application, and a computer Web site. The County of Madera assumes no liability for any other possible liens, encumbrances or easements, recorded or not recorded.
+The County of Alameda is not liable for the failure of any device that is not owned, operated, and managed by the state or county, that prevents a person from participating in any sale. “Device” includes, but is not limited to, computer hardware, a computer network, a computer software application, and a computer Web site. The County of Alameda assumes no liability for any other possible liens, encumbrances or easements, recorded or not recorded.
 
 Please Note
 Prospective purchasers are advised that some bonds or other assessments which are levied by agencies or offices other than the treasurer-tax collector may still be outstanding after the tax sale; in addition, the I.R.S. has the option of redeeming, up until 120 days after the sale, any property on which there is an I.R.S. lien recorded.
 
-You must be at least 18 years old to bid
+You must be at leaset 18 years old to bid
+
 ALL SALES ARE FINAL!
 
-General Tax Sale Documents [https://www.bid4assets.com/storefront/MonroePATaxMar26#collapseFour]
+General Tax Sale Documents [https://www.bid4assets.com/storefront/AlamedaMar26#collapseFour]
 
 General Tax Sale Information
 
-County TOS [https://www.bid4assets.com/storefront/viewduediligence/24154?collectionId=9739&key=9aacc498-c0cf-475a-afec-53c99cda42d3]
+2026 City & County Transfer Tax [https://www.bid4assets.com/storefront/viewduediligence/23873?collectionId=9814&key=8d82e5f6-f709-47bf-b0e7-959ebba44e23]
 
-Auction Folders [https://www.bid4assets.com/storefront/MonroePATaxMar26#collapseFive]
+Frequently Asked Questions about Internet Auction [https://www.bid4assets.com/storefront/viewduediligence/23874?collectionId=9814&key=c65e9c30-93f1-45b2-a7ed-9593c0c07ead]
+
+County Terms of Sale [https://www.bid4assets.com/storefront/viewduediligence/23892?collectionId=9814&key=8323a065-1c70-472b-93b0-e02359eb9166]
+
+Auction Folders [https://www.bid4assets.com/storefront/AlamedaMar26#collapseFive]
 
 Click Here to Download Property List Spreadsheet
 
@@ -214,7 +233,7 @@ View my Account [https://www.bid4assets.com/myb4a/]
 Search
 
 By APN#
-Please remember to enterall of the digits of the APN number including all dashes. If you do not have the full APN number, please download the spreadsheet located below or contact the county. [https://www.bid4assets.com/storefront/MonroePATaxMar26#]
+Please remember to enterall of the digits of the APN number including all dashes. If you do not have the full APN number, please download the spreadsheet located below or contact the county. [https://www.bid4assets.com/storefront/AlamedaMar26#]
 
 By Auction ID#
 
@@ -283,11 +302,14 @@ SELL -> https://www.bid4assets.com/listing/ez
 SIGN UP -> https://www.bid4assets.com/registration/signup/step1
 MY ACCOUNT / LOGIN -> https://www.bid4assets.com/myaccount/login?returnUrl=%2Fmyb4a
 CONTACT US -> https://www.bid4assets.com/help/support/contactus
-Create a Bid4Assets account -> https://www.bid4assets.com/registration/signup/step1
+click here -> http://www.acgov.org/auditor/clerk/transfertax.htm
+Create a Bid4Assets account -> https://secure.bid4assets.com/mvc/registration/signup/step1
  -> https://www.youtube.com/watch?v=obgnqB2k8Wg
 clicking here -> https://secure.bid4assets.com/Help/index.cfm?fuseAction=howToBid
-Monroe County Tax Claim Bureau website -> https://www.monroecountypa.gov/departments/tax-claim
-County TOS -> https://www.bid4assets.com/storefront/viewduediligence/24154?collectionId=9739&key=9aacc498-c0cf-475a-afec-53c99cda42d3
+Alameda County, CA Treasurer Tax Collector website -> https://www.acgov.org/treasurer/
+2026 City &amp; County Transfer Tax -> https://www.bid4assets.com/storefront/viewduediligence/23873?collectionId=9814&key=8d82e5f6-f709-47bf-b0e7-959ebba44e23
+Frequently Asked Questions about Internet Auction -> https://www.bid4assets.com/storefront/viewduediligence/23874?collectionId=9814&key=c65e9c30-93f1-45b2-a7ed-9593c0c07ead
+County Terms of Sale -> https://www.bid4assets.com/storefront/viewduediligence/23892?collectionId=9814&key=8323a065-1c70-472b-93b0-e02359eb9166
 How to Participate -> https://www.bid4assets.com/pages/public/content/help/how-to-participate
 Tax Sale FAQs -> https://www.bid4assets.com/pages/public/content/help/tax-sale-buyer-faqs
 Tax Sale Glossary -> https://www.bid4assets.com/pages/public/content/help/tax-sale-glossary

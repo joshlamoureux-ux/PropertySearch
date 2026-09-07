@@ -1,0 +1,343 @@
+URL: https://gis.vgsi.com/sterlingct/
+FINAL: https://gis.vgsi.com/sterlingct/
+STATUS: 200
+TITLE: Vision Government Solutions
+BYTES: 18254
+
+===== TEXT =====
+Vision Government Solutions
+
+|
+
+Sterling, CT
+
+|
+
+Welcome
+
+Welcome to The Town of Sterling,
+Connecticut, Assessor’s Online Assessment Database
+
+This database provides you with information on each
+parcel of real estate in Sterling, along with the ability to search for sales
+of properties that might be similar to your selected property.
+
+Sterling is performing a revaluation for the Grand List of October 1, 2022.
+This revaluation will impact the tax bills due July 2023. The Town of Sterling
+and Vision Government Solutions are working on the revaluation at this time.
+
+Do not apply the current mill rate to
+your new assessment, as the mill rate will change. Using the prior mill rate
+will not estimate your July 2023 tax bill. The Town will set a new mill
+rate in Spring 2023 .
+
+In conjunction with the 2022 revaluation assessment notices, you may review
+your new assessment with a representative of Vision Government Solutions by
+scheduling an informal hearing. Informal hearings will be held by either a
+PHONE appointment or an in-person appointment. You must book
+your choice of appointment by December 16, 2022.
+
+To schedule an informal hearing, you may go to www.vgsi.com/schedules [http://www.vgsi.com/schedules] and follow the instructions to schedule an informal
+hearing. You will need the Parcel ID number ( PID# ), which can be found at the top of the 2022 revaluation
+assessment notice or in the online database. If you wish to schedule an
+informal hearing for two or more properties, do not schedule your hearings
+online, please call Vision Government Solutions at 1-888-844-4300. If
+you do not have access to a computer, or prefer to call for an appointment time
+instead of scheduling your informal hearing online, you may call 1-888-844-4300
+between the hours of 9:00 AM and 4:00 PM, Monday through Friday, excluding
+state holidays.
+
+DO NOT contact the Town of Sterling Assessor’s Office to
+schedule your informal hearing with Vision Government Solutions. Town staff does not have access to create,
+change, or cancel hearing appointments.
+
+If you wish to appeal your assessment
+after the informal hearing process is complete, you must file a written appeal
+to the Sterling Board of Assessment Appeals on the prescribed appeal application
+which can be obtained at the Assessor’s office.
+You must file after February 1, 2023, but no later than February 20,
+2023.
+
+(c) 2026 Vision Government Solutions, Inc. All rights reserved.
+
+===== LINKS =====
+www.vgsi.com/schedules -> http://www.vgsi.com/schedules
+
+===== RAW HEAD =====
+
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="EN">
+<head>
+    <!-- Level Access ADA widget -->
+    <script src="https://cdn.userway.org/widget.js" data-account="lotasidGlP"></script>  
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-93590319-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-37067763-1');
+    </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link type="text/css" rel="stylesheet" media="all" href="/SterlingCT/Styles/base.css?v=6" />
+   <!--
+   [if IE 7]><link type="text/css" rel="stylesheet" media="all" href="/SterlingCT/Styles/ie7.css" /><![endif]
+   [if IE 8]><link type="text/css" rel="stylesheet" media="all" href="/SterlingCT/Styles/ie8.css"/><![endif]
+   -->
+    <link href="/SterlingCT/Styles/SoftGreyGridView.css" rel="stylesheet" type="text/css" />
+    <link href="/SterlingCT/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="/SterlingCT/Styles/jquery-ui-1.9.2.custom.css" rel="stylesheet" type="text/css" />
+   
+    <!-- JQuery and UI-->
+    <script src="/SterlingCT/Scripts/jquery-1.8.3.js"  type="text/javascript"></script>
+    <script src="/SterlingCT/Scripts/jquery-ui-1.9.2.custom.min.js"  type="text/javascript"></script>
+   
+    <script src="/SterlingCT/Scripts/bgiframe.js" type="text/javascript"></script>
+    <link rel="shortcut icon" href="/SterlingCT/Images/VGS_Icon32x32.ico" type="image/x-icon" />
+    
+    <style type="text/css">
+	.myoutercontainer { position:relative }
+	.myinnercontainer {  margin-top:20px }
+    </style>
+
+    <title>Vision Government Solutions </title>
+</head>
+<body class="page front">
+    <form method="post" action="./" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTE2OTQ4MTU3NQ9kFgJmD2QWAmYPZBYGZg9kFgRmDw8WBB4ISW1hZ2VVcmwFCX4vSW1hZ2VzLx4NQWx0ZXJuYXRlVGV4dAUWU3RlcmxpbmcsIENUIHRvd24gc2VhbGRkAgEPDxYCHgRUZXh0BQxTdGVybGluZywgQ1RkZAIBDw8WAh4HVmlzaWJsZWhkZAICD2QWBAIBDxYCHwIFmB88cCBjbGFzcz0iTXNvTm9ybWFsIj48Yj48c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxMnB0OyI+V2VsY29tZSB0byBUaGUgVG93biBvZiBTdGVybGluZywNCkNvbm5lY3RpY3V0LCBBc3Nlc3NvcuKAmXMgT25saW5lIEFzc2Vzc21lbnQgRGF0YWJhc2U8L3NwYW4+PC9iPjxiPjxicj4NCjwvYj48c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxMHB0OyBmb250LWZhbWlseTogVGFob21hLCBzYW5zLXNlcmlmOyI+PGJyPg0KPC9zcGFuPlRoaXMgZGF0YWJhc2UgcHJvdmlkZXMgeW91IHdpdGggaW5mb3JtYXRpb24gb24gZWFjaA0KcGFyY2VsIG9mIHJlYWwgZXN0YXRlIGluIFN0ZXJsaW5nLCBhbG9uZyB3aXRoIHRoZSBhYmlsaXR5IHRvIHNlYXJjaCBmb3Igc2FsZXMNCm9mIHByb3BlcnRpZXMgdGhhdCBtaWdodCBiZSBzaW1pbGFyIHRvIHlvdXIgc2VsZWN0ZWQgcHJvcGVydHkuJm5ic3A7IDxicj4NCjxicj4NClN0ZXJsaW5nIGlzIHBlcmZvcm1pbmcgYSByZXZhbHVhdGlvbiBmb3IgdGhlIEdyYW5kIExpc3Qgb2YgT2N0b2JlciAxLCAyMDIyLiZuYnNwOw0KVGhpcyByZXZhbHVhdGlvbiB3aWxsIGltcGFjdCB0aGUgdGF4IGJpbGxzIGR1ZSBKdWx5IDIwMjMuJm5ic3A7IFRoZSBUb3duIG9mIFN0ZXJsaW5nDQphbmQgVmlzaW9uIEdvdmVybm1lbnQgU29sdXRpb25zIGFyZSB3b3JraW5nIG9uIHRoZSByZXZhbHVhdGlvbiBhdCB0aGlzIHRpbWUuPG86cD48L286cD48L3A+DQoNCjxwIGNsYXNzPSJNc29Ob3JtYWwiPjxpPkRvIG5vdCBhcHBseSB0aGUgY3VycmVudCBtaWxsIHJhdGUgdG8NCnlvdXIgbmV3IGFzc2Vzc21lbnQsIGFzIHRoZSBtaWxsIHJhdGUgd2lsbCBjaGFuZ2UuIFVzaW5nIHRoZSBwcmlvciBtaWxsIHJhdGUNCndpbGwgbm90IGVzdGltYXRlIHlvdXIgSnVseSAyMDIzIHRheCBiaWxsLiZuYnNwOyBUaGUgVG93biB3aWxsIHNldCBhIG5ldyBtaWxsDQpyYXRlIGluIFNwcmluZyAyMDIzPC9pPi4mbmJzcDsgPGJyPg0KPGJyPg0KSW4gY29uanVuY3Rpb24gd2l0aCB0aGUgMjAyMiByZXZhbHVhdGlvbiBhc3Nlc3NtZW50IG5vdGljZXMsIHlvdSBtYXkgcmV2aWV3DQp5b3VyIG5ldyBhc3Nlc3NtZW50IHdpdGggYSByZXByZXNlbnRhdGl2ZSBvZiBWaXNpb24gR292ZXJubWVudCBTb2x1dGlvbnMgYnkNCnNjaGVkdWxpbmcgYW4gaW5mb3JtYWwgaGVhcmluZy4mbmJzcDsgSW5mb3JtYWwgaGVhcmluZ3Mgd2lsbCBiZSBoZWxkIGJ5IGVpdGhlciBhDQo8Yj5QSE9ORSBhcHBvaW50bWVudCBvciBhbiBpbi1wZXJzb24gYXBwb2ludG1lbnQuPC9iPiZuYnNwOyZuYnNwOyBZb3UgbXVzdCBib29rDQp5b3VyIGNob2ljZSBvZiBhcHBvaW50bWVudCBieSBEZWNlbWJlciAxNiwgMjAyMi4gPGJyPg0KPGJyPg0KVG8gc2NoZWR1bGUgYW4gaW5mb3JtYWwgaGVhcmluZywgeW91IG1heSBnbyB0byA8YSBocmVmPSJodHRwOi8vd3d3LnZnc2kuY29tL3NjaGVkdWxlcyIgdGFyZ2V0PSJfYmxhbmsiPnd3dy52Z3NpLmNvbS9zY2hlZHVsZXM8L2E+IGFuZCBmb2xsb3cgdGhlIGluc3RydWN0aW9ucyB0byBzY2hlZHVsZSBhbiBpbmZvcm1hbA0KaGVhcmluZy4mbmJzcDsgWW91IHdpbGwgbmVlZCB0aGUgUGFyY2VsIElEIG51bWJlciAoPGI+UElEIzwvYj4pLCB3aGljaCBjYW4gYmUgZm91bmQgYXQgdGhlIHRvcCBvZiB0aGUgMjAyMiByZXZhbHVhdGlvbg0KYXNzZXNzbWVudCBub3RpY2Ugb3IgaW4gdGhlIG9ubGluZSBkYXRhYmFzZS4mbmJzcDsgSWYgeW91IHdpc2ggdG8gc2NoZWR1bGUgYW4NCmluZm9ybWFsIGhlYXJpbmcgZm9yIHR3byBvciBtb3JlIHByb3BlcnRpZXMsIGRvIG5vdCBzY2hlZHVsZSB5b3VyIGhlYXJpbmdzDQpvbmxpbmUsIHBsZWFzZSBjYWxsIFZpc2lvbiBHb3Zlcm5tZW50IFNvbHV0aW9ucyBhdCAxLTg4OC04NDQtNDMwMC4gJm5ic3A7IElmDQp5b3UgZG8gbm90IGhhdmUgYWNjZXNzIHRvIGEgY29tcHV0ZXIsIG9yIHByZWZlciB0byBjYWxsIGZvciBhbiBhcHBvaW50bWVudCB0aW1lDQppbnN0ZWFkIG9mIHNjaGVkdWxpbmcgeW91ciBpbmZvcm1hbCBoZWFyaW5nIG9ubGluZSwgeW91IG1heSBjYWxsIDEtODg4LTg0NC00MzAwDQpiZXR3ZWVuIHRoZSBob3VycyBvZiA5OjAwIEFNIGFuZCA0OjAwIFBNLCBNb25kYXkgdGhyb3VnaCBGcmlkYXksIGV4Y2x1ZGluZw0Kc3RhdGUgaG9saWRheXMuJm5ic3A7IDxvOnA+PC9vOnA+PC9wPg0KDQo8cCBjbGFzcz0iTXNvTm9ybWFsIj48YnI+DQo8c3BhbiBzdHlsZT0ibXNvLWFzY2lpLWZvbnQtZmFtaWx5OkNhbGlicmk7bXNvLWFzY2lpLXRoZW1lLWZvbnQ6bWlub3ItbGF0aW47DQptc28tZmFyZWFzdC1mb250LWZhbWlseTomcXVvdDtUaW1lcyBOZXcgUm9tYW4mcXVvdDs7bXNvLWhhbnNpLWZvbnQtZmFtaWx5OkNhbGlicmk7DQptc28taGFuc2ktdGhlbWUtZm9udDptaW5vci1sYXRpbjttc28tYmlkaS1mb250LWZhbWlseTpDYWxpYnJpO21zby1iaWRpLXRoZW1lLWZvbnQ6DQptaW5vci1sYXRpbjtjb2xvcjpyZWQiPkRPIE5PVCBjb250YWN0IHRoZSBUb3duIG9mIFN0ZXJsaW5nIEFzc2Vzc29y4oCZcyBPZmZpY2UgdG8NCnNjaGVkdWxlIHlvdXIgaW5mb3JtYWwgaGVhcmluZyB3aXRoIFZpc2lvbiBHb3Zlcm5tZW50IFNvbHV0aW9ucy4gJm5ic3A7VG93biBzdGFmZiBkb2VzIG5vdCBoYXZlIGFjY2VzcyB0byBjcmVhdGUsDQpjaGFuZ2UsIG9yIGNhbmNlbCBoZWFyaW5nIGFwcG9pbnRtZW50cy48L3NwYW4+Jm5ic3A7IDxicj4NCjxicj4NCklmIHlvdSB3aXNoIHRvIGFwcGVhbCB5b3VyIGFzc2Vzc21lbnQNCmFmdGVyIHRoZSBpbmZvcm1hbCBoZWFyaW5nIHByb2Nlc3MgaXMgY29tcGxldGUsIHlvdSBtdXN0IGZpbGUgYSB3cml0dGVuIGFwcGVhbA0KdG8gdGhlIFN0ZXJsaW5nIEJvYXJkIG9mIEFzc2Vzc21lbnQgQXBwZWFscyBvbiB0aGUgcHJlc2NyaWJlZCBhcHBlYWwgYXBwbGljYXRpb24NCndoaWNoIGNhbiBiZSBvYnRhaW5lZCBhdCB0aGUgQXNzZXNzb3LigJlzIG9mZmljZS4mbmJzcDsNCllvdSBtdXN0IGZpbGUgYWZ0ZXIgRmVicnVhcnkgMSwgMjAyMywgYnV0IG5vIGxhdGVyIHRoYW4gRmVicnVhcnkgMjAsDQoyMDIzLjxvOnA+PC9vOnA+PC9wPg0KDQo8cCBjbGFzcz0iRGVmYXVsdFRleHQiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6MTAuMHB0O2ZvbnQtZmFtaWx5OiZxdW90O0NhbGlicmkmcXVvdDssc2Fucy1zZXJpZjsNCm1zby1hc2NpaS10aGVtZS1mb250Om1pbm9yLWxhdGluO21zby1oYW5zaS10aGVtZS1mb250Om1pbm9yLWxhdGluO21zby1iaWRpLXRoZW1lLWZvbnQ6DQptaW5vci1sYXRpbiI+Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7IDwvc3Bhbj48c3BhbiBzdHlsZT0iZm9udC1zaXplOjEwLjBwdDtmb250LWZhbWlseTomcXVvdDtDYWxpYnJpJnF1b3Q7LHNhbnMtc2VyaWY7bXNvLWFzY2lpLXRoZW1lLWZvbnQ6DQptaW5vci1sYXRpbjttc28taGFuc2ktdGhlbWUtZm9udDptaW5vci1sYXRpbjttc28tYmlkaS10aGVtZS1mb250Om1pbm9yLWxhdGluOw0KbXNvLWFuc2ktbGFuZ3VhZ2U6WC1OT05FO21zby1mYXJlYXN0LWxhbmd1YWdlOlgtTk9ORSI+Jm5ic3A7PC9zcGFuPjxzcGFuIHN0eWxlPSJmb250LXNpemU6MTAuMHB0Ow0KZm9udC1mYW1pbHk6JnF1b3Q7Q2FsaWJyaSZxdW90OyxzYW5zLXNlcmlmO21zby1hc2NpaS10aGVtZS1mb250Om1pbm9yLWxhdGluO21zby1oYW5zaS10aGVtZS1mb250Og0KbWlub3ItbGF0aW47bXNvLWJpZGktdGhlbWUtZm9udDptaW5vci1sYXRpbiI+PG86cD48L286cD48L3NwYW4+PC9wPg0KDQo8cCBjbGFzcz0iTXNvTm9ybWFsIiBzdHlsZT0ibWFyZ2luLWJvdHRvbTogNy41cHQ7IHRleHQtYWxpZ246IGp1c3RpZnk7IHRleHQtaW5kZW50OiAwLjVpbjsgbGluZS1oZWlnaHQ6IDE1cHQ7Ij4mbmJzcDs8Zm9udCBjb2xvcj0iIzMzMzMzMyIgZmFjZT0iQXJpYWwsIHNhbnMtc2VyaWYiPjxiPiZuYnNwOzwvYj48L2ZvbnQ+PC9wPmQCAw9kFgYCAQ8WAh8DaGQCAw8PFgIfA2dkZAIFDxYCHwIFBDxicj5kZD7O3rk/gr0dfNpI43Zc20dzzMJvyxqib1k1wdEAAtUu" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="3312978F" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAALgRdf79ds9Cf6neQGt07SvQyChBnh26NvXQpWWOqy8DJEEF8DlS+TsfWUh+5xhq/jUz47iHCERh5LOAXPBy590" />
+</div>
+        <div class="inner-page">
+            <div class="inner-inner-page">
+                <div class="page front">
+                    <header>
+                    <div class="topBorder">
+                     <img alt="" id="HeaderImage" src='/SterlingCT/Images/top-border.png' width="955px;"  />    
+                    </div>
+                    <div class="header-images">
+                        <div id="panBannerDefault">
+	
+                            <table style="width:99.5%" >
+                                <tr>
+                                    <td>
+                                        <h1 style="font-size:20pt !important; font-weight: bold;">
+                                            <img id="imgTownSeal" src="Images/" alt="Sterling, CT town seal" style="height:75px;" />
+                                            <span id="lblTownName" class="myinnercontainer" style="display:inline-block;font-size:36pt;font-weight:bold;width:500px;">Sterling, CT</span>
+                                        </h1>
+                                    </td>
+                                    <td align="right">
+                                        <span class="header-right-image" >
+                                            <input type="image" name="ctl00$ImageButton1" id="imgVisionImageButton" 
+                                           src='/SterlingCT/Images/visiongovernmentsolutionslogo.png' alt="Vision Government Solutions Logo" />
+                                        </span>
+                                    </td>
+                                </tr>
+                            </table>
+                        
+</div>
+                        
+                    </div>
+                    <div style="width:100%;top:-18px;position: relative">
+                        
+                    </div>
+                    </header>
+                    <div>
+                        <div class="page clientservices-appraisal">
+                            <main>
+                            <div class="main-content">
+                                <div style="width: 99%;padding-left:5px;padding-right:5px;">
+                                    
+
+    <style>
+        div.container
+        {
+            border: 0px solid #000000;
+            overflow: auto;
+            width: 100%;
+        }
+    </style>
+    <div class="container">
+        <div class="ui-widget">
+            <div id="WelcomeText" style="float: Left; width: 50%">
+                <h1>Welcome</h1>
+                
+                <p class="MsoNormal"><b><span style="font-size: 12pt;">Welcome to The Town of Sterling,
+Connecticut, Assessor’s Online Assessment Database</span></b><b><br>
+</b><span style="font-size: 10pt; font-family: Tahoma, sans-serif;"><br>
+</span>This database provides you with information on each
+parcel of real estate in Sterling, along with the ability to search for sales
+of properties that might be similar to your selected property.&nbsp; <br>
+<br>
+Sterling is performing a revaluation for the Grand List of October 1, 2022.&nbsp;
+This revaluation will impact the tax bills due July 2023.&nbsp; The Town of Sterling
+and Vision Government Solutions are working on the revaluation at this time.<o:p></o:p></p>
+
+<p class="MsoNormal"><i>Do not apply the current mill rate to
+your new assessment, as the mill rate will change. Using the prior mill rate
+will not estimate your July 2023 tax bill.&nbsp; The Town will set a new mill
+rate in Spring 2023</i>.&nbsp; <br>
+<br>
+In conjunction with the 2022 revaluation assessment notices, you may review
+your new assessment with a representative of Vision Government Solutions by
+scheduling an informal hearing.&nbsp; Informal hearings will be held by either a
+<b>PHONE appointment or an in-person appointment.</b>&nbsp;&nbsp; You must book
+your choice of appointment by December 16, 2022. <br>
+<br>
+To schedule an informal hearing, you may go to <a href="http://www.vgsi.com/schedules" target="_blank">www.vgsi.com/schedules</a> and follow the instructions to schedule an informal
+hearing.&nbsp; You will need the Parcel ID number (<b>PID#</b>), which can be found at the top of the 2022 revaluation
+assessment notice or in the online database.&nbsp; If you wish to schedule an
+informal hearing for two or more properties, do not schedule your hearings
+online, please call Vision Government Solutions at 1-888-844-4300. &nbsp; If
+you do not have access to a computer, or prefer to call for an appointment time
+instead of scheduling your informal hearing online, you may call 1-888-844-4300
+between the hours of 9:00 AM and 4:00 PM, Monday through Friday, excluding
+state holidays.&nbsp; <o:p></o:p></p>
+
+<p class="MsoNormal"><br>
+<span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+minor-latin;color:red">DO NOT contact the Town of Sterling Assessor’s Office to
+schedule your informal hearing with Vision Government Solutions. &nbsp;Town staff does not have access to create,
+change, or cancel hearing appointments.</span>&nbsp; <br>
+<br>
+If you wish to appeal your assessment
+after the informal hearing process is complete, you must file a written appeal
+to the Sterling Board of Assessment Appeals on the prescribed appeal application
+which can be obtained at the Assessor’s office.&nbsp;
+You must file after February 1, 2023, but no later than February 20,
+2023.<o:p></o:p></p>
+
+<p class="DefaultText"><span style="font-size:10.0pt;font-family:&quot;Calibri&quot;,sans-serif;
+mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+minor-latin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10.0pt;font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-latin;
+mso-ansi-language:X-NONE;mso-fareast-language:X-NONE">&nbsp;</span><span style="font-size:10.0pt;
+font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
+minor-latin;mso-bidi-theme-font:minor-latin"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom: 7.5pt; text-align: justify; text-indent: 0.5in; line-height: 15pt;">&nbsp;<font color="#333333" face="Arial, sans-serif"><b>&nbsp;</b></font></p>
+
+            </div>
+
+            <br />
+            <br />
+            <div id="MainContent_login" style="float: Right; width: 45%; ">
+            
+                <div style="padding-left:40px; font-size:1.4em">
+                <br />&nbsp;
+                    <input type="submit" name="ctl00$MainContent$btnEnterOnlineDatabase" value="Enter Online Database" id="MainContent_btnEnterOnlineDatabase" class="btn btn-primary" />
+
+                    <br /><br /><br />
+                
+            </div>
+            <div id="SilverlightMessage"  >
+                
+                
+              
+                    
+            </div>
+                    <br />
+
+                  <br>
+
+        </div>
+    </div>
+    <br />
+    <br />
+    <br />
+        </div>
+
+                                </div>
+                            </div>
+                            </main>
+                            <div style="height:10px;"></div>
+                            <footer>
+                            <div class="clientservices-footer">
+                                <div style="background-color:#333366; width: 100%">
+                                    <span style="float:right;padding-top:6px; padding-right: 12px;">(c)  2026 Vision Government Solutions, Inc. All rights reserved.</span>
+                                </div>    
+                            </div>
+                            </footer>
+                        </div>
+                    </div>
+                    <div class="bottomgraphic">    
+                        <img alt="" id="Image4" src='/SterlingCT/Images/pagebottomds.png' />
+                    </div> 
+                </div>
+            </div>
+        </div>
+        
+        
+    <script type="text/javascript">
+        //ondomready
+        $(function () {
+
+            var ua = window.navigator.userAgent;
+            var msie = ua.indexOf("MSIE ");
+
+            if (msie > 0) // If Internet Explorer, check version number
+            {
+                var version = parseInt(ua.substring(msie + 5, ua.indexOf(".", msie)));
+                if (version <= 6) {
+                    alert("Your browser need to be upgraded to version 7 or newer for this site to work correctly");
+                }
+            };
+
+        });
+
+        $(function () {
+
+            // $("input:submit,  button", ".ui-widget").button();
+
+        });
+
+
+
+
+
+       
+
+    </script>
+    
+    <script>
+        // Override the user agent so that you can see it work!
+        navigator.__defineGetter__('userAgent', function () {
+            return 'Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; SLCC1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.50727)';
+        });
+
+
+    </script>
+
+   
+
+      
+        
+              <script type="text/javascript">
+
+                  //SMW VIS-12382 upgraded GA tag into master page head tags to clear cookie samesite error
+                  //var _gaq = _gaq || [];
+                  //_gaq.push(['_setAccount', 'UA-37067763-1']);
+                  //_gaq.push(['_trackPageview']);
+
+                  //(function () {
+                  //    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                  //    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://ssl') + '.google-analytics.com/ga.js';
+                  //    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                  //})();
+
+</script>        
+    </form>
+
+</body>
+</html>
+
