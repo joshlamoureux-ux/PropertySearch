@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-09-07T15:04:04.000Z",
+ "startedAt": "2026-09-08T13:39:13.839Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 18,
+   "rawParcels": 14,
    "errors": [],
    "notes": []
   },
@@ -74,7 +74,7 @@
    "name": "Craigslist worcester land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 19,
+   "rawParcels": 20,
    "errors": [],
    "notes": []
   },
@@ -83,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 21,
+   "rawParcels": 22,
    "errors": [],
    "notes": []
   },
@@ -92,7 +92,7 @@
    "name": "Craigslist westernmass land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 44,
+   "rawParcels": 38,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 82,
+   "rawParcels": 78,
    "errors": [],
    "notes": []
   },
@@ -110,25 +110,25 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 35,
+   "rawParcels": 40,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 377,
- "uniqueParcels": 307,
+ "rawParcels": 370,
+ "uniqueParcels": 300,
  "dropped": {
-  "smallAcres": 50,
-  "unknownAcres": 102,
+  "smallAcres": 49,
+  "unknownAcres": 97,
   "structure": 10,
-  "noPrice": 3
+  "noPrice": 2
  },
  "assessor": {
-  "attempted": 36,
+  "attempted": 35,
   "matched": 33,
   "cards": 33,
   "noTown": 0,
-  "noStreet": 2,
+  "noStreet": 1,
   "noNumber": 1
  },
  "droppedAfterAssessor": [
@@ -369,20 +369,20 @@
  "geocode": {
   "lookups": 2,
   "cached": 150,
-  "misses": 2
+  "misses": 1
  },
- "insideRadius": 96,
- "outsideRadius": 6,
+ "insideRadius": 95,
+ "outsideRadius": 7,
  "noCoordinates": 11,
- "estimatedValues": 14,
- "finalParcels": 101,
+ "estimatedValues": 13,
+ "finalParcels": 100,
  "fetch": {
-  "fetched": 257,
+  "fetched": 256,
   "cached": 1,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-09-07T15:10:19.064Z",
- "durationSeconds": 375
+ "finishedAt": "2026-09-08T13:45:27.632Z",
+ "durationSeconds": 374
 }

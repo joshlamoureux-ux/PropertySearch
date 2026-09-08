@@ -802,5 +802,12 @@
  "1 bed, tiny house on 7acres. garage included. workshop extra if needed, lovely 2 floor house in county setting with garage, ma, usa": null,
  "lovely 2 floor house in county setting with garage, ma, usa": null,
  "spectacular 119 acre farm mountain home, smynra mills, ny, usa": null,
- "smynra mills, ny, usa": null
+ "smynra mills, ny, usa": null,
+ "20.5 acres – mt kearsarge / lake sunapee – andover nh, andover, nh, usa": null,
+ "andover, nh, usa": {
+  "lat": 43.4366616,
+  "lng": -71.8197481,
+  "name": "Andover, Merrimack County, New Hampshire, United States",
+  "precision": "village"
+ }
 }
