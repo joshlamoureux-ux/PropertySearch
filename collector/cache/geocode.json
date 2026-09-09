@@ -809,5 +809,19 @@
   "lng": -71.8197481,
   "name": "Andover, Merrimack County, New Hampshire, United States",
   "precision": "village"
+ },
+ "2 bedroom ranch with 6.9 acres + detached garage, athol, ma, usa": null,
+ "athol, ma, usa": {
+  "lat": 42.594001,
+  "lng": -72.2268141,
+  "name": "Athol, Worcester County, Massachusetts, 01331, United States",
+  "precision": "town"
+ },
+ "80 acres with tiny house in southern colorado rockies, walsenburg, ma, usa": null,
+ "walsenburg, ma, usa": {
+  "lat": 37.6235234,
+  "lng": -104.780995,
+  "name": "Walsenburg, Huerfano County, Colorado, United States",
+  "precision": "town"
  }
 }
