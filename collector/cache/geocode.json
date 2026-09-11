@@ -823,5 +823,12 @@
   "lng": -104.780995,
   "name": "Walsenburg, Huerfano County, Colorado, United States",
   "precision": "town"
+ },
+ "exeter, maine 126 acres off grid, exeter, ct, usa": null,
+ "exeter, ct, usa": {
+  "lat": 41.6198208,
+  "lng": -72.2642467,
+  "name": "Exeter, Lebanon, Southeastern Connecticut Planning Region, Connecticut, 06249, United States",
+  "precision": "hamlet"
  }
 }
