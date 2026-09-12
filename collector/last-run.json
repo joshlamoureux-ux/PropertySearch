@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-09-11T13:36:15.983Z",
+ "startedAt": "2026-09-12T12:52:33.051Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -12,7 +12,7 @@
    "name": "Connecticut municipal tax sales (cttaxsales.com)",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 144,
+   "rawParcels": 140,
    "errors": [],
    "notes": [
     "http://cttaxsales.com/wp-content/uploads/2012/10/10%E2%80%99-right-of-way-on-Broadview-Street-Newington-CT.pdf: notice not readable"
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 14,
+   "rawParcels": 12,
    "errors": [],
    "notes": []
   },
@@ -65,7 +65,7 @@
    "name": "Craigslist newlondon land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 14,
+   "rawParcels": 13,
    "errors": [],
    "notes": []
   },
@@ -83,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 22,
+   "rawParcels": 20,
    "errors": [],
    "notes": []
   },
@@ -92,7 +92,7 @@
    "name": "Craigslist westernmass land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 41,
+   "rawParcels": 40,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 81,
+   "rawParcels": 77,
    "errors": [],
    "notes": []
   },
@@ -110,26 +110,26 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 40,
+   "rawParcels": 45,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 379,
- "uniqueParcels": 306,
+ "rawParcels": 370,
+ "uniqueParcels": 297,
  "dropped": {
-  "smallAcres": 51,
-  "unknownAcres": 100,
+  "smallAcres": 50,
+  "unknownAcres": 97,
   "structure": 10,
   "noPrice": 1
  },
  "assessor": {
-  "attempted": 36,
+  "attempted": 35,
   "matched": 33,
   "cards": 33,
   "noTown": 0,
   "noStreet": 2,
-  "noNumber": 1
+  "noNumber": 0
  },
  "droppedAfterAssessor": [
   {
@@ -367,22 +367,22 @@
  ],
  "assessorMatchedKept": 4,
  "geocode": {
-  "lookups": 2,
-  "cached": 154,
-  "misses": 1
+  "lookups": 0,
+  "cached": 152,
+  "misses": 0
  },
- "insideRadius": 96,
+ "insideRadius": 92,
  "outsideRadius": 7,
- "noCoordinates": 12,
+ "noCoordinates": 11,
  "estimatedValues": 10,
- "finalParcels": 101,
+ "finalParcels": 96,
  "fetch": {
-  "fetched": 256,
+  "fetched": 250,
   "cached": 1,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-09-11T13:42:31.130Z",
- "durationSeconds": 375
+ "finishedAt": "2026-09-12T12:58:36.243Z",
+ "durationSeconds": 363
 }
