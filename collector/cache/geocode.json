@@ -830,5 +830,11 @@
   "lng": -72.2642467,
   "name": "Exeter, Lebanon, Southeastern Connecticut Planning Region, Connecticut, 06249, United States",
   "precision": "hamlet"
+ },
+ "683 crystal lake road, tolland, ct, usa": {
+  "lat": 41.9146572,
+  "lng": -72.3906568,
+  "name": "683, Crystal Lake Road, Tolland, Capitol Planning Region, Connecticut, 06084, United States",
+  "precision": "place"
  }
 }

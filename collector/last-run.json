@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-09-14T15:54:20.567Z",
+ "startedAt": "2026-09-15T14:20:35.654Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -12,7 +12,7 @@
    "name": "Connecticut municipal tax sales (cttaxsales.com)",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 140,
+   "rawParcels": 143,
    "errors": [],
    "notes": [
     "http://cttaxsales.com/wp-content/uploads/2012/10/10%E2%80%99-right-of-way-on-Broadview-Street-Newington-CT.pdf: notice not readable"
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 12,
+   "rawParcels": 15,
    "errors": [],
    "notes": []
   },
@@ -65,7 +65,7 @@
    "name": "Craigslist newlondon land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 13,
+   "rawParcels": 9,
    "errors": [],
    "notes": []
   },
@@ -92,7 +92,7 @@
    "name": "Craigslist westernmass land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 37,
+   "rawParcels": 35,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 80,
+   "rawParcels": 75,
    "errors": [],
    "notes": []
   },
@@ -110,23 +110,23 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 46,
+   "rawParcels": 47,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 368,
- "uniqueParcels": 296,
+ "rawParcels": 364,
+ "uniqueParcels": 290,
  "dropped": {
   "smallAcres": 53,
-  "unknownAcres": 95,
+  "unknownAcres": 87,
   "structure": 10,
   "noPrice": 1
  },
  "assessor": {
-  "attempted": 35,
-  "matched": 33,
-  "cards": 33,
+  "attempted": 39,
+  "matched": 37,
+  "cards": 37,
   "noTown": 0,
   "noStreet": 2,
   "noNumber": 0
@@ -154,14 +154,6 @@
    "acres": 0.31,
    "hasStructure": true,
    "assessedValue": 144800,
-   "dealType": "tax-sale"
-  },
-  {
-   "address": "24 Round Hill Road",
-   "town": "Manchester",
-   "acres": 1.19,
-   "hasStructure": true,
-   "assessedValue": 356900,
    "dealType": "tax-sale"
   },
   {
@@ -363,26 +355,58 @@
    "hasStructure": false,
    "assessedValue": 5200,
    "dealType": "tax-sale"
+  },
+  {
+   "address": "40 Hidden Valley",
+   "town": "Tolland",
+   "acres": 1.48,
+   "hasStructure": true,
+   "assessedValue": 178100,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "39 Lee Lane",
+   "town": "Tolland",
+   "acres": 2.48,
+   "hasStructure": true,
+   "assessedValue": 355100,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "36 Willow Creek Drive",
+   "town": "Tolland",
+   "acres": 1.09,
+   "hasStructure": true,
+   "assessedValue": 226900,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "64 Columbine Road",
+   "town": "Tolland",
+   "acres": 0.23,
+   "hasStructure": false,
+   "assessedValue": 5500,
+   "dealType": "tax-sale"
   }
  ],
- "assessorMatchedKept": 4,
+ "assessorMatchedKept": 5,
  "geocode": {
-  "lookups": 0,
-  "cached": 148,
+  "lookups": 1,
+  "cached": 146,
   "misses": 0
  },
- "insideRadius": 92,
+ "insideRadius": 91,
  "outsideRadius": 7,
  "noCoordinates": 9,
  "estimatedValues": 9,
- "finalParcels": 96,
+ "finalParcels": 95,
  "fetch": {
-  "fetched": 250,
+  "fetched": 264,
   "cached": 1,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-09-14T16:00:24.940Z",
- "durationSeconds": 364
+ "finishedAt": "2026-09-15T14:27:00.974Z",
+ "durationSeconds": 385
 }
