@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-09-15T14:20:35.654Z",
+ "startedAt": "2026-09-16T14:12:54.772Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 15,
+   "rawParcels": 13,
    "errors": [],
    "notes": []
   },
@@ -65,7 +65,7 @@
    "name": "Craigslist newlondon land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 9,
+   "rawParcels": 10,
    "errors": [],
    "notes": []
   },
@@ -74,7 +74,7 @@
    "name": "Craigslist worcester land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 23,
+   "rawParcels": 24,
    "errors": [],
    "notes": []
   },
@@ -83,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 17,
+   "rawParcels": 19,
    "errors": [],
    "notes": []
   },
@@ -92,7 +92,7 @@
    "name": "Craigslist westernmass land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 35,
+   "rawParcels": 34,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 75,
+   "rawParcels": 77,
    "errors": [],
    "notes": []
   },
@@ -110,16 +110,16 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 47,
+   "rawParcels": 48,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 364,
- "uniqueParcels": 290,
+ "rawParcels": 368,
+ "uniqueParcels": 291,
  "dropped": {
-  "smallAcres": 53,
-  "unknownAcres": 87,
+  "smallAcres": 51,
+  "unknownAcres": 90,
   "structure": 10,
   "noPrice": 1
  },
@@ -391,8 +391,8 @@
  ],
  "assessorMatchedKept": 5,
  "geocode": {
-  "lookups": 1,
-  "cached": 146,
+  "lookups": 0,
+  "cached": 147,
   "misses": 0
  },
  "insideRadius": 91,
@@ -407,6 +407,6 @@
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-09-15T14:27:00.974Z",
- "durationSeconds": 385
+ "finishedAt": "2026-09-16T14:19:23.065Z",
+ "durationSeconds": 388
 }
