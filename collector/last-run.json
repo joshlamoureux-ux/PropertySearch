@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-09-16T14:12:54.772Z",
+ "startedAt": "2026-09-17T14:18:28.112Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -12,7 +12,7 @@
    "name": "Connecticut municipal tax sales (cttaxsales.com)",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 143,
+   "rawParcels": 138,
    "errors": [],
    "notes": [
     "http://cttaxsales.com/wp-content/uploads/2012/10/10%E2%80%99-right-of-way-on-Broadview-Street-Newington-CT.pdf: notice not readable"
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 13,
+   "rawParcels": 14,
    "errors": [],
    "notes": []
   },
@@ -92,7 +92,7 @@
    "name": "Craigslist westernmass land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 34,
+   "rawParcels": 40,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 77,
+   "rawParcels": 78,
    "errors": [],
    "notes": []
   },
@@ -110,23 +110,23 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 48,
+   "rawParcels": 49,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 368,
- "uniqueParcels": 291,
+ "rawParcels": 372,
+ "uniqueParcels": 292,
  "dropped": {
-  "smallAcres": 51,
-  "unknownAcres": 90,
+  "smallAcres": 46,
+  "unknownAcres": 98,
   "structure": 10,
   "noPrice": 1
  },
  "assessor": {
-  "attempted": 39,
-  "matched": 37,
-  "cards": 37,
+  "attempted": 38,
+  "matched": 36,
+  "cards": 36,
   "noTown": 0,
   "noStreet": 2,
   "noNumber": 0
@@ -285,14 +285,6 @@
    "dealType": "tax-sale"
   },
   {
-   "address": "37 Pond Street",
-   "town": "Sterling",
-   "acres": 0.89,
-   "hasStructure": true,
-   "assessedValue": 182400,
-   "dealType": "tax-sale"
-  },
-  {
    "address": "1030 Plainfield Pike",
    "town": "Sterling",
    "acres": 1.38,
@@ -392,21 +384,21 @@
  "assessorMatchedKept": 5,
  "geocode": {
   "lookups": 0,
-  "cached": 147,
+  "cached": 146,
   "misses": 0
  },
- "insideRadius": 91,
+ "insideRadius": 90,
  "outsideRadius": 7,
  "noCoordinates": 9,
  "estimatedValues": 9,
- "finalParcels": 95,
+ "finalParcels": 94,
  "fetch": {
-  "fetched": 264,
-  "cached": 1,
+  "fetched": 258,
+  "cached": 0,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-09-16T14:19:23.065Z",
- "durationSeconds": 388
+ "finishedAt": "2026-09-17T14:24:42.994Z",
+ "durationSeconds": 375
 }
