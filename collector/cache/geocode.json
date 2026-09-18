@@ -836,5 +836,12 @@
   "lng": -72.3906568,
   "name": "683, Crystal Lake Road, Tolland, Capitol Planning Region, Connecticut, 06084, United States",
   "precision": "place"
+ },
+ "10 acre building site in ellenville ny, ellenville, ny, usa": null,
+ "ellenville, ny, usa": {
+  "lat": 41.7170379,
+  "lng": -74.39571,
+  "name": "Village of Ellenville, Town of Wawarsing, Ulster County, New York, United States",
+  "precision": "town"
  }
 }
