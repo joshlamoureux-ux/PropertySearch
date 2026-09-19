@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-09-18T13:37:02.111Z",
+ "startedAt": "2026-09-19T13:11:14.857Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -12,7 +12,7 @@
    "name": "Connecticut municipal tax sales (cttaxsales.com)",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 137,
+   "rawParcels": 136,
    "errors": [],
    "notes": [
     "http://cttaxsales.com/wp-content/uploads/2012/10/10%E2%80%99-right-of-way-on-Broadview-Street-Newington-CT.pdf: notice not readable"
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 10,
+   "rawParcels": 11,
    "errors": [],
    "notes": []
   },
@@ -74,7 +74,7 @@
    "name": "Craigslist worcester land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 24,
+   "rawParcels": 22,
    "errors": [],
    "notes": []
   },
@@ -83,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 19,
+   "rawParcels": 18,
    "errors": [],
    "notes": []
   },
@@ -92,7 +92,7 @@
    "name": "Craigslist westernmass land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 39,
+   "rawParcels": 37,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 79,
+   "rawParcels": 81,
    "errors": [],
    "notes": []
   },
@@ -110,23 +110,23 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 46,
+   "rawParcels": 51,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 364,
+ "rawParcels": 366,
  "uniqueParcels": 288,
  "dropped": {
-  "smallAcres": 47,
-  "unknownAcres": 93,
-  "structure": 10,
-  "noPrice": 1
+  "smallAcres": 48,
+  "unknownAcres": 96,
+  "structure": 9,
+  "noPrice": 0
  },
  "assessor": {
-  "attempted": 37,
-  "matched": 35,
-  "cards": 35,
+  "attempted": 36,
+  "matched": 34,
+  "cards": 34,
   "noTown": 0,
   "noStreet": 2,
   "noNumber": 0
@@ -253,14 +253,6 @@
    "dealType": "tax-sale"
   },
   {
-   "address": "76 Griffin Road",
-   "town": "Broad Brook",
-   "acres": null,
-   "hasStructure": true,
-   "assessedValue": 301210,
-   "dealType": "tax-sale"
-  },
-  {
    "address": "505 Porter Pond Road",
    "town": "Sterling",
    "acres": 4.92,
@@ -375,22 +367,22 @@
  ],
  "assessorMatchedKept": 5,
  "geocode": {
-  "lookups": 2,
-  "cached": 146,
-  "misses": 1
+  "lookups": 0,
+  "cached": 148,
+  "misses": 0
  },
  "insideRadius": 90,
  "outsideRadius": 8,
- "noCoordinates": 9,
+ "noCoordinates": 8,
  "estimatedValues": 9,
- "finalParcels": 94,
+ "finalParcels": 93,
  "fetch": {
-  "fetched": 255,
+  "fetched": 251,
   "cached": 0,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-09-18T13:43:15.326Z",
- "durationSeconds": 373
+ "finishedAt": "2026-09-19T13:17:20.406Z",
+ "durationSeconds": 366
 }
