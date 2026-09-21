@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-09-20T13:35:37.775Z",
+ "startedAt": "2026-09-21T15:54:30.684Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -65,7 +65,7 @@
    "name": "Craigslist newlondon land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 10,
+   "rawParcels": 8,
    "errors": [],
    "notes": []
   },
@@ -74,7 +74,7 @@
    "name": "Craigslist worcester land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 23,
+   "rawParcels": 21,
    "errors": [],
    "notes": []
   },
@@ -83,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 20,
+   "rawParcels": 18,
    "errors": [],
    "notes": []
   },
@@ -92,7 +92,7 @@
    "name": "Craigslist westernmass land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 35,
+   "rawParcels": 32,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 81,
+   "rawParcels": 79,
    "errors": [],
    "notes": []
   },
@@ -110,15 +110,15 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 47,
+   "rawParcels": 51,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 365,
- "uniqueParcels": 290,
+ "rawParcels": 358,
+ "uniqueParcels": 286,
  "dropped": {
-  "smallAcres": 48,
+  "smallAcres": 46,
   "unknownAcres": 97,
   "structure": 9,
   "noPrice": 1
@@ -368,14 +368,14 @@
  "assessorMatchedKept": 5,
  "geocode": {
   "lookups": 0,
-  "cached": 148,
+  "cached": 144,
   "misses": 0
  },
- "insideRadius": 90,
+ "insideRadius": 88,
  "outsideRadius": 8,
  "noCoordinates": 8,
  "estimatedValues": 9,
- "finalParcels": 93,
+ "finalParcels": 91,
  "fetch": {
   "fetched": 251,
   "cached": 0,
@@ -383,6 +383,6 @@
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-09-20T13:41:43.840Z",
- "durationSeconds": 366
+ "finishedAt": "2026-09-21T16:00:38.340Z",
+ "durationSeconds": 368
 }
