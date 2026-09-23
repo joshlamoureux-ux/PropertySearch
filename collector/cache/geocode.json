@@ -843,5 +843,12 @@
   "lng": -74.39571,
   "name": "Village of Ellenville, Town of Wawarsing, Ulster County, New York, United States",
   "precision": "town"
+ },
+ "15 acres with beach & boating access, multiple lots, becket, ma, usa": null,
+ "becket, ma, usa": {
+  "lat": 42.3323727,
+  "lng": -73.0837627,
+  "name": "Becket, Berkshire County, Massachusetts, United States",
+  "precision": "village"
  }
 }

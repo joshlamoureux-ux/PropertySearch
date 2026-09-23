@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-09-22T14:03:13.294Z",
+ "startedAt": "2026-09-23T14:14:57.875Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -12,7 +12,7 @@
    "name": "Connecticut municipal tax sales (cttaxsales.com)",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 136,
+   "rawParcels": 132,
    "errors": [],
    "notes": [
     "http://cttaxsales.com/wp-content/uploads/2012/10/10%E2%80%99-right-of-way-on-Broadview-Street-Newington-CT.pdf: notice not readable"
@@ -74,7 +74,7 @@
    "name": "Craigslist worcester land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 24,
+   "rawParcels": 23,
    "errors": [],
    "notes": []
   },
@@ -83,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 19,
+   "rawParcels": 20,
    "errors": [],
    "notes": []
   },
@@ -92,7 +92,7 @@
    "name": "Craigslist westernmass land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 32,
+   "rawParcels": 36,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 78,
+   "rawParcels": 84,
    "errors": [],
    "notes": []
   },
@@ -110,23 +110,23 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 49,
+   "rawParcels": 51,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 356,
- "uniqueParcels": 285,
+ "rawParcels": 364,
+ "uniqueParcels": 290,
  "dropped": {
-  "smallAcres": 45,
-  "unknownAcres": 97,
+  "smallAcres": 46,
+  "unknownAcres": 105,
   "structure": 9,
   "noPrice": 1
  },
  "assessor": {
-  "attempted": 36,
-  "matched": 34,
-  "cards": 34,
+  "attempted": 34,
+  "matched": 32,
+  "cards": 32,
   "noTown": 0,
   "noStreet": 2,
   "noNumber": 0
@@ -285,14 +285,6 @@
    "dealType": "tax-sale"
   },
   {
-   "address": "0 Main Street and 0 Sterling Road",
-   "town": "Sterling",
-   "acres": null,
-   "hasStructure": true,
-   "assessedValue": 168000,
-   "dealType": "tax-sale"
-  },
-  {
    "address": "70 and 72 Sterling Road",
    "town": "Sterling",
    "acres": 0.67,
@@ -365,24 +357,24 @@
    "dealType": "tax-sale"
   }
  ],
- "assessorMatchedKept": 5,
+ "assessorMatchedKept": 4,
  "geocode": {
-  "lookups": 0,
-  "cached": 144,
-  "misses": 0
+  "lookups": 2,
+  "cached": 138,
+  "misses": 1
  },
- "insideRadius": 88,
+ "insideRadius": 86,
  "outsideRadius": 8,
- "noCoordinates": 8,
+ "noCoordinates": 7,
  "estimatedValues": 9,
- "finalParcels": 91,
+ "finalParcels": 89,
  "fetch": {
-  "fetched": 251,
+  "fetched": 241,
   "cached": 0,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-09-22T14:09:18.453Z",
- "durationSeconds": 365
+ "finishedAt": "2026-09-23T14:20:50.174Z",
+ "durationSeconds": 352
 }
