@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-09-23T14:14:57.875Z",
+ "startedAt": "2026-09-24T14:13:30.417Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -12,7 +12,7 @@
    "name": "Connecticut municipal tax sales (cttaxsales.com)",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 132,
+   "rawParcels": 133,
    "errors": [],
    "notes": [
     "http://cttaxsales.com/wp-content/uploads/2012/10/10%E2%80%99-right-of-way-on-Broadview-Street-Newington-CT.pdf: notice not readable"
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 10,
+   "rawParcels": 12,
    "errors": [],
    "notes": []
   },
@@ -65,7 +65,7 @@
    "name": "Craigslist newlondon land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 8,
+   "rawParcels": 7,
    "errors": [],
    "notes": []
   },
@@ -74,7 +74,7 @@
    "name": "Craigslist worcester land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 23,
+   "rawParcels": 22,
    "errors": [],
    "notes": []
   },
@@ -83,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 20,
+   "rawParcels": 16,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 84,
+   "rawParcels": 87,
    "errors": [],
    "notes": []
   },
@@ -110,23 +110,23 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 51,
+   "rawParcels": 50,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 364,
- "uniqueParcels": 290,
+ "rawParcels": 363,
+ "uniqueParcels": 294,
  "dropped": {
-  "smallAcres": 46,
-  "unknownAcres": 105,
-  "structure": 9,
+  "smallAcres": 48,
+  "unknownAcres": 104,
+  "structure": 11,
   "noPrice": 1
  },
  "assessor": {
-  "attempted": 34,
-  "matched": 32,
-  "cards": 32,
+  "attempted": 33,
+  "matched": 31,
+  "cards": 31,
   "noTown": 0,
   "noStreet": 2,
   "noNumber": 0
@@ -146,14 +146,6 @@
    "acres": 0.17,
    "hasStructure": true,
    "assessedValue": 126400,
-   "dealType": "tax-sale"
-  },
-  {
-   "address": "99 Trebbe Drive",
-   "town": "Manchester",
-   "acres": 0.31,
-   "hasStructure": true,
-   "assessedValue": 144800,
    "dealType": "tax-sale"
   },
   {
@@ -360,21 +352,21 @@
  "assessorMatchedKept": 4,
  "geocode": {
   "lookups": 2,
-  "cached": 138,
-  "misses": 1
+  "cached": 140,
+  "misses": 0
  },
- "insideRadius": 86,
+ "insideRadius": 88,
  "outsideRadius": 8,
  "noCoordinates": 7,
  "estimatedValues": 9,
- "finalParcels": 89,
+ "finalParcels": 91,
  "fetch": {
-  "fetched": 241,
+  "fetched": 239,
   "cached": 0,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-09-23T14:20:50.174Z",
- "durationSeconds": 352
+ "finishedAt": "2026-09-24T14:19:19.284Z",
+ "durationSeconds": 349
 }

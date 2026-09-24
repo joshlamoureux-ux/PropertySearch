@@ -850,5 +850,17 @@
   "lng": -73.0837627,
   "name": "Becket, Berkshire County, Massachusetts, United States",
   "precision": "village"
+ },
+ "0 center road, old saybrook, ct, usa": {
+  "lat": 41.2876626,
+  "lng": -72.4117009,
+  "name": "Center Road, Old Saybrook, Lower Connecticut River Valley Planning Region, Connecticut, 06475, United States",
+  "precision": "road"
+ },
+ "24 sherman street, old saybrook, ct, usa": {
+  "lat": 41.2817951,
+  "lng": -72.3738119,
+  "name": "24, Sherman Street, Old Saybrook, Lower Connecticut River Valley Planning Region, Connecticut, 06475, United States",
+  "precision": "place"
  }
 }
