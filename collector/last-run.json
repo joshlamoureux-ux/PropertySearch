@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-09-24T14:13:30.417Z",
+ "startedAt": "2026-09-25T14:37:01.104Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -12,7 +12,7 @@
    "name": "Connecticut municipal tax sales (cttaxsales.com)",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 133,
+   "rawParcels": 132,
    "errors": [],
    "notes": [
     "http://cttaxsales.com/wp-content/uploads/2012/10/10%E2%80%99-right-of-way-on-Broadview-Street-Newington-CT.pdf: notice not readable"
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 12,
+   "rawParcels": 13,
    "errors": [],
    "notes": []
   },
@@ -65,7 +65,7 @@
    "name": "Craigslist newlondon land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 7,
+   "rawParcels": 6,
    "errors": [],
    "notes": []
   },
@@ -74,7 +74,7 @@
    "name": "Craigslist worcester land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 22,
+   "rawParcels": 21,
    "errors": [],
    "notes": []
   },
@@ -83,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 16,
+   "rawParcels": 20,
    "errors": [],
    "notes": []
   },
@@ -92,7 +92,7 @@
    "name": "Craigslist westernmass land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 36,
+   "rawParcels": 41,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 87,
+   "rawParcels": 91,
    "errors": [],
    "notes": []
   },
@@ -110,23 +110,23 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 50,
+   "rawParcels": 51,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 363,
- "uniqueParcels": 294,
+ "rawParcels": 375,
+ "uniqueParcels": 302,
  "dropped": {
   "smallAcres": 48,
-  "unknownAcres": 104,
-  "structure": 11,
+  "unknownAcres": 112,
+  "structure": 13,
   "noPrice": 1
  },
  "assessor": {
-  "attempted": 33,
-  "matched": 31,
-  "cards": 31,
+  "attempted": 32,
+  "matched": 30,
+  "cards": 30,
   "noTown": 0,
   "noStreet": 2,
   "noNumber": 0
@@ -277,14 +277,6 @@
    "dealType": "tax-sale"
   },
   {
-   "address": "70 and 72 Sterling Road",
-   "town": "Sterling",
-   "acres": 0.67,
-   "hasStructure": true,
-   "assessedValue": 81900,
-   "dealType": "tax-sale"
-  },
-  {
    "address": "47 Church Street",
    "town": "Sterling",
    "acres": 0.3,
@@ -351,22 +343,22 @@
  ],
  "assessorMatchedKept": 4,
  "geocode": {
-  "lookups": 2,
+  "lookups": 0,
   "cached": 140,
   "misses": 0
  },
- "insideRadius": 88,
+ "insideRadius": 87,
  "outsideRadius": 8,
  "noCoordinates": 7,
  "estimatedValues": 9,
- "finalParcels": 91,
+ "finalParcels": 90,
  "fetch": {
-  "fetched": 239,
+  "fetched": 235,
   "cached": 0,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-09-24T14:19:19.284Z",
- "durationSeconds": 349
+ "finishedAt": "2026-09-25T14:42:42.639Z",
+ "durationSeconds": 342
 }
