@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-09-25T14:37:01.104Z",
+ "startedAt": "2026-09-26T13:45:12.458Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -12,7 +12,7 @@
    "name": "Connecticut municipal tax sales (cttaxsales.com)",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 132,
+   "rawParcels": 130,
    "errors": [],
    "notes": [
     "http://cttaxsales.com/wp-content/uploads/2012/10/10%E2%80%99-right-of-way-on-Broadview-Street-Newington-CT.pdf: notice not readable"
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 13,
+   "rawParcels": 11,
    "errors": [],
    "notes": []
   },
@@ -74,7 +74,7 @@
    "name": "Craigslist worcester land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 21,
+   "rawParcels": 24,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 91,
+   "rawParcels": 94,
    "errors": [],
    "notes": []
   },
@@ -110,23 +110,23 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 51,
+   "rawParcels": 52,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 375,
- "uniqueParcels": 302,
+ "rawParcels": 378,
+ "uniqueParcels": 301,
  "dropped": {
-  "smallAcres": 48,
-  "unknownAcres": 112,
-  "structure": 13,
+  "smallAcres": 51,
+  "unknownAcres": 111,
+  "structure": 12,
   "noPrice": 1
  },
  "assessor": {
-  "attempted": 32,
-  "matched": 30,
-  "cards": 30,
+  "attempted": 30,
+  "matched": 28,
+  "cards": 28,
   "noTown": 0,
   "noStreet": 2,
   "noNumber": 0
@@ -162,14 +162,6 @@
    "acres": 0.71,
    "hasStructure": true,
    "assessedValue": 313700,
-   "dealType": "tax-sale"
-  },
-  {
-   "address": "23 Lyness Street",
-   "town": "Manchester",
-   "acres": 0.29,
-   "hasStructure": true,
-   "assessedValue": 141200,
    "dealType": "tax-sale"
   },
   {
@@ -293,14 +285,6 @@
    "dealType": "tax-sale"
   },
   {
-   "address": "25 Center Street",
-   "town": "Andover",
-   "acres": 0.25,
-   "hasStructure": true,
-   "assessedValue": 99610,
-   "dealType": "tax-sale"
-  },
-  {
    "address": "636 Sugar Hill Road",
    "town": "Tolland",
    "acres": 0.12,
@@ -353,12 +337,12 @@
  "estimatedValues": 9,
  "finalParcels": 90,
  "fetch": {
-  "fetched": 235,
+  "fetched": 227,
   "cached": 0,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-09-25T14:42:42.639Z",
- "durationSeconds": 342
+ "finishedAt": "2026-09-26T13:50:40.329Z",
+ "durationSeconds": 328
 }
