@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-09-28T17:40:11.776Z",
+ "startedAt": "2026-09-29T15:53:51.079Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -12,7 +12,7 @@
    "name": "Connecticut municipal tax sales (cttaxsales.com)",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 129,
+   "rawParcels": 128,
    "errors": [],
    "notes": [
     "http://cttaxsales.com/wp-content/uploads/2012/10/10%E2%80%99-right-of-way-on-Broadview-Street-Newington-CT.pdf: notice not readable"
@@ -65,7 +65,7 @@
    "name": "Craigslist newlondon land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 8,
+   "rawParcels": 6,
    "errors": [],
    "notes": []
   },
@@ -74,7 +74,7 @@
    "name": "Craigslist worcester land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 22,
+   "rawParcels": 24,
    "errors": [],
    "notes": []
   },
@@ -92,7 +92,7 @@
    "name": "Craigslist westernmass land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 38,
+   "rawParcels": 37,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 79,
+   "rawParcels": 71,
    "errors": [],
    "notes": []
   },
@@ -110,23 +110,23 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 54,
+   "rawParcels": 53,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 360,
- "uniqueParcels": 294,
+ "rawParcels": 349,
+ "uniqueParcels": 289,
  "dropped": {
-  "smallAcres": 47,
-  "unknownAcres": 109,
+  "smallAcres": 41,
+  "unknownAcres": 113,
   "structure": 13,
   "noPrice": 1
  },
  "assessor": {
-  "attempted": 30,
-  "matched": 28,
-  "cards": 28,
+  "attempted": 29,
+  "matched": 27,
+  "cards": 27,
   "noTown": 0,
   "noStreet": 2,
   "noNumber": 0
@@ -146,14 +146,6 @@
    "acres": 0.17,
    "hasStructure": true,
    "assessedValue": 126400,
-   "dealType": "tax-sale"
-  },
-  {
-   "address": "65 School Street",
-   "town": "Manchester",
-   "acres": 0.24,
-   "hasStructure": true,
-   "assessedValue": 170400,
    "dealType": "tax-sale"
   },
   {
@@ -328,21 +320,21 @@
  "assessorMatchedKept": 4,
  "geocode": {
   "lookups": 0,
-  "cached": 136,
+  "cached": 132,
   "misses": 0
  },
- "insideRadius": 88,
- "outsideRadius": 6,
+ "insideRadius": 87,
+ "outsideRadius": 5,
  "noCoordinates": 6,
  "estimatedValues": 9,
- "finalParcels": 90,
+ "finalParcels": 89,
  "fetch": {
-  "fetched": 226,
+  "fetched": 222,
   "cached": 0,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-09-28T17:45:56.395Z",
- "durationSeconds": 345
+ "finishedAt": "2026-09-29T15:59:13.109Z",
+ "durationSeconds": 322
 }
