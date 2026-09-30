@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-09-29T15:53:51.079Z",
+ "startedAt": "2026-09-30T15:56:07.798Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -12,7 +12,7 @@
    "name": "Connecticut municipal tax sales (cttaxsales.com)",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 128,
+   "rawParcels": 125,
    "errors": [],
    "notes": [
     "http://cttaxsales.com/wp-content/uploads/2012/10/10%E2%80%99-right-of-way-on-Broadview-Street-Newington-CT.pdf: notice not readable"
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 10,
+   "rawParcels": 13,
    "errors": [],
    "notes": []
   },
@@ -65,7 +65,7 @@
    "name": "Craigslist newlondon land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 6,
+   "rawParcels": 10,
    "errors": [],
    "notes": []
   },
@@ -74,7 +74,7 @@
    "name": "Craigslist worcester land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 24,
+   "rawParcels": 23,
    "errors": [],
    "notes": []
   },
@@ -83,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 20,
+   "rawParcels": 25,
    "errors": [],
    "notes": []
   },
@@ -92,7 +92,7 @@
    "name": "Craigslist westernmass land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 37,
+   "rawParcels": 40,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 71,
+   "rawParcels": 69,
    "errors": [],
    "notes": []
   },
@@ -115,18 +115,18 @@
    "notes": []
   }
  ],
- "rawParcels": 349,
- "uniqueParcels": 289,
+ "rawParcels": 358,
+ "uniqueParcels": 294,
  "dropped": {
-  "smallAcres": 41,
-  "unknownAcres": 113,
-  "structure": 13,
+  "smallAcres": 42,
+  "unknownAcres": 121,
+  "structure": 11,
   "noPrice": 1
  },
  "assessor": {
-  "attempted": 29,
-  "matched": 27,
-  "cards": 27,
+  "attempted": 27,
+  "matched": 25,
+  "cards": 25,
   "noTown": 0,
   "noStreet": 2,
   "noNumber": 0
@@ -154,22 +154,6 @@
    "acres": 0.71,
    "hasStructure": true,
    "assessedValue": 313700,
-   "dealType": "tax-sale"
-  },
-  {
-   "address": "117 New Bolton Road",
-   "town": "Manchester",
-   "acres": 0.79,
-   "hasStructure": true,
-   "assessedValue": 133600,
-   "dealType": "tax-sale"
-  },
-  {
-   "address": "47 Plantation Road",
-   "town": "East Windsor",
-   "acres": null,
-   "hasStructure": true,
-   "assessedValue": 1180550,
    "dealType": "tax-sale"
   },
   {
@@ -329,12 +313,12 @@
  "estimatedValues": 9,
  "finalParcels": 89,
  "fetch": {
-  "fetched": 222,
+  "fetched": 214,
   "cached": 0,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-09-29T15:59:13.109Z",
- "durationSeconds": 322
+ "finishedAt": "2026-09-30T16:01:17.276Z",
+ "durationSeconds": 309
 }
