@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-09-30T15:56:07.798Z",
+ "startedAt": "2026-10-01T16:27:54.895Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -12,7 +12,7 @@
    "name": "Connecticut municipal tax sales (cttaxsales.com)",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 125,
+   "rawParcels": 117,
    "errors": [],
    "notes": [
     "http://cttaxsales.com/wp-content/uploads/2012/10/10%E2%80%99-right-of-way-on-Broadview-Street-Newington-CT.pdf: notice not readable"
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 13,
+   "rawParcels": 12,
    "errors": [],
    "notes": []
   },
@@ -65,7 +65,7 @@
    "name": "Craigslist newlondon land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 10,
+   "rawParcels": 8,
    "errors": [],
    "notes": []
   },
@@ -74,7 +74,7 @@
    "name": "Craigslist worcester land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 23,
+   "rawParcels": 25,
    "errors": [],
    "notes": []
   },
@@ -83,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 25,
+   "rawParcels": 24,
    "errors": [],
    "notes": []
   },
@@ -92,7 +92,7 @@
    "name": "Craigslist westernmass land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 40,
+   "rawParcels": 44,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 69,
+   "rawParcels": 68,
    "errors": [],
    "notes": []
   },
@@ -110,52 +110,28 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 53,
+   "rawParcels": 55,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 358,
- "uniqueParcels": 294,
+ "rawParcels": 353,
+ "uniqueParcels": 288,
  "dropped": {
-  "smallAcres": 42,
-  "unknownAcres": 121,
-  "structure": 11,
+  "smallAcres": 43,
+  "unknownAcres": 120,
+  "structure": 13,
   "noPrice": 1
  },
  "assessor": {
-  "attempted": 27,
-  "matched": 25,
-  "cards": 25,
+  "attempted": 23,
+  "matched": 21,
+  "cards": 21,
   "noTown": 0,
   "noStreet": 2,
   "noNumber": 0
  },
  "droppedAfterAssessor": [
-  {
-   "address": "257 Hilliard Street",
-   "town": "Manchester",
-   "acres": 0.38,
-   "hasStructure": true,
-   "assessedValue": 106000,
-   "dealType": "tax-sale"
-  },
-  {
-   "address": "111 Woodland Street",
-   "town": "Manchester",
-   "acres": 0.17,
-   "hasStructure": true,
-   "assessedValue": 126400,
-   "dealType": "tax-sale"
-  },
-  {
-   "address": "164 Fern Street",
-   "town": "Manchester",
-   "acres": 0.71,
-   "hasStructure": true,
-   "assessedValue": 313700,
-   "dealType": "tax-sale"
-  },
   {
    "address": "66 Scantic Road",
    "town": "East Windsor",
@@ -301,24 +277,24 @@
    "dealType": "tax-sale"
   }
  ],
- "assessorMatchedKept": 4,
+ "assessorMatchedKept": 3,
  "geocode": {
   "lookups": 0,
-  "cached": 132,
+  "cached": 126,
   "misses": 0
  },
- "insideRadius": 87,
+ "insideRadius": 82,
  "outsideRadius": 5,
  "noCoordinates": 6,
  "estimatedValues": 9,
- "finalParcels": 89,
+ "finalParcels": 84,
  "fetch": {
-  "fetched": 214,
+  "fetched": 195,
   "cached": 0,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-09-30T16:01:17.276Z",
- "durationSeconds": 309
+ "finishedAt": "2026-10-01T16:32:34.288Z",
+ "durationSeconds": 279
 }
