@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-10-01T16:27:54.895Z",
+ "startedAt": "2026-10-02T15:50:37.891Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -12,7 +12,7 @@
    "name": "Connecticut municipal tax sales (cttaxsales.com)",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 117,
+   "rawParcels": 116,
    "errors": [],
    "notes": [
     "http://cttaxsales.com/wp-content/uploads/2012/10/10%E2%80%99-right-of-way-on-Broadview-Street-Newington-CT.pdf: notice not readable"
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 12,
+   "rawParcels": 10,
    "errors": [],
    "notes": []
   },
@@ -74,7 +74,7 @@
    "name": "Craigslist worcester land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 25,
+   "rawParcels": 22,
    "errors": [],
    "notes": []
   },
@@ -83,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 24,
+   "rawParcels": 20,
    "errors": [],
    "notes": []
   },
@@ -92,7 +92,7 @@
    "name": "Craigslist westernmass land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 44,
+   "rawParcels": 38,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 68,
+   "rawParcels": 71,
    "errors": [],
    "notes": []
   },
@@ -110,23 +110,23 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 55,
+   "rawParcels": 46,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 353,
- "uniqueParcels": 288,
+ "rawParcels": 331,
+ "uniqueParcels": 279,
  "dropped": {
-  "smallAcres": 43,
-  "unknownAcres": 120,
+  "smallAcres": 41,
+  "unknownAcres": 119,
   "structure": 13,
   "noPrice": 1
  },
  "assessor": {
-  "attempted": 23,
-  "matched": 21,
-  "cards": 21,
+  "attempted": 22,
+  "matched": 20,
+  "cards": 20,
   "noTown": 0,
   "noStreet": 2,
   "noNumber": 0
@@ -186,14 +186,6 @@
    "acres": null,
    "hasStructure": true,
    "assessedValue": 150490,
-   "dealType": "tax-sale"
-  },
-  {
-   "address": "505 Porter Pond Road",
-   "town": "Sterling",
-   "acres": 4.92,
-   "hasStructure": true,
-   "assessedValue": 200005,
    "dealType": "tax-sale"
   },
   {
@@ -280,21 +272,21 @@
  "assessorMatchedKept": 3,
  "geocode": {
   "lookups": 0,
-  "cached": 126,
+  "cached": 120,
   "misses": 0
  },
  "insideRadius": 82,
- "outsideRadius": 5,
- "noCoordinates": 6,
- "estimatedValues": 9,
- "finalParcels": 84,
+ "outsideRadius": 4,
+ "noCoordinates": 2,
+ "estimatedValues": 7,
+ "finalParcels": 82,
  "fetch": {
-  "fetched": 195,
+  "fetched": 192,
   "cached": 0,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-10-01T16:32:34.288Z",
- "durationSeconds": 279
+ "finishedAt": "2026-10-02T15:55:14.254Z",
+ "durationSeconds": 276
 }
