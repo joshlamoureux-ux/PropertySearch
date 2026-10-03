@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-10-02T15:50:37.891Z",
+ "startedAt": "2026-10-03T14:19:26.497Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -12,7 +12,7 @@
    "name": "Connecticut municipal tax sales (cttaxsales.com)",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 116,
+   "rawParcels": 132,
    "errors": [],
    "notes": [
     "http://cttaxsales.com/wp-content/uploads/2012/10/10%E2%80%99-right-of-way-on-Broadview-Street-Newington-CT.pdf: notice not readable"
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 10,
+   "rawParcels": 13,
    "errors": [],
    "notes": []
   },
@@ -74,7 +74,7 @@
    "name": "Craigslist worcester land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 22,
+   "rawParcels": 25,
    "errors": [],
    "notes": []
   },
@@ -83,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 20,
+   "rawParcels": 22,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 71,
+   "rawParcels": 68,
    "errors": [],
    "notes": []
   },
@@ -115,11 +115,11 @@
    "notes": []
   }
  ],
- "rawParcels": 331,
- "uniqueParcels": 279,
+ "rawParcels": 352,
+ "uniqueParcels": 291,
  "dropped": {
-  "smallAcres": 41,
-  "unknownAcres": 119,
+  "smallAcres": 40,
+  "unknownAcres": 116,
   "structure": 13,
   "noPrice": 1
  },
@@ -271,22 +271,22 @@
  ],
  "assessorMatchedKept": 3,
  "geocode": {
-  "lookups": 0,
-  "cached": 120,
-  "misses": 0
+  "lookups": 17,
+  "cached": 121,
+  "misses": 2
  },
- "insideRadius": 82,
+ "insideRadius": 98,
  "outsideRadius": 4,
  "noCoordinates": 2,
  "estimatedValues": 7,
- "finalParcels": 82,
+ "finalParcels": 98,
  "fetch": {
-  "fetched": 192,
+  "fetched": 208,
   "cached": 0,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-10-02T15:55:14.254Z",
- "durationSeconds": 276
+ "finishedAt": "2026-10-03T14:24:45.499Z",
+ "durationSeconds": 319
 }

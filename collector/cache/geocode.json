@@ -862,5 +862,97 @@
   "lng": -72.3738119,
   "name": "24, Sherman Street, Old Saybrook, Lower Connecticut River Valley Planning Region, Connecticut, 06475, United States",
   "precision": "place"
+ },
+ "0 pilgrim lane and 0 plymouth lane, suffield, ct, usa": null,
+ "suffield, ct, usa": {
+  "lat": 41.9816944,
+  "lng": -72.6506604,
+  "name": "Suffield, Capitol Planning Region, Connecticut, United States",
+  "precision": "town"
+ },
+ "466 east street south, suffield, ct, usa": {
+  "lat": 41.9637242,
+  "lng": -72.6177874,
+  "name": "466, East Street South, Suffield, Capitol Planning Region, Connecticut, 06078, United States",
+  "precision": "place"
+ },
+ "1281 south grand street, suffield, ct, usa": {
+  "lat": 41.9568267,
+  "lng": -72.7105027,
+  "name": "1281, South Grand Street, Suffield, Capitol Planning Region, Connecticut, 06093, United States",
+  "precision": "place"
+ },
+ "0 thrall avenue, suffield, ct, usa": {
+  "lat": 41.980715,
+  "lng": -72.6315116,
+  "name": "Thrall Avenue, Suffield, Capitol Planning Region, Connecticut, 06078, United States",
+  "precision": "road"
+ },
+ "0 second street, suffield, ct, usa": {
+  "lat": 41.9950801,
+  "lng": -72.6208717,
+  "name": "Second Street, Suffield, Capitol Planning Region, Connecticut, 06078, United States",
+  "precision": "road"
+ },
+ "1146 suffield street, suffield, ct, usa": {
+  "lat": 41.9526156,
+  "lng": -72.6435216,
+  "name": "1146, Suffield Street, Suffield, Capitol Planning Region, Connecticut, 06078, United States",
+  "precision": "place"
+ },
+ "0 willow creek, suffield, ct, usa": {
+  "lat": 41.9755536,
+  "lng": -72.6545319,
+  "name": "Willow Creek, Suffield Depot, Suffield, Capitol Planning Region, Connecticut, 06078, United States",
+  "precision": "road"
+ },
+ "235 griffin road, suffield, ct, usa": {
+  "lat": 42.0093507,
+  "lng": -72.7567665,
+  "name": "235, Griffin Road, Ebbs Corner, Suffield, Capitol Planning Region, Connecticut, 06093, United States",
+  "precision": "place"
+ },
+ "241 griffin road, suffield, ct, usa": {
+  "lat": 42.0092937,
+  "lng": -72.7569279,
+  "name": "241, Griffin Road, Ebbs Corner, Suffield, Capitol Planning Region, Connecticut, 06093, United States",
+  "precision": "place"
+ },
+ "0 south main street and 0 barry place, suffield, ct, usa": null,
+ "10 metacomet lane, suffield, ct, usa": {
+  "lat": 41.9864404,
+  "lng": -72.7415467,
+  "name": "10, Metacomet Lane, Suffield, Capitol Planning Region, Connecticut, 06093, United States",
+  "precision": "place"
+ },
+ "8 halladay avenue east, suffield, ct, usa": {
+  "lat": 42.010945,
+  "lng": -72.6391032,
+  "name": "8, Halladay Avenue East, Halladay Corner, Suffield, Capitol Planning Region, Connecticut, 06078, United States",
+  "precision": "place"
+ },
+ "0 birch road, suffield, ct, usa": {
+  "lat": 42.0087708,
+  "lng": -72.7564694,
+  "name": "Birch Road, Suffield, Capitol Planning Region, Connecticut, 06093, United States",
+  "precision": "road"
+ },
+ "0 warnertown road, suffield, ct, usa": {
+  "lat": 42.0296461,
+  "lng": -72.7248131,
+  "name": "Warnertown Road, Rising Corner, Suffield, Capitol Planning Region, Connecticut, 06093, United States",
+  "precision": "road"
+ },
+ "0 lakeview drive, suffield, ct, usa": {
+  "lat": 42.0117176,
+  "lng": -72.7620982,
+  "name": "Lakeview Drive, Suffield, Capitol Planning Region, Connecticut, 06093, United States",
+  "precision": "road"
+ },
+ "94 kent avenue, suffield, ct, usa": {
+  "lat": 41.9744725,
+  "lng": -72.6501583,
+  "name": "94, Kent Avenue, Suffield Depot, Suffield, Capitol Planning Region, Connecticut, 06078, United States",
+  "precision": "place"
  }
 }
