@@ -954,5 +954,19 @@
   "lng": -72.6501583,
   "name": "94, Kent Avenue, Suffield Depot, Suffield, Capitol Planning Region, Connecticut, 06078, United States",
   "precision": "place"
+ },
+ "***off-market 4br/4ba on 8+ acres w/ lake rights - move-in ready***, wurtsboro, ny, usa": null,
+ "wurtsboro, ny, usa": {
+  "lat": 41.5767603,
+  "lng": -74.4871031,
+  "name": "Village of Wurtsboro, Town of Mamakating, Sullivan County, New York, United States",
+  "precision": "village"
+ },
+ "real estate auction | 10,277± sf commercial property | hinesburg vt, northwest/merrimack, ma, usa": null,
+ "northwest/merrimack, ma, usa": {
+  "lat": 43.3661211,
+  "lng": -71.6049796,
+  "name": "Northwest Road, Canterbury, Merrimack County, New Hampshire, 03276, United States",
+  "precision": "road"
  }
 }
