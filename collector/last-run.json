@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-10-07T16:31:00.405Z",
+ "startedAt": "2026-10-08T16:30:25.130Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -12,7 +12,7 @@
    "name": "Connecticut municipal tax sales (cttaxsales.com)",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 129,
+   "rawParcels": 128,
    "errors": [],
    "notes": [
     "http://cttaxsales.com/wp-content/uploads/2012/10/10%E2%80%99-right-of-way-on-Broadview-Street-Newington-CT.pdf: notice not readable"
@@ -65,7 +65,7 @@
    "name": "Craigslist newlondon land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 12,
+   "rawParcels": 11,
    "errors": [],
    "notes": []
   },
@@ -83,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 22,
+   "rawParcels": 23,
    "errors": [],
    "notes": []
   },
@@ -92,7 +92,7 @@
    "name": "Craigslist westernmass land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 45,
+   "rawParcels": 48,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 80,
+   "rawParcels": 76,
    "errors": [],
    "notes": []
   },
@@ -110,26 +110,26 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 49,
+   "rawParcels": 48,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 368,
- "uniqueParcels": 304,
+ "rawParcels": 365,
+ "uniqueParcels": 303,
  "dropped": {
-  "smallAcres": 42,
-  "unknownAcres": 124,
-  "structure": 12,
+  "smallAcres": 41,
+  "unknownAcres": 127,
+  "structure": 11,
   "noPrice": 1
  },
  "assessor": {
   "attempted": 22,
-  "matched": 14,
-  "cards": 14,
+  "matched": 20,
+  "cards": 20,
   "noTown": 0,
-  "noStreet": 6,
-  "noNumber": 2
+  "noStreet": 2,
+  "noNumber": 0
  },
  "droppedAfterAssessor": [
   {
@@ -189,6 +189,38 @@
    "dealType": "tax-sale"
   },
   {
+   "address": "874 and 876 Gibson Hill Road",
+   "town": "Sterling",
+   "acres": 3.11,
+   "hasStructure": false,
+   "assessedValue": 44000,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "1030 Plainfield Pike",
+   "town": "Sterling",
+   "acres": 1.38,
+   "hasStructure": true,
+   "assessedValue": 133900,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "27 Pond Street",
+   "town": "Sterling",
+   "acres": 2.1,
+   "hasStructure": true,
+   "assessedValue": 210500,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "47 Church Street",
+   "town": "Sterling",
+   "acres": 0.3,
+   "hasStructure": true,
+   "assessedValue": 218500,
+   "dealType": "tax-sale"
+  },
+  {
    "address": "7 Bailey Road",
    "town": "Andover",
    "acres": 1.49,
@@ -237,24 +269,24 @@
    "dealType": "tax-sale"
   }
  ],
- "assessorMatchedKept": 1,
+ "assessorMatchedKept": 3,
  "geocode": {
-  "lookups": 4,
-  "cached": 147,
-  "misses": 2
+  "lookups": 0,
+  "cached": 143,
+  "misses": 0
  },
- "insideRadius": 102,
- "outsideRadius": 6,
+ "insideRadius": 97,
+ "outsideRadius": 5,
  "noCoordinates": 4,
  "estimatedValues": 8,
- "finalParcels": 103,
+ "finalParcels": 98,
  "fetch": {
-  "fetched": 195,
+  "fetched": 204,
   "cached": 0,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-10-07T16:35:48.512Z",
- "durationSeconds": 288
+ "finishedAt": "2026-10-08T16:35:18.957Z",
+ "durationSeconds": 294
 }
