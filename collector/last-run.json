@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-10-08T16:30:25.130Z",
+ "startedAt": "2026-10-09T16:14:44.472Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -12,7 +12,7 @@
    "name": "Connecticut municipal tax sales (cttaxsales.com)",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 128,
+   "rawParcels": 127,
    "errors": [],
    "notes": [
     "http://cttaxsales.com/wp-content/uploads/2012/10/10%E2%80%99-right-of-way-on-Broadview-Street-Newington-CT.pdf: notice not readable"
@@ -65,7 +65,7 @@
    "name": "Craigslist newlondon land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 11,
+   "rawParcels": 12,
    "errors": [],
    "notes": []
   },
@@ -74,7 +74,7 @@
    "name": "Craigslist worcester land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 22,
+   "rawParcels": 24,
    "errors": [],
    "notes": []
   },
@@ -83,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 23,
+   "rawParcels": 24,
    "errors": [],
    "notes": []
   },
@@ -92,7 +92,7 @@
    "name": "Craigslist westernmass land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 48,
+   "rawParcels": 50,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 76,
+   "rawParcels": 78,
    "errors": [],
    "notes": []
   },
@@ -110,17 +110,17 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 48,
+   "rawParcels": 43,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 365,
- "uniqueParcels": 303,
+ "rawParcels": 367,
+ "uniqueParcels": 302,
  "dropped": {
-  "smallAcres": 41,
+  "smallAcres": 39,
   "unknownAcres": 127,
-  "structure": 11,
+  "structure": 12,
   "noPrice": 1
  },
  "assessor": {
@@ -271,22 +271,22 @@
  ],
  "assessorMatchedKept": 3,
  "geocode": {
-  "lookups": 0,
-  "cached": 143,
-  "misses": 0
+  "lookups": 2,
+  "cached": 142,
+  "misses": 1
  },
  "insideRadius": 97,
  "outsideRadius": 5,
  "noCoordinates": 4,
- "estimatedValues": 8,
+ "estimatedValues": 9,
  "finalParcels": 98,
  "fetch": {
-  "fetched": 204,
+  "fetched": 203,
   "cached": 0,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-10-08T16:35:18.957Z",
- "durationSeconds": 294
+ "finishedAt": "2026-10-09T16:19:39.752Z",
+ "durationSeconds": 295
 }

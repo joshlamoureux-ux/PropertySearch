@@ -968,5 +968,12 @@
   "lng": -71.6049796,
   "name": "Northwest Road, Canterbury, Merrimack County, New Hampshire, 03276, United States",
   "precision": "road"
+ },
+ "10 acres income plus house mobilehomes $450,000., pownal vt, ma, usa": null,
+ "pownal vt, ma, usa": {
+  "lat": 42.795269,
+  "lng": -73.2240261,
+  "name": "Pownal, Bennington County, Vermont, United States",
+  "precision": "hamlet"
  }
 }
