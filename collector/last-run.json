@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-10-14T14:31:47.068Z",
+ "startedAt": "2026-10-15T14:11:14.762Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -12,7 +12,7 @@
    "name": "Connecticut municipal tax sales (cttaxsales.com)",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 125,
+   "rawParcels": 121,
    "errors": [],
    "notes": [
     "http://cttaxsales.com/wp-content/uploads/2012/10/10%E2%80%99-right-of-way-on-Broadview-Street-Newington-CT.pdf: notice not readable"
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 13,
+   "rawParcels": 11,
    "errors": [],
    "notes": []
   },
@@ -65,7 +65,7 @@
    "name": "Craigslist newlondon land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 12,
+   "rawParcels": 11,
    "errors": [],
    "notes": []
   },
@@ -74,7 +74,7 @@
    "name": "Craigslist worcester land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 25,
+   "rawParcels": 26,
    "errors": [],
    "notes": []
   },
@@ -83,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 21,
+   "rawParcels": 20,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 83,
+   "rawParcels": 82,
    "errors": [],
    "notes": []
   },
@@ -115,18 +115,18 @@
    "notes": []
   }
  ],
- "rawParcels": 362,
- "uniqueParcels": 296,
+ "rawParcels": 354,
+ "uniqueParcels": 291,
  "dropped": {
   "smallAcres": 41,
   "unknownAcres": 123,
-  "structure": 11,
+  "structure": 10,
   "noPrice": 1
  },
  "assessor": {
-  "attempted": 22,
-  "matched": 20,
-  "cards": 20,
+  "attempted": 21,
+  "matched": 19,
+  "cards": 19,
   "noTown": 0,
   "noStreet": 2,
   "noNumber": 0
@@ -178,14 +178,6 @@
    "acres": null,
    "hasStructure": true,
    "assessedValue": 213110,
-   "dealType": "tax-sale"
-  },
-  {
-   "address": "10I Riverview Drive",
-   "town": "East Windsor",
-   "acres": null,
-   "hasStructure": true,
-   "assessedValue": 150490,
    "dealType": "tax-sale"
   },
   {
@@ -272,21 +264,21 @@
  "assessorMatchedKept": 3,
  "geocode": {
   "lookups": 0,
-  "cached": 139,
+  "cached": 136,
   "misses": 0
  },
- "insideRadius": 95,
+ "insideRadius": 92,
  "outsideRadius": 5,
  "noCoordinates": 3,
  "estimatedValues": 7,
- "finalParcels": 96,
+ "finalParcels": 93,
  "fetch": {
-  "fetched": 201,
+  "fetched": 195,
   "cached": 0,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-10-14T14:37:05.872Z",
- "durationSeconds": 319
+ "finishedAt": "2026-10-15T14:15:55.007Z",
+ "durationSeconds": 280
 }
