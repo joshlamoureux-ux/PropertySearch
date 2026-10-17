@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-10-16T13:58:50.557Z",
+ "startedAt": "2026-10-17T12:59:04.507Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -12,7 +12,7 @@
    "name": "Connecticut municipal tax sales (cttaxsales.com)",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 121,
+   "rawParcels": 117,
    "errors": [],
    "notes": [
     "http://cttaxsales.com/wp-content/uploads/2012/10/10%E2%80%99-right-of-way-on-Broadview-Street-Newington-CT.pdf: notice not readable"
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 13,
+   "rawParcels": 12,
    "errors": [],
    "notes": []
   },
@@ -65,7 +65,7 @@
    "name": "Craigslist newlondon land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 12,
+   "rawParcels": 11,
    "errors": [],
    "notes": []
   },
@@ -83,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 21,
+   "rawParcels": 19,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 87,
+   "rawParcels": 83,
    "errors": [],
    "notes": []
   },
@@ -110,23 +110,23 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 35,
+   "rawParcels": 37,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 360,
- "uniqueParcels": 294,
+ "rawParcels": 350,
+ "uniqueParcels": 289,
  "dropped": {
-  "smallAcres": 41,
-  "unknownAcres": 124,
-  "structure": 11,
+  "smallAcres": 42,
+  "unknownAcres": 123,
+  "structure": 8,
   "noPrice": 1
  },
  "assessor": {
-  "attempted": 21,
-  "matched": 19,
-  "cards": 19,
+  "attempted": 20,
+  "matched": 18,
+  "cards": 18,
   "noTown": 0,
   "noStreet": 2,
   "noNumber": 0
@@ -138,14 +138,6 @@
    "acres": null,
    "hasStructure": true,
    "assessedValue": 268640,
-   "dealType": "tax-sale"
-  },
-  {
-   "address": "15 Harvest Drive",
-   "town": "Broad Brook",
-   "acres": null,
-   "hasStructure": true,
-   "assessedValue": 277670,
    "dealType": "tax-sale"
   },
   {
@@ -263,22 +255,22 @@
  ],
  "assessorMatchedKept": 3,
  "geocode": {
-  "lookups": 2,
-  "cached": 136,
-  "misses": 2
+  "lookups": 0,
+  "cached": 137,
+  "misses": 0
  },
- "insideRadius": 92,
+ "insideRadius": 91,
  "outsideRadius": 5,
  "noCoordinates": 4,
  "estimatedValues": 8,
- "finalParcels": 93,
+ "finalParcels": 92,
  "fetch": {
-  "fetched": 195,
+  "fetched": 188,
   "cached": 0,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-10-16T14:03:32.366Z",
- "durationSeconds": 282
+ "finishedAt": "2026-10-17T13:03:36.374Z",
+ "durationSeconds": 272
 }
