@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-10-17T12:59:04.507Z",
+ "startedAt": "2026-10-18T13:19:32.049Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 12,
+   "rawParcels": 15,
    "errors": [],
    "notes": []
   },
@@ -74,7 +74,7 @@
    "name": "Craigslist worcester land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 25,
+   "rawParcels": 20,
    "errors": [],
    "notes": []
   },
@@ -83,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 19,
+   "rawParcels": 17,
    "errors": [],
    "notes": []
   },
@@ -92,7 +92,7 @@
    "name": "Craigslist westernmass land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 46,
+   "rawParcels": 45,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 83,
+   "rawParcels": 84,
    "errors": [],
    "notes": []
   },
@@ -110,18 +110,18 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 37,
+   "rawParcels": 35,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 350,
- "uniqueParcels": 289,
+ "rawParcels": 344,
+ "uniqueParcels": 283,
  "dropped": {
-  "smallAcres": 42,
-  "unknownAcres": 123,
-  "structure": 8,
-  "noPrice": 1
+  "smallAcres": 40,
+  "unknownAcres": 120,
+  "structure": 9,
+  "noPrice": 0
  },
  "assessor": {
   "attempted": 20,
@@ -256,14 +256,14 @@
  "assessorMatchedKept": 3,
  "geocode": {
   "lookups": 0,
-  "cached": 137,
+  "cached": 135,
   "misses": 0
  },
- "insideRadius": 91,
+ "insideRadius": 90,
  "outsideRadius": 5,
  "noCoordinates": 4,
- "estimatedValues": 8,
- "finalParcels": 92,
+ "estimatedValues": 7,
+ "finalParcels": 91,
  "fetch": {
   "fetched": 188,
   "cached": 0,
@@ -271,6 +271,6 @@
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-10-17T13:03:36.374Z",
- "durationSeconds": 272
+ "finishedAt": "2026-10-18T13:24:02.335Z",
+ "durationSeconds": 270
 }
