@@ -977,5 +977,12 @@
   "precision": "hamlet"
  },
  "fully renovated 3br condex on 5 acres near exit 4. open house 11-1 sat, derry (91b fordway extension), ma, usa": null,
- "derry (91b fordway extension), ma, usa": null
+ "derry (91b fordway extension), ma, usa": null,
+ "commercial building 7/10 acre state hwy industrial retail etc, waterbury, ct, usa": null,
+ "waterbury, ct, usa": {
+  "lat": 41.5541144,
+  "lng": -73.0435615,
+  "name": "Waterbury, Naugatuck Valley Planning Region, Connecticut, United States",
+  "precision": "city"
+ }
 }
