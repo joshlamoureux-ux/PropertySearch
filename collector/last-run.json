@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-10-24T13:20:57.600Z",
+ "startedAt": "2026-10-25T13:43:18.638Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 10,
+   "rawParcels": 11,
    "errors": [],
    "notes": []
   },
@@ -65,7 +65,7 @@
    "name": "Craigslist newlondon land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 10,
+   "rawParcels": 12,
    "errors": [],
    "notes": []
   },
@@ -74,7 +74,7 @@
    "name": "Craigslist worcester land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 21,
+   "rawParcels": 14,
    "errors": [],
    "notes": []
   },
@@ -83,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 21,
+   "rawParcels": 20,
    "errors": [],
    "notes": []
   },
@@ -92,7 +92,7 @@
    "name": "Craigslist westernmass land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 43,
+   "rawParcels": 44,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 100,
+   "rawParcels": 94,
    "errors": [],
    "notes": []
   },
@@ -110,18 +110,18 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 34,
+   "rawParcels": 42,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 351,
- "uniqueParcels": 292,
+ "rawParcels": 349,
+ "uniqueParcels": 288,
  "dropped": {
-  "smallAcres": 41,
-  "unknownAcres": 138,
-  "structure": 5,
-  "noPrice": 0
+  "smallAcres": 42,
+  "unknownAcres": 132,
+  "structure": 6,
+  "noPrice": 1
  },
  "assessor": {
   "attempted": 19,
@@ -256,11 +256,11 @@
  "assessorMatchedKept": 2,
  "geocode": {
   "lookups": 0,
-  "cached": 127,
+  "cached": 125,
   "misses": 0
  },
  "insideRadius": 84,
- "outsideRadius": 5,
+ "outsideRadius": 4,
  "noCoordinates": 4,
  "estimatedValues": 6,
  "finalParcels": 85,
@@ -271,6 +271,6 @@
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-10-24T13:25:17.548Z",
- "durationSeconds": 260
+ "finishedAt": "2026-10-25T13:47:39.200Z",
+ "durationSeconds": 261
 }
