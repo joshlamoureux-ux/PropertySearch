@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-10-26T16:08:44.218Z",
+ "startedAt": "2026-10-27T15:22:41.127Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 15,
+   "rawParcels": 14,
    "errors": [],
    "notes": []
   },
@@ -65,7 +65,7 @@
    "name": "Craigslist newlondon land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 13,
+   "rawParcels": 12,
    "errors": [],
    "notes": []
   },
@@ -115,11 +115,11 @@
    "notes": []
   }
  ],
- "rawParcels": 344,
- "uniqueParcels": 285,
+ "rawParcels": 342,
+ "uniqueParcels": 283,
  "dropped": {
-  "smallAcres": 41,
-  "unknownAcres": 130,
+  "smallAcres": 40,
+  "unknownAcres": 129,
   "structure": 7,
   "noPrice": 1
  },
@@ -271,6 +271,6 @@
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-10-26T16:13:01.344Z",
+ "finishedAt": "2026-10-27T15:26:57.891Z",
  "durationSeconds": 257
 }
