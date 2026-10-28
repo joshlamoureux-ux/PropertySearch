@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-10-27T15:22:41.127Z",
+ "startedAt": "2026-10-28T16:05:25.419Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -12,7 +12,7 @@
    "name": "Connecticut municipal tax sales (cttaxsales.com)",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 112,
+   "rawParcels": 109,
    "errors": [],
    "notes": [
     "http://cttaxsales.com/wp-content/uploads/2012/10/10%E2%80%99-right-of-way-on-Broadview-Street-Newington-CT.pdf: notice not readable"
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 14,
+   "rawParcels": 15,
    "errors": [],
    "notes": []
   },
@@ -65,7 +65,7 @@
    "name": "Craigslist newlondon land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 12,
+   "rawParcels": 13,
    "errors": [],
    "notes": []
   },
@@ -74,7 +74,7 @@
    "name": "Craigslist worcester land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 14,
+   "rawParcels": 13,
    "errors": [],
    "notes": []
   },
@@ -83,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 21,
+   "rawParcels": 24,
    "errors": [],
    "notes": []
   },
@@ -110,7 +110,7 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 37,
+   "rawParcels": 36,
    "errors": [],
    "notes": []
   }
@@ -118,15 +118,15 @@
  "rawParcels": 342,
  "uniqueParcels": 283,
  "dropped": {
-  "smallAcres": 40,
-  "unknownAcres": 129,
+  "smallAcres": 39,
+  "unknownAcres": 133,
   "structure": 7,
   "noPrice": 1
  },
  "assessor": {
-  "attempted": 18,
-  "matched": 17,
-  "cards": 17,
+  "attempted": 17,
+  "matched": 16,
+  "cards": 16,
   "noTown": 0,
   "noStreet": 1,
   "noNumber": 0
@@ -138,14 +138,6 @@
    "acres": null,
    "hasStructure": true,
    "assessedValue": 268640,
-   "dealType": "tax-sale"
-  },
-  {
-   "address": "32 Prospect Hill Drive",
-   "town": "East Windsor",
-   "acres": null,
-   "hasStructure": true,
-   "assessedValue": 125060,
    "dealType": "tax-sale"
   },
   {
@@ -256,21 +248,21 @@
  "assessorMatchedKept": 2,
  "geocode": {
   "lookups": 0,
-  "cached": 123,
+  "cached": 121,
   "misses": 0
  },
- "insideRadius": 83,
+ "insideRadius": 81,
  "outsideRadius": 4,
  "noCoordinates": 4,
  "estimatedValues": 0,
- "finalParcels": 84,
+ "finalParcels": 82,
  "fetch": {
-  "fetched": 179,
+  "fetched": 173,
   "cached": 0,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-10-27T15:26:57.891Z",
- "durationSeconds": 257
+ "finishedAt": "2026-10-28T16:09:33.564Z",
+ "durationSeconds": 248
 }
