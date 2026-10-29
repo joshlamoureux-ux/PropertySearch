@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-10-28T16:05:25.419Z",
+ "startedAt": "2026-10-29T16:08:49.543Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -12,7 +12,7 @@
    "name": "Connecticut municipal tax sales (cttaxsales.com)",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 109,
+   "rawParcels": 108,
    "errors": [],
    "notes": [
     "http://cttaxsales.com/wp-content/uploads/2012/10/10%E2%80%99-right-of-way-on-Broadview-Street-Newington-CT.pdf: notice not readable"
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 15,
+   "rawParcels": 14,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 90,
+   "rawParcels": 94,
    "errors": [],
    "notes": []
   },
@@ -115,12 +115,12 @@
    "notes": []
   }
  ],
- "rawParcels": 342,
- "uniqueParcels": 283,
+ "rawParcels": 344,
+ "uniqueParcels": 286,
  "dropped": {
-  "smallAcres": 39,
-  "unknownAcres": 133,
-  "structure": 7,
+  "smallAcres": 38,
+  "unknownAcres": 138,
+  "structure": 6,
   "noPrice": 1
  },
  "assessor": {
@@ -247,22 +247,22 @@
  ],
  "assessorMatchedKept": 2,
  "geocode": {
-  "lookups": 0,
+  "lookups": 1,
   "cached": 121,
-  "misses": 0
+  "misses": 1
  },
- "insideRadius": 81,
- "outsideRadius": 4,
+ "insideRadius": 80,
+ "outsideRadius": 5,
  "noCoordinates": 4,
  "estimatedValues": 0,
- "finalParcels": 82,
+ "finalParcels": 81,
  "fetch": {
-  "fetched": 173,
+  "fetched": 172,
   "cached": 0,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-10-28T16:09:33.564Z",
+ "finishedAt": "2026-10-29T16:12:57.050Z",
  "durationSeconds": 248
 }
