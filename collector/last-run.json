@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-10-29T16:08:49.543Z",
+ "startedAt": "2026-10-30T15:57:11.419Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -12,7 +12,7 @@
    "name": "Connecticut municipal tax sales (cttaxsales.com)",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 108,
+   "rawParcels": 105,
    "errors": [],
    "notes": [
     "http://cttaxsales.com/wp-content/uploads/2012/10/10%E2%80%99-right-of-way-on-Broadview-Street-Newington-CT.pdf: notice not readable"
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 14,
+   "rawParcels": 11,
    "errors": [],
    "notes": []
   },
@@ -92,7 +92,7 @@
    "name": "Craigslist westernmass land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 42,
+   "rawParcels": 43,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 94,
+   "rawParcels": 89,
    "errors": [],
    "notes": []
   },
@@ -110,23 +110,23 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 36,
+   "rawParcels": 41,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 344,
- "uniqueParcels": 286,
+ "rawParcels": 339,
+ "uniqueParcels": 283,
  "dropped": {
   "smallAcres": 38,
   "unknownAcres": 138,
-  "structure": 6,
+  "structure": 5,
   "noPrice": 1
  },
  "assessor": {
-  "attempted": 17,
-  "matched": 16,
-  "cards": 16,
+  "attempted": 15,
+  "matched": 14,
+  "cards": 14,
   "noTown": 0,
   "noStreet": 1,
   "noNumber": 0
@@ -173,14 +173,6 @@
    "dealType": "tax-sale"
   },
   {
-   "address": "1030 Plainfield Pike",
-   "town": "Sterling",
-   "acres": 1.38,
-   "hasStructure": true,
-   "assessedValue": 133900,
-   "dealType": "tax-sale"
-  },
-  {
    "address": "27 Pond Street",
    "town": "Sterling",
    "acres": 2.1,
@@ -194,14 +186,6 @@
    "acres": 0.3,
    "hasStructure": true,
    "assessedValue": 218500,
-   "dealType": "tax-sale"
-  },
-  {
-   "address": "7 Bailey Road",
-   "town": "Andover",
-   "acres": 1.49,
-   "hasStructure": true,
-   "assessedValue": 97790,
    "dealType": "tax-sale"
   },
   {
@@ -247,8 +231,8 @@
  ],
  "assessorMatchedKept": 2,
  "geocode": {
-  "lookups": 1,
-  "cached": 121,
+  "lookups": 2,
+  "cached": 120,
   "misses": 1
  },
  "insideRadius": 80,
@@ -257,12 +241,12 @@
  "estimatedValues": 0,
  "finalParcels": 81,
  "fetch": {
-  "fetched": 172,
+  "fetched": 164,
   "cached": 0,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-10-29T16:12:57.050Z",
- "durationSeconds": 248
+ "finishedAt": "2026-10-30T16:01:07.950Z",
+ "durationSeconds": 237
 }

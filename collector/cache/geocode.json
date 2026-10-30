@@ -986,5 +986,12 @@
   "precision": "city"
  },
  "fully renovated 3br condex on 5 acres near exit 4, derry. showings available., derry (91b fordway extension), ma, usa": null,
- "real estate auction | 1br/2ba stone bungalow | vt | 11/20/26, northwest/merrimack, ma, usa": null
+ "real estate auction | 1br/2ba stone bungalow | vt | 11/20/26, northwest/merrimack, ma, usa": null,
+ "auction auction - november 5, 2026 at 11:00 am - 3 main st., norfolk, norfolk, ma, usa": null,
+ "norfolk, ma, usa": {
+  "lat": 42.1538607,
+  "lng": -71.1828015,
+  "name": "Norfolk County, Massachusetts, United States",
+  "precision": "county"
+ }
 }
