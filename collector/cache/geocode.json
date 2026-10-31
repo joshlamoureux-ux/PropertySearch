@@ -993,5 +993,12 @@
   "lng": -71.1828015,
   "name": "Norfolk County, Massachusetts, United States",
   "precision": "county"
+ },
+ "5+ acres | catskill views | direct owner financing (no banks), middletown, ny, usa": null,
+ "middletown, ny, usa": {
+  "lat": 41.45011,
+  "lng": -74.4164807,
+  "name": "City of Middletown, Orange County, New York, 10940, United States",
+  "precision": "city"
  }
 }

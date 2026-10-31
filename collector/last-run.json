@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-10-30T15:57:11.419Z",
+ "startedAt": "2026-10-31T15:20:42.467Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -12,7 +12,7 @@
    "name": "Connecticut municipal tax sales (cttaxsales.com)",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 105,
+   "rawParcels": 102,
    "errors": [],
    "notes": [
     "http://cttaxsales.com/wp-content/uploads/2012/10/10%E2%80%99-right-of-way-on-Broadview-Street-Newington-CT.pdf: notice not readable"
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 11,
+   "rawParcels": 12,
    "errors": [],
    "notes": []
   },
@@ -74,7 +74,7 @@
    "name": "Craigslist worcester land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 13,
+   "rawParcels": 16,
    "errors": [],
    "notes": []
   },
@@ -83,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 24,
+   "rawParcels": 21,
    "errors": [],
    "notes": []
   },
@@ -92,7 +92,7 @@
    "name": "Craigslist westernmass land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 43,
+   "rawParcels": 41,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 89,
+   "rawParcels": 92,
    "errors": [],
    "notes": []
   },
@@ -110,15 +110,15 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 41,
+   "rawParcels": 38,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 339,
- "uniqueParcels": 283,
+ "rawParcels": 335,
+ "uniqueParcels": 281,
  "dropped": {
-  "smallAcres": 38,
+  "smallAcres": 36,
   "unknownAcres": 138,
   "structure": 5,
   "noPrice": 1
@@ -232,21 +232,21 @@
  "assessorMatchedKept": 2,
  "geocode": {
   "lookups": 2,
-  "cached": 120,
+  "cached": 121,
   "misses": 1
  },
- "insideRadius": 80,
- "outsideRadius": 5,
+ "insideRadius": 79,
+ "outsideRadius": 6,
  "noCoordinates": 4,
- "estimatedValues": 0,
- "finalParcels": 81,
+ "estimatedValues": 6,
+ "finalParcels": 80,
  "fetch": {
-  "fetched": 164,
+  "fetched": 161,
   "cached": 0,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-10-30T16:01:07.950Z",
- "durationSeconds": 237
+ "finishedAt": "2026-10-31T15:24:34.208Z",
+ "durationSeconds": 232
 }
