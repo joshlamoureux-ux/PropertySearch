@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-11-02T19:30:06.776Z",
+ "startedAt": "2026-11-03T17:04:31.136Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -12,7 +12,7 @@
    "name": "Connecticut municipal tax sales (cttaxsales.com)",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 102,
+   "rawParcels": 101,
    "errors": [],
    "notes": [
     "http://cttaxsales.com/wp-content/uploads/2012/10/10%E2%80%99-right-of-way-on-Broadview-Street-Newington-CT.pdf: notice not readable"
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 14,
+   "rawParcels": 10,
    "errors": [],
    "notes": []
   },
@@ -65,7 +65,7 @@
    "name": "Craigslist newlondon land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 12,
+   "rawParcels": 13,
    "errors": [],
    "notes": []
   },
@@ -74,7 +74,7 @@
    "name": "Craigslist worcester land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 17,
+   "rawParcels": 20,
    "errors": [],
    "notes": []
   },
@@ -83,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 20,
+   "rawParcels": 21,
    "errors": [],
    "notes": []
   },
@@ -92,7 +92,7 @@
    "name": "Craigslist westernmass land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 39,
+   "rawParcels": 37,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 88,
+   "rawParcels": 92,
    "errors": [],
    "notes": []
   },
@@ -110,23 +110,23 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 38,
+   "rawParcels": 44,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 330,
- "uniqueParcels": 278,
+ "rawParcels": 338,
+ "uniqueParcels": 284,
  "dropped": {
-  "smallAcres": 37,
-  "unknownAcres": 135,
+  "smallAcres": 40,
+  "unknownAcres": 140,
   "structure": 5,
   "noPrice": 1
  },
  "assessor": {
-  "attempted": 15,
-  "matched": 14,
-  "cards": 14,
+  "attempted": 14,
+  "matched": 13,
+  "cards": 13,
   "noTown": 0,
   "noStreet": 1,
   "noNumber": 0
@@ -146,14 +146,6 @@
    "acres": null,
    "hasStructure": true,
    "assessedValue": 163610,
-   "dealType": "tax-sale"
-  },
-  {
-   "address": "130 Depot Street",
-   "town": "Broad Brook",
-   "acres": null,
-   "hasStructure": true,
-   "assessedValue": 211340,
    "dealType": "tax-sale"
   },
   {
@@ -232,21 +224,21 @@
  "assessorMatchedKept": 2,
  "geocode": {
   "lookups": 0,
-  "cached": 121,
+  "cached": 119,
   "misses": 0
  },
- "insideRadius": 79,
+ "insideRadius": 78,
  "outsideRadius": 5,
  "noCoordinates": 4,
  "estimatedValues": 6,
- "finalParcels": 80,
+ "finalParcels": 79,
  "fetch": {
-  "fetched": 161,
+  "fetched": 157,
   "cached": 0,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-11-02T19:33:58.118Z",
- "durationSeconds": 231
+ "finishedAt": "2026-11-03T17:08:14.620Z",
+ "durationSeconds": 223
 }
