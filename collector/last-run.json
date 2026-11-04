@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-11-03T17:04:31.136Z",
+ "startedAt": "2026-11-04T17:16:14.706Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 10,
+   "rawParcels": 12,
    "errors": [],
    "notes": []
   },
@@ -74,7 +74,7 @@
    "name": "Craigslist worcester land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 20,
+   "rawParcels": 18,
    "errors": [],
    "notes": []
   },
@@ -83,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 21,
+   "rawParcels": 18,
    "errors": [],
    "notes": []
   },
@@ -92,7 +92,7 @@
    "name": "Craigslist westernmass land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 37,
+   "rawParcels": 39,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 92,
+   "rawParcels": 95,
    "errors": [],
    "notes": []
   },
@@ -115,13 +115,13 @@
    "notes": []
   }
  ],
- "rawParcels": 338,
- "uniqueParcels": 284,
+ "rawParcels": 340,
+ "uniqueParcels": 286,
  "dropped": {
-  "smallAcres": 40,
-  "unknownAcres": 140,
+  "smallAcres": 39,
+  "unknownAcres": 143,
   "structure": 5,
-  "noPrice": 1
+  "noPrice": 0
  },
  "assessor": {
   "attempted": 14,
@@ -138,14 +138,6 @@
    "acres": null,
    "hasStructure": true,
    "assessedValue": 268640,
-   "dealType": "tax-sale"
-  },
-  {
-   "address": "30B Folkstone Road",
-   "town": "Broad Brook",
-   "acres": null,
-   "hasStructure": true,
-   "assessedValue": 163610,
    "dealType": "tax-sale"
   },
   {
@@ -219,26 +211,34 @@
    "hasStructure": false,
    "assessedValue": 5500,
    "dealType": "tax-sale"
+  },
+  {
+   "address": "138 Crystal Lake Road",
+   "town": "Tolland",
+   "acres": 0.96,
+   "hasStructure": true,
+   "assessedValue": 129700,
+   "dealType": "tax-sale"
   }
  ],
  "assessorMatchedKept": 2,
  "geocode": {
   "lookups": 0,
-  "cached": 119,
+  "cached": 121,
   "misses": 0
  },
- "insideRadius": 78,
+ "insideRadius": 79,
  "outsideRadius": 5,
  "noCoordinates": 4,
  "estimatedValues": 6,
- "finalParcels": 79,
+ "finalParcels": 80,
  "fetch": {
-  "fetched": 157,
-  "cached": 0,
+  "fetched": 155,
+  "cached": 1,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-11-03T17:08:14.620Z",
- "durationSeconds": 223
+ "finishedAt": "2026-11-04T17:19:56.293Z",
+ "durationSeconds": 222
 }
