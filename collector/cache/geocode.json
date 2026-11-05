@@ -1000,5 +1000,22 @@
   "lng": -74.4164807,
   "name": "City of Middletown, Orange County, New York, 10940, United States",
   "precision": "city"
- }
+ },
+ "149 kent hollow road, kent, ct, usa": {
+  "lat": 41.7184914,
+  "lng": -73.3969534,
+  "name": "149, Kent Hollow Road, East Kent, Kent, Northwest Hills Planning Region, Connecticut, 06757, United States",
+  "precision": "place"
+ },
+ "16 tamarack lane, unit 92b, woodbury, ct, usa": null,
+ "woodbury, ct, usa": {
+  "lat": 41.5445404,
+  "lng": -73.2090025,
+  "name": "Woodbury, Naugatuck Valley Planning Region, Connecticut, 06798, United States",
+  "precision": "town"
+ },
+ "3 south meadows, unit 107c, woodbury, ct, usa": null,
+ "25 woods way, unit 122b, woodbury, ct, usa": null,
+ "5 lower commons, unit 98e, woodbury, ct, usa": null,
+ "2 racoon ridge, unit 112b, woodbury, ct, usa": null
 }
