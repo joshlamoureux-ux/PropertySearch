@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-11-06T16:46:53.081Z",
+ "startedAt": "2026-11-07T15:40:24.909Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -12,7 +12,7 @@
    "name": "Connecticut municipal tax sales (cttaxsales.com)",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 102,
+   "rawParcels": 89,
    "errors": [],
    "notes": [
     "http://cttaxsales.com/wp-content/uploads/2012/10/10%E2%80%99-right-of-way-on-Broadview-Street-Newington-CT.pdf: notice not readable"
@@ -74,7 +74,7 @@
    "name": "Craigslist worcester land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 18,
+   "rawParcels": 20,
    "errors": [],
    "notes": []
   },
@@ -83,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 18,
+   "rawParcels": 16,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 90,
+   "rawParcels": 88,
    "errors": [],
    "notes": []
   },
@@ -110,18 +110,18 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 41,
+   "rawParcels": 44,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 336,
- "uniqueParcels": 279,
+ "rawParcels": 324,
+ "uniqueParcels": 265,
  "dropped": {
-  "smallAcres": 38,
-  "unknownAcres": 138,
+  "smallAcres": 40,
+  "unknownAcres": 135,
   "structure": 5,
-  "noPrice": 0
+  "noPrice": 1
  },
  "assessor": {
   "attempted": 13,
@@ -224,21 +224,21 @@
  "assessorMatchedKept": 2,
  "geocode": {
   "lookups": 0,
-  "cached": 121,
+  "cached": 99,
   "misses": 0
  },
- "insideRadius": 80,
+ "insideRadius": 66,
  "outsideRadius": 4,
  "noCoordinates": 3,
  "estimatedValues": 0,
- "finalParcels": 81,
+ "finalParcels": 67,
  "fetch": {
-  "fetched": 155,
+  "fetched": 142,
   "cached": 1,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-11-06T16:50:34.766Z",
- "durationSeconds": 222
+ "finishedAt": "2026-11-07T15:43:45.820Z",
+ "durationSeconds": 201
 }
