@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-11-08T15:59:09.398Z",
+ "startedAt": "2026-11-09T19:50:40.298Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -12,7 +12,7 @@
    "name": "Connecticut municipal tax sales (cttaxsales.com)",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 89,
+   "rawParcels": 87,
    "errors": [],
    "notes": [
     "http://cttaxsales.com/wp-content/uploads/2012/10/10%E2%80%99-right-of-way-on-Broadview-Street-Newington-CT.pdf: notice not readable"
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 13,
+   "rawParcels": 15,
    "errors": [],
    "notes": []
   },
@@ -65,7 +65,7 @@
    "name": "Craigslist newlondon land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 12,
+   "rawParcels": 13,
    "errors": [],
    "notes": []
   },
@@ -92,7 +92,7 @@
    "name": "Craigslist westernmass land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 38,
+   "rawParcels": 33,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 83,
+   "rawParcels": 88,
    "errors": [],
    "notes": []
   },
@@ -110,16 +110,16 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 45,
+   "rawParcels": 49,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 316,
- "uniqueParcels": 259,
+ "rawParcels": 321,
+ "uniqueParcels": 264,
  "dropped": {
   "smallAcres": 38,
-  "unknownAcres": 131,
+  "unknownAcres": 137,
   "structure": 5,
   "noPrice": 1
  },
@@ -224,21 +224,21 @@
  "assessorMatchedKept": 2,
  "geocode": {
   "lookups": 0,
-  "cached": 99,
+  "cached": 98,
   "misses": 0
  },
- "insideRadius": 66,
+ "insideRadius": 64,
  "outsideRadius": 4,
- "noCoordinates": 3,
+ "noCoordinates": 4,
  "estimatedValues": 0,
- "finalParcels": 67,
+ "finalParcels": 65,
  "fetch": {
-  "fetched": 142,
+  "fetched": 140,
   "cached": 1,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-11-08T16:02:31.978Z",
- "durationSeconds": 203
+ "finishedAt": "2026-11-09T19:53:59.113Z",
+ "durationSeconds": 199
 }
