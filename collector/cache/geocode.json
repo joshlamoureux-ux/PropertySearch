@@ -1017,5 +1017,12 @@
  "3 south meadows, unit 107c, woodbury, ct, usa": null,
  "25 woods way, unit 122b, woodbury, ct, usa": null,
  "5 lower commons, unit 98e, woodbury, ct, usa": null,
- "2 racoon ridge, unit 112b, woodbury, ct, usa": null
+ "2 racoon ridge, unit 112b, woodbury, ct, usa": null,
+ "home for sale on 15 acres, port jervis, ny, usa": null,
+ "port jervis, ny, usa": {
+  "lat": 41.3750937,
+  "lng": -74.692663,
+  "name": "City of Port Jervis, Orange County, New York, United States",
+  "precision": "town"
+ }
 }

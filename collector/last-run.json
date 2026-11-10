@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-11-09T19:50:40.298Z",
+ "startedAt": "2026-11-10T17:03:42.004Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -12,7 +12,7 @@
    "name": "Connecticut municipal tax sales (cttaxsales.com)",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 87,
+   "rawParcels": 86,
    "errors": [],
    "notes": [
     "http://cttaxsales.com/wp-content/uploads/2012/10/10%E2%80%99-right-of-way-on-Broadview-Street-Newington-CT.pdf: notice not readable"
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 15,
+   "rawParcels": 11,
    "errors": [],
    "notes": []
   },
@@ -83,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 17,
+   "rawParcels": 19,
    "errors": [],
    "notes": []
   },
@@ -92,7 +92,7 @@
    "name": "Craigslist westernmass land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 33,
+   "rawParcels": 36,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 88,
+   "rawParcels": 85,
    "errors": [],
    "notes": []
   },
@@ -110,16 +110,16 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 49,
+   "rawParcels": 46,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 321,
- "uniqueParcels": 264,
+ "rawParcels": 315,
+ "uniqueParcels": 257,
  "dropped": {
-  "smallAcres": 38,
-  "unknownAcres": 137,
+  "smallAcres": 37,
+  "unknownAcres": 133,
   "structure": 5,
   "noPrice": 1
  },
@@ -223,22 +223,22 @@
  ],
  "assessorMatchedKept": 2,
  "geocode": {
-  "lookups": 0,
-  "cached": 98,
-  "misses": 0
+  "lookups": 2,
+  "cached": 93,
+  "misses": 1
  },
- "insideRadius": 64,
+ "insideRadius": 62,
  "outsideRadius": 4,
  "noCoordinates": 4,
  "estimatedValues": 0,
- "finalParcels": 65,
+ "finalParcels": 63,
  "fetch": {
-  "fetched": 140,
+  "fetched": 139,
   "cached": 1,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-11-09T19:53:59.113Z",
- "durationSeconds": 199
+ "finishedAt": "2026-11-10T17:06:59.418Z",
+ "durationSeconds": 197
 }
