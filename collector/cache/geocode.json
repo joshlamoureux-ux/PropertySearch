@@ -1024,5 +1024,25 @@
   "lng": -74.692663,
   "name": "City of Port Jervis, Orange County, New York, United States",
   "precision": "town"
+ },
+ "0 and 0 munger lane, bethlehem, ct, usa": null,
+ "bethlehem, ct, usa": {
+  "lat": 41.6393626,
+  "lng": -73.2080798,
+  "name": "Bethlehem, Naugatuck Valley Planning Region, Connecticut, 06751, United States",
+  "precision": "village"
+ },
+ "152 chohees trail, 536 weekeepeemee road, 38 on weekeepeemee road, and 13 weekeepeemee road, woodbury, ct, usa": null,
+ "28 sunset road, bethlehem, ct, usa": {
+  "lat": 41.6257773,
+  "lng": -73.2005935,
+  "name": "28, Sunset Road, Bethlehem, Naugatuck Valley Planning Region, Connecticut, 06751, United States",
+  "precision": "place"
+ },
+ "43 bethlehem lane, bethlehem, ct, usa": {
+  "lat": 41.6519452,
+  "lng": -73.2066445,
+  "name": "43, Bethlehem Lane, Bethlehem, Naugatuck Valley Planning Region, Connecticut, 06751, United States",
+  "precision": "place"
  }
 }

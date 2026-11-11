@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-11-10T17:03:42.004Z",
+ "startedAt": "2026-11-11T17:09:40.832Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 11,
+   "rawParcels": 14,
    "errors": [],
    "notes": []
   },
@@ -65,7 +65,7 @@
    "name": "Craigslist newlondon land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 13,
+   "rawParcels": 12,
    "errors": [],
    "notes": []
   },
@@ -74,7 +74,7 @@
    "name": "Craigslist worcester land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 19,
+   "rawParcels": 22,
    "errors": [],
    "notes": []
   },
@@ -83,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 19,
+   "rawParcels": 18,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 85,
+   "rawParcels": 77,
    "errors": [],
    "notes": []
   },
@@ -110,23 +110,23 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 46,
+   "rawParcels": 44,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 315,
- "uniqueParcels": 257,
+ "rawParcels": 309,
+ "uniqueParcels": 254,
  "dropped": {
-  "smallAcres": 37,
-  "unknownAcres": 133,
+  "smallAcres": 38,
+  "unknownAcres": 129,
   "structure": 5,
   "noPrice": 1
  },
  "assessor": {
-  "attempted": 13,
-  "matched": 13,
-  "cards": 13,
+  "attempted": 12,
+  "matched": 12,
+  "cards": 12,
   "noTown": 0,
   "noStreet": 0,
   "noNumber": 0
@@ -205,14 +205,6 @@
    "dealType": "tax-sale"
   },
   {
-   "address": "64 Columbine Road",
-   "town": "Tolland",
-   "acres": 0.23,
-   "hasStructure": false,
-   "assessedValue": 5500,
-   "dealType": "tax-sale"
-  },
-  {
    "address": "138 Crystal Lake Road",
    "town": "Tolland",
    "acres": 0.96,
@@ -223,22 +215,22 @@
  ],
  "assessorMatchedKept": 2,
  "geocode": {
-  "lookups": 2,
-  "cached": 93,
-  "misses": 1
+  "lookups": 5,
+  "cached": 92,
+  "misses": 2
  },
- "insideRadius": 62,
+ "insideRadius": 63,
  "outsideRadius": 4,
  "noCoordinates": 4,
  "estimatedValues": 0,
- "finalParcels": 63,
+ "finalParcels": 64,
  "fetch": {
-  "fetched": 139,
+  "fetched": 137,
   "cached": 1,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-11-10T17:06:59.418Z",
- "durationSeconds": 197
+ "finishedAt": "2026-11-11T17:13:05.916Z",
+ "durationSeconds": 205
 }
