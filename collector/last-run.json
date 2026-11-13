@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-11-12T17:36:19.198Z",
+ "startedAt": "2026-11-13T17:13:35.419Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -12,7 +12,7 @@
    "name": "Connecticut municipal tax sales (cttaxsales.com)",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 85,
+   "rawParcels": 80,
    "errors": [],
    "notes": [
     "http://cttaxsales.com/wp-content/uploads/2012/10/10%E2%80%99-right-of-way-on-Broadview-Street-Newington-CT.pdf: notice not readable"
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 15,
+   "rawParcels": 12,
    "errors": [],
    "notes": []
   },
@@ -65,7 +65,7 @@
    "name": "Craigslist newlondon land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 10,
+   "rawParcels": 9,
    "errors": [],
    "notes": []
   },
@@ -74,7 +74,7 @@
    "name": "Craigslist worcester land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 22,
+   "rawParcels": 23,
    "errors": [],
    "notes": []
   },
@@ -83,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 16,
+   "rawParcels": 18,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 87,
+   "rawParcels": 84,
    "errors": [],
    "notes": []
   },
@@ -110,44 +110,28 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 48,
+   "rawParcels": 46,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 321,
- "uniqueParcels": 262,
+ "rawParcels": 310,
+ "uniqueParcels": 251,
  "dropped": {
-  "smallAcres": 38,
-  "unknownAcres": 138,
+  "smallAcres": 39,
+  "unknownAcres": 131,
   "structure": 5,
   "noPrice": 1
  },
  "assessor": {
-  "attempted": 12,
-  "matched": 12,
-  "cards": 12,
+  "attempted": 9,
+  "matched": 9,
+  "cards": 9,
   "noTown": 0,
   "noStreet": 0,
   "noNumber": 0
  },
  "droppedAfterAssessor": [
-  {
-   "address": "66 Scantic Road",
-   "town": "East Windsor",
-   "acres": null,
-   "hasStructure": true,
-   "assessedValue": 268640,
-   "dealType": "tax-sale"
-  },
-  {
-   "address": "143 Rockville Road",
-   "town": "Broad Brook",
-   "acres": null,
-   "hasStructure": true,
-   "assessedValue": 213110,
-   "dealType": "tax-sale"
-  },
   {
    "address": "874 and 876 Gibson Hill Road",
    "town": "Sterling",
@@ -213,24 +197,24 @@
    "dealType": "tax-sale"
   }
  ],
- "assessorMatchedKept": 2,
+ "assessorMatchedKept": 1,
  "geocode": {
   "lookups": 0,
-  "cached": 94,
+  "cached": 90,
   "misses": 0
  },
- "insideRadius": 61,
+ "insideRadius": 58,
  "outsideRadius": 4,
  "noCoordinates": 5,
  "estimatedValues": 0,
- "finalParcels": 62,
+ "finalParcels": 59,
  "fetch": {
-  "fetched": 136,
+  "fetched": 122,
   "cached": 1,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-11-12T17:39:30.954Z",
- "durationSeconds": 192
+ "finishedAt": "2026-11-13T17:16:27.174Z",
+ "durationSeconds": 172
 }
