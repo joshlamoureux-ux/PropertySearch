@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-11-14T15:49:40.326Z",
+ "startedAt": "2026-11-15T16:22:44.563Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 15,
+   "rawParcels": 13,
    "errors": [],
    "notes": []
   },
@@ -65,7 +65,7 @@
    "name": "Craigslist newlondon land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 11,
+   "rawParcels": 10,
    "errors": [],
    "notes": []
   },
@@ -83,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 14,
+   "rawParcels": 17,
    "errors": [],
    "notes": []
   },
@@ -92,7 +92,7 @@
    "name": "Craigslist westernmass land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 36,
+   "rawParcels": 34,
    "errors": [],
    "notes": []
   },
@@ -110,16 +110,16 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 47,
+   "rawParcels": 43,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 305,
- "uniqueParcels": 245,
+ "rawParcels": 299,
+ "uniqueParcels": 244,
  "dropped": {
-  "smallAcres": 37,
-  "unknownAcres": 127,
+  "smallAcres": 39,
+  "unknownAcres": 125,
   "structure": 5,
   "noPrice": 1
  },
@@ -200,12 +200,12 @@
  "assessorMatchedKept": 1,
  "geocode": {
   "lookups": 0,
-  "cached": 90,
+  "cached": 88,
   "misses": 0
  },
  "insideRadius": 58,
  "outsideRadius": 4,
- "noCoordinates": 5,
+ "noCoordinates": 4,
  "estimatedValues": 0,
  "finalParcels": 59,
  "fetch": {
@@ -215,6 +215,6 @@
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-11-14T15:52:32.209Z",
- "durationSeconds": 172
+ "finishedAt": "2026-11-15T16:25:36.026Z",
+ "durationSeconds": 171
 }
