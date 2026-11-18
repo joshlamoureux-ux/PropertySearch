@@ -1045,5 +1045,88 @@
   "name": "43, Bethlehem Lane, Bethlehem, Naugatuck Valley Planning Region, Connecticut, 06751, United States",
   "precision": "place"
  },
- "country living on 7.29 private acres with a pond, stonington, ct, usa": null
+ "country living on 7.29 private acres with a pond, stonington, ct, usa": null,
+ "60 old town road, unit 126, vernon, ct, usa": null,
+ "vernon, ct, usa": {
+  "lat": 41.8382921,
+  "lng": -72.4663331,
+  "name": "Vernon, Capitol Planning Region, Connecticut, 06066, United States",
+  "precision": "town"
+ },
+ "35 grove street a/k/a 35-37 grove street, vernon, ct, usa": null,
+ "20 river street, vernon, ct, usa": {
+  "lat": 41.864806,
+  "lng": -72.4600925,
+  "name": "20, River Street, Rockville, Vernon, Capitol Planning Region, Connecticut, 06066, United States",
+  "precision": "place"
+ },
+ "14 oak street, vernon, ct, usa": {
+  "lat": 41.8682966,
+  "lng": -72.453986,
+  "name": "14, Oak Street, Rockville, Vernon, Capitol Planning Region, Connecticut, 06066, United States",
+  "precision": "place"
+ },
+ "113 union street, vernon, ct, usa": {
+  "lat": 41.8678017,
+  "lng": -72.4569809,
+  "name": "113, Union Street, Rockville, Vernon, Capitol Planning Region, Connecticut, 06066, United States",
+  "precision": "place"
+ },
+ "16 beverly road, vernon and 5 laurel road, bolton, ct, usa": null,
+ "bolton, ct, usa": {
+  "lat": 41.7689878,
+  "lng": -72.4334173,
+  "name": "Bolton, Capitol Planning Region, Connecticut, 06043, United States",
+  "precision": "village"
+ },
+ "51 jeff road, vernon, ct, usa": {
+  "lat": 41.8164288,
+  "lng": -72.4785602,
+  "name": "51, Jeff Road, Dobsonville, Talcottville, Vernon, Capitol Planning Region, Connecticut, 06066, United States",
+  "precision": "place"
+ },
+ "17 mountain street, vernon, ct, usa": {
+  "lat": 41.8704964,
+  "lng": -72.4438679,
+  "name": "17, Mountain Street, Rockville, Vernon, Capitol Planning Region, Connecticut, 06066, United States",
+  "precision": "place"
+ },
+ "70 old town road, unit 301, vernon, ct, usa": null,
+ "471 tunnel road, vernon, ct, usa": {
+  "lat": 41.8140109,
+  "lng": -72.4672444,
+  "name": "471, Tunnel Road, Vernon, Capitol Planning Region, Connecticut, 06066, United States",
+  "precision": "place"
+ },
+ "9 kevin drive, vernon, ct, usa": {
+  "lat": 41.8571355,
+  "lng": -72.4462014,
+  "name": "9, Kevin Drive, Rockville, Vernon, Capitol Planning Region, Connecticut, 06066, United States",
+  "precision": "place"
+ },
+ "12 brent drive, vernon, ct, usa": {
+  "lat": 41.8132415,
+  "lng": -72.4632595,
+  "name": "12, Brent Drive, Vernon, Capitol Planning Region, Connecticut, 06066, United States",
+  "precision": "place"
+ },
+ "25 faith drive, vernon, ct, usa": {
+  "lat": 41.8625522,
+  "lng": -72.4966866,
+  "name": "25, Faith Drive, Vernon, Capitol Planning Region, Connecticut, 06066, United States",
+  "precision": "place"
+ },
+ "57 grand avenue, vernon, ct, usa": {
+  "lat": 41.8617679,
+  "lng": -72.4564089,
+  "name": "57, Grand Avenue, Rockville, Vernon, Capitol Planning Region, Connecticut, 06066, United States",
+  "precision": "place"
+ },
+ "111 prospect street, vernon, ct, usa": {
+  "lat": 41.8688814,
+  "lng": -72.4533824,
+  "name": "111, Prospect Street, Rockville, Vernon, Capitol Planning Region, Connecticut, 06066, United States",
+  "precision": "place"
+ },
+ "60 old town road, unit 96, vernon, ct, usa": null
 }

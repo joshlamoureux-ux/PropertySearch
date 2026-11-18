@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-11-17T18:35:39.849Z",
+ "startedAt": "2026-11-18T18:05:57.622Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -12,7 +12,7 @@
    "name": "Connecticut municipal tax sales (cttaxsales.com)",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 67,
+   "rawParcels": 84,
    "errors": [],
    "notes": [
     "http://cttaxsales.com/wp-content/uploads/2012/10/10%E2%80%99-right-of-way-on-Broadview-Street-Newington-CT.pdf: notice not readable"
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 12,
+   "rawParcels": 10,
    "errors": [],
    "notes": []
   },
@@ -65,7 +65,7 @@
    "name": "Craigslist newlondon land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 13,
+   "rawParcels": 12,
    "errors": [],
    "notes": []
   },
@@ -74,7 +74,7 @@
    "name": "Craigslist worcester land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 19,
+   "rawParcels": 21,
    "errors": [],
    "notes": []
   },
@@ -83,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 18,
+   "rawParcels": 19,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 81,
+   "rawParcels": 78,
    "errors": [],
    "notes": []
   },
@@ -110,44 +110,28 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 52,
+   "rawParcels": 46,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 300,
- "uniqueParcels": 242,
+ "rawParcels": 308,
+ "uniqueParcels": 252,
  "dropped": {
-  "smallAcres": 38,
-  "unknownAcres": 134,
-  "structure": 5,
+  "smallAcres": 36,
+  "unknownAcres": 132,
+  "structure": 7,
   "noPrice": 1
  },
  "assessor": {
-  "attempted": 8,
-  "matched": 8,
-  "cards": 8,
+  "attempted": 7,
+  "matched": 6,
+  "cards": 6,
   "noTown": 0,
-  "noStreet": 0,
+  "noStreet": 1,
   "noNumber": 0
  },
  "droppedAfterAssessor": [
-  {
-   "address": "27 Pond Street",
-   "town": "Sterling",
-   "acres": 2.1,
-   "hasStructure": true,
-   "assessedValue": 210500,
-   "dealType": "tax-sale"
-  },
-  {
-   "address": "47 Church Street",
-   "town": "Sterling",
-   "acres": 0.3,
-   "hasStructure": true,
-   "assessedValue": 218500,
-   "dealType": "tax-sale"
-  },
   {
    "address": "636 Sugar Hill Road",
    "town": "Tolland",
@@ -191,22 +175,22 @@
  ],
  "assessorMatchedKept": 1,
  "geocode": {
-  "lookups": 0,
-  "cached": 82,
-  "misses": 0
+  "lookups": 18,
+  "cached": 81,
+  "misses": 5
  },
- "insideRadius": 49,
- "outsideRadius": 4,
+ "insideRadius": 64,
+ "outsideRadius": 3,
  "noCoordinates": 4,
- "estimatedValues": 7,
- "finalParcels": 50,
+ "estimatedValues": 0,
+ "finalParcels": 65,
  "fetch": {
-  "fetched": 106,
+  "fetched": 118,
   "cached": 1,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-11-17T18:38:07.200Z",
- "durationSeconds": 147
+ "finishedAt": "2026-11-18T18:09:12.842Z",
+ "durationSeconds": 195
 }
