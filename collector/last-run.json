@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-11-18T18:05:57.622Z",
+ "startedAt": "2026-11-19T18:17:51.407Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -12,7 +12,7 @@
    "name": "Connecticut municipal tax sales (cttaxsales.com)",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 84,
+   "rawParcels": 86,
    "errors": [],
    "notes": [
     "http://cttaxsales.com/wp-content/uploads/2012/10/10%E2%80%99-right-of-way-on-Broadview-Street-Newington-CT.pdf: notice not readable"
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 10,
+   "rawParcels": 16,
    "errors": [],
    "notes": []
   },
@@ -65,7 +65,7 @@
    "name": "Craigslist newlondon land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 12,
+   "rawParcels": 13,
    "errors": [],
    "notes": []
   },
@@ -83,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 19,
+   "rawParcels": 21,
    "errors": [],
    "notes": []
   },
@@ -92,7 +92,7 @@
    "name": "Craigslist westernmass land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 38,
+   "rawParcels": 37,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 78,
+   "rawParcels": 75,
    "errors": [],
    "notes": []
   },
@@ -110,23 +110,23 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 46,
+   "rawParcels": 40,
    "errors": [],
    "notes": []
   }
  ],
- "rawParcels": 308,
- "uniqueParcels": 252,
+ "rawParcels": 309,
+ "uniqueParcels": 255,
  "dropped": {
-  "smallAcres": 36,
-  "unknownAcres": 132,
+  "smallAcres": 37,
+  "unknownAcres": 131,
   "structure": 7,
   "noPrice": 1
  },
  "assessor": {
-  "attempted": 7,
-  "matched": 6,
-  "cards": 6,
+  "attempted": 9,
+  "matched": 8,
+  "cards": 8,
   "noTown": 0,
   "noStreet": 1,
   "noNumber": 0
@@ -171,26 +171,42 @@
    "hasStructure": true,
    "assessedValue": 129700,
    "dealType": "tax-sale"
+  },
+  {
+   "address": "27 Pond Street",
+   "town": "Sterling",
+   "acres": 2.1,
+   "hasStructure": true,
+   "assessedValue": 210500,
+   "dealType": "tax-sale"
+  },
+  {
+   "address": "47 Church Street",
+   "town": "Sterling",
+   "acres": 0.3,
+   "hasStructure": true,
+   "assessedValue": 218500,
+   "dealType": "tax-sale"
   }
  ],
  "assessorMatchedKept": 1,
  "geocode": {
-  "lookups": 18,
-  "cached": 81,
-  "misses": 5
+  "lookups": 0,
+  "cached": 101,
+  "misses": 0
  },
- "insideRadius": 64,
+ "insideRadius": 65,
  "outsideRadius": 3,
  "noCoordinates": 4,
- "estimatedValues": 0,
- "finalParcels": 65,
+ "estimatedValues": 7,
+ "finalParcels": 66,
  "fetch": {
-  "fetched": 118,
+  "fetched": 126,
   "cached": 1,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-11-18T18:09:12.842Z",
- "durationSeconds": 195
+ "finishedAt": "2026-11-19T18:20:49.634Z",
+ "durationSeconds": 178
 }
