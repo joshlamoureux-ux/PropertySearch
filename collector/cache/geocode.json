@@ -1128,5 +1128,18 @@
   "name": "111, Prospect Street, Rockville, Vernon, Capitol Planning Region, Connecticut, 06066, United States",
   "precision": "place"
  },
- "60 old town road, unit 96, vernon, ct, usa": null
+ "60 old town road, unit 96, vernon, ct, usa": null,
+ "12 hamilton road, east granby, ct, usa": {
+  "lat": 41.9228789,
+  "lng": -72.7588685,
+  "name": "12, Hamilton Road, Carroll Corners, East Granby, Capitol Planning Region, Connecticut, 06026, United States",
+  "precision": "place"
+ },
+ "11 pinewood road, east granby, ct, usa": null,
+ "east granby, ct, usa": {
+  "lat": 41.9418011,
+  "lng": -72.7275015,
+  "name": "East Granby, Capitol Planning Region, Connecticut, 06026, United States",
+  "precision": "town"
+ }
 }
