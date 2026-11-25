@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-11-24T20:10:26.942Z",
+ "startedAt": "2026-11-25T19:18:30.103Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -74,7 +74,7 @@
    "name": "Craigslist worcester land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 20,
+   "rawParcels": 19,
    "errors": [],
    "notes": []
   },
@@ -83,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 17,
+   "rawParcels": 18,
    "errors": [],
    "notes": []
   },
@@ -92,7 +92,7 @@
    "name": "Craigslist westernmass land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 28,
+   "rawParcels": 32,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 63,
+   "rawParcels": 65,
    "errors": [],
    "notes": []
   },
@@ -110,16 +110,18 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 38,
+   "rawParcels": 27,
    "errors": [],
-   "notes": []
+   "notes": [
+    "https://boston.craigslist.org/search/rea?query=land: no listing lines found"
+   ]
   }
  ],
- "rawParcels": 273,
- "uniqueParcels": 228,
+ "rawParcels": 268,
+ "uniqueParcels": 226,
  "dropped": {
-  "smallAcres": 32,
-  "unknownAcres": 114,
+  "smallAcres": 35,
+  "unknownAcres": 108,
   "structure": 7,
   "noPrice": 2
  },
@@ -183,15 +185,15 @@
  ],
  "assessorMatchedKept": 1,
  "geocode": {
-  "lookups": 1,
-  "cached": 91,
-  "misses": 1
+  "lookups": 0,
+  "cached": 94,
+  "misses": 0
  },
- "insideRadius": 61,
+ "insideRadius": 62,
  "outsideRadius": 3,
  "noCoordinates": 3,
  "estimatedValues": 0,
- "finalParcels": 61,
+ "finalParcels": 62,
  "fetch": {
   "fetched": 122,
   "cached": 1,
@@ -199,6 +201,6 @@
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-11-24T20:13:19.612Z",
- "durationSeconds": 173
+ "finishedAt": "2026-11-25T19:21:21.765Z",
+ "durationSeconds": 172
 }
