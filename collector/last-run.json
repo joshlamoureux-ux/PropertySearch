@@ -1,5 +1,5 @@
 {
- "startedAt": "2026-11-25T19:18:30.103Z",
+ "startedAt": "2026-11-26T19:02:38.939Z",
  "base": "ashford-ct",
  "baseLabel": "Ashford, CT",
  "radiusMiles": 100,
@@ -12,7 +12,7 @@
    "name": "Connecticut municipal tax sales (cttaxsales.com)",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 85,
+   "rawParcels": 88,
    "errors": [],
    "notes": [
     "http://cttaxsales.com/wp-content/uploads/2012/10/10%E2%80%99-right-of-way-on-Broadview-Street-Newington-CT.pdf: notice not readable"
@@ -56,7 +56,7 @@
    "name": "Craigslist hartford land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 13,
+   "rawParcels": 15,
    "errors": [],
    "notes": []
   },
@@ -65,7 +65,7 @@
    "name": "Craigslist newlondon land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 9,
+   "rawParcels": 8,
    "errors": [],
    "notes": []
   },
@@ -83,7 +83,7 @@
    "name": "Craigslist providence land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 18,
+   "rawParcels": 19,
    "errors": [],
    "notes": []
   },
@@ -92,7 +92,7 @@
    "name": "Craigslist westernmass land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 32,
+   "rawParcels": 35,
    "errors": [],
    "notes": []
   },
@@ -101,7 +101,7 @@
    "name": "Craigslist hudsonvalley land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 65,
+   "rawParcels": 62,
    "errors": [],
    "notes": []
   },
@@ -110,19 +110,17 @@
    "name": "Craigslist boston land",
    "pagesFetched": 2,
    "pagesSkipped": 0,
-   "rawParcels": 27,
+   "rawParcels": 40,
    "errors": [],
-   "notes": [
-    "https://boston.craigslist.org/search/rea?query=land: no listing lines found"
-   ]
+   "notes": []
   }
  ],
- "rawParcels": 268,
- "uniqueParcels": 226,
+ "rawParcels": 286,
+ "uniqueParcels": 235,
  "dropped": {
-  "smallAcres": 35,
-  "unknownAcres": 108,
-  "structure": 7,
+  "smallAcres": 34,
+  "unknownAcres": 115,
+  "structure": 8,
   "noPrice": 2
  },
  "assessor": {
@@ -185,22 +183,22 @@
  ],
  "assessorMatchedKept": 1,
  "geocode": {
-  "lookups": 0,
+  "lookups": 3,
   "cached": 94,
-  "misses": 0
+  "misses": 1
  },
- "insideRadius": 62,
+ "insideRadius": 64,
  "outsideRadius": 3,
  "noCoordinates": 3,
  "estimatedValues": 0,
- "finalParcels": 62,
+ "finalParcels": 64,
  "fetch": {
-  "fetched": 122,
+  "fetched": 125,
   "cached": 1,
   "failed": 0,
   "robotsBlocked": 0
  },
  "extractorStats": null,
- "finishedAt": "2026-11-25T19:21:21.765Z",
- "durationSeconds": 172
+ "finishedAt": "2026-11-26T19:05:38.167Z",
+ "durationSeconds": 179
 }

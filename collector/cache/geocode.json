@@ -1144,5 +1144,18 @@
  },
  "10 acres income plus house mobilehomes $450,000. income about, .p $425,000 pownal vt, ma, usa": null,
  ".p $425,000 pownal vt, ma, usa": null,
- "auction auction - december 8, 2026 at 11:00 am - 3 main st., norfolk, norfolk, ma, usa": null
+ "auction auction - december 8, 2026 at 11:00 am - 3 main st., norfolk, norfolk, ma, usa": null,
+ "54 meadow road, mansfield, ct, usa": null,
+ "mansfield, ct, usa": {
+  "lat": 41.7778327,
+  "lng": -72.2110623,
+  "name": "Mansfield, Capitol Planning Region, Connecticut, United States",
+  "precision": "town"
+ },
+ "56 thornbush road, mansfield, ct, usa": {
+  "lat": 41.732328,
+  "lng": -72.2541463,
+  "name": "56, Thornbush Road, Perkins Corner, Mansfield, Capitol Planning Region, Connecticut, 06250, United States",
+  "precision": "place"
+ }
 }
